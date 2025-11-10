@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       8b5de1e7-a21a-44e3-9b71-5274fea25d21
+:ROAM_ALIASES: traveller
+:END:
+#+title: musafir
+#+filetags: :terminology:
+traveller

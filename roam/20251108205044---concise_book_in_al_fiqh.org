@@ -1,0 +1,50 @@
+:PROPERTIES:
+:ID:       60896230-e4f6-4960-a9d7-31de511ad7be
+:END:
+#+title: concise book in al fiqh 
+
+* Levels in Fiqh
+:PROPERTIES:
+:ID:       7053aeaf-3e22-46e7-bb9b-3bd757df12fe
+:END:
+** 1st level is klways a summary.
+:PROPERTIES:
+:ID:       fa38ae1e-f2cc-469e-a8d6-6c894bb8c407
+:END:
+  - this is the book that we're doing and it's only a summary to help us learn about Allah, to know about what is Halal and what is Haram.
+** 2nd level a some difference of opinion and evidence.
+:PROPERTIES:
+:ID:       30e1576f-f7fe-4671-85d9-b29a5df68085
+:END:
+** 3rd level the different views of scholars within the mathhab.
+:PROPERTIES:
+:ID:       54d0f3ef-f8d3-437a-a6b7-c2b7d96662aa
+:END:
+** 4th level extensive work, speak about the different view and the evidence and tackled the difference.
+:PROPERTIES:
+:ID:       b227984c-9bb4-4e4e-9d54-7a317bd6429b
+:END:
+** e.g Ibn Qudamah
+- Umdat al-Fiqh
+- Al-muqni' 
+- Al-Kafi
+- al-mughni
+
+
+* There are difference stages of knowledge
+:PROPERTIES:
+:ID:       943e5381-14a5-448d-b682-03c00763a929
+:END:
+sheikh abu bark az-zayd
+** 1: Arrogance
+:PROPERTIES:
+:ID:       24fc4c4b-a641-4c7e-9152-f4b9b17aa8ad
+:END:
+** 2: Humility tawāḍuʿ
+:PROPERTIES:
+:ID:       856e3cec-a225-4f55-8d97-4a658b6d1873
+:END:
+** 3: Realising one does not know 
+:PROPERTIES:
+:ID:       6a7f88f3-df1b-4257-a196-ccc76f9428d5
+:END:

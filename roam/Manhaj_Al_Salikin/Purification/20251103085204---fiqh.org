@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       1316d477-4b3c-4b9b-9d0a-f9017c3f2521
+:END:
+#+title: Fiqh
+#+filetags: :terminology:
+cognisance of the subsidiary rulings of the Sari’ah based on the
+
+* Qur’an
+:PROPERTIES:
+:ID:       a7d80612-3dc5-4ca9-a8b1-40bd6f1d85c3
+:END:
+* Sunnah
+:PROPERTIES:
+:ID:       ec7ecadb-3e4c-4bfc-84ef-213d3bbf9a86
+:END:
+* ijma’ (consensus) 
+:PROPERTIES:
+:ID:       02d3ce49-03fa-42c9-94c5-dcae0f0a07cc
+:END:
+- not permissible to differe with them
+- they say it's stronger than Qur'an and Sunnah, because this is the united effort of the scholars of the interpretation, and it's no longer to interpretation. However some say this might be belittling the Qur'an and Sunnah, rather you'll always get the same interpretation form it.
+  
+* al qiyas al sahih (correct analogy).
+:PROPERTIES:
+:ID:       efc1baa2-3cd1-470d-a817-c6313a9b7569
+:END:
+- eg intoxicant, if it intoxicate in large amount then it is in small amount 
+
+* The above are agreed upon by all scholars

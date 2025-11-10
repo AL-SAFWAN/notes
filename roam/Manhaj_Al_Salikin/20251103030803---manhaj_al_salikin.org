@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       4a063131-807f-4a43-8a9c-ce34166157d2
+:END:
+#+title: Manhaj Al Salikin 
+#+filetags: :book:fiqh:
+The path of the wayfarer by sheikh [[id:032f99c5-98f9-4b1e-882b-d1d5bedcc1ff]['Abd al Rahman bin Nasir al Si'di]]
+
+It should be noted that the text is primarily based upon the mathhab of Iman Ahmad, The author has chosen on a number of occasions to depart from the mathhab in favour to what he believes to be more correct.
+
+* Introduction
+:PROPERTIES:
+:ID:       583f4242-cf49-44de-9035-8fcadaff4645
+:END:
+[[id:593cd4a4-1a17-41c6-bfe3-70bc06ad0f8b][All praises is due to Allah (ﷻ)]], we praise him, seek his forgiveness and turn towards him (ﷻ). We seek refuge in Allah from the evil of our souls and the evil of our actions. whomsoever Allah guides then there is none that can misguide him, and whosoever [[id:8bf3dd37-eb8f-4410-a4b3-c54a8265aae3][Allah lead astray]] then there is none that can guide him. And I bear witness that there is none worthy of worship except Allah and I bear witness that Muhammad is his slave and messenger ([[id:57a6968f-c3f5-401f-a9ec-36e89cf264ad][ﷺ]]).
+
+To proceed, this is a [[id:60896230-e4f6-4960-a9d7-31de511ad7be][concise book in al fiqh]] in which I have mentioned the necessary juristic issue as well as evidence. I have limited the book so that it *deals with the most important* and *beneficial matters* in fiqh due to the dire need of this subject. Many times, I have simply quoted texts from the Quran and Sunnah (without any explanation) if it rulings were very clear in order to make the memorisation and understanding of it *easier for the beginners*; this is because knowledge *is to have cognisance of the truth according to its evidences*. 
+
+The definition of [[id:1316d477-4b3c-4b9b-9d0a-f9017c3f2521][Fiqh]] is: cognisance of the subsidiary rulings of the Sari’ah based on the Qur’an and Sunnah, ijma’ (consensus) and al qiyas al sahih (correct analogy). I have also confined myself of quoting well known evidence out of fear of elongation. If a matter was disputed over, then I confined myself to mentioning the strongest options according to my understanding based on the proofs of the laws.
+
+1. There are 5 [[id:a052cfd1-2d00-476f-9df6-036c999d7f1b][types of rulings (ahkam pl. of hukm)]]
+   - Wajib (compulsory): That by which is doer is rewarded and one who leaves it is punished
+   - Haram (prohibited): It is the opposite of the Wajib
+   - Makruh (disliked): Actions that one is rewarded for leaving but not punished for doing
+   - Masnun (recommended): The opposite to Makruh
+   - Mubah (permissible): An actions where its doing or leaving is considered the same
+2. It is obligatory upon the [[id:ba93d19b-37c1-40d2-9613-a01ac674fa21][mukallaf]] to learn that which he *needs* for his acts of worship, transactions and other matters *(in order for them to be corrected)*
+   
+The prophet peace and blessing of Allah be on him said, *if Allah wishes good for someone he give him fiqh (understanding) of the religion.*
+
+* TODO The book [[id:22bce97f-c977-4d80-8b5e-f71031f0c60c][purification]]

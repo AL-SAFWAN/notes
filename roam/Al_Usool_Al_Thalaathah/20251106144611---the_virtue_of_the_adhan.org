@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6c2f9562-afd4-4189-82c9-4e44dc62db9f
+:END:
+#+title: The Virtue Of the Adhan
+#+filetags: :hadith:
+حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ، حَدَّثَنَا عَبْدَةُ، عَنْ طَلْحَةَ بْنِ يَحْيَى، عَنْ عَمِّهِ، قَالَ كُنْتُ عِنْدَ مُعَاوِيَةَ بْنِ أَبِي سُفْيَانَ فَجَاءَهُ الْمُؤَذِّنُ يَدْعُوهُ إِلَى الصَّلاَةِ فَقَالَ مُعَاوِيَةُ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ "‏ الْمُؤَذِّنُونَ أَطْوَلُ النَّاسِ أَعْنَاقًا يَوْمَ الْقِيَامَةِ ‏"‏ ‏.‏ وَحَدَّثَنِيهِ إِسْحَاقُ بْنُ مَنْصُورٍ، أَخْبَرَنَا أَبُو عَامِرٍ، حَدَّثَنَا سُفْيَانُ، عَنْ طَلْحَةَ بْنِ يَحْيَى، عَنْ عِيسَى بْنِ طَلْحَةَ، قَالَ سَمِعْتُ مُعَاوِيَةَ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم بِمِثْلِهِ ‏.‏
+
+[[id:49316e3a-2d72-4b6b-b853-f49d8795b140][Yahya]] narrated it on the authority of his uncle that he had been sitting in the company of Mu'awiya b. Abu Sufyan when the Mu'adhdhin called (Muslims) to prayer. Mu'awiya said: I heard the Messenger of Allah (ﷺ) saying The Mu'adhdhins will have the longest necks on the Day of Resurrection.
+
+Sahih Muslim 387
+https://sunnah.com/muslim:387

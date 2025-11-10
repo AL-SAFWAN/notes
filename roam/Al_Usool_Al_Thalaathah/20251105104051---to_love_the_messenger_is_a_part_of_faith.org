@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       d59012b8-5177-443a-99af-ed51fd05a6aa
+:END:
+#+title: To love the Messenger is a part of faith
+#+filetags: :hadith:
+
+حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا ابْنُ عُلَيَّةَ، عَنْ عَبْدِ الْعَزِيزِ بْنِ صُهَيْبٍ، عَنْ أَنَسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم ح وَحَدَّثَنَا آدَمُ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ "‏ لاَ يُؤْمِنُ أَحَدُكُمْ حَتَّى أَكُونَ أَحَبَّ إِلَيْهِ مِنْ وَالِدِهِ وَوَلَدِهِ وَالنَّاسِ أَجْمَعِينَ ‏"‏‏.‏
+
+Narrated [[id:685a9a53-941d-46fe-b886-5935bbd43f2a][Anas]]: 
+The Prophet (ﷺ) said "None of you will have faith till he loves me more than his father, his children and all mankind."
+
+Sahih al-Bukhari 15
+https://sunnah.com/bukhari:15

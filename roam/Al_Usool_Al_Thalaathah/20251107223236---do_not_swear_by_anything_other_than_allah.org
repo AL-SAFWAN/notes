@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       c89270b6-6447-4758-a483-90942fc1b1e1
+:END:
+#+title: do not swear by anything other than Allah
+#+filetags: :hadith:
+
+حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أَدْرَكَ عُمَرَ بْنَ الْخَطَّابِ وَهْوَ يَسِيرُ فِي رَكْبٍ يَحْلِفُ بِأَبِيهِ فَقَالَ ‏ "‏ أَلاَ إِنَّ اللَّهَ يَنْهَاكُمْ أَنْ تَحْلِفُوا بِآبَائِكُمْ، مَنْ كَانَ حَالِفًا فَلْيَحْلِفْ بِاللَّهِ، أَوْ لِيَصْمُتْ ‏"‏‏.‏
+
+Narrated [[id:cea79f77-a7de-4764-b44e-9cd57151bc8f][Ibn `Umar]]: Allah's Messenger (ﷺ) met `Umar bin Al-Khattab while the latter was going with a group of camel-riders, and he was swearing by his father. The Prophet (ﷺ) said, "Lo! Allah forbids you to swear by your fathers, so whoever has to take an oath, he should swear by Allah or keep quiet."
+
+Sahih al-Bukhari 6646
+Chapter 4: "Do not swear by your fathers", Book 83: Oaths and Vows
+https://sunnah.com/bukhari:6646

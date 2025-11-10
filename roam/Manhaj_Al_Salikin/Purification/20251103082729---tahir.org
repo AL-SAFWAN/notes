@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       62ba1ad5-6f77-43e2-b242-b4ea92872650
+:ROAM_ALIASES: "ritually clean" pure clean
+:END:
+#+title: tahir
+
+something that is ritually clean. 

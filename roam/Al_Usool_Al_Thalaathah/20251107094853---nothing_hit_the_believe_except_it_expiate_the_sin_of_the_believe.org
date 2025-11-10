@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       bf20b693-3f2b-48bd-89f9-b7d55218ef25
+:END:
+#+title: nothing hit the believe, except it expiate the sin of the believe
+#+filetags: :hadith:
+
+حَدَّثَنِي عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، حَدَّثَنَا عَبْدُ الْمَلِكِ بْنُ عَمْرٍو، حَدَّثَنَا زُهَيْرُ بْنُ مُحَمَّدٍ، عَنْ مُحَمَّدِ بْنِ عَمْرِو بْنِ حَلْحَلَةَ، عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، وَعَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ "‏ مَا يُصِيبُ الْمُسْلِمَ مِنْ نَصَبٍ وَلاَ وَصَبٍ وَلاَ هَمٍّ وَلاَ حُزْنٍ وَلاَ أَذًى وَلاَ غَمٍّ حَتَّى الشَّوْكَةِ يُشَاكُهَا، إِلاَّ كَفَّرَ اللَّهُ بِهَا مِنْ خَطَايَاهُ ‏"‏‏.‏
+
+Narrated [[id:2b921177-7d6e-4108-aa3c-99368c9ef1e1][Abu Sa`id Al-Khudri]] and [[id:bbaf35e6-7daf-45f7-a188-2b83ad034111][Abu Huraira]]: The Prophet (ﷺ) said, "No fatigue, nor disease, nor sorrow, nor sadness, nor hurt, nor distress befalls a Muslim, even if it were the prick he receives from a thorn, but that Allah expiates some of his sins for that."
+
+Sahih al-Bukhari 5641, 5642
+https://sunnah.com/bukhari:5641

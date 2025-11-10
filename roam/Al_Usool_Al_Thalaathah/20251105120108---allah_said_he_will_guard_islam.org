@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6543a4c0-06bb-478d-b519-17820c3b5a56
+:END:
+#+title: Allah said he will guard Islam
+
+  #+begin_quote
+   [[id:e81d96a6-3fd2-47da-a5e4-02a32758733a][The Rocky Tract (15:9)]]
+   Indeed, it is We who sent down the message [i.e., the Qur’ān], and indeed, We will be its guardian.
+   — Saheeh International
+   https://quran.com/15/9
+  #+end_quote

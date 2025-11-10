@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       0ea18a54-7ed1-42e7-a929-b46386cf8ff3
+:END:
+#+title: muwalah
+#+filetags: :terminology:
+matters to be done consecutively without a long gap

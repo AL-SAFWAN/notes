@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f194397e-ea68-408b-b3a2-0bc3901ba5eb
+:ROAM_ALIASES: shurut
+:END:
+#+title: shart
+#+filetags: :terminology:
+
+shart = Means condition
+shurut= conditions - is the plural form 
+
+What must be met before preforming the action.

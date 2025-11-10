@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       9b16c288-d460-4c05-90d1-decda4791c84
+:END:
+#+title: istinja
+#+filetags: :terminology:
+cleaning the private part with water until the impurity is washed away

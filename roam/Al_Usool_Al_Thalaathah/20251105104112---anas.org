@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       685a9a53-941d-46fe-b886-5935bbd43f2a
+:ROAM_ALIASES: "Anas bin Malik"
+:END:
+#+title: Anas
+#+filetags: :narrator:
+

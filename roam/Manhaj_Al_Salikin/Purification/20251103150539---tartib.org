@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       b92c6a33-110a-4b22-ade6-e457f3e42e1a
+:ROAM_ALIASES: "in order" order
+:END:
+#+title: tartib
+#+filetags: :terminology:
+in order

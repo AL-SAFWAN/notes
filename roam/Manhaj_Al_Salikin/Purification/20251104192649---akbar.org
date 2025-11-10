@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       41298647-8da4-480e-a881-97b3187d8f5c
+:ROAM_ALIASES: major
+:END:
+#+title: akbar
+#+filetags: :terminology:
+great or major

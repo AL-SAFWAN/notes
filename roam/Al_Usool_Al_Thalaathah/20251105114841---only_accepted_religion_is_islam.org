@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       d73877f2-1d5d-4e34-a2a6-9bd3395c3974
+:END:
+#+title: only accepted religion is Islam
+
+ #+begin_quote
+  [[id:d9faa8de-ee87-4559-b859-a5bb9061d161][Family of Imran (3:19)]]
+  Indeed, the religion in the sight of Allāh is Islām. And those who were given the Scripture did not differ except after knowledge had come to them - out of jealous animosity between themselves. And whoever disbelieves in the verses of Allāh, then indeed, Allāh is swift in [taking] account.
+  — Saheeh International
+  https://quran.com/3/19
+ #+end_quote
+
+ #+begin_quote
+  
+  [[id:b27600ea-ac28-4546-9967-a598bd71e497][Family of Imran (3:85)]]
+  And whoever desires other than Islām as religion - never will it be accepted from him, and he, in the Hereafter, will be among the losers.
+  — Saheeh International
+  https://quran.com/3/85
+  
+ #+end_quote
+
+ In a hadith [[id:8c660bbd-1842-45f8-a679-d265190d3115][The Jew and Christians with go to the Hell-Fire if they reject Messenger of Allah (ﷺ)]]
+ 

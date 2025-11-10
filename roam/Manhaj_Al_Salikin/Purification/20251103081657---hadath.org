@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       24cec8cd-6ee0-46e1-b7a5-337a4a72b8aa
+:ROAM_ALIASES: ahadath "ritual impurities"
+:END:
+#+title: hadath
+#+filetags: :terminology:
+
+The state of ritual impurities, that prevents him from salah  

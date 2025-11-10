@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       ffdb35fe-4a12-4939-bb0c-4aea7c7c278a
+:END:
+#+title: tear their clothes and hit their cheeks
+#+filetags: :hadith:
+
+حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا سُفْيَانُ، حَدَّثَنَا زُبَيْدٌ الْيَامِيُّ، عَنْ إِبْرَاهِيمَ، عَنْ مَسْرُوقٍ، عَنْ عَبْدِ اللَّهِ ـ رضى الله عنه ـ قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ "‏ لَيْسَ مِنَّا مَنْ لَطَمَ الْخُدُودَ، وَشَقَّ الْجُيُوبَ، وَدَعَا بِدَعْوَى الْجَاهِلِيَّةِ ‏"‏‏.‏
+
+Narrated [[id:198c8513-15df-4e42-8f8a-dfe675a3a6f7][`Abdullah]] the Prophet (ﷺ) said, "He who slaps his cheeks, tears his clothes and follows the ways and traditions of the Days of Ignorance is not one of us."
+
+Sahih al-Bukhari 1294
+https://sunnah.com/bukhari:1294

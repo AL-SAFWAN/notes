@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       eaaaa701-b527-4002-8e43-c7b9e809478f
+:ROAM_ALIASES: impure
+:END:
+#+title: najis
+#+filetags: :terminology:
+
+something that is ritually unclean
+Najasa refers to the state of ritual impurity

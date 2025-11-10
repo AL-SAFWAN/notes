@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       a1f78754-b39b-4352-8be8-c64ba84b48d9
+:END:
+#+title: Bismillah Ar-Rahman Ar-Rahim
+#+filetags: :terminology:
+
+* Starting with *Bismillah Ar-Rahman Ar-Rahim*, this is following the sunnah,
+** Starting with the bamalah when writing  
+:PROPERTIES:
+:ID:       969c2523-79fc-4962-b6ab-9f6026ebf045
+:END:
+When he peace and blessing of Allah be on him, ask the letters to be written, the prophet peace and blessing of Allah be on him, did not know how to read and write, so he will speak it, he would write started with Bismillah Ar-Rahman Ar-Rahim
+ - We also find this in the Quran, Sulayman's Letter to Bilqis.
+
+The proof for this is Allah’s saying:
+ #+begin_quote
+  [[id:ad837d2f-4c93-4d58-be51-06b5f84b7297][The Ant (27:30)]]
+  إِنَّهُۥ مِن سُلَيْمَـٰنَ وَإِنَّهُۥ بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ ٣٠
+  Indeed, it is from Solomon, and indeed, it is [i.e., reads]: 'In the name of Allāh, the Entirely Merciful, the Especially Merciful,
+  — Saheeh International
+  https://quran.com/27/30
+ #+end_quote
+and in the  [[id:1e9aa91d-9cdb-4a93-a6a1-b70ab8e3873c][Letters to Heraclius]]
+       
+** Start the speech by praising Allah.
+:PROPERTIES:
+:ID:       0e2fe26e-659c-4238-b2e4-6e92f3a90366
+:END:
+The proof of this in this hadith:
+[[id:3addb84d-c296-4b82-b723-f0a6515530c1][Kutbat al Hajah]] 
+ 

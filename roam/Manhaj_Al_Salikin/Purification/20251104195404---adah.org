@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       b2c809b7-ff62-49bb-a2db-f9f566411ee8
+:END:
+#+title: ’adah
+#+filetags: :terminology:
+regular cycle

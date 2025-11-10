@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       8ea3f421-957c-4cf0-8c52-4e54f0eafafc
+:END:
+#+title: Masruq
+#+filetags: :narrator:
+

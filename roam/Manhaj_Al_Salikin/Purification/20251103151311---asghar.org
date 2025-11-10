@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       6efca613-f528-4393-892d-1eb7b1f82880
+:ROAM_ALIASES: minor
+:END:
+#+title: asghar
+#+filetags: :terminology:
+minor

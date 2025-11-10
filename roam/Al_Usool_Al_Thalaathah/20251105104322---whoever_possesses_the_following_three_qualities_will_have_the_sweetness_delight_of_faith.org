@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       29b3fb81-2ef5-469a-a2e8-b9e7adef8cbe
+:END:
+#+title: Whoever possesses the following three qualities will have the sweetness (delight) of faith
+#+filetags: :hadith:
+
+حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنَا عَبْدُ الْوَهَّابِ الثَّقَفِيُّ، قَالَ حَدَّثَنَا أَيُّوبُ، عَنْ أَبِي قِلاَبَةَ، عَنْ أَنَسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ "‏ ثَلاَثٌ مَنْ كُنَّ فِيهِ وَجَدَ حَلاَوَةَ الإِيمَانِ أَنْ يَكُونَ اللَّهُ وَرَسُولُهُ أَحَبَّ إِلَيْهِ مِمَّا سِوَاهُمَا، وَأَنْ يُحِبَّ الْمَرْءَ لاَ يُحِبُّهُ إِلاَّ لِلَّهِ، وَأَنْ يَكْرَهَ أَنْ يَعُودَ فِي الْكُفْرِ كَمَا يَكْرَهُ أَنْ يُقْذَفَ فِي النَّارِ ‏"‏‏.‏
+
+Narrated [[id:685a9a53-941d-46fe-b886-5935bbd43f2a][Anas]]: 
+The Prophet (ﷺ) said, "Whoever possesses the following three qualities will have the sweetness (delight) of faith: 
+1. The one to whom Allah and His Apostle becomes dearer than anything else.
+2. Who loves a person and he loves him only for Allah's sake.
+3. Who hates to revert to Atheism (disbelief) as he hates to be thrown into the fire."
+
+Sahih al-Bukhari 16
+https://sunnah.com/bukhari:16

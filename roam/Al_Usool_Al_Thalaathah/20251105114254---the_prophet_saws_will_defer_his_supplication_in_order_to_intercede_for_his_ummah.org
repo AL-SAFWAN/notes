@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       50eb90fd-c9ef-48eb-8cff-6099ab4728ba
+:END:
+#+title: The Prophet (saws) will defer his supplication in order to intercede for his ummah
+#+filetags: :hadith:
+
+حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ الْعَنْبَرِيُّ، حَدَّثَنَا أَبِي، حَدَّثَنَا شُعْبَةُ، عَنْ مُحَمَّدٍ، - وَهُوَ ابْنُ زِيَادٍ - قَالَ سَمِعْتُ أَبَا هُرَيْرَةَ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ لِكُلِّ نَبِيٍّ دَعْوَةٌ دَعَا بِهَا فِي أُمَّتِهِ فَاسْتُجِيبَ لَهُ وَإِنِّي أُرِيدُ إِنْ شَاءَ اللَّهُ أَنْ أُؤَخِّرَ دَعْوَتِي شَفَاعَةً لأُمَّتِي يَوْمَ الْقِيَامَةِ ‏"‏ ‏.‏
+
+[[id:bbaf35e6-7daf-45f7-a188-2b83ad034111][Abu Huraira]] reported: The Messenger of Allah (ﷺ) said: There was for every apostle a prayer with which he prayed for his Ummah and it was granted to him; but I wish, if Allah so wills, to defer my prayer for the intercession of my Ummah on the Day of Resurrection.
+
+Sahih Muslim 199c
+https://sunnah.com/muslim:199c
+

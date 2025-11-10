@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       2dada820-43bc-4ab9-a532-d10230524921
+:END:
+#+title: Ash-Shaafi’ee
+#+filetags: :Imaam:
+
+Imām al-Shāfiʿī (الإِمَام الشَّافِعِي) — full name Abū ʿAbd Allāh Muḥammad b. Idrīs al-Shāfiʿī (150–204 AH / 767–820 CE) — was a Qurayshī scholar and founder of the Shāfiʿī school of law.
+Origins & life: Born in Gaza (Palestine) and raised in Makkah; he studied with Imām [[id:548d27b9-95e7-45d5-9684-fd68f2e9b526][Malik]] in Madīnah and later with Muḥammad b. al-Ḥasan al-Shaybānī (the Ḥanafī jurist) in Iraq. He settled in Egypt, where he finalized his legal opinions and passed away in al-Fusṭāṭ (Cairo).
+
+Method & legacy: He systematized uṣūl al-fiqh (legal theory), prioritizing Qurʾān, Sunnah, ijmāʿ (consensus), then qiyās (analogy), and famously criticized istiḥsān (juristic preference). He distinguished between his old views (al-qawl al-qadīm) from Iraq and new views (al-qawl al-jadīd) from Egypt.
+
+Key works: al-Risālah (الرسالة) on legal theory and al-Umm (الأم) on substantive law; a Musnad of his hadith narrations is also preserved.
+
+Students & praise: Among his foremost students were al-Muzanī, al-Buwayṭī, and al-Rabīʿ al-Murādī. It’s reported Aḥmad b. Ḥanbal said: “al-Shāfiʿī is like the sun for the world and health for people.”
+
+Classical sources on his life: al-Bayhaqī’s Manāqib al-Shāfiʿī, Fakhr al-Dīn al-Rāzī’s Manāqib, al-Dhahabī’s Siyar Aʿlām al-Nubalāʾ, Ibn Khallikān’s Wafayāt al-Aʿyān, and al-Subkī’s Ṭabaqāt al-Shāfiʿiyyah al-Kubrā.
+

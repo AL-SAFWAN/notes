@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       651d11d3-3de1-4cdd-b961-3e03e1b4cbee
+:END:
+#+title: Jarir
+#+filetags: :narrator:
+

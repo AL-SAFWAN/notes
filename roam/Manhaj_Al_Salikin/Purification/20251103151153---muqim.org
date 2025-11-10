@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       3533c93a-9297-403e-9064-7e3396e0d4fc
+:ROAM_ALIASES: residence
+:END:
+#+title: muqim
+#+filetags: :terminology:
+residence
+

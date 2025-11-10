@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       b2737f81-6285-402a-b89f-0e75b406bfb7
+:END:
+#+title: istimar
+#+filetags: :terminology:
+cleaning the private parts by using a solid material

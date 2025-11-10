@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       a052cfd1-2d00-476f-9df6-036c999d7f1b
+:END:
+#+title: 5 types of rulings (ahkam pl. of hukm)
+#+roam_alias: "ahkam" "hukm"
+#+filetags: :terminology:fiqh:
+
+* Wajib (compulsory)
+:PROPERTIES:
+:ID:       3a023159-3a58-4e9b-9bf1-a5cadc9b8660
+:END:
+- Same as Fard and Laazim
+That by which is doer is rewarded and one who leaves it is punished
+
+* Haram (prohibited)
+:PROPERTIES:
+:ID:       aaabccc4-2540-4838-a7b3-3ff874614ad4
+:END:
+- same as Muharam
+It is the opposite of the Wajib
+If you did it you deserve to be punished, and if you leave it you are rewarded.
+
+* Makruh (disliked)
+:PROPERTIES:
+:ID:       6e1dcc2a-8e45-4d48-87e0-ba3878674725
+:END:
+Actions that one is rewarded for leaving but not punished for doing
+
+* Masnun (recommended)
+:PROPERTIES:
+:ID:       4ae002c4-75f5-4a2a-a8c6-2e39fb67dbae
+:END:
+- Same Sunanh, Mustahab and Nafl
+The opposite to Makruh
+Actions that is reward for doing it, but not sinful for leaving it
+
+* Mubah (permissible):
+:PROPERTIES:
+:ID:       e68929d3-b4a4-46f4-b2e6-61a97a2d5d62
+:END:
+An actions where its doing or leaving is considered the same

@@ -1,0 +1,291 @@
+:PROPERTIES:
+:ID:       22bce97f-c977-4d80-8b5e-f71031f0c60c
+:END:
+#+title: Purification 
+#+filetags: :fiqh:book:
+
+3. The prophet peace and blessing of Allah be on him, said Islam is build upon five; to bear witness that there is none worthy of worship except of *Allah*, and that *Muhammed* peace and blessing of Allah be on him is the messenger of Allah, establishing the *prayer*, giving *zakah*, making *pilgrimage* to the house and *fasting* Ramadan (Agreed upon)
+   
+4. As for the declaration of faith i.e to say la ilaha illallah, then this is the knowledge of the servant of Allah and his firm belief and commitment to the fact that no one has the right to be worshipped except Allah
+    
+   This necessitates upon the servant: sincere devotion to the religion of Allah; that his worship, inner and outer, are all for Allah and that he does not associate with Allah anyone or anything regarding any aspect of the religion. This is the foundation of the religion of the messenger and their followers, as Allah says:
+    #+begin_quote
+     [[id:3892e01d-b67f-4c23-86e1-76e5f1457a19][The Prophets (21:25)]]
+     And We sent not before you any messenger except We revealed to him that, "There is no deity except Me, so worship Me."
+     — Saheeh International
+     https://quran.com/21/25   
+    #+end_quote
+    
+5. The declaration that Muhammad peace and blessing of Allah be on him, is the Messenger of Allah necessitates that the server of Allah firmly believes that Allah sent Muhammed peace and blessing of Allah be on him, to the [[id:f408c489-bd70-44ae-b757-8fc35daf6ae8][taqalayn]] (jinn and mankind) as a giver of glad tiding and as a warner, calling them to single out Allah in worship and to obey him. It also means to believe in his message and applying his command and keeping away from his prohibition. Moreover, it necessitates that one believes that there is no happiness and goodness in this world or the hereafter unless one has faith in him and follows him and that it is an obligation to put the love of him above the love of oneself, children and all of mankind
+
+   it also implies that one believes that Allah provided the prophet with miracles to prove his message; that Allah endowed him with knowledge and noble character; that his religion is one of guidance, mercy and truth; and that it entails both religious and worldly benefits
+    
+   The greatest sign of Allah is the Qur’an. It embodies the truth in what it relates  as it commandments and prohibitions.
+    
+   And Allah knows best 
+    
+* TODO Water :chapter:
+:PROPERTIES:
+:ID:       8bb19516-6e06-4ea1-92d1-1a6c6dec278b
+:END:
+1. [@6] The prayer has *conditions (shurut pl. of [[id:f194397e-ea68-408b-b3a2-0bc3901ba5eb][shart]])* that precede it, amongst them: 
+2. *Ritual purification ([[id:4b649d64-f671-439e-9b44-61bbd69af197][taharah]])*.
+   The Prophet (ﷺ), said:
+    #+begin_quote
+     Allah (ﷻ) does not accept a prayer without purification (Agreed upon).
+    #+end_quote
+   Thus the one who does not purify himself from ritual impurity, major and minor, as well as physical impurities will render his prayer invalid 
+3. There are *two methods* of purification ([[id:4b649d64-f671-439e-9b44-61bbd69af197][taharah]]).
+4. The first is purification by *water*, this is the primary method of purification. 
+5. All water that descends from the sky or comes out form the ground is purifying ([[id:735d5c39-7a90-4765-8c8d-d529c1fbc630][tahur]]). Such water purifies one form ritual impurities ([[id:24cec8cd-6ee0-46e1-b7a5-337a4a72b8aa][hadath]]) as well as physical ([[id:081d831c-ee10-4c05-adda-2649c4bc2037][khabath]]) even if its *colour, taste or smell* was changed by something pure since the prophet said [[id:d5505d11-f079-4ae4-9a7e-7158176e4ba3][“Verily water is pure, and nothing makes it impure.]]” (Abu Duwud & Tirmidihi).
+6. if one of its *three characteristics* changes by something impure, then it is considered to be [[id:eaaaa701-b527-4002-8e43-c7b9e809478f][najis]] (impure); this, it is compulsory to keep away form it (i.e one cannot use it for purification).
+7. The original rulings of things is that they are pure and permissible to use.
+8. Thus, if one doubts the purity of water, clothes, surface or anything else, it is consider [[id:62ba1ad5-6f77-43e2-b242-b4ea92872650][tahir]] (pure). Likewise, if one was sure that they were initially in a state of purification and then doubted whether they preserved their purification, they are also tahir (pure) due to the statement of the Prophet peace and blessing of Allah be on him, to the person who imagined to have passed wind during prayer, “[[id:df781be5-f71b-4612-8f07-40806fea3889][One should not leave his Salah until he hears a sounds or finds a smell]]” (Agreed Upon)
+
+* Utensils :chapter:
+:PROPERTIES:
+:ID:       39522dfb-8ff4-4ea7-83c8-6da99ffcc58a
+:END:
+1. All utensils are permissible 
+2. Except gold and silver utensils and that which contains them, except for a *small amount* of similar due to a pressing need ([[id:9464ff87-1927-4d7b-944f-526849759d8b][hajah]]). This is due to the statement of the Prophet peace and blessing of Allah said “[[id:55862fce-c98d-4d96-8b04-60b3998a2f05][Do not drink from containers made of gold and silver and do not eat from it (gold and silver) bowls, for verily it is for them in this worlds and for us in the afterlife]]”
+   
+* Istinja and the Etiquette's of Relive oneself :chapter:
+:PROPERTIES:
+:ID:       567b18ac-00c7-4400-88c5-213eb1d1621f
+:END:
+1. It is *recommended* that if one enters an area to relieve oneself that one enters with their *left foot* (before their right) and says:
+   #+begin_quote
+   in the name of Allah, O Allah I seek refuge in you from the male and female
+   #+end_quote
+2. And when one leaves, one should: 
+   1. leave their *right foot* 
+   2. say
+      #+begin_quote
+      O Allah I seek your forgiveness
+      Praise is to Allah, who has relieved me from impurity and given me good health.
+      #+end_quote
+3. One should *support themselves* by putting more weight on their left leg and erecting their right. 
+4. One should *conceal themselves* with a barrier or by something else. 
+5. One should *distance themselves* away from people if one was in on open area 
+6. It is *not permissible* to answer the call of nature in 
+   1. *pathways* 
+   2. places where *people sit* 
+   3. underneath *trees* that gives *fruits*
+   4. or in an area that will *harm other people* 
+7. It is not permitted to *face the qiblah* or turn one back to it while relieving oneself due to the saying of the prophet peace and blessing of Allah be on him, "[[id:e3beaa4b-8aad-47c0-b9e7-f9ed908118e1][if anyone of you goes to a open space for answering the call of nature, he should neither face nor turn his back towards the qiblah while urinating or defecating. Instead he should face the east or the waste.]]" (agreed upon) 
+8. After relieving oneself, one should: 
+   1. Do [[id:b2737f81-6285-402a-b89f-0e75b406bfb7][istimar]] (cleaning the private parts by using a solid material) with three stone or something similar to it that cleans the required area 
+   2. then one should do [[id:9b16c288-d460-4c05-90d1-decda4791c84][istinja]] (cleaning the private part with water until the impurity is washed away)
+9. It is sufficient to restrict oneself to *one of the two* (i.e istijmar or istinja)
+10. One cannot perform istijmar with the following 
+    1. *dung or bones*, as that was prohibited by the prophet 
+    2. anything of *sanctity*
+       
+* The Removal of Impurities and an Account of Impure Substances :chapter:
+:PROPERTIES:
+:ID:       db3a60f4-8aae-432f-bed3-62285674f2c0
+:END:
+1. It is *sufficient to wash* all impurities whether they were on the body, clothes, the area one prays in or any other area by *removing the impurity* itself from the area. This is because the legislator did no stipulate for washing of all impurities a specific amount of washes, *except* in the case of the impurity of a *dog*, since the legislator stipulated for the washing of the impurity of the dog seven washes, one by earth as the in the hadith 
+2. The following things are [[id:eaaaa701-b527-4002-8e43-c7b9e809478f][impure]]
+   1. Human *Urine*
+   2. Human *faeces*
+   3. *Blood* 
+      1. except for a *small amount* as that is *excused*. 
+      2. An example of impure blood is blood that has been spilt from slaughtering animals that are permissible to eat, except for the blood that remains in the mean and veins for that is pure. 
+   4. The urine and faeces of every animals that is *impermissible* to eat 
+   5. All *predators* 
+   6. Likewise, all *dead animals* that were not slaughtered according to ritual requirements, excepts for dead humans and that which does not have flowing blood (e.g flies, mosquitoes), fish, and locust, since they are pure. 
+       Allah says in the Qur’an
+        #+begin_quote
+        [[id:e9f1e79a-c93b-4311-8419-b1ff89dfd445][The Table Spread (5:3)]]
+        حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلدَّمُ وَلَحْمُ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ وَٱلْمُنْخَنِقَةُ وَٱلْمَوْقُوذَةُ وَٱلْمُتَرَدِّيَةُ وَٱلنَّطِيحَةُ وَمَآ أَكَلَ ٱلسَّبُعُ إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى ٱلنُّصُبِ وَأَن تَسْتَقْسِمُوا۟ بِٱلْأَزْلَـٰمِ ۚ ذَٰلِكُمْ فِسْقٌ ۗ ٱلْيَوْمَ يَئِسَ ٱلَّذِينَ كَفَرُوا۟ مِن دِينِكُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِ ۚ ٱلْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَـٰمَ دِينًۭا ۚ فَمَنِ ٱضْطُرَّ فِى مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍۢ لِّإِثْمٍۢ ۙ فَإِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ ٣
+          
+        Prohibited to you are dead animals, blood, the flesh of swine, and that which has been dedicated to other than Allāh, and [those animals] killed by strangling or by a violent blow or by a head-long fall or by the goring of horns, and those from which a wild animal has eaten, except what you [are able to] slaughter [before its death], and those which are sacrificed on stone altars, and [prohibited is] that you seek decision through divining arrows. That is grave disobedience. This day those who disbelieve have despaired of [defeating] your religion; so fear them not, but fear Me. This day I have perfected for you your religion and completed My favor upon you and have approved for you Islām as religion. But whoever is forced by severe hunger with no inclination to sin - then indeed, Allāh is Forgiving and Merciful.
+               — Saheeh International
+         
+        https://quran.com/5/3
+        #+end_quote
+       The prophet peace and blessing of Allah be on him said: 
+        #+begin_quote
+        “[[id:94a968c7-2070-4d71-a97d-f1d837ac4561][The believe does not become impure dead while dead or alive]]”
+        #+end_quote
+       He peace and blessing of Allah be on him said
+        #+begin_quote
+        [[id:cb0dc5fc-1929-42f3-a3d5-a9e85794af86][Two types of carrion (the decaying flesh of dead animals) and blood have been made permissible. As for the types of the carrion, they are fish and locust. As for the two types of blood they are blood from the liver and spleen.]] (Ahmed and ibn Majah)
+        #+end_quote
+3. The faeces and urine of animals that are *permissible* to eat are *[[id:62ba1ad5-6f77-43e2-b242-b4ea92872650][pure]]* 
+4. [[id:9b07588d-5132-4966-bf61-f9f038880c65][Maniyy]] (*semen*) of a human is *[[id:62ba1ad5-6f77-43e2-b242-b4ea92872650][pure]]*. The prophet used to wash it from his clothes when it i.e. the sperm was moist and would scrape it off his clothes when it was dry. 
+5. It is sufficient to *sprinkle water* on the *urine* of a *baby boy* that does not eat solid food out of desire for it since the Prophet peace and bless of Allah said:
+    #+begin_quote
+    “[[id:e06b65be-b5b7-456e-b985-a6708c9215ab][The urine of a baby girl is to be washed and the urine of a baby boy is to be sprinkled over.]]” (Abu Dawud and Nasa’i)   
+    #+end_quote 
+6. If the *impure substance* is *removed* from the affected are then the are is *pure*. Any residual color or smell does not affect the ruling. This is due the statement of the prophet peace and blessing of Allah be on him to Khalah regarding the blood of menstruation
+   #+begin_quote 
+   “[[id:3fdfbfe1-54cf-4d4d-a906-cde9eb2c3b6f][Water suffices you and its effect from the blood will not harm you]]”
+   #+end_quote 
+    
+* The description of Ablution :chapter:
+:PROPERTIES:
+:ID:       a4e28b1f-4d15-4f93-9e20-9d10d2238dfe
+:END:
+1. The ablution is performed by 
+   1. intending the removal of [[id:24cec8cd-6ee0-46e1-b7a5-337a4a72b8aa][hadath]] (ritual impurity) or intending ablution for a prayer etc.
+      1. The *intention* is a [[id:f194397e-ea68-408b-b3a2-0bc3901ba5eb][shart]] (condition) for all actions of purifications and other than it 
+   2. Then to say *bismillah* 
+   3. Then to wash the *hand* until the wrist three time 
+   4. then to do *[[id:67192f3f-f5bf-4519-9439-8205bc1add9d][madmadah]]* (taking water into the *mouth* and then expelling) and *[[id:b999228f-8e1b-43cf-b084-87f0c27b0287][istinshaq]]* (taking water into the *nose* and the expelling it) three times with three handfuls of water. 
+   5. Then to wash the *face* three times 
+   6. Then the *arms* until the elbows 
+   7. Then to wipe the entire *head* with both hands once. 
+      1. Starting from the beginning of the head up until the nape, and then returning it back to the beginning of the head. This is to be done one time. 
+   8. Then to insert one’s index figure into the *ears* and to wipe the outer part of the ear with the thumb. 
+   9. Then to wash the *feet* including the ankles three times each 
+   This is the most complete way of performing the ablution 
+    
+2. The *obligatory* part of the ablutions are 
+   1. To wash each limb *once* 
+   2. To perform the actions of ablutions in the order ([[id:b92c6a33-110a-4b22-ade6-e457f3e42e1a][tartib]]) described in the verse
+       #+begin_quote
+        [[id:014b65ae-07a3-4477-a467-f7580a27b171][The Table Spread (5:6)]]
+        يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا قُمْتُمْ إِلَى ٱلصَّلَوٰةِ فَٱغْسِلُوا۟ وُجُوهَكُمْ وَأَيْدِيَكُمْ إِلَى ٱلْمَرَافِقِ وَٱمْسَحُوا۟ بِرُءُوسِكُمْ وَأَرْجُلَكُمْ إِلَى ٱلْكَعْبَيْنِ ۚ وَإِن كُنتُمْ جُنُبًۭا فَٱطَّهَّرُوا۟ ۚ وَإِن كُنتُم مَّرْضَىٰٓ أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌۭ مِّنكُم مِّنَ ٱلْغَآئِطِ أَوْ لَـٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ تَجِدُوا۟ مَآءًۭ فَتَيَمَّمُوا۟ صَعِيدًۭا طَيِّبًۭا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُم مِّنْهُ ۚ مَا يُرِيدُ ٱللَّهُ لِيَجْعَلَ عَلَيْكُم مِّنْ حَرَجٍۢ وَلَـٰكِن يُرِيدُ لِيُطَهِّرَكُمْ وَلِيُتِمَّ نِعْمَتَهُۥ عَلَيْكُمْ لَعَلَّكُمْ تَشْكُرُونَ ٦
+         
+       O you who have believed, when you rise to [perform] prayer, wash your faces and your forearms to the elbows and wipe over your heads and wash your feet to the ankles. And if you are in a state of janābah, then purify yourselves. But if you are ill or on a journey or one of you comes from the place of relieving himself or you have contacted women and do not find water, then seek clean earth and wipe over your faces and hands with it. Allāh does not intend to make difficulty for you, but He intends to purify you and complete His favor upon you that you may be grateful.
+       — Saheeh International
+       https://quran.com/5/6
+       #+end_quote         
+   3. To wash each limb in *succession*, such that there isn’t a customary *long gap* between the washing of different limbs. This holds true for everything that stipulates [[id:0ea18a54-7ed1-42e7-a929-b46386cf8ff3][muwalah]] (matters to be done consecutively without a long gap)
+
+* Wiping the Footwear and bandages :chapter:
+:PROPERTIES:
+:ID:       8c71c744-a46a-46ea-a545-adc605857f37
+:END:
+1. If one is wearing *two khuffs* or something *similar* or them, he can wipe over them if he wishes 
+   1. For one day and night if one is a [[id:3533c93a-9297-403e-9064-7e3396e0d4fc][muqim]] (residence) and for three days and night if one is a [[id:8b5de1e7-a21a-44e3-9b71-5274fea25d21][musafir]] (traveller)
+   2. With the conditions that he wore the footwear while in a state of [[id:4b649d64-f671-439e-9b44-61bbd69af197][taharah]] (purification)
+   3. One can only wipe over them if in a state of minor ritual impurity (al [[id:24cec8cd-6ee0-46e1-b7a5-337a4a72b8aa][hadath]] al [[id:6efca613-f528-4393-892d-1eb7b1f82880][asghar]])
+      1. It was report on the authority of Anas that the prophet peace and blessing of Allah be on him said
+           [[id:7223f85c-ff71-4478-aee2-6b90bccb9336][If one of you performs ablution and puts on his footwear, let him wipe over them and pray in them, and he doesn’t have to remove them except due to janabah (i.e sexual impurity)]](Al Hakim)
+2. If one has [[id:49be5284-99f9-4541-945f-bc31ec5d6c6c][bandages]] or medicine on a limb that is usually washed during ablutions and washing it would be harmful, then one can wipe over it for both minor and *major* ritual impurity until the wound has been healed. 
+3. The method of wiping over footwear is to wipe *most* of its upper part 
+4. as for the [[id:49be5284-99f9-4541-945f-bc31ec5d6c6c][jibrah]] (bandage/cast), then one should wipe *all* over it 
+
+* Nullifies of Ablutions :chapter:
+:PROPERTIES:
+:ID:       7e8d61fa-e0f2-4093-b63c-026eff45045d
+:END:
+1. The nullifies of ablution are: 
+   1. Anything that *leaves* the body via the *private part*. 
+   2. A large amount of *blood* (exiting the body) and its like (i.e. *other [[id:db3a60f4-8aae-432f-bed3-62285674f2c0][impurities]]*).
+   3. The *loss* of *consciousness* or sanity by sleep or any other causes.
+   4. Eating *camel meat*.
+   5. *Touching* the opposite gender with *desire* 
+   6. Touching the *private parts*
+   7. *Washing* a *dead* person 
+   8. *Apostasy*, which also nullifies all of one’s good deed 
+   This is due to the saying of Allah
+    #+begin_quote  
+    [[id:8e64871c-00f4-444c-81ad-2f179d9d6054][The Table Spread (5:5)]]
+    ٱلْيَوْمَ أُحِلَّ لَكُمُ ٱلطَّيِّبَـٰتُ ۖ وَطَعَامُ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ حِلٌّۭ لَّكُمْ وَطَعَامُكُمْ حِلٌّۭ لَّهُمْ ۖ وَٱلْمُحْصَنَـٰتُ مِنَ ٱلْمُؤْمِنَـٰتِ وَٱلْمُحْصَنَـٰتُ مِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ مِن قَبْلِكُمْ إِذَآ ءَاتَيْتُمُوهُنَّ أُجُورَهُنَّ مُحْصِنِينَ غَيْرَ مُسَـٰفِحِينَ وَلَا مُتَّخِذِىٓ أَخْدَانٍۢ ۗ وَمَن يَكْفُرْ بِٱلْإِيمَـٰنِ فَقَدْ حَبِطَ عَمَلُهُۥ وَهُوَ فِى ٱلْـَٔاخِرَةِ مِنَ ٱلْخَـٰسِرِينَ ٥
+     
+    This day [all] good foods have been made lawful, and the food of those who were given the Scripture is lawful for you and your food is lawful for them. And [lawful in marriage are] chaste women from among the believers and chaste women from among those who were given the Scripture before you, when you have given them their due compensation, desiring chastity, not unlawful sexual intercourse or taking [secret] lovers. And whoever denies the faith - his work has become worthless, and he, in the Hereafter, will be among the losers.
+     — Saheeh International
+    https://quran.com/5/5
+    #+end_quote 
+   The Prophet peace and blessing of Allah be on him:
+    #+begin_quote  
+    [[id:409c2609-468b-4164-ab7c-f27a9c16076d][was asked: Should we do ablution after eating camel meats? 
+    so He said: Yes]]
+    #+end_quote 
+   He also said regarding the two khuffs
+    #+begin_quote
+    The Messenger of Allah peace and blessing of Allah be on him would not command us [[id:751e84ea-cac7-46b6-a2a8-866c03637f91][not to take off our leather socks for three days except in the case of sexual impurity, but not in the case of defections, urine or sleep]](i.e. during traveling) (Thirmidhi and Nasa’i)
+    #+end_quote 
+    
+* That which obligates ghusl and The Manner of performing it :chapter:
+:PROPERTIES:
+:ID:       b244c8de-b893-4a65-8a87-325fa7251f17
+:END:
+39. *Ghusl* becomes obligatory for the following matters:
+    1. [[id:b7957e8b-f986-476a-9e78-bcb3d36b760c][Janabah]] (*sexual defilement*), which results from 
+        1. The ejaculation of [[id:9b07588d-5132-4966-bf61-f9f038880c65][maniyy]](semen) due to the intercourse or any other means 
+        2. When the two circumcised *parts meets* 
+        3. *mensuration* or *post-natal bleeding* 
+        4. *Death*, excluding a martyr 
+        5. when a *disbeliever* embraces Islam 
+        Allah says in the Quran
+        #+begin_quote
+        [[id:014b65ae-07a3-4477-a467-f7580a27b171][The Table Spread (5:6)]]
+         يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا قُمْتُمْ إِلَى ٱلصَّلَوٰةِ فَٱغْسِلُوا۟ وُجُوهَكُمْ وَأَيْدِيَكُمْ إِلَى ٱلْمَرَافِقِ وَٱمْسَحُوا۟ بِرُءُوسِكُمْ وَأَرْجُلَكُمْ إِلَى ٱلْكَعْبَيْنِ ۚ وَإِن كُنتُمْ جُنُبًۭا فَٱطَّهَّرُوا۟ ۚ وَإِن كُنتُم مَّرْضَىٰٓ أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌۭ مِّنكُم مِّنَ ٱلْغَآئِطِ أَوْ لَـٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ تَجِدُوا۟ مَآءًۭ فَتَيَمَّمُوا۟ صَعِيدًۭا طَيِّبًۭا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُم مِّنْهُ ۚ مَا يُرِيدُ ٱللَّهُ لِيَجْعَلَ عَلَيْكُم مِّنْ حَرَجٍۢ وَلَـٰكِن يُرِيدُ لِيُطَهِّرَكُمْ وَلِيُتِمَّ نِعْمَتَهُۥ عَلَيْكُمْ لَعَلَّكُمْ تَشْكُرُونَ ٦
+         
+         O you who have believed, when you rise to [perform] prayer, wash your faces and your forearms to the elbows and wipe over your heads and wash your feet to the ankles. And if you are in a state of janābah, then purify yourselves. But if you are ill or on a journey or one of you comes from the place of relieving himself or you have contacted women and do not find water, then seek clean earth and wipe over your faces and hands with it. Allāh does not intend to make difficulty for you, but He intends to purify you and complete His favor upon you that you may be grateful.
+         — Saheeh International
+         https://quran.com/5/6
+        #+end_quote         
+        #+begin_quote
+        [[id:99ad310a-2807-4eb0-8072-3ceac8105d2f][The Cow (2:222)]]
+        وَيَسْـَٔلُونَكَ عَنِ ٱلْمَحِيضِ ۖ قُلْ هُوَ أَذًۭى فَٱعْتَزِلُوا۟ ٱلنِّسَآءَ فِى ٱلْمَحِيضِ ۖ وَلَا تَقْرَبُوهُنَّ حَتَّىٰ يَطْهُرْنَ ۖ فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ ٱللَّهُ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلتَّوَّٰبِينَ وَيُحِبُّ ٱلْمُتَطَهِّرِينَ ٢٢٢
+         
+        And they ask you about menstruation. Say, "It is harm, so keep away from wives during menstruation. And do not approach them until they are pure. And when they have purified themselves, then come to them from where Allāh has ordained for you. Indeed, Allāh loves those who are constantly repentant and loves those who purify themselves."
+         — Saheeh International
+         https://quran.com/2/222
+        #+end_quote 
+        The prophet peace and blessing of Allah be on him, *ordered* the one who *washed the dead* to do ghusl himself. 
+        He also ordered for the one who embraced Islam to perform the ghusl  
+40. As for the method in which the Prophet peace and blessing of Allah be on him performed the ghusl from [[id:b7957e8b-f986-476a-9e78-bcb3d36b760c][janabah]]: 
+    1. He would wash his *private part* first 
+    2. Then he would perform a *complete ablutions* 
+    3. Then he would *pour water* on his *head three times*, make sure that the water has reach the scalp 
+    4. Then he would pour water over the rest of his *body* 
+    5. Then he would wash his *feet* in another area. 
+41. The *obligatory* parts of ghusl are to wash the *entire body* and the roots of one’s *hair* whether their hair is thick or not. And Allah knows best 
+
+* Tayammum :chapter:
+:PROPERTIES:
+:ID:       afc81725-0e43-4a2e-80da-551cbbbb33f0
+:END: 
+42. it is the second method of *purifications*
+43. It is used as a *substitute of water* if the usage of water that is required to wash the *required* areas in ablution or some of the areas becomes *unfeasible* due to its *unavailability* or fear of *harm* due to it usages 
+44. [[id:24151499-0d6d-43d5-8633-2cfe16fa3eb6][Turab]] (earth) will take the place of water by:
+    1. Intending to remove the ritual state impurity (ahdath, pl of [[id:24cec8cd-6ee0-46e1-b7a5-337a4a72b8aa][hadath]])
+    2. Then saying, “Bismillah”
+    3. Then *striking* the earth with one’s *hands* one time 
+    4. Then *wiping* the *face* with *both* hands and then wiping the *hands*
+       
+45. There is no harm in striking the earth twice
+     Allah says:
+     #+begin_quote
+      [[id:014b65ae-07a3-4477-a467-f7580a27b171][The Table Spread (5:6)]]
+      يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا قُمْتُمْ إِلَى ٱلصَّلَوٰةِ فَٱغْسِلُوا۟ وُجُوهَكُمْ وَأَيْدِيَكُمْ إِلَى ٱلْمَرَافِقِ وَٱمْسَحُوا۟ بِرُءُوسِكُمْ وَأَرْجُلَكُمْ إِلَى ٱلْكَعْبَيْنِ ۚ وَإِن كُنتُمْ جُنُبًۭا فَٱطَّهَّرُوا۟ ۚ وَإِن كُنتُم مَّرْضَىٰٓ أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌۭ مِّنكُم مِّنَ ٱلْغَآئِطِ أَوْ لَـٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ تَجِدُوا۟ مَآءًۭ فَتَيَمَّمُوا۟ صَعِيدًۭا طَيِّبًۭا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُم مِّنْهُ ۚ مَا يُرِيدُ ٱللَّهُ لِيَجْعَلَ عَلَيْكُم مِّنْ حَرَجٍۢ وَلَـٰكِن يُرِيدُ لِيُطَهِّرَكُمْ وَلِيُتِمَّ نِعْمَتَهُۥ عَلَيْكُمْ لَعَلَّكُمْ تَشْكُرُونَ ٦
+      
+      O you who have believed, when you rise to [perform] prayer, wash your faces and your forearms to the elbows and wipe over your heads and wash your feet to the ankles. And if you are in a state of janābah, then purify yourselves. But if you are ill or on a journey or one of you comes from the place of relieving himself or you have contacted women and do not find water, then seek clean earth and wipe over your faces and hands with it. Allāh does not intend to make difficulty for you, but He intends to purify you and complete His favor upon you that you may be grateful.
+      — Saheeh International
+      https://quran.com/5/6
+      #+end_quote
+     #+begin_quote         
+      It was report on the authority of Jabir that the prophet peace and blessing of Allah be on him said 
+      [[id:b65bf167-2e7a-4d63-a669-f63dd3e835dd][I have been given five things no other prophet before me was given: Allah made me victorious by awe (of frightening my enemies) for a distance of one month’s journey. The earth has been made for me a place of praying and purification. Therefore, one should pray whenever the time of prayer comes. War booty has been made halal for me, which was not allowed for anyone before me. I have been given the shafa’ah (intercession). Each prophet was sent to his nation specifically whereas I have been sent to the whole of mankind]]
+     #+end_quote
+46. The following are *not allowed* for someone in a state of [[id:24cec8cd-6ee0-46e1-b7a5-337a4a72b8aa][hadath]] [[id:6efca613-f528-4393-892d-1eb7b1f82880][asghar]] (minor state of ritual impurity) 
+    1. To *pray* 
+    2. *Circumambulation* (tawaf) of the Ka’bah 
+    3. To *touch* the Qur’an 
+47. The following are also not allowed if one is in a state of [[id:24cec8cd-6ee0-46e1-b7a5-337a4a72b8aa][hadath]][[id:41298647-8da4-480e-a881-97b3187d8f5c][ akbar]] (major state of ritual impurity)
+    1. To *recite* anything from the Qur’an 
+    2. To *stay in a mosque* without being in a *state of wudu* 
+48. The following are also not allowed for the *women* who is *menstruating* or has *post-natal* bleeding 
+    1. To *fast* 
+    2. To have *sexual intercourse* with her 
+    3. to *divorce* her 
+
+* Menstruation :chapter:
+:PROPERTIES:
+:ID:       aa3838a2-7ad2-4922-8ec5-9c464965a885
+:END:
+1. Blood that is *discharged* from a woman’s *private part* should at first be considered to be menstrual blood, *regardless* of *age, amount of blood or repetition* 
+2. *Except* if the blood *continuously* flows and does not stop except for a *short while*. In that case she will be considered to be [[id:8218fc28-72ae-474c-8ed7-bed6f25d972d][mustahadah]] (i.e suffering from defective bleeding)
+3. The Prophet peace and blessing of Allah be on him commanded the mustahdah to observe the rulings of menstruation according to the *duration* of her *usual* cycle. 
+4. If she doesn’t have a  regular cycle  ([[id:b2c809b7-ff62-49bb-a2db-f9f566411ee8][’adah]]), then she has to try to *distinguish* between the blood of menstruation and the blood that results from a defective condition 
+5. If she is unable to distinguish between the types of blood, she should then *consider* her menstruation to be *six or seven days*, as that is the *average* for each women 
+    
+    and Allah knows best.
+

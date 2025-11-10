@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       24151499-0d6d-43d5-8633-2cfe16fa3eb6
+:ROAM_ALIASES: earth
+:END:
+#+title: Turab
+#+filetags: :terminology:
+earth 

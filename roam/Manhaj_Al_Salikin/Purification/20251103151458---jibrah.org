@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       49be5284-99f9-4541-945f-bc31ec5d6c6c
+:ROAM_ALIASES: bandage
+:END:
+#+title: jibrah
+#+filetags: :terminology:
+bandage/cast
