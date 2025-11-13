@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       e71a534a-c110-4584-80ae-00ed61e19714
+:ROAM_ALIASES: "Abdullah ibn Amr" "Abdullah bin Amr"
 :END:
 #+title: 'Abdullah bin 'Amr bin Al-'as
 #+filetags: :narrator:

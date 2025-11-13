@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       45b02bec-cb2d-46bf-97db-f3abf6f33fc8
+:ROAM_ALIASES: "The Prophet (ﷺ) said, \"He who has, in his heart, an ant's weight of arrogance will not enter Jannah.\" Someone said: \"A man likes to wear beautiful clothes and shoes?\" Messenger of Allah (ﷺ) said, \"Allah is Beautiful, He loves beauty. Arrogance means ridiculing and rejecting the Truth and despising people.\""
 :END:
 #+title: Allah is Beautiful and loves beauty
 #+filetags: :hadith:
