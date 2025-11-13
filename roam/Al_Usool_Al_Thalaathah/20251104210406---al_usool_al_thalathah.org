@@ -63,11 +63,43 @@ https://quran.com/47/19
 :PROPERTIES:
 :ID:       6228d6d5-8a25-43ef-b6fd-ae9740e6c490
 :END:
-*** 1. That Allah created us, provide sustenance for us, and did not leave us neglected. Rather He sent a Messenger to us. So whoever obeys him will enter Paradise, whereas whoever disobeys him will enter the Hellfire
+*** Tawheed
+:PROPERTIES:
+:ID:       b823244a-b3f1-46dd-9387-68c3d1c5c750
+:END:
+- To single out Allah (ﷺ) with that which he deserves, his rights.
+- Whatever rights Allah has, only is exclusive to him, that which he deserves.
+**** There are 3 types of rights
+***** 1. [[id:8306e9d7-3c0d-4dda-9739-ef8dcdd8014b][Tawheed ar-Ruboobiyyah]] - lordship - single out Allah with his action  
+- He (ﷺ) is:
+  - The only one who was true ownership over
+  - The one who will resurrect
+  - Only one that can truly benefit us
+  - The one Commanded haram and halal for us 
+  - Feeds us and grants us security when we're free 
+  - Has unrestricted knowledge 
+  - Has the complete ability to do what he wants
+***** 2. [[id:403643c1-49dd-4087-a03a-46b3c9016393][Tawheed al-Uloohiyyah]] - worship - to single out Allah with out acts of worship
+:PROPERTIES:
+:ID:       9641de7e-3ea9-4e11-8365-f1ada3862752
+:END:
+- The people of Quriash has tawheed al rubuiya, and believed in Allah, their crime was to associate Allah with partners, the believed that they had something that will be intermediaries for them
+- Do not overpraise the prophet (ﷺ) like the Christian did with esa.
+***** 3. Tawheed al-Asmaa was-Sifaat - Names and Attributes - to affirm everything  that Allah affirmed for himself or his messenger affirmed without resembling or likening them to the creation, and without distorting them or denying them  
+:PROPERTIES:
+:ID:       a43b8432-9426-4b9d-ad03-6d1efb3be757
+:END:
+
+*** 1. That [[id:169a7548-8288-4a2b-b06e-751b7be198dd][Allah created us]], provide sustenance for us, and [[id:7ba3e38f-a68b-4205-8cbc-d278e3890708][did not leave us neglected]]. Rather He sent a Messenger to us. So whoever obeys him will enter Paradise, whereas whoever disobeys him will enter the Hellfire
 :PROPERTIES:
 :ID:       8306e9d7-3c0d-4dda-9739-ef8dcdd8014b
 :END:
-The proof of this is Allah statement :
+The proof of this is Allah statement:
+ #+begin_quote
+  [[id:6d73ba73-a0b0-4d6f-acac-1fc4afe48e03][The Enshrouded One (73:15)]]
+  Indeed, We have sent to you a Messenger as a witness upon you just as We sent to Pharaoh a messenger.
+  — Saheeh International
+ #+end_quote
  #+begin_quote
   [[id:d7447816-00fd-4f4f-ab23-378a70e947b7][The Enshrouded One (73:16)]]
   But Pharaoh disobeyed the messenger, so We seized him with a ruinous seizure.
@@ -88,7 +120,7 @@ The proof for this is:
  The term "masjid" here includes every place of worship or the earth in general.
  https://quran.com/72/18
  #+end_quote
-
+ 
 *** 3. Whoever obeys the Messenger (i.e Muhammad phub) and singles Allah out (in Worship), it is not permissible for him to take allies those who oppose Allah and His messenger, not even if they are close relatives 
 :PROPERTIES:
 :ID:       03919605-851c-45f1-9c5b-48e40dbdeaeb

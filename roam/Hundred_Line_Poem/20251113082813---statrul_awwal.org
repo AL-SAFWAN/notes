@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       a2bd4801-e9c1-402e-97d5-57b8f6c7e759
+:END:
+#+title: statrul awwal
+
+The first half of the line

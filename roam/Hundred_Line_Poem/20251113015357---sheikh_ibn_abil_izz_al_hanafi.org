@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       a5061071-f5a6-4c40-849f-c20b496c15fd
+:ROAM_ALIASES: "Ibn Abi al-Izz
+"
+:END:
+#+title: Sheikh ibn Abil-'izz al-Hanafi
+#+filetags: :Imaam:
+Name: Sadr ad-Dīn Abu'l Ḥasan ʿAlī Ibn Abī al-ʻIzz
+Area: Hanafi Scholar from Damascus
+Birth: 731AH
+Death: 792AH
+Age: 61
+

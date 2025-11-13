@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       36ad67a0-c47f-4af2-8b1b-72a5c5f5c872
+:END:
+#+title: statrul thani
+#+filetags: :terminology:
+The second part of the line

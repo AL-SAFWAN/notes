@@ -36,14 +36,16 @@ However it’s not about how much we love Allah, but how much Allah loves us. We
 * We are going to study about Allah SWT and how beautiful he his, his greatness over the creation, and how nothing is similar to him and how nothing is close to him. 
     - [[id:45b02bec-cb2d-46bf-97db-f3abf6f33fc8][Allah is Beautiful and loves beauty.]]
     - [[id:b0c547b1-6bb9-4393-998b-20743cdf7339][Ibm Qayim]] my Allah have mercy on him
-       quote
-       Allah is Al-Jamil, the most beautiful. And how can he not be the most beautiful as everything from the earth is from the effect of Allah’s beauty
-      #+end_quote
+        #+begin_quote
+        Allah is Al-Jamil, the most beautiful. And how can he not be the most beautiful as everything from the earth is from the effect of Allah’s beauty
+        #+end_quote
       if All of this is from the effect of his beautify, then surely he more beautiful than everything 
-    - [[id:9f6feb56-0226-4b56-bf1d-c4c7ffe13cb5][Ibn Taymiyyam]] may Allah have mercy on him, said an important princple 
-      quote
-      There is no attribute of perfection, except that Allah has the highest level of perfection to it
-      #+end_quote
+    - [[id:9f6feb56-0226-4b56-bf1d-c4c7ffe13cb5][Ibn Taymiyyam]] may Allah have mercy on him, said an important princple
+      
+       #+begin_quote
+       There is no attribute of perfection, except that Allah has the highest level of perfection to it
+       #+end_quote
+
       - How can the creation be anywhere near the creator, when Allah said nothing is like him “There is nothing like Him”, and “Nor is there to Him any
 
 * This is how learn aqeeda

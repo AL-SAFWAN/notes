@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ea247e91-db78-4607-9e21-c839e4f9091d
+:END:
+#+title: poem
+
+Each line is referred to as a bayt. [[id:b3f38ad0-6337-4f33-a063-672fb3019c49][Bayt]] means house. plural, Bayut (grammatical), Abiyat (in poem).
+
+In poetry it means the entire line. Each part of the Bayt, is know [[id:a2bd4801-e9c1-402e-97d5-57b8f6c7e759][statrul awwal]](1st part), or [[id:36ad67a0-c47f-4af2-8b1b-72a5c5f5c872][statrul thani(2nd part)]].
+
+
+
