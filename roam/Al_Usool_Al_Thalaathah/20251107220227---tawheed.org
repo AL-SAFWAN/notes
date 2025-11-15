@@ -1,6 +1,100 @@
 :PROPERTIES:
 :ID:       1fc686ac-3a3f-4ba4-b006-b3f85944c586
+:ROAM_ALIASES: tawheed
 :END:
 #+title: Tawheed
 #+filetags: :terminology:
-singling Allah out in worship. And the Greatest thing that Allah warned against is Shirk, which is supplication to others Along with Allah
+
+is to Singling Allah out in worship. And the Greatest thing that Allah warned against is Shirk, which is supplication to others Along with Allah
+- To single out Allah (ﷺ) with that which he deserves, his rights.
+- Whatever rights Allah (ﷻ) has, it is only is exclusive to Allah (ﷻ), that which he deserves.
+  
+* There are 3 types of rights
+- There are the general categories of the rights of Allah based on the Qur'an and Sunnah. 
+** 1. Tawheed ar-Ruboobiyyah
+:PROPERTIES:
+:ID:       237a97e9-51a6-4933-bdec-6206d04ba27f
+:END:
+Lordship - single out Allah with his action
+- He (ﷺ) is:
+  - The only one who was true ownership over
+  - The one who will resurrect
+  - Only one that can truly benefit us and the only one that can truly harm us
+  - The one Commanded haram and halal for us 
+  - Feeds us and grants us security when we're free 
+  - Has unrestricted knowledge 
+  - Has the complete ability to do what he wants
+  - He is the creator
+  - The only one that can cure us
+** 2. Tawheed al-Uloohiyyah
+:PROPERTIES:
+:ID:       9641de7e-3ea9-4e11-8365-f1ada3862752
+:END:
+worship - to single out Allah with out acts of worship
+- The people of Quriash has tawheed al rubuiya, and believed in Allah, their crime was to associate Allah with partners, the believed that they had something that will be intermediaries for them
+- Do not overpraise the prophet (ﷺ) like the Christian did with esa.
+** 3. Tawheed al-Asmaa was-Sifaat  
+:PROPERTIES:
+:ID:       a43b8432-9426-4b9d-ad03-6d1efb3be757
+Names and Attributes - to affirm everything  that Allah affirmed for himself or his messenger affirmed without resembling or likening them to the creation, and without distorting them or denying them 
+* Ar-Ruboobiyyah -> ul-Uloohiyyah
+:PROPERTIES:
+:ID:       f7472ed1-4eff-4053-b3dd-ce81b6fa2533
+:END:
+To know only Allah (ﷻ) truly benefit and harm us, then he is only one deserving of worship. As everything else other than Allah, like a tree, stone or saint, is deficient will not truly benefit us or harm, then they're not deserving of our acts of worship.
+** example of Quraish    
+:PROPERTIES:
+:ID:       7c9395e4-2d44-408a-bcd4-c525a56bb355
+:END:
+When the Prophet (ﷺ), was sent to the people of Quriash, who had tawheed al rubuiya, and believed in Allah,
+ #+begin_quote
+ [[id:8157298b-2fc5-4c2a-8768-968e0625e584][The Ornaments of Gold (43:87)]]
+ If you ask them ˹O Prophet˺ who created them, they will certainly say, “Allah!” How can they then be deluded ˹from the truth˺?
+  — Dr. Mustafa Khattab, The Clear Quran
+  https://quran.com/43/87
+ #+end_quote
+ 
+Their crime and disbelief was to associate Allah with partners. They did not associate Allah in terms of the Action (creator, provider, etc), but they believed that they had something that will be intermediaries for them and directed their acts of worship to them, they associated partners in terms of worship.
+ #+begin_quote
+  [[id:6275236f-bfd8-4484-90f8-0d2185c03c0d][Jonah (10:18)]] 
+  And they worship other than Allāh that which neither harms them nor benefits them, and they say, "These are our intercessors with Allāh." Say, "Do you inform Allāh of something He does not know in the heavens or on the earth?" Exalted is He and high above what they associate with Him.
+  — Saheeh International
+  https://quran.com/10/18
+ #+end_quote
+
+So why did they worship them?
+ #+begin_quote
+  [[id:4742ecab-56cb-4b9a-b37a-a590dacfac3b][The Troops (39:3)]] 
+  Unquestionably, for Allāh is the pure religion. And those who take protectors besides Him [say], "We only worship them that they may bring us nearer to Allāh in position." Indeed, Allāh will judge between them concerning that over which they differ. Indeed, Allāh does not guide he who is a liar and [confirmed] disbeliever.
+  — Saheeh International
+  https://quran.com/39/3
+ #+end_quote
+They likened Allah to the kings and leaders of this world, if you want to a speak to a leader of the world, you ask someone that knows him to ask him, and hoping by this you assume you'll come close to the leader, they said how can we go to Allah directly when we are so sinful, let us as someone that he like and that thing will ask Allah. They know what worship is. Hence by this, we understand to single out our actions in terms of worship. we don't ask, status, angels, people, trees, saints or the dead
+
+* Every creation believe in the [[1. Tawheed ar-Ruboobiyyah]]
+except for those who show pride and arrogance, even thought they're heart and tongue believe it.
+
+Pharaoh
+- called himself the lord, but is he truly the lord? no, he knew he had to eat and wasn't the creator of mankind 
+- but he needed to control people.
+Atheist 
+- They wish to deny the lordship of Allah, if they reject the creator, then who will they worship if there is no lord.
+
+Why the Prophet (ﷺ) did not call people to look for Allah and look for his existence?
+
+It is because Allah created the [[id:926292b5-1554-485f-8f30-b8cf02f9a3a4][Fitrah]], an innate program, that can't deny the lordship of Allah (Creator, Eternal, All Powerful), they know the universe can't be created out of absolute complete nothingness (the absence absolutely everything this also include matter and energy), but by the creator who is eternal.
+
+Allah has given the creation to reflect to prove that he is the creator, everything that is created need something to be bought into creation. when you see there is footprint, you know that someone stood there, if you see a hole, you know someone had dug it.
+
+When you know something is in existence, who bought it to existence?
+ #+begin_quote
+  [[id:0714147f-7835-4334-a89a-2fb20f155837][The Mount (52:35)]] 
+  Or were they created by nothing, or are they ˹their own˺ creators?
+ #+end_quote
+ #+begin_quote
+ [[id:eeae2343-1b6e-48a8-9068-8ec5100ad57f][The Pilgrimage (22:73)]] 
+ O humanity! A lesson is set forth, so listen to it ˹carefully˺: those ˹idols˺ you invoke besides Allah can never create ˹so much as˺ a fly, even if they ˹all˺ were to come together for that. And if a fly were to snatch anything away from them, they cannot ˹even˺ retrieve it from the fly. How powerless are those who invoke and those invoked!
+ #+end_quote
+ 
+When the human needs to create, he manipulates something from the creation of Allah to produce something, but he can never make something from absolute nothings, even if they all got together. 
+

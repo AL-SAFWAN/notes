@@ -3,7 +3,20 @@
 :END:
 #+title: Allah lead astray
 
-This doesn't not mean that Allah has oppressed the person, but rather he has given mankind free will. We have the choice to choose which path to take. In their heart is a disease and they choose to go astray.
+* They choose corruption, diseased is their heart
+:PROPERTIES:
+:ID:       42e8f2e4-48ce-4812-a6a6-16ceeafd8b99
+:END:
+This doesn't not mean that Allah has oppressed the person, but rather he has given mankind free will.
+
+We have the choice to choose which path to take.
+ #+begin_quote
+  [[id:a68e80f3-91b0-4452-b23a-0c470f6d655d][The Sun (91:8)]] And inspired it [with discernment of] its wickedness and its righteousness,
+  [[id:33e038d1-281b-4749-be6d-2343e8c40c60][The Sun (91:9)]] Successful indeed is the one who purifies their soul,
+  [[id:4735ff6b-d9d0-42e0-880f-392c81c5d974][The Sun (91:10)]] and doomed is the one who corrupts it!
+ #+end_quote
+
+In their heart is a disease and they choose to go astray.
  #+begin_quote
   [[id:d36523c8-e066-45c9-bf80-df7f82032464][The Cow (2:10)]]
   In their hearts is disease, so Allāh has increased their disease; and for them is a painful punishment because they [habitually] used to lie.
@@ -14,7 +27,13 @@ This doesn't not mean that Allah has oppressed the person, but rather he has giv
 
 In their heart is a disease, so they choose to go away from the path and didn't want to cure the disease of their heart, he (ﷻ) increase them in their disease, when they turned away, they turned their hearts away. Allah (ﷻ) showed the evidences and they turned away from it.
 
-We have the natural inclination called fitrah, and a natural inclination to do goodness and even if we didn't have the Qur'an, we will know that there is a creator to be worshipped from his signs. After the proof has been established over them, they still turn away form the path, while increasing in their disbelief and transgression, so they turn away, Allah (ﷻ) turn their heart away, Allah seal their heart and their hearing and a cover on their sight
+We have the natural inclination called [[id:926292b5-1554-485f-8f30-b8cf02f9a3a4][fitrah]], and a natural inclination to do goodness and even if we didn't have the Qur'an, we will know that there is a creator to be worshipped from his signs.
+
+* After the proof has been established over them, they still turn away form the path, while increasing in their disbelief and transgression,
+:PROPERTIES:
+:ID:       5d1660e0-654a-4186-8a9f-28ba5009d1bd
+:END:
+so they keep turning away increasing in their corruption, Allah (ﷻ) turn their heart away, Allah seal their heart and their hearing and a cover on their sight
  #+begin_quote
   [[id:268ad1bd-3c92-4021-8ca4-b3fb581f3b1d][The Cow (2:7)]]
   Allah has sealed their hearts and their hearing, and their sight is covered. They will suffer a tremendous punishment.
@@ -23,7 +42,7 @@ We have the natural inclination called fitrah, and a natural inclination to do g
   https://quran.com/2/7
  #+end_quote
  
-they are deaf dumb and blind and they will not understand, Allah kept giving them chances until the door has been close.
+They're deaf dumb and blind and they will not understand, Allah kept giving them chances until the door has been closed.
  #+begin_quote
   [[id:fb825e4a-a60a-4f08-8174-aa69b3759182][The Cow (2:16)]] 
   They are the ones who trade guidance for misguidance. But this trade is profitless, and they are not ˹rightly˺ guided.
@@ -42,7 +61,10 @@ they are deaf dumb and blind and they will not understand, Allah kept giving the
   — Dr. Mustafa Khattab, The Clear Quran
   https://quran.com/2/18
  #+end_quote
-
+* Example of Pharoah
+:PROPERTIES:
+:ID:       1cbfb0c5-bf8b-405e-a9bd-0a2d45ac9ba5
+:END:
 For example at the time of Musa, pharaoh had evidence established over him one after another. Then after, Musa made dua where he asked there heart to be seal, and only for open it for them until they've seen the punishment.
  #+begin_quote
   [[id:38f62ebe-fadf-4f41-8d72-8fd1bbe9f4bb][Jonah (10:88)]]
@@ -50,12 +72,11 @@ For example at the time of Musa, pharaoh had evidence established over him one a
   — Saheeh International
   https://quran.com/10/88
  #+end_quote
-
-[[id:308f745f-1fa6-4464-b510-24e7ec1cb3db][Allah does not oppress anyone]]. In hadith qudsi Allah (ﷻ) says: 
+* [[id:308f745f-1fa6-4464-b510-24e7ec1cb3db][Allah does not oppress anyone]].In hadith qudsi Allah (ﷻ) says:
  #+begin_quote
  I have forbidden oppression for Myself and have made it forbidden amongst you, so do not oppress one another.
  #+end_quote
-Allah (ﷻ) is  the most just, the most gentil, the most generous, extremely generous the one who give in abundance.
+Allah (ﷻ) is  the most just, the most gentle, the most generous, extremely generous the one who give in abundance.
 
-Allah lead astray is understood by this, that he chose to leave the Shari'a and Allah let him go completly. 
+Allah lead astray is understood by this, that he chose to leave the Shari'a and Allah let him go completely. 
 

@@ -9,16 +9,15 @@
 :ID:       fb34778c-3042-401c-bf93-63bdc7cd2233
 :END:
 ** [[id:a1f78754-b39b-4352-8be8-c64ba84b48d9][Bismillah Ar-Rahman Ar-Rahim]]
-** Know, [[id:60ded593-dc31-4d75-8459-48a69bc7d9d5][may Allah have mercy on you]],
-*** that we are obligated to learn four matters
-:PROPERTIES:
+** Know, [[id:60ded593-dc31-4d75-8459-48a69bc7d9d5][may Allah have mercy on you]], that we are obligated to learn ~four matters~
+~:PROPERTIES:
 :ID:       68f75a58-8f2f-4f70-9405-569fde62d59e
 :END:
-***** 1. [[id:581ddff5-392f-4285-b340-12c6c30b5404][Knowledge]]
-***** 2. [[id:3a317c6a-513a-48cd-a8aa-c2f062d9c3b1][Acting on this]] 
-***** 3. [[id:e4d3eb72-0720-4f1b-9671-43360f60aff2][Calling to it]]
-***** 4. [[id:a4a32076-1a68-48eb-a904-0c29e17d0977][patience with the harm that befall due to it]]
-**** The proof of this is Allah's saying
+**** 1. [[id:581ddff5-392f-4285-b340-12c6c30b5404][Knowledge]]
+**** 2. [[id:3a317c6a-513a-48cd-a8aa-c2f062d9c3b1][Acting on this]] 
+**** 3. [[id:e4d3eb72-0720-4f1b-9671-43360f60aff2][Calling to it]]
+**** 4. [[id:a4a32076-1a68-48eb-a904-0c29e17d0977][patience with the harm that befall due to it]]
+*** The proof of this is Allah's saying
 :PROPERTIES:
 :ID:       9eb945a1-fb4a-4d8f-ad77-582101fdf7ec
 :END:
@@ -44,7 +43,7 @@ https://quran.com/103/3
 #+begin_quote
 [[id:9b0d0294-7f07-40ee-98f0-4d0f8b2c313f][Had Allah not send down a proof to his creation other than this surah, it would have been sufficient for them]]
 #+end_quote
-**** [[id:18b3ad1e-8b3e-4e19-b5cc-e6a581593ecc][Al-Bukhaari]], may Allah be pleased with him, said:
+*** [[id:18b3ad1e-8b3e-4e19-b5cc-e6a581593ecc][Al-Bukhaari]], may Allah be pleased with him, said:
 #+begin_quote
 [[id:3a3c314c-9bcc-46d8-8586-90c1d0cea879][Chapter: knowledge comes before speech and action]]    
 #+end_quote
@@ -59,79 +58,15 @@ So know, [O Muḥammad], that there is no deity except Allāh and ask forgivenes
 https://quran.com/47/19    
 #+end_quote
         
-** Know, may Allah have mercy on you, It is obligatory upon every Muslim male and female to learn and act upon the following three things 
+** Know, may Allah have mercy on you, It is obligatory upon every Muslim male and female to learn and act upon the following ~three things~ 
 :PROPERTIES:
 :ID:       6228d6d5-8a25-43ef-b6fd-ae9740e6c490
 :END:
-*** Tawheed
-:PROPERTIES:
-:ID:       b823244a-b3f1-46dd-9387-68c3d1c5c750
-:END:
-- To single out Allah (ﷺ) with that which he deserves, his rights.
-- Whatever rights Allah has, only is exclusive to him, that which he deserves.
-**** There are 3 types of rights
-***** 1. [[id:8306e9d7-3c0d-4dda-9739-ef8dcdd8014b][Tawheed ar-Ruboobiyyah]] - lordship - single out Allah with his action  
-- He (ﷺ) is:
-  - The only one who was true ownership over
-  - The one who will resurrect
-  - Only one that can truly benefit us
-  - The one Commanded haram and halal for us 
-  - Feeds us and grants us security when we're free 
-  - Has unrestricted knowledge 
-  - Has the complete ability to do what he wants
-***** 2. [[id:403643c1-49dd-4087-a03a-46b3c9016393][Tawheed al-Uloohiyyah]] - worship - to single out Allah with out acts of worship
-:PROPERTIES:
-:ID:       9641de7e-3ea9-4e11-8365-f1ada3862752
-:END:
-- The people of Quriash has tawheed al rubuiya, and believed in Allah, their crime was to associate Allah with partners, the believed that they had something that will be intermediaries for them
-- Do not overpraise the prophet (ﷺ) like the Christian did with esa.
-***** 3. Tawheed al-Asmaa was-Sifaat - Names and Attributes - to affirm everything  that Allah affirmed for himself or his messenger affirmed without resembling or likening them to the creation, and without distorting them or denying them  
-:PROPERTIES:
-:ID:       a43b8432-9426-4b9d-ad03-6d1efb3be757
-:END:
+*** 1. [[id:2ea83203-15c8-4829-9dc1-9411700fb41a][That Allah created us, provide sustenance for us, and did not leave us neglected. Rather He sent a Messenger to us. So whoever obeys him will enter Paradise, whereas whoever disobeys him will enter the Hellfire]]
 
-*** 1. That [[id:169a7548-8288-4a2b-b06e-751b7be198dd][Allah created us]], provide sustenance for us, and [[id:7ba3e38f-a68b-4205-8cbc-d278e3890708][did not leave us neglected]]. Rather He sent a Messenger to us. So whoever obeys him will enter Paradise, whereas whoever disobeys him will enter the Hellfire
-:PROPERTIES:
-:ID:       8306e9d7-3c0d-4dda-9739-ef8dcdd8014b
-:END:
-The proof of this is Allah statement:
- #+begin_quote
-  [[id:6d73ba73-a0b0-4d6f-acac-1fc4afe48e03][The Enshrouded One (73:15)]]
-  Indeed, We have sent to you a Messenger as a witness upon you just as We sent to Pharaoh a messenger.
-  — Saheeh International
- #+end_quote
- #+begin_quote
-  [[id:d7447816-00fd-4f4f-ab23-378a70e947b7][The Enshrouded One (73:16)]]
-  But Pharaoh disobeyed the messenger, so We seized him with a ruinous seizure.
-  — Saheeh International
-  https://quran.com/73/16
- #+end_quote
+*** 2. [[id:e1954837-3126-4204-8ed9-d58b22c6109d][Allah is not pleased with anyone being mixed into worship with him - neither the angles brought close nor a prophet that was sent]]
 
-*** 2. Allah is not pleased with anyone being mixed into worship with him - neither the angles brought close nor a prophet that was sent 
-:PROPERTIES:
-:ID:       403643c1-49dd-4087-a03a-46b3c9016393
-:END:
-The proof for this is:
- #+begin_quote
- [[id:d3a58b0a-7ac7-4d5f-a4dc-1c4b801756e8][The Jinn (72:18)]] 
- And [He revealed] that the masjids are for Allāh, so do not invoke (or worship) with Allāh anyone.
- — Saheeh International
- Footnote - 1
- The term "masjid" here includes every place of worship or the earth in general.
- https://quran.com/72/18
- #+end_quote
- 
-*** 3. Whoever obeys the Messenger (i.e Muhammad phub) and singles Allah out (in Worship), it is not permissible for him to take allies those who oppose Allah and His messenger, not even if they are close relatives 
-:PROPERTIES:
-:ID:       03919605-851c-45f1-9c5b-48e40dbdeaeb
-:END:
-The proof of this is in:
- #+begin_quote
-  [[id:fabc6dd3-15fb-40ff-a413-75766912ae0f][The Pleading Woman (58:22)]]
-  You will not find a people who believe in Allāh and the Last Day having affection for those who oppose Allāh and His Messenger, even if they were their fathers or their sons or their brothers or their kindred. Those - He has decreed within their hearts faith and supported them with spirit from Him. And We will admit them to gardens beneath which rivers flow, wherein they abide eternally. Allāh is pleased with them, and they are pleased with Him - those are the party of Allāh. Unquestionably, the party of Allāh - they are the successful.
-  — Saheeh International
-  https://quran.com/58/22
- #+end_quote
+*** 3. [[id:2ea5952e-b0cf-4bf1-8187-a671e5f35b90][Whoever obeys the Messenger (i.e Muhammad phub) and singles Allah out (in Worship), it is not permissible for him to take allies those who oppose Allah and His messenger, not even if they are close relatives]]
 
 ** Know, may Allah grant you the ability to obey Him, that Al-Hanifiyaah, the religion of Ibrahim, is that you worship Allah alone, making the religion sincerely (i.e solely) for him. This is what Allah ordered all of mankind to do, and this is the purpose for which he created them,
 :PROPERTIES:
