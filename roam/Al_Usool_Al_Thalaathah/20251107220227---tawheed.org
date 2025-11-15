@@ -10,7 +10,8 @@ is to Singling Allah out in worship. And the Greatest thing that Allah warned ag
 - Whatever rights Allah (ﷻ) has, it is only is exclusive to Allah (ﷻ), that which he deserves.
   
 * There are 3 types of rights
-- There are the general categories of the rights of Allah based on the Qur'an and Sunnah. 
+- There are the general categories of the rights of Allah based on the Qur'an and Sunnah.
+  Tawheed ar-Ruboobiyyah is the action that comes done to the creation, Tawheed al-Uloohiyyah is the action that goes to Allah alone. 
 ** 1. Tawheed ar-Ruboobiyyah
 :PROPERTIES:
 :ID:       237a97e9-51a6-4933-bdec-6206d04ba27f
@@ -35,14 +36,59 @@ worship - to single out Allah with out acts of worship
 - Do not overpraise the prophet (ﷺ) like the Christian did with esa.
 ** 3. Tawheed al-Asmaa was-Sifaat  
 :PROPERTIES:
-:ID:       a43b8432-9426-4b9d-ad03-6d1efb3be757
-Names and Attributes - to affirm everything  that Allah affirmed for himself or his messenger affirmed without resembling or likening them to the creation, and without distorting them or denying them 
+:ID:       0d767cc2-9735-4627-b0c9-7a736efcd187
+:END:
+to single out Allah in his Names and Attributes
+- to affirm complete perfection in everything that Allah affirmed for himself or his messenger affirmed without resembling or likening them to the creation, and without distorting them or denying them
+  - Allah is described with the most perfect name and the most perfect attributes 
+  - This is Allah describing Allah himself
+    
+Scholars say that his is a branch from Tawheed ar-Ruboobiyyah, but due to the trial of the past, it was made into it's own category to affirm is distinction.
+
+The prophet (ﷺ) affirmed for Allah (ﷻ) without doing 4 things:
+*** Ta‘ṭīl
+:PROPERTIES:
+:ID:       e8b273ae-9343-49a6-a0d3-f31cf9682157
+:END:
+rejecting /negating / stripping away the attributes, which Allah has said
+- Allah said he is the most merciful, he is the most merciful.
+*** Taḥrīf 
+:PROPERTIES:
+:ID:       0e9240f7-3f79-4aa9-aedc-f8ad309458dd
+:END:
+some call this taweel
+Distorting wording/meaning without proof.
+- He is the most merciful, it mean the most merciful
+*** Takyīf
+:PROPERTIES:
+:ID:       6a3a298c-748d-43a7-b282-045851cbb992
+:END:
+trying to describe how Allah’s attributes are.
+only know by:
+- Seeing Allah
+- Seeing something like Allah
+- Allah describing it exactly
+  
+We have not seen Allah, nor is there something like Allah and Allah has not describe himself exactly.
+
+We say about Allah’s attributes what Imām [[id:548d27b9-95e7-45d5-9684-fd68f2e9b526][malik]] said about al-istiwā’:
+ #+begin_quote
+  The meaning is known, the ‘how’ is unknown, believing in it is obligatory, and asking about the ‘how’ is an innovation.”
+ #+end_quote
+
+*** Tamthīl
+:PROPERTIES:
+:ID:       b56e22a3-03f3-4817-b46c-76bd8393198d
+:END:
+Likeness/equating Allah with creation.
+
+  
 * Ar-Ruboobiyyah -> ul-Uloohiyyah
 :PROPERTIES:
 :ID:       f7472ed1-4eff-4053-b3dd-ce81b6fa2533
 :END:
 To know only Allah (ﷻ) truly benefit and harm us, then he is only one deserving of worship. As everything else other than Allah, like a tree, stone or saint, is deficient will not truly benefit us or harm, then they're not deserving of our acts of worship.
-** example of Quraish    
+** example of Quraish
 :PROPERTIES:
 :ID:       7c9395e4-2d44-408a-bcd4-c525a56bb355
 :END:
@@ -71,16 +117,30 @@ So why did they worship them?
  #+end_quote
 They likened Allah to the kings and leaders of this world, if you want to a speak to a leader of the world, you ask someone that knows him to ask him, and hoping by this you assume you'll come close to the leader, they said how can we go to Allah directly when we are so sinful, let us as someone that he like and that thing will ask Allah. They know what worship is. Hence by this, we understand to single out our actions in terms of worship. we don't ask, status, angels, people, trees, saints or the dead
 
+
 * Every creation believe in the [[1. Tawheed ar-Ruboobiyyah]]
-except for those who show pride and arrogance, even thought they're heart and tongue believe it.
+:PROPERTIES:
+:ID:       c50b85e5-cd42-4c29-82d4-d473d9d15b09
+:END:
+** except for those who show pride and arrogance, even thought they're heart and tongue believe it.
+:PROPERTIES:
+:ID:       ba454fb5-1e7a-4c12-9657-c0c20b149e76
+:END:
 
 Pharaoh
 - called himself the lord, but is he truly the lord? no, he knew he had to eat and wasn't the creator of mankind 
 - but he needed to control people.
 Atheist 
 - They wish to deny the lordship of Allah, if they reject the creator, then who will they worship if there is no lord.
-
-Why the Prophet (ﷺ) did not call people to look for Allah and look for his existence?
+  - They bring about question that are invalid themselves, which by definition is illogical.
+    - e.g. can Allah create a rock which he can't lift 
+    - Allah can do everything, which is befitting for him and not deficient. The question itself assumes deficiency. Hence, it is illogical to bring a deficient question that necessitate deficiencies for that which has no deficiencies.   
+      - e.g. what is the name of the child that was born before their mother 
+        
+** Why the Prophet (ﷺ) did not call people to look for Allah and look for his existence?
+:PROPERTIES:
+:ID:       79f4b70c-f2b2-4f5c-9d08-2102eac0d0fe
+:END:
 
 It is because Allah created the [[id:926292b5-1554-485f-8f30-b8cf02f9a3a4][Fitrah]], an innate program, that can't deny the lordship of Allah (Creator, Eternal, All Powerful), they know the universe can't be created out of absolute complete nothingness (the absence absolutely everything this also include matter and energy), but by the creator who is eternal.
 

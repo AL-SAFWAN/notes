@@ -24,60 +24,86 @@
     
    And Allah knows best 
     
-* TODO Water :chapter:
+* Water :chapter:
 :PROPERTIES:
 :ID:       8bb19516-6e06-4ea1-92d1-1a6c6dec278b
 :END:
-1. [@6] The prayer has *conditions (shurut pl. of [[id:f194397e-ea68-408b-b3a2-0bc3901ba5eb][shart]])* that precede it, amongst them: 
-2. *Ritual purification ([[id:4b649d64-f671-439e-9b44-61bbd69af197][taharah]])*.
+** 6. The prayer has *conditions (shurut pl. of [[id:f194397e-ea68-408b-b3a2-0bc3901ba5eb][shart]])* that precede it, amongst them: 
+:PROPERTIES:
+:ID:       861ca2ae-b1fe-4638-8fdc-54f428bcdf01
+:END:
+*** 7. Ritual purification ([[id:4b649d64-f671-439e-9b44-61bbd69af197][taharah]]).
+:PROPERTIES:
+:ID:       d6475e28-4bbe-46ef-b1e1-aba9125d002f
+:END:
    The Prophet (ﷺ), said:
     #+begin_quote
      Allah (ﷻ) does not accept a prayer without purification (Agreed upon).
     #+end_quote
-   Thus the one who does not purify himself from ritual impurity, major and minor, as well as physical impurities will render his prayer invalid 
-3. There are *two methods* of purification ([[id:4b649d64-f671-439e-9b44-61bbd69af197][taharah]]).
-4. The first is purification by *water*, this is the primary method of purification. 
-5. All water that descends from the sky or comes out form the ground is purifying ([[id:735d5c39-7a90-4765-8c8d-d529c1fbc630][tahur]]). Such water purifies one form ritual impurities ([[id:24cec8cd-6ee0-46e1-b7a5-337a4a72b8aa][hadath]]) as well as physical ([[id:081d831c-ee10-4c05-adda-2649c4bc2037][khabath]]) even if its *colour, taste or smell* was changed by something pure since the prophet said [[id:d5505d11-f079-4ae4-9a7e-7158176e4ba3][“Verily water is pure, and nothing makes it impure.]]” (Abu Duwud & Tirmidihi).
-6. if one of its *three characteristics* changes by something impure, then it is considered to be [[id:eaaaa701-b527-4002-8e43-c7b9e809478f][najis]] (impure); this, it is compulsory to keep away form it (i.e one cannot use it for purification).
-7. The original rulings of things is that they are pure and permissible to use.
-8. Thus, if one doubts the purity of water, clothes, surface or anything else, it is consider [[id:62ba1ad5-6f77-43e2-b242-b4ea92872650][tahir]] (pure). Likewise, if one was sure that they were initially in a state of purification and then doubted whether they preserved their purification, they are also tahir (pure) due to the statement of the Prophet peace and blessing of Allah be on him, to the person who imagined to have passed wind during prayer, “[[id:df781be5-f71b-4612-8f07-40806fea3889][One should not leave his Salah until he hears a sounds or finds a smell]]” (Agreed Upon)
+   - Thus the one who does not purify himself from ritual impurity, *major* and *minor*, as well as *physical impurities* will render his prayer invalid. 
+*** 8. There are *two methods* of purification ([[id:4b649d64-f671-439e-9b44-61bbd69af197][taharah]]).
+:PROPERTIES:
+:ID:       b57ebaa5-e6e8-4e1b-b06b-40b9581702f7
+:END:
+**** 9. The first is purification by water, this is the [[id:74b3e9f7-a996-4746-a610-6b61d01775e8][primary method]] of purification. 
+:PROPERTIES:
+:ID:       155c5b5e-1524-4fd4-b738-5c7073eb58f5
+:END:
+***** 10. All water that descends from the sky or comes out form the ground is purifying ([[id:735d5c39-7a90-4765-8c8d-d529c1fbc630][tahur]]).
+:PROPERTIES:
+:ID:       da835817-28ae-417e-9ad4-d8ff2f7b4c21
+:END:
+Such [[id:64ee53d9-23d0-4356-a42e-299c8a296083][water purifies]] one form ritual impurities ([[id:24cec8cd-6ee0-46e1-b7a5-337a4a72b8aa][hadath]]) as well as physical ([[id:081d831c-ee10-4c05-adda-2649c4bc2037][khabath]]) even if its *colour, taste or smell* was changed by something pure since the prophet said [[id:d5505d11-f079-4ae4-9a7e-7158176e4ba3][“Verily water is pure, and nothing makes it impure.]]” (Abu Duwud & Tirmidihi).
+***** 11. if one of its *[[id:5d02571e-fc6b-4912-b3c9-500b396c867d][three characteristics]]* changes by something impure, then it is considered to be [[id:eaaaa701-b527-4002-8e43-c7b9e809478f][najis]] (impure); this, it is compulsory to keep away form it (i.e one cannot use it for purification).
+:PROPERTIES:
+:ID:       2695c907-502c-49da-a4e5-41141450201c
+:END:
+***** 12. The original rulings of things is that they are *[[id:b09bcecf-f000-473a-bdfa-42f867cb51cc][pure and permissible]]* to use.
+:PROPERTIES:
+:ID:       52cac17c-896e-478b-800e-6abd57faecaf
+:END:
+***** 13. Thus, if one doubts the purity of water, clothes, surface or anything else, it is consider [[id:62ba1ad5-6f77-43e2-b242-b4ea92872650][tahir]] (pure).
+:PROPERTIES:
+:ID:       f5aa13ce-b844-4a38-93f1-643cd3e2904c
+:END:
+Likewise, if one was sure that they were initially in a state of purification and [[id:7359a442-06f4-4ecd-ab6d-9819c0a28fef][then doubted]] whether they preserved their purification, they are also [[id:62ba1ad5-6f77-43e2-b242-b4ea92872650][tahir]] (pure) due to the statement of the Prophet peace and blessing of Allah be on him, to the person who imagined to have passed wind during prayer, “[[id:df781be5-f71b-4612-8f07-40806fea3889][One should not leave his Salah until he hears a sounds or finds a smell]]” (Agreed Upon).
 
-* Utensils :chapter:
+* Utensils/ containers :chapter:
 :PROPERTIES:
 :ID:       39522dfb-8ff4-4ea7-83c8-6da99ffcc58a
 :END:
-1. All utensils are permissible 
-2. Except gold and silver utensils and that which contains them, except for a *small amount* of similar due to a pressing need ([[id:9464ff87-1927-4d7b-944f-526849759d8b][hajah]]). This is due to the statement of the Prophet peace and blessing of Allah said “[[id:55862fce-c98d-4d96-8b04-60b3998a2f05][Do not drink from containers made of gold and silver and do not eat from it (gold and silver) bowls, for verily it is for them in this worlds and for us in the afterlife]]”
+14. All utensils/ [[id:9a4cbd1f-5b01-4f59-945d-6d5819cf5a4a][container]] are permissible 
+15. Except gold and silver utensils and that which contains them, except for a *small amount* of similar [[id:1b69ca19-4de5-493e-8f58-49339190a1c5][due to a pressing need]] ([[id:9464ff87-1927-4d7b-944f-526849759d8b][hajah]]). This is due to the statement of the Prophet peace and blessing of Allah said “[[id:55862fce-c98d-4d96-8b04-60b3998a2f05][Do not drink from containers made of gold and silver and do not eat from it (gold and silver) bowls, for verily it is for them in this worlds and for us in the afterlife]]”
    
 * Istinja and the Etiquette's of Relive oneself :chapter:
 :PROPERTIES:
 :ID:       567b18ac-00c7-4400-88c5-213eb1d1621f
 :END:
-1. It is *recommended* that if one enters an area to relieve oneself that one enters with their *left foot* (before their right) and says:
-   #+begin_quote
-   in the name of Allah, O Allah I seek refuge in you from the male and female
-   #+end_quote
-2. And when one leaves, one should: 
-   1. leave their *right foot* 
-   2. say
-      #+begin_quote
-      O Allah I seek your forgiveness
-      Praise is to Allah, who has relieved me from impurity and given me good health.
-      #+end_quote
-3. One should *support themselves* by putting more weight on their left leg and erecting their right. 
-4. One should *conceal themselves* with a barrier or by something else. 
-5. One should *distance themselves* away from people if one was in on open area 
-6. It is *not permissible* to answer the call of nature in 
-   1. *pathways* 
-   2. places where *people sit* 
-   3. underneath *trees* that gives *fruits*
-   4. or in an area that will *harm other people* 
-7. It is not permitted to *face the qiblah* or turn one back to it while relieving oneself due to the saying of the prophet peace and blessing of Allah be on him, "[[id:e3beaa4b-8aad-47c0-b9e7-f9ed908118e1][if anyone of you goes to a open space for answering the call of nature, he should neither face nor turn his back towards the qiblah while urinating or defecating. Instead he should face the east or the waste.]]" (agreed upon) 
-8. After relieving oneself, one should: 
-   1. Do [[id:b2737f81-6285-402a-b89f-0e75b406bfb7][istimar]] (cleaning the private parts by using a solid material) with three stone or something similar to it that cleans the required area 
-   2. then one should do [[id:9b16c288-d460-4c05-90d1-decda4791c84][istinja]] (cleaning the private part with water until the impurity is washed away)
-9. It is sufficient to restrict oneself to *one of the two* (i.e istijmar or istinja)
-10. One cannot perform istijmar with the following 
+16. It is *recommended* that if one enters an area to relieve oneself that one enters with their *left foot* (before their right) and says:
+    #+begin_quote
+    [[id:e55a71cd-6be5-4381-9fd5-ded90cf6804a][in the name of Allah]], O Allah I seek refuge in you from the male and female
+    #+end_quote
+17. And when one leaves, one should: 
+    1. leave their *[[id:047739da-085b-4786-b943-521ba9af028a][right]] foot* 
+    2. say
+       #+begin_quote
+       [[id:3e9b2abc-2b71-43b1-9dd4-9a13c31bcffd][O Allah I seek your forgiveness]]
+       [[id:6ed85710-8480-4b2c-92d3-00a1e7e188bc][Praise is to Allah, who has relieved me from impurity and given me good health.]]
+       #+end_quote
+18. One should *support themselves* by putting more weight on their left leg and erecting their right. 
+19. One should *conceal themselves* with a barrier or by something else. 
+20. One should *distance themselves* away from people if one was in on open area 
+21. It is *not permissible* to answer the call of nature in 
+    1. *pathways* 
+    2. places where *people sit* 
+    3. underneath *trees* that gives *fruits*
+    4. or in an area that will *harm other people* 
+22. It is not permitted to *face the qiblah* or turn one back to it while relieving oneself due to the saying of the prophet peace and blessing of Allah be on him, "[[id:e3beaa4b-8aad-47c0-b9e7-f9ed908118e1][if anyone of you goes to a open space for answering the call of nature, he should neither face nor turn his back towards the qiblah while urinating or defecating. Instead he should face the east or the waste.]]" (agreed upon) 
+23. After relieving oneself, one should: 
+    1. Do [[id:b2737f81-6285-402a-b89f-0e75b406bfb7][istimar]] (cleaning the private parts by using a solid material) with three stone or something similar to it that cleans the required area 
+    2. then one should do [[id:9b16c288-d460-4c05-90d1-decda4791c84][istinja]] (cleaning the private part with water until the impurity is washed away)
+24. It is sufficient to restrict oneself to *one of the two* (i.e istijmar or istinja)
+25. One cannot perform istijmar with the following 
     1. *dung or bones*, as that was prohibited by the prophet 
     2. anything of *sanctity*
        

@@ -4,4 +4,5 @@
 :END:
 #+title: tahir
 
-something that is ritually clean. 
+- something that is ritually clean. Even if in doubt, as this is the default position.  
+- if one was sure that they were initially in a state of purification and then doubted whether they preserved their purification, they are also tahir

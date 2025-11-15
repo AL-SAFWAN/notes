@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       5d02571e-fc6b-4912-b3c9-500b396c867d
+:END:
+#+title: three characteristics
+#+filetags: :terminology:
+colour, taste or smell

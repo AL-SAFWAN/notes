@@ -57,7 +57,7 @@ This is why we was created and [[id:1cbfb0c5-bf8b-405e-a9bd-0a2d45ac9ba5][what e
 :PROPERTIES:
 :ID:       b1018d34-d2ce-4d0c-ab29-4445ea7f758e
 :END:
-
+If Allah leaved us without messenger, then we will be misguided, it was from Allah's lordship that he sent us messengers and books.  
  #+begin_quote
   [[id:b9227843-9fa7-4ced-854f-a1528336bf45][The Believers (23:115)]]
   Then did you think that We created you uselessly and that to Us you would not be returned?"
@@ -92,3 +92,4 @@ This is why we was created and [[id:1cbfb0c5-bf8b-405e-a9bd-0a2d45ac9ba5][what e
   — Saheeh International
   https://quran.com/51/56
  #+end_quote
+

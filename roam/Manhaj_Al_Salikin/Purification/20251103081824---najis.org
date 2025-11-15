@@ -5,5 +5,9 @@
 #+title: najis
 #+filetags: :terminology:
 
-something that is ritually unclean
-Najasa refers to the state of ritual impurity
+something that is ritually unclean (e.g urine)
+- can not be used to make wudo with
+  - if water have change to being impure by chaging it's colour, taste or smell
+
+
+Najasa refers to the state of ritual impurity casued by najis

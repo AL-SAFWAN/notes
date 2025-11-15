@@ -5,4 +5,9 @@
 #+title: hadath
 #+filetags: :terminology:
 
-The state of ritual impurities, that prevents him from salah  
+The state of ritual impurities (that a person enters), that prevents him from Salah.
+
+a state that affects you spiritually, even if your body is physically clean. Can be minor (wudo/tayyamum) or major (ghusl/tayyamum)
+- you can be free of najasah but still in hadath
+- or have not hadith, but still have najasah on your clothes
+  - when you make wudo, you lift yourself from hadith, but not the najasah that will require removing the najis  

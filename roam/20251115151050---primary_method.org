@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       74b3e9f7-a996-4746-a610-6b61d01775e8
+:ROAM_ALIASES: usul
+:END:
+#+title: primary method 
+usul
+
+the default position

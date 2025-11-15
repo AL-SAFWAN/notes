@@ -8,4 +8,4 @@
 shart = Means condition
 shurut= conditions - is the plural form 
 
-What must be met before preforming the action.
+What must be completed before preforming/beginning the action.
