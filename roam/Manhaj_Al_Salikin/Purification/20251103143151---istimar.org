@@ -4,3 +4,10 @@
 #+title: istimar
 #+filetags: :terminology:
 cleaning the private parts by using a solid material
+
+There are condition to use istimar:
+1. Using something that is pure.
+2. The thing that you're using purifies.
+   - if it was something that was smooth it would spread the impurity.
+3. You wipe at least 3 times.
+4. There is no trace of impurity on the final wipe.

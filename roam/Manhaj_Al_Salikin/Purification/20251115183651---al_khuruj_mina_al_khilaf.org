@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       860baad8-43bd-42da-a46e-c013cf2d03f4
+:END:
+#+title: al-khuruj mina al-khilaf
+#+filetags: :terminology:
+
+meaning: “Leaving a matter of scholarly dispute”
+i.e., acting on the safer view if it causes no difficulty.

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       6238b7a2-451a-4f1b-a08d-1516c9269361
-:ROAM_ALIASES: "ibn abbas" "ibn 'Abbas"
+:ROAM_ALIASES: "ibn abbas" "ibn 'Abbas" "Ibn 'Abbas"
 :END:
 #+title: `Abdullah bin `Abbas
 #+filetags: :narrator:

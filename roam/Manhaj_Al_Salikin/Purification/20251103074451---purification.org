@@ -2,7 +2,7 @@
 :ID:       22bce97f-c977-4d80-8b5e-f71031f0c60c
 :END:
 #+title: Purification 
-#+filetags: :fiqh:book:
+#+filetags: :book:
 
 3. The prophet peace and blessing of Allah be on him, said Islam is build upon five; to bear witness that there is none worthy of worship except of *Allah*, and that *Muhammed* peace and blessing of Allah be on him is the messenger of Allah, establishing the *prayer*, giving *zakah*, making *pilgrimage* to the house and *fasting* Ramadan (Agreed upon)
    
@@ -28,11 +28,11 @@
 :PROPERTIES:
 :ID:       8bb19516-6e06-4ea1-92d1-1a6c6dec278b
 :END:
-** 6. The prayer has *conditions (shurut pl. of [[id:f194397e-ea68-408b-b3a2-0bc3901ba5eb][shart]])* that precede it, amongst them: 
+** 6. The prayer has conditions (shurut pl. of [[id:f194397e-ea68-408b-b3a2-0bc3901ba5eb][shart]]) that precede it, amongst them: 
 :PROPERTIES:
 :ID:       861ca2ae-b1fe-4638-8fdc-54f428bcdf01
 :END:
-*** 7. Ritual purification ([[id:4b649d64-f671-439e-9b44-61bbd69af197][taharah]]).
+** 7. Ritual purification ([[id:4b649d64-f671-439e-9b44-61bbd69af197][taharah]]).
 :PROPERTIES:
 :ID:       d6475e28-4bbe-46ef-b1e1-aba9125d002f
 :END:
@@ -41,115 +41,240 @@
      Allah (ﷻ) does not accept a prayer without purification (Agreed upon).
     #+end_quote
    - Thus the one who does not purify himself from ritual impurity, *major* and *minor*, as well as *physical impurities* will render his prayer invalid. 
-*** 8. There are *two methods* of purification ([[id:4b649d64-f671-439e-9b44-61bbd69af197][taharah]]).
+** 8. There are two methods of purification ([[id:4b649d64-f671-439e-9b44-61bbd69af197][taharah]]).
 :PROPERTIES:
 :ID:       b57ebaa5-e6e8-4e1b-b06b-40b9581702f7
 :END:
-**** 9. The first is purification by water, this is the [[id:74b3e9f7-a996-4746-a610-6b61d01775e8][primary method]] of purification. 
+** 9. The first is purification by water, this is the [[id:74b3e9f7-a996-4746-a610-6b61d01775e8][primary method]] of purification. 
 :PROPERTIES:
 :ID:       155c5b5e-1524-4fd4-b738-5c7073eb58f5
 :END:
-***** 10. All water that descends from the sky or comes out form the ground is purifying ([[id:735d5c39-7a90-4765-8c8d-d529c1fbc630][tahur]]).
+** 10. All water that descends from the sky or comes out form the ground is purifying ([[id:735d5c39-7a90-4765-8c8d-d529c1fbc630][tahur]]).
 :PROPERTIES:
 :ID:       da835817-28ae-417e-9ad4-d8ff2f7b4c21
 :END:
 Such [[id:64ee53d9-23d0-4356-a42e-299c8a296083][water purifies]] one form ritual impurities ([[id:24cec8cd-6ee0-46e1-b7a5-337a4a72b8aa][hadath]]) as well as physical ([[id:081d831c-ee10-4c05-adda-2649c4bc2037][khabath]]) even if its *colour, taste or smell* was changed by something pure since the prophet said [[id:d5505d11-f079-4ae4-9a7e-7158176e4ba3][“Verily water is pure, and nothing makes it impure.]]” (Abu Duwud & Tirmidihi).
-***** 11. if one of its *[[id:5d02571e-fc6b-4912-b3c9-500b396c867d][three characteristics]]* changes by something impure, then it is considered to be [[id:eaaaa701-b527-4002-8e43-c7b9e809478f][najis]] (impure); this, it is compulsory to keep away form it (i.e one cannot use it for purification).
+** 11. if one of its *[[id:5d02571e-fc6b-4912-b3c9-500b396c867d][three characteristics]]* changes by something impure, then it is considered to be [[id:eaaaa701-b527-4002-8e43-c7b9e809478f][najis]] (impure); this, it is compulsory to keep away form it (i.e one cannot use it for purification).
 :PROPERTIES:
 :ID:       2695c907-502c-49da-a4e5-41141450201c
 :END:
-***** 12. The original rulings of things is that they are *[[id:b09bcecf-f000-473a-bdfa-42f867cb51cc][pure and permissible]]* to use.
+** 12. The original rulings of things is that they are *[[id:b09bcecf-f000-473a-bdfa-42f867cb51cc][pure and permissible]]* to use. :asl:
 :PROPERTIES:
 :ID:       52cac17c-896e-478b-800e-6abd57faecaf
 :END:
-***** 13. Thus, if one doubts the purity of water, clothes, surface or anything else, it is consider [[id:62ba1ad5-6f77-43e2-b242-b4ea92872650][tahir]] (pure).
+** 13. Thus, if one doubts the purity of water, clothes, surface or anything else, it is consider [[id:62ba1ad5-6f77-43e2-b242-b4ea92872650][tahir]] (pure). :asl:
 :PROPERTIES:
 :ID:       f5aa13ce-b844-4a38-93f1-643cd3e2904c
 :END:
-Likewise, if one was sure that they were initially in a state of purification and [[id:7359a442-06f4-4ecd-ab6d-9819c0a28fef][then doubted]] whether they preserved their purification, they are also [[id:62ba1ad5-6f77-43e2-b242-b4ea92872650][tahir]] (pure) due to the statement of the Prophet peace and blessing of Allah be on him, to the person who imagined to have passed wind during prayer, “[[id:df781be5-f71b-4612-8f07-40806fea3889][One should not leave his Salah until he hears a sounds or finds a smell]]” (Agreed Upon).
+*** Likewise, if one was sure that they were initially in a state of purification and [[id:7359a442-06f4-4ecd-ab6d-9819c0a28fef][then doubted]] whether they preserved their purification, they are also [[id:62ba1ad5-6f77-43e2-b242-b4ea92872650][tahir]] (pure) :asl:
+:PROPERTIES:
+:ID:       157b4656-789e-4739-9cf5-b3c529d226da
+:END:
+due to the statement of the Prophet peace and blessing of Allah be on him, to the person who imagined to have passed wind during prayer, “[[id:df781be5-f71b-4612-8f07-40806fea3889][One should not leave his Salah until he hears a sounds or finds a smell]]” (Agreed Upon).
+
 
 * Utensils/ containers :chapter:
 :PROPERTIES:
 :ID:       39522dfb-8ff4-4ea7-83c8-6da99ffcc58a
 :END:
-14. All utensils/ [[id:9a4cbd1f-5b01-4f59-945d-6d5819cf5a4a][container]] are permissible 
-15. Except gold and silver utensils and that which contains them, except for a *small amount* of similar [[id:1b69ca19-4de5-493e-8f58-49339190a1c5][due to a pressing need]] ([[id:9464ff87-1927-4d7b-944f-526849759d8b][hajah]]). This is due to the statement of the Prophet peace and blessing of Allah said “[[id:55862fce-c98d-4d96-8b04-60b3998a2f05][Do not drink from containers made of gold and silver and do not eat from it (gold and silver) bowls, for verily it is for them in this worlds and for us in the afterlife]]”
-   
+** 14. All utensils/ [[id:9a4cbd1f-5b01-4f59-945d-6d5819cf5a4a][container]] are permissible :asl:
+:PROPERTIES:
+:ID:       b0abf740-fc95-4b19-bf60-3ef9b0a181df
+:END:
+** 15. Except gold and silver utensils and that which contains them, except for a small amount of similar [[id:1b69ca19-4de5-493e-8f58-49339190a1c5][due to a pressing need]] ([[id:9464ff87-1927-4d7b-944f-526849759d8b][hajah]]).
+:PROPERTIES:
+:ID:       d57b4f9d-2e7c-46ee-8096-991a10a64daa
+:END:
+This is due to the statement of the Prophet peace and blessing of Allah said “[[id:55862fce-c98d-4d96-8b04-60b3998a2f05][Do not drink from containers made of gold and silver and do not eat from it (gold and silver) bowls, for verily it is for them in this worlds and for us in the afterlife]]”
+
+
 * Istinja and the Etiquette's of Relive oneself :chapter:
 :PROPERTIES:
 :ID:       567b18ac-00c7-4400-88c5-213eb1d1621f
 :END:
-16. It is *recommended* that if one enters an area to relieve oneself that one enters with their *left foot* (before their right) and says:
-    #+begin_quote
-    [[id:e55a71cd-6be5-4381-9fd5-ded90cf6804a][in the name of Allah]], O Allah I seek refuge in you from the male and female
-    #+end_quote
-17. And when one leaves, one should: 
-    1. leave their *[[id:047739da-085b-4786-b943-521ba9af028a][right]] foot* 
-    2. say
-       #+begin_quote
-       [[id:3e9b2abc-2b71-43b1-9dd4-9a13c31bcffd][O Allah I seek your forgiveness]]
-       [[id:6ed85710-8480-4b2c-92d3-00a1e7e188bc][Praise is to Allah, who has relieved me from impurity and given me good health.]]
-       #+end_quote
-18. One should *support themselves* by putting more weight on their left leg and erecting their right. 
-19. One should *conceal themselves* with a barrier or by something else. 
-20. One should *distance themselves* away from people if one was in on open area 
-21. It is *not permissible* to answer the call of nature in 
-    1. *pathways* 
-    2. places where *people sit* 
-    3. underneath *trees* that gives *fruits*
-    4. or in an area that will *harm other people* 
-22. It is not permitted to *face the qiblah* or turn one back to it while relieving oneself due to the saying of the prophet peace and blessing of Allah be on him, "[[id:e3beaa4b-8aad-47c0-b9e7-f9ed908118e1][if anyone of you goes to a open space for answering the call of nature, he should neither face nor turn his back towards the qiblah while urinating or defecating. Instead he should face the east or the waste.]]" (agreed upon) 
-23. After relieving oneself, one should: 
-    1. Do [[id:b2737f81-6285-402a-b89f-0e75b406bfb7][istimar]] (cleaning the private parts by using a solid material) with three stone or something similar to it that cleans the required area 
-    2. then one should do [[id:9b16c288-d460-4c05-90d1-decda4791c84][istinja]] (cleaning the private part with water until the impurity is washed away)
-24. It is sufficient to restrict oneself to *one of the two* (i.e istijmar or istinja)
-25. One cannot perform istijmar with the following 
-    1. *dung or bones*, as that was prohibited by the prophet 
-    2. anything of *sanctity*
-       
+** 16. It is recommended that if one enters an area to relieve oneself that one enters with their *left foot* (before their right) and says:
+:PROPERTIES:
+:ID:       00cacf39-1fdc-45f0-8b5c-df14573a3364
+:END:
+ #+begin_quote
+ [[id:e55a71cd-6be5-4381-9fd5-ded90cf6804a][in the name of Allah]], O Allah I seek refuge in you from the male and female
+ #+end_quote
+** 17. And when one leaves, one should: 
+:PROPERTIES:
+:ID:       d0265fd0-9789-47d6-8106-b528be4c4e97
+:END:
+*** 1. leave their *[[id:047739da-085b-4786-b943-521ba9af028a][right]] foot*
+:PROPERTIES:
+:ID:       78655fd1-ea62-4bcc-b914-aadbe47154a0
+:END:
+**** 2. say
+:PROPERTIES:
+:ID:       df9228ae-2bca-4ee4-b9ff-4f9fcf16644b
+:END:
+#+begin_quote
+[[id:3e9b2abc-2b71-43b1-9dd4-9a13c31bcffd][O Allah I seek your forgiveness]]
+[[id:6ed85710-8480-4b2c-92d3-00a1e7e188bc][Praise is to Allah, who has relieved me from impurity and given me good health.]]
+#+end_quote
+** 18. One should support themselves by putting more weight on their left leg and erecting their right. 
+:PROPERTIES:
+:ID:       c55ccbcf-b850-4187-b176-7af3db52446a
+:END:
+** 19. One should [[id:fc195f0a-31c3-4ea0-a7b1-e753ef53e13d][conceal themselves]] with a barrier or by something else. 
+:PROPERTIES:
+:ID:       8ac3ab47-1f42-4498-af7e-275b14e54655
+:END:
+** 20. One should distance themselves away from people if one was in on open area 
+:PROPERTIES:
+:ID:       999bc8de-bcb6-4ed3-a0ec-0a97d19dc4b1
+:END:
+** 21. It is not permissible to answer the call of nature
+:PROPERTIES:
+:ID:       f4a83d08-117a-4d1c-93a3-449140d38b16
+:END:
+*** 1. Pathways
+:PROPERTIES:
+:ID:       34488b90-acd7-41bf-a5ac-dd0aa2ee6a20
+:END:
+*** 2. Places where people sit 
+:PROPERTIES:
+:ID:       488fbc5e-32b3-4900-ada3-07a64de70809
+:END:
+*** 3. Underneath trees that gives *fruits*
+:PROPERTIES:
+:ID:       12ae88eb-cb55-4be4-ae95-7a876732efe9
+:END:
+*** 4. Or in an area that will harm other people
+:PROPERTIES:
+:ID:       9314647b-e06a-4eba-9ca6-e27fcf52ebc7
+:END:
+The Messenger of Allah (ﷺ) said: [[id:261b6625-9e45-42ee-9089-7886afd3db29][Be on your guard against three things which provoke cursing: easing in the watering places and on the thoroughfares, and in the shade (of the tree).]]
+- Some of the scholars say that you should clean up after yourself, since thing will cause harm to someone else.
+** 22. It is not permitted to face the qiblah or turn one back to it while relieving oneself
+:PROPERTIES:
+:ID:       21a41cd7-6e08-4a79-81c8-e3207b5d55f6
+:END:
+due to the saying of the prophet peace and blessing of Allah be on him, "[[id:e3beaa4b-8aad-47c0-b9e7-f9ed908118e1][if anyone of you goes to a open space for answering the call of nature, he should neither face nor turn his back towards the qiblah while urinating or defecating. Instead he should face the east or the waste.]]" (agreed upon)
+** 23. After relieving oneself, one should: 
+:PROPERTIES:
+:ID:       76b6bfa4-6a9a-4be1-8d74-9912e1598350
+:END:
+*** 1. Do [[id:b2737f81-6285-402a-b89f-0e75b406bfb7][istimar]] (cleaning the private parts by using a solid material) with three stone or something similar to it that cleans the required area 
+:PROPERTIES:
+:ID:       27ffc216-6bab-4d0e-a05f-4932ccc8b9d7
+:END:
+*** 2. then one should do [[id:9b16c288-d460-4c05-90d1-decda4791c84][istinja]] (cleaning the private part with water until the impurity is washed away)
+:PROPERTIES:
+:ID:       8497e5d3-57f3-4481-b5e4-78e0bd4f6af6
+:END:
+** 24. It is sufficient to restrict oneself to one of the two (i.e [[id:b2737f81-6285-402a-b89f-0e75b406bfb7][istijmar]] or [[id:9b16c288-d460-4c05-90d1-decda4791c84][istinja]])
+:PROPERTIES:
+:ID:       b3339f6d-b79d-4a54-b367-2b123c48fa93
+:END:
+** 25. One cannot perform [[id:b2737f81-6285-402a-b89f-0e75b406bfb7][istijmar]] with the following 
+:PROPERTIES:
+:ID:       df1e836c-2eba-4dc3-b3d5-34496ad196f5
+:END:
+*** 1. dung or bones as that was prohibited by the prophet 
+:PROPERTIES:
+:ID:       82a61724-11e3-4d5d-a0bf-73bb6fcb6323
+:END:
+*** 2. anything of sanctity 
+:PROPERTIES:
+:ID:       b4d6211a-294e-4da0-b848-09e987915067
+:END:
+- something that has great value to it 
+
+  
 * The Removal of Impurities and an Account of Impure Substances :chapter:
 :PROPERTIES:
 :ID:       db3a60f4-8aae-432f-bed3-62285674f2c0
 :END:
-1. It is *sufficient to wash* all impurities whether they were on the body, clothes, the area one prays in or any other area by *removing the impurity* itself from the area. This is because the legislator did no stipulate for washing of all impurities a specific amount of washes, *except* in the case of the impurity of a *dog*, since the legislator stipulated for the washing of the impurity of the dog seven washes, one by earth as the in the hadith 
-2. The following things are [[id:eaaaa701-b527-4002-8e43-c7b9e809478f][impure]]
-   1. Human *Urine*
-   2. Human *faeces*
-   3. *Blood* 
-      1. except for a *small amount* as that is *excused*. 
-      2. An example of impure blood is blood that has been spilt from slaughtering animals that are permissible to eat, except for the blood that remains in the mean and veins for that is pure. 
-   4. The urine and faeces of every animals that is *impermissible* to eat 
-   5. All *predators* 
-   6. Likewise, all *dead animals* that were not slaughtered according to ritual requirements, excepts for dead humans and that which does not have flowing blood (e.g flies, mosquitoes), fish, and locust, since they are pure. 
-       Allah says in the Qur’an
-        #+begin_quote
-        [[id:e9f1e79a-c93b-4311-8419-b1ff89dfd445][The Table Spread (5:3)]]
-        حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلدَّمُ وَلَحْمُ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ وَٱلْمُنْخَنِقَةُ وَٱلْمَوْقُوذَةُ وَٱلْمُتَرَدِّيَةُ وَٱلنَّطِيحَةُ وَمَآ أَكَلَ ٱلسَّبُعُ إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى ٱلنُّصُبِ وَأَن تَسْتَقْسِمُوا۟ بِٱلْأَزْلَـٰمِ ۚ ذَٰلِكُمْ فِسْقٌ ۗ ٱلْيَوْمَ يَئِسَ ٱلَّذِينَ كَفَرُوا۟ مِن دِينِكُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِ ۚ ٱلْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَـٰمَ دِينًۭا ۚ فَمَنِ ٱضْطُرَّ فِى مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍۢ لِّإِثْمٍۢ ۙ فَإِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ ٣
-          
-        Prohibited to you are dead animals, blood, the flesh of swine, and that which has been dedicated to other than Allāh, and [those animals] killed by strangling or by a violent blow or by a head-long fall or by the goring of horns, and those from which a wild animal has eaten, except what you [are able to] slaughter [before its death], and those which are sacrificed on stone altars, and [prohibited is] that you seek decision through divining arrows. That is grave disobedience. This day those who disbelieve have despaired of [defeating] your religion; so fear them not, but fear Me. This day I have perfected for you your religion and completed My favor upon you and have approved for you Islām as religion. But whoever is forced by severe hunger with no inclination to sin - then indeed, Allāh is Forgiving and Merciful.
-               — Saheeh International
-         
-        https://quran.com/5/3
-        #+end_quote
-       The prophet peace and blessing of Allah be on him said: 
-        #+begin_quote
-        “[[id:94a968c7-2070-4d71-a97d-f1d837ac4561][The believe does not become impure dead while dead or alive]]”
-        #+end_quote
-       He peace and blessing of Allah be on him said
-        #+begin_quote
-        [[id:cb0dc5fc-1929-42f3-a3d5-a9e85794af86][Two types of carrion (the decaying flesh of dead animals) and blood have been made permissible. As for the types of the carrion, they are fish and locust. As for the two types of blood they are blood from the liver and spleen.]] (Ahmed and ibn Majah)
-        #+end_quote
-3. The faeces and urine of animals that are *permissible* to eat are *[[id:62ba1ad5-6f77-43e2-b242-b4ea92872650][pure]]* 
-4. [[id:9b07588d-5132-4966-bf61-f9f038880c65][Maniyy]] (*semen*) of a human is *[[id:62ba1ad5-6f77-43e2-b242-b4ea92872650][pure]]*. The prophet used to wash it from his clothes when it i.e. the sperm was moist and would scrape it off his clothes when it was dry. 
-5. It is sufficient to *sprinkle water* on the *urine* of a *baby boy* that does not eat solid food out of desire for it since the Prophet peace and bless of Allah said:
-    #+begin_quote
-    “[[id:e06b65be-b5b7-456e-b985-a6708c9215ab][The urine of a baby girl is to be washed and the urine of a baby boy is to be sprinkled over.]]” (Abu Dawud and Nasa’i)   
-    #+end_quote 
-6. If the *impure substance* is *removed* from the affected are then the are is *pure*. Any residual color or smell does not affect the ruling. This is due the statement of the prophet peace and blessing of Allah be on him to Khalah regarding the blood of menstruation
-   #+begin_quote 
-   “[[id:3fdfbfe1-54cf-4d4d-a906-cde9eb2c3b6f][Water suffices you and its effect from the blood will not harm you]]”
-   #+end_quote 
-    
+** 26. It is sufficient to wash all impurities whether they were on the body, clothes, the area one prays in or any other area by removing the impurity itself from the area.
+:PROPERTIES:
+:ID:       56695377-7f6c-4d74-8b00-a1fe77104a22
+:END:
+This is because the legislator did no stipulate for washing of all impurities a specific amount of washes, *except* in the case of the impurity of a *dog*, since the legislator stipulated for the washing of the impurity of the dog seven washes, one by earth as the in the hadith
+** 27. The following things are [[id:eaaaa701-b527-4002-8e43-c7b9e809478f][impure]]
+:PROPERTIES:
+:ID:       7be8a1bf-cd01-41fe-a9f9-404f83a07abc
+:END:
+*** 1. Human Urine
+:PROPERTIES:
+:ID:       831b071b-8072-42c8-9491-cb27be960c31
+:END:
+*** 2. Human faeces
+:PROPERTIES:
+:ID:       024987f2-27f3-418c-82ae-11f1af051631
+:END:
+*** 3. Blood
+:PROPERTIES:
+:ID:       02e83669-40be-4ec0-b375-fc0d3873295e
+:END:
+**** There is [[id:f2077d90-3540-4559-ba53-262bca989a5f][khilaf]] on this
+:PROPERTIES:
+:ID:       61b3db12-7f7d-4d61-bcaa-d11ace468234
+:END:
+***** [[id:ac69cc6d-ec5d-495f-91ec-dcda9939058c][The default position is purity]]
+***** [[id:158346fb-f674-4974-9a0c-24e42fbe3714][majority (Jumhur) of the scholar said it is impure]]
+
+**** 1. except for a small amount as that is excused. 
+:PROPERTIES:
+:ID:       b4d450f6-1fc8-433e-901b-873d6951e8cd
+:END:
+An example of impure blood is blood that has been spilt from slaughtering animals that are permissible to eat, except for the blood that remains in the mean and [[id:2999b0de-ad6e-463f-8c06-7765a5afce2c][veins for that is pure]] (Agreed up).
+- menstrual blood is impure (Agreed up)
+  
+*** 4. The urine and faeces of every animals that is *impermissible* to eat 
+:PROPERTIES:
+:ID:       4763418a-beee-411d-99b7-bb22d6cafedb
+:END:
+*** 5. All predators
+:PROPERTIES:
+:ID:       4543c26e-6b99-401c-8f80-99d53426cdc8
+:END:
+*** 6. Likewise, all dead animals that were not slaughtered according to ritual requirements, excepts for dead humans and that which does not have flowing blood (e.g flies, mosquitoes), fish, and locust, since they are pure. 
+:PROPERTIES:
+:ID:       ed233879-ff2b-4fa0-a39e-b497dd98ef34
+:END:
+Allah says in the Qur’an
+#+begin_quote
+[[id:e9f1e79a-c93b-4311-8419-b1ff89dfd445][The Table Spread (5:3)]]
+Prohibited to you are dead animals, blood, the flesh of swine, and that which has been dedicated to other than Allāh, and [those animals] killed by strangling or by a violent blow or by a head-long fall or by the goring of horns, and those from which a wild animal has eaten, except what you [are able to] slaughter [before its death], and those which are sacrificed on stone altars, and [prohibited is] that you seek decision through divining arrows. That is grave disobedience. This day those who disbelieve have despaired of [defeating] your religion; so fear them not, but fear Me. This day I have perfected for you your religion and completed My favor upon you and have approved for you Islām as religion. But whoever is forced by severe hunger with no inclination to sin - then indeed, Allāh is Forgiving and Merciful.
+ — Saheeh International
+ https://quran.com/5/3
+#+end_quote
+The prophet peace and blessing of Allah be on him said: 
+#+begin_quote
+“[[id:94a968c7-2070-4d71-a97d-f1d837ac4561][The believe does not become impure dead while dead or alive]]”
+#+end_quote
+He peace and blessing of Allah be on him said
+#+begin_quote
+[[id:cb0dc5fc-1929-42f3-a3d5-a9e85794af86][Two types of carrion (the decaying flesh of dead animals) and blood have been made permissible. As for the types of the carrion, they are fish and locust. As for the two types of blood they are blood from the liver and spleen.]] (Ahmed and ibn Majah)
+#+end_quote
+** 28. The faeces and urine of animals that are permissible to eat are *[[id:62ba1ad5-6f77-43e2-b242-b4ea92872650][pure]]* 
+:PROPERTIES:
+:ID:       597f2670-768f-4dc2-be76-36083e57ac2c
+:END:
+** 29. [[id:9b07588d-5132-4966-bf61-f9f038880c65][Maniyy]] (semen) of a human is *[[id:62ba1ad5-6f77-43e2-b242-b4ea92872650][pure]]*. The prophet used to wash it from his clothes when it i.e. the sperm was moist and would scrape it off his clothes when it was dry. 
+:PROPERTIES:
+:ID:       167543ba-4587-4a1c-b998-41a21154632d
+:END:
+** 30. It is sufficient to sprinkle water on the urine of a baby boy that does not eat solid food out of desire for it since the Prophet peace and bless of Allah said:
+:PROPERTIES:
+:ID:       0fe7b61f-9dff-4535-bff3-9604e42eb540
+:END:
+ #+begin_quote
+ “[[id:e06b65be-b5b7-456e-b985-a6708c9215ab][The urine of a baby girl is to be washed and the urine of a baby boy is to be sprinkled over.]]” (Abu Dawud and Nasa’i)   
+ #+end_quote
+** 31. If the impure substance is removed from the affected are then the are is pure. Any residual color or smell does not affect the ruling. This is due the statement of the prophet peace and blessing of Allah be on him to Khalah regarding the blood of menstruation
+:PROPERTIES:
+:ID:       5ce76a4a-df23-4991-9ce7-05bc9335d995
+:END:
+ #+begin_quote
+ “[[id:3fdfbfe1-54cf-4d4d-a906-cde9eb2c3b6f][Water suffices you and its effect from the blood will not harm you]]”
+ #+end_quote
+
+ 
 * The description of Ablution :chapter:
 :PROPERTIES:
 :ID:       a4e28b1f-4d15-4f93-9e20-9d10d2238dfe
