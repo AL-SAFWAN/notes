@@ -5,6 +5,7 @@
 #+filetags: :Imaam:
 
 Imām al-Shāfiʿī (الإِمَام الشَّافِعِي) — full name Abū ʿAbd Allāh Muḥammad b. Idrīs al-Shāfiʿī (150–204 AH / 767–820 CE) — was a Qurayshī scholar and founder of the Shāfiʿī school of law.
+
 Origins & life: Born in Gaza (Palestine) and raised in Makkah; he studied with Imām [[id:548d27b9-95e7-45d5-9684-fd68f2e9b526][Malik]] in Madīnah and later with Muḥammad b. al-Ḥasan al-Shaybānī (the Ḥanafī jurist) in Iraq. He settled in Egypt, where he finalized his legal opinions and passed away in al-Fusṭāṭ (Cairo).
 
 Method & legacy: He systematized uṣūl al-fiqh (legal theory), prioritizing Qurʾān, Sunnah, ijmāʿ (consensus), then qiyās (analogy), and famously criticized istiḥsān (juristic preference). He distinguished between his old views (al-qawl al-qadīm) from Iraq and new views (al-qawl al-jadīd) from Egypt.

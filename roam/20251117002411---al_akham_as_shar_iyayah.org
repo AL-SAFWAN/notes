@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       4df624e4-c807-45de-84d5-69b8fff4e82f
+:ROAM_ALIASES: "legal rullings derived from religious legislation"
+:END:
+#+title: al-ahkam as shar'iyayah
+#+filetags: :terminology:
+
+[[id:948d05ba-0ec0-403a-b737-6f79eab474d2][al-akham]] as shar'iyayah
+refers to legal rulings derived from religious legislation. These include determinations of what is obligatory or prohibited.
+
+It specifically excludes:
+intellectual judgement, such as understanding that a whole is greater than any of it's part, and natural observation like the occurrence of rain on a clear winter night.

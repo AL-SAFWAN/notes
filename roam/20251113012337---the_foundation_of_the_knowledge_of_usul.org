@@ -3,3 +3,339 @@
 :END:
 #+title: The Foundation of the Knowledge of Usul
 By sheikh Muhammad ibn Saleh al Uthaymeen (d. 1421 AH) may Allah (ﷺ) have mercy on him.
+
+
+All praise is due to Allah; we praise him; seek his help and forgiveness; we repent to him; we seek refuge with Allah from the evils of ourselves and the evil of our actions. For whosoever Allah guides none can misguide and whosoever he misguides none can guide, I bear witness that there is not true god but Allah alone with no partners and I bear witness that Muhammad is his slave and messenger, may Allah's peace and blessing be upon him, his family, his companions and those who follow them until the Day of Judgement. 
+
+To proceed, I have authored a concise treatise on the principles of jurisprudence, tailored to align with the curriculum prescribed for third-year high school student at institutes of Islamic knowledge. I have titled this work "The foundations of the Knowledge of Usul"
+
+I ask Allah to make our actions purely for his sake and beneficial to his Servants; He is always near and responsive.
+
+* Usul ul-Fiqh
+The definition of Usul ul-Fiqh is understood in two ways:
+
+First with regard to the first component "[[id:2c25cddd-1beb-4b1a-8626-a08231ef9a42][Usul]]" and the second "[[id:1316d477-4b3c-4b9b-9d0a-f9017c3f2521][Fiqh]]".
+
+Usul is the plural of the word 'asl', and it means whatever can have something else built upon it ; from that we have the asl foundation of a wall which is in essence its base; likewise the foundation of a tree which has many branches sprouting from it.
+
+As Allah (ﷻ) the most High says:
+ #+begin_quote
+ have you not considered how Allah presents an example, making a good word like a good tree. Whose root is firmly fixed and it's branches high in the sky? 14:24
+ #+end_quote
+ 
+"Fiqh". linguistically means understanding, as is the case in the statement of Allah (ﷻ)  the most High:
+ #+begin_quote
+  And untie the knots of my tongue. so that they many understand my speech
+ #+end_quote
+
+And it use in the science of jurisprudence is: knowledge of ruling of the Shariah along with their specific evidence. 
+
+The term "[[id:6225c4e5-39bf-454c-b432-2c6073ad7c7e][ma'rifah]]" encompasses both knowledge and conjecture. This is because the ruling of fiqh (Islamic jurisprudence) can be understood through certainty or through speculative means, as is common in many fiqh issue. 
+
+The term "[[id:4df624e4-c807-45de-84d5-69b8fff4e82f][al-ahkam as shar'iyayah]]" refers to legal rulings derived from religious legislation. These include determinations of what is obligatory or prohibited. It specifically excludes intellectual judgement, such as understanding that a whole is greater than any of it's part, and natural observation like the occurrence of rain on a clear winter night.
+
+The term "[[id:97c40ef6-c0fb-45ac-bdbd-91025209fed9][al-'amaleyyah]]" refers to 'physical actions' and not cure doctrinal beliefs. This includes physical practise such as prayer and zakat. It distinctly excludes aspects intimately linked to belief's such as Tawhid (the oneness of Allah) and the understanding of Allah's names and attributes. Hence these doctrinal elements do not fall under the category of fiqh in jurisprudence.
+
+The term "specific evidences" ([[id:c1d4bfaf-6fb9-4c19-b2a1-175c97b52f95][al-adillah at tafsileyah]]) refers to evidence in fiqh that are specifically related to detailed aspects of fiqh. This definition excludes the subject of usul ul fiqh which deals primarily with the general principles and broader evidence within fiqh
+
+Secondly, when used as a term for this particular field of study, it is defined as; a discipline focused on identifying the general evidence used in fiqh, understanding how these evidence can be applied and determining the qualifications necessary for those who seek to benefit from this knowledge.
+
+The term "general" ([[id:e7f4cb66-301f-4c32-afcc-026f4da91f32][al-ijmaliyyah]]) refers to broad principle or rules, exemplified by maxims such as ; a command implies an obligation, prohibition implies forbidance, and the validity of a transaction necessitate the execution of action that follow, such as the exchange of goods.
+
+From this definition, we can conclude that specific evidence fall outside the scope of Usul ul Fiqh except when used illustratively to demonstrate a general rule.
+
+The phrase "and how to make full use of them" ([[id:785116ff-2a6e-4d86-a4fe-538d65e2c0bd][wa kayfiyat ul-istifadata minha]]) refers to the understanding and application of methodologies that enables a jurist (faqih) to extract and apply rulings from the legal evidences efficiently. This involves analysing the language of the text, discerning nuances such as the general from the specific, the conditional from the unconditional, and identifying instances of abrogation. Such skill are essential for a faqih to effectively interpret and implement the evidence in deriving coherent and applicable legal ruling from the foundational text of fiqh.
+
+The term "condition of the beneficiary" ([[id:6c506c91-b8fb-43c9-a509-21b85f9f4277][hal al-mustafid]]) pertains to the qualification and status of the individual who is capable of deriving leg rulings from the foundational text.
+
+Therefore, a deep comprehension of the  nature of a mujtahid, the prerequisite for Ijithad, and its associated legal judgement are foundations aspects taught within the study of Usul ul Fiqh.
+
+
+* The benefits of usul ul fiqh
+Usul ul Fiqh is a distinguished and vital field of Islamic scholarship, providing profound rewards, it equips scholars with the essential skill and knowledge required to derive legal rulings form religious text accurately and reliably.
+
+(The science ensure that the principle and methodologies employed are both rigorous and adherent to the spiritual and legal standards set forth in Islam, facilitating a deep and sound understanding of the law)
+
+[[id:2dada820-43bc-4ab9-a532-d10230524921][Imam ash-shafi'i]], Muhammad ibn Idris, was the pioneering figure who established Usul ul Fiqh as a distinct discipline with Islamic scholarship. Following his ground breaking work, numerous scholars across generation have build upon his foundation, contributing extensive thought various forms of writing-prose, poetry and both concise and expansive volumes. This prolific scholarly activity have evolved Usul ul Fiqh into well defined and recognised fields, characterised by its unique feature and profound depth.
+
+* TODO Rulings (Al Ahkam) pg 9
+The term "[[id:948d05ba-0ec0-403a-b737-6f79eab474d2][Al-ahkam]]" (rulings), in its plural form derived form "hukm", refers linguistically to a judgement or decision. In the context of Islamic jurisprudence, it specifically denotes judgements that arise from the directives issued by the legislator - the Lawgiver, which in this instance are manifested in the Qur'an and the Sunnah. These directive address the actions of those who are deemed legally responsible (al-mukallafin) with the Islamic law. Such rulings mandate specific behaviour and choices or outline certain state, providing a structured guide on how to conduct oneself in accordance with divine legislation.
+
+The phrase 'relating to the actions of those burdened with carrying out the obligation of the legislation' pertains to those aspects that involve active engagement, whether in speech or action, requiring individual to either perform specific acts or abstain from them. This definition specifically targets practical, observable behaviours rather than internal belief or convictions. Thus, within this scope, the term 'ruling' is applied only to those directives that influence physical or verbal actions, distinctly excluding matters purely of faith or belief, which do not fall under the category of 'rulings' in this specific juristic context.
+
+The term "al-[[id:ba93d19b-37c1-40d2-9613-a01ac674fa21][mukallaf]]in" refers to individual who are deemed legally responsible and capable of bearing the obligation set forth by Islamic legislation. This category specifically includes those who have reached the age of maturity and are of sound mind, thereby excluding minors and those who are mentally incapacitated. The term 'mandated'(talab) in this context signifies the legal commands and prohibition issued by the legislator. These can be obligatory (which must be adhered to strictly) or recommended (suggesting preference but not strict enforcement).
+
+The term 'choice' (takhyir) pertains to matter that are deemed permissible within the law (where the individual has the freedom to decide how to act). finally the term state wad' refers to being accepted or rejected, or other conditions or statues defined by the legislator through specific sign or descriptions. These dictate whether certain actions should be carried out or avoided, based on the context provided by these indicator.
+  
+* The types of Rullings in the Shari'ah
+
+The types of commands (in the shari'a) falls into two categories Taklifyah and Wad'iyah
+
+The Talifiyah are five; wajib (obligation), mandud (encouraged to understake), muharram (prohibited), makruh (disliked), and mubah (permissible).
+
+1. wajid: linguistically means what have fallen or what is compulsory. Technically, (the context of Islamic law) it signifies an act or duty that the legislator has mandated as obligatory. Example of such obligatory act include the five prayers
+
+so in this case, when we say "what the legislator has ordered by way of obligation," we are specifically referring to actions that are mandatory (wajib). This exclude:
+
+Forbidden (Haram): (Actions that the legislator has explicitly prohibited).
+Disliked (Makruh):(Actions that are discouraged but not sinful if performed)
+Permissible (Mubah): (Actions that are neither required nor discouraged, and carry no reward of punishment)
+
+Additionally, the statement 'by way of obligation' does not include actions that are Encouraged (Mandub) or Sunnah (which refer to acts that are recommended but not obligatory. Performing these actions brings reward, whereas neglecting them does not bring sin. This clarification is essential to differentiate between various levels of legal and moral responsibilities in Islamic law).
+
+Therefore, something wajib is that which, if carried out, will bring reward to the one performing it, and the one fails to do so deserves to be punished. It also referred to as Fard, faridah, hatam and lazim.
+
+2. Mandud: linguistically means something or someone appointed or designated. Technically, it refers to what the legislator has recommended but not as an obligation, such as supererogatory prayers.
+
+Therefore, excluded from out statement 'what the legislator has ordered' are actions that are forbidden, disliked, or merely permissible. Additionally, excluded from the phrase 'not by way of obligations' are actions that are wajib
+
+Thus, when an actions is mandud, the performer is rewarded for carrying it out but is not punished for omitting it. It is also known as Sunnah, mansnun, mustahab and nafal.
+
+3. Muharram: linguistically means forbidden, and technically, it refers to what the legislator has explicitly forbidden as an obligation to avoid, such as disobedience to the parents.
+
+Therefore, excluding from our statement 'forbidden by the legislator' are actions categorised as wajib (obligation), mandud (recommended), mubah (permissible). Furthermore, excluded from the phrase 'an obligation to avoid' are actions that are merely disliked
+
+Thus, when something is muharram (forbidden), the individual who refrains from it is rewarded, while one who engages in it deserve punishment. This term is also referred to as Mahzur or mamnu.
+
+4. Makruh: linguistically means something hatred. Technically, it refers to what the legislator has discouraged but not by way of obligatory or abandon, such as taking and giving with the left hand.
+
+Therefore, excluding from our statement "forbidden by the legislator" are actions categorised as wajib (obligatory), mandud (recommended), mubah (permissible). Also exclude from the phrase "not by way of obligation" is anything that is muharram (strictly forbidden).
+
+Thus, when something is makruh, the individual who refines form it out of compliance with the legislation is rewarded, but one who performs the actions is not punished.
+
+5. Mubah: linguistically means something declared or permitted. Technically, it refers to what is neither connected with a command nor prohibited in and of itself, like eating during the night of Ramadan.
+
+Thus, excluded form our statement  'what is connected with a command' are actions that are wajib (obligatory) and mandud (recommended). Also excluded form our statement 'not something prohibited' are actions that are muharram (forbidden) and makruh (disliked). The phrase 'in and out itself' excluded anything that acts as a medium leading to a commanded actions, thus becoming obligatory, or leading to a forbidden actions, thus becoming prohibited, which would alter its original status as mubah (permissible). When something is categorised as mubah (permissible), it remains within the bounds of permissibility, not resulting in reward or punishment for engaging in it. It is also refereed to as halal and ja'iz.
+
+* Rullings of Wad'iyah pg 13
+The rulings of wad'yah pertain to those indicators the legislator has set forth to determine the validity, implementation, or annulment of an action, distinguishing between what is valid (sahih) and what is invalid (fasid)
+1. Sahih, linguistically, means something free from defect or disease. Technically, it refer to the legitimacy and effectiveness resulting from and act of worship or a contract.
+   
+For acts of worship to be sahih (valid), they must meet all necessary conditions, pillars and obligatory steps; this ensures the fulfilment of religious responsibilities. For instance, performing prayer on time with completed purification and adhering to all it's requirements is essential for its validity.
+
+Regarding contracts, sahih (valid) implies that the consequence of the contract directly depends on it existence and fulfilment of all legal requirement, such a in a sale contract, the property and the terms of sale must be clearly defined and greed upon. A contract cannot be considered valid unless it meets all essential condition and is free from any hindrances that might invalidate it.
+
+Examples of conditions and impediments in worship include the invalidity of a prayer performed without proper purification. In contract, an invalid condition would be attempting to see something not owned by the seller. An example of an impediment in worship is performing supererogatory prayer at times specifically prohibited by religious guidelines. In contracts, an impediment would be executing a sale during the Friday prayer after the second call, when such transaction are considered inappropriate.
+
+2. Fasid, linguistically, means something that has been corrupted or is at a loss. Technically, it refers to action or contract that fail to produce their intended legal effect. Therefore, fasid (invalid) action of worship are those that do not fulfil the obligation required, resulting in an unmet religious demand, such as praying before the appointed time. Similarly fasid (invalid) contracts are those that are ineffective, like a contract to sell something unspecified or unknown.
+
+All corrupt acts of worship, contracts and related condition are considered haram (forbidden); this is viewed as overstepping Allah's limits and mocking His verse, especially since the prophet Muhammad (ﷺ) forbade stipulating conditions that are not sanctioned by the Book of Allah.
+
+While fasid (invalid) and batil (false) are generally synonymous, they differ distinctly in two specific scenario:
+
+In Ihram: Fasid applies to violations by a person in Ihram, such as wearing stitched clothing or covering the head for males before the first restriction of Ihram are lifted. On the other hand batil (false) described more severs infractions, such as renouncing Islam while in Ihram
+
+In Marriage: Fasid refers to conditions within a marriage that scholars have debated over, such as the validity of a marriage without a valid (guardian). batil, however, refers to conditions unanimously recognised as invalid, such as the marriage of a widow or a divorced woman during her waiting period, which is universally accepted as invalid.
+
+(These distinctions highlight the specific legal consequence and religious implications associated with each term, reflecting the depth and complexity of Islamic jurisprudential terminology)
+
+* Knowledge
+time 11:40
+The definition of knowledge involves the accurate perceptions of something as it truly is, coupled with a certain and confident awareness of it. For instance, understanding that the whole is greater than the part, or recognising that intention is a prerequisite for the acceptance of worship.
+
+From out definitions, what is excluded from the phrase "the perception of something" is the incomplete or absent awareness of a face, which is termed jahl basit (simple ignorance). An example of this is when someone is asked, "When was the battle of badr" and responds, "I don't know".
+
+Further excluded from our definition by the phrase "What it really is" is the misunderstanding or misperception of the reality, referred to as jahl murakkab (compounded ignorance). This occurs when a questions like "When was the battle of badr?" is answered with "in the third year after migrations,"which is incorrect as it actually took place in the second year after migration.
+
+Lastly, what is also excluded form the phrase "firmly aware of it" it any tentative or uncertain perception, where the truth could potentially be different than perceived, such a state does not qualify as knowledge. If one leans toward one interpretation over another uncertain one, this is termed dhann (presumptions) for more liekly and waham (illusion) for the less liekly, this state is refereed to as shakk (doubt)
+
+This categorisation illustrate that our understanding of realities can be classified into distinct cognitive state based on the nature of perception and certainty
+1. Knowledge: This is characterised by the correct perception of an entity as it truly is, combined with as definitive and secure awareness.
+2. plain ignorance (jahl basit): This occurs when there is a complete lack of awareness about a subject, leaving the individual without any knowledge of it. 
+3. Compounded ignorance (Jahl murakkab): This involves a mistaken perception, where individual understanding is contract to the actual nature of the subject.
+4. Shann: This is the perception where the individual leans toward a belief what many oppose is less correct view, implying a higher probability but not absolute certainly.
+5. Wahm: This represents a perception where there is a significant possibility of the belief being contrary to the most accurate view, indicated a greater likelihood of error .
+6. Shakk (Doubt): This state is marked by uncertainty, where the perceived reality could have an equally valid opposing view, leaving the individual in ambiguity.
+
+(Each of these states reflect different level of clarity, certainty and accuracy in the perceptions of realities, impacting the validity of conclusions drawn from such perceptions)
+
+* Categories of Knowledge
+Knowledge, as a component of understanding and perception, can indeed be categorised into two primary types: essential and theoretical.
+
+Essential Knowledge: This type of knowledge is intrinsic and almost instinctual. Individuals acquire this. knowledge effortlessly, without deliberate investigation or analysis. it include universally self-evident truths or fact that are generally accepted without question once encounter, such as the understanding that the whole is greater than it's part, that fire produced heat, or recognition of Muhammad (ﷺ) as the messenger of Allah. These are perceived as basic truth that do not require proof or extended reasoning.
+
+Theoretical Knowledge: Unlike essential knowledge, theoretical knowledge requires active learning, reflection and analysis. It involves concepts and information that are not immediately apparent and typically require education or personal inquiry to understand. This category includes knowledge like the necessity of intention in prayer (theoretical knowledge often demands a degree of intellectual effort to acquire and understand.)
+
+* Speech (Al-kalam)
+time 12:51
+
+The concept of speech encompasses both linguistic and technical definition that focus on the use of words to convey meaning.
+
+Linguistic, speech is defined as words composed and employed to articulate specific meaning. it essentially refers to the act of expressing or conveying ideas, information or feelings thought the structure use of language, weather spoken or written
+
+Technically, speech is described as words or phrases that are beneficial or meaningful, such as affirmation like "Allah is our lord" and "Our prophet is Muhammad (ﷺ) "(This highlight the important of speech in conveying significant and impactful messages)
+
+Compositions of speech.
+Speech is constructed from the basic element of language, typically involving at lead two component which could be nouns or a combination of a verb and a noun. Example of these structure include
+
+a statement with two types of nouns: "Muhammad is the Messenger of Allah"
+a construction with a verb and a nouns: "Mohamed remained steadfast"
+
+Element of speech
+At its simplest, a single unit of speech is a word, which can be a noun, verb or particle, each carrying a distinct meaning:
+
+The noun: Defined as a word that impacts meaning independently without the need to denote time. Nouns can be classified into three categories
+1. general nouns : those nouns signify general concept or classes of object, such as relative nouns that could apply broadly across many instances.
+2. absolute nouns: often seen in indefinite forms in affirmative context, these nouns express meaning that are unrestricted or not limited to specific instances 
+3. specific nouns: these nouns denote particular entities or items, highlighted through defined article or context, making them distinct and identifiable.
+
+(understanding these element's and their function in speech is fundamental in appreciate how language contract meaning and facilitates communication)
+
+(The structure of peach in linguistic terms continues with verb and particle, which further enrich how meaning are conveyed)
+
+B- The Verb: a verb is a word that inherently signifies a meaning and, based on its form, is associated with one of three tenses.
+
+Past Tense: Example include verbs like "fatima" (he understood ), denoting actions that have been completed
+
+Present tense: such as "yafhamu" (he understands), indicating ongoing or habitual actions
+
+Imperative Tense: Exemplified by "ifham" (understand), used for command or request.
+
+Verbs, regardless of their tense, suggest specific actions or states determined times by do not imply generality.
+
+C- The particle: particles are word that imply meaning indirectly, relating to other elements within the sentence rather than holding independent meaning. some common participle include
+
+1. Waw: used to denote association or conjugations between two elements, indicating that they are linked in some form of ruling. It neither commands nor negates by itself unless additional evidence suggest otherwise 
+2. Fa: severs as a connector indicating sequence and immediacy between elements, it often implies causality or purpose, showing why something occurs following another event
+3. Genitive Lam: this particle can express several meanings, including reasoning (why something is done), ownership (belonging to someone), and permissibility (allowing for an action)
+4. Genitive 'Ala: Often conveys a sense of obligation, indicating that the actions described is required or expected
+
+
+* Parts of speech
+time 1:26
+
+Speech is divided, with regard to its potential for truthfulness into two part al-khabr (news) and al-insha (that which is established)
+
+Al khabr: This refers to statement that can inherently be descried as either truthful or untruthful. Excluded from out description of 'that which can be described as truthful or untruthful' is 'al-isha,' because it significance cannot be evaluated at true or false until it is revealed whether it is indeed a truth or a lie.
+
+Additionally, excluded from our statement "in and of itself" are statement that have no potential to be either truthful or untruthful in relation to what they report. This is because the news regarding what it report fall into three categories
+1. What cannot be described as lying, such as the khabar (information) from reliable source that is confirmed to be true that Allah and his Messenger said 
+2. What cannot be described as honest, such as news that is inherently impossible by legislate or logical standard. The first example is the claim of someone alleging to be a prophet after the messenger of Allah (ﷺ), and the second example involves contradictory phenomena, such as claiming that something is moving and being still at the same time 
+3. There are statement that can be described as either truthful or untruthful, with varying degree of likelihood. An example of this is news that an absent person is arriving soon, where the truthfulness may depend on further context or evidence
+
+2- Al insha (What has been established) refers to statements that cannot be described as either truthful or untruthful. This category includes commands and prohibitions (which are directive or normative in nature and do not assert facts about the world. these expression instead function to establish rules, obligation or express wishes, such as directives like "Stop!" or prohibition like "Do not steal.")
+
+As in the saying of the Most High: 
+"Worship Allah and associate nothing with him" 4:36
+
+Speech can embody both khabar and insha simultaneously in certain context, such as in the proasing of a verbal contract. For example, in the statement "I sold and accepted", the phrase can function as khabar when it described the inten of the parties involved in the contract, indicating what has been agreed upon. Simultaneously, it acts as insha, as it establishes the contractual agreement and its ensuring obligations
+
+Additional speech may be presented as news (khabar) but inteded as insha, and vice versa (often from specific benefits or purpose. This duality allows from flexibility in communication, adapting the form of expression to suit the intended outcome or effect within a given context)
+
+The first example: the statement of the Most High:
+"The divorced women should remain in waiting for three periods" 2:228
+The phrase "they should wait for three periods" is structured as news (khabar), but the intent behind it is a command (insha). This stylistic choice serves to emphasise that action expected of the divorced women, treating it almost as pre existing state or established fact. By representing the command in this way, it underscores the importance and inevitability of the action, implying that it is a natural and expected behaviour. This method effetely strengthen the directive, framing it as n inherent attribute of those being addressed, thereby reinforcing compliance.
+
+an example of the opposite is the verse
+"And those who disbelieve say to those who believe, follow our way, and we will carry your sins" 29:12
+
+The statement "we will carry" is presented in the form of an order (insha), yet the intended purpose is informational (khabar). The disbelievers are not actually proposing to take the  sins of the believers in a literal sense but rather asserting this claim to persuaded or influence the believers.
+
+(The use of directive language here serves to portray their assertion as something compelling and obligatory, there by elevating the persuasive force of their statement. This rhetorical strategy position their claims as something serious and blinding, enhancing the impact of their argument even though it is essentially an informational statement about their false promise).
+* Literal words and Metaphors
+speech is divided in terms of usage to literal words and metaphroical words.
+
+Literal words refers to terms used in their primary, original sense, which directly conveys the meaning they are commonly understood to represent. For example, "lion" refer to the well know large predatory cat.
+
+- exclusion from "their primary, original sense",: This excludes term used in neglected or non-standard manner, which do not confirm to widely recognised definitions or usage. Such application are neither literal nor metaphorical; they are typically obscure or obsolete meaning not commonly understood.
+- exclusion from "commonly understood to represent": This category explicitly exclude metaphors, where words are used not in their direct, primary sense but to signify something else by way of resemblance or analogy. For instance, calling a brave person a lion uses the word in a metaphorical sense, not its literal meaning.
+  
+Literal words can be further divided based on the context in which they are understood:
+
+1. literal linguistics: This refers to words used according to the meaning assigned to them in a language. These are the definition generally accepted and understood by speakers of that language based on common usage and linguistic norms.
+
+   Exclusion from literal linguistics: This category specifically exclude definitions that are derived from legal (shari'a) or custom context (These specialised meaning might not align with the standard linguistic interpretation because they are influenced by legal precedents or cultural practices)
+   
+For example, the term "Salah" linguistically mean supplication or prayer in a general sense.
+
+(This is the meaning given by the speaker of the language without religious or legal connotation. However, in Islamic legal terminology, Salah refer specifically to the ritual prayer performed by Muslim, which include specific physical movement and recitation, a definition that goes beyond the mere concept of supplication).
+
+(understanding the distinction between literal linguistic meaning and those shaped by legal or customary influences is essentials for clear communication, especially in context where practice definition impact the interpretation and application of concept)
+
+2. Literal sharia (legislative) words: These refer to term that have specific meaning as defined by shariah (Islamic law). These definition are often precise and can differ significantly from the linguistic or customary meaning of the same words.
+   
+Exclusions form "by the sharia": This category explicitly excludes meaning that are based on customary usage or general linguistic interpretation. These secular or non-legal interpretations do not apply when the term are used in a legal Islamic context.
+
+For example while the term prayer might linguistically mean any act of supplication or prayer, in a Shari context, it specifically refer to the formal ritual of worship in Islam, which includes a series of words and actions started with the takbir (saying "allhu akbar" to signify the start of the prayer) and the ending with taslim (saying "as-salamu alaykum wa rahmatullah" to signify the end.) This precise definition encompasses the action and intention prescribed by Islamic law and it is this legal definitions that is meant when the term is used in discussion of Islamic practices.
+
+(understanding the distinction between literal shari words and their linguistic or customary counterpart is crucial, particularly in a theological discussion, legal interpretation and the practice of Islamic ritual, ensuring that the term are used correctly within their intended religious context.)
+
+3. literal customary words: these refer to words whose meaning are determined by the customs and practice of a community. This category emphasise how terms are understood in everyday life within a specific cultural or social context.
+
+Exclusions form "literal customary words": This explicitly exclude meaning that are defined linguistically or by legislative frameworks.
+
+(The focus here is on how words are used and understood in daily interactions among people within a particular cultural setting, rather than their strict dictionary definition or their specialised meaning in legal context).
+
+For example, consider the word dabah, which in many cultural context refer specifically to a four legged animal. This is understanding of the term according to local custom and does not necessarily align with scientific classification or legal definition. The customary meaning reflect the common usage and collective understanding of the word within that culture
+
+(Understanding the distinction between literal customary words and their linguistic or legislative counterpart is crucial because it helps ensure that communication is effective and appropriate within the given context. Knowing whether a word is being used according to community custom, linguistic definitions, or legal stipulations allows for clearer interpretation and helps avoid misunderstanding.)
+
+Understanding that words have three distinct realities - linguistics, legislative, and customary - offers several benefits. By recognising these distinctions, we can ensure that each word is correctly understood and applied within it's respective context; linguist analyse words according to linguistic norm, legislator interpret them within the legal framework, and traditionalist understand them based on cultural customs.
+
+(This awareness enables precise communication, effective interpretation, and cultural sensitivity)
+
+B - The metaphor involves using a word for a purpose other than its original intent. For instance, likening a brave man to a lion. Excluded from this definition are words that remains unused, neither representing reality nor serving as metaphors. Additionally, the term "for other than the purpose it was intended" does not compass  reality.
+
+it is impermissible to employ a word with its metaphorical meaning unless there is a valid evidence that prevents the intended realistic meaning, a principle known in the field of eloquence as a "qarinah".
+
+The condition for using a word in its metaphorical sense is the presence of a connection between the literal meaning and the metaphorical meaning, ensuring the expression remains correct. This principle, known in the field of eloquence as a "link", can be established through similarity or other means. When the connection is based on similarity, it is termed at tajawwas isti'arah' (borrowing), as seen in the example of using lion to represent a brave man
+
+If the connection is not based on similarity, it is termed 'at-tajawwas majaz mursul' (Metonym) when the metaphorical shift occurs in the word themselves, and 'psychological metaphor' when it happen in attribution.
+
+an example of a metonym is saying "we took care of the rain" to mean pasture. This exemplifies 'at-tajawwaz' occurring within the word itself.
+
+An example of a psychological metaphor is saying "The rain has given growth to the pastures". Here, the literal meaning of the words is understood, but attributing growth to the rain is metaphorical because true cause of growth is Allah. This is an example of at tajawwaz occurring in attributions
+
+Also, the use of metonyms involves both additions and omission. An example of which is the statement of Allah the Most High: 
+"There is none like him" 42:11
+
+The letter 'kaf is added to emphasise the negation of anything resembling Allah the Most High
+
+an example of metaphor by omission is the verse:
+"ask the village" 12:82
+
+i.e ask the villagers to respond. Here, the world people is omitted from metaphorical effect, and there are various types of such metaphorical instance listed in the science of eloquence (al-bayan)
+
+Indeed, only some of the types of reality and metaphor in usul ul fiqh have been mention here.This is because the meaning of words can either real or metaphorical, necessitating the need to understand each one and it's corresponding ruling. Allah knows best.
+
+The division of speech into fact and metaphor is well know among many later scholars, both in the qur'an and in other text. Some scholars assert that there is no metaphor in the qur'an. While other extant this assertion to all text. This view is was expressed by abu ishaq al isfaraini and later by the sholars skheik muhammad al-amin al-shinqiti.
+
+They argued that this convention emerged after the three preferred centuries. skhiek al Islam ibn taymiyyah and his student ibn al qayim supported this view with strong evidence, which becomes apparent upon closer examination that this is the correct option.
+
+* The Commands (Al-Amr)  pg 30
+
+The definition of a command is: a statement that includes a requests for actions by a higher authority, such as "establish the prayer and pay zakat".
+
+And what is excluded from our term "statement" is anything that is not communicated verbally, even if it implied a command.
+
+Additionally, what is also excluded from out phrase 'the request of an action' is prohibition, as it entails requesting the cessations of an action, whereas the intent of a command is to prompt an action, including speech that is commanded to be uttered.
+
+And what is also excluded from our phrase 'by way of higher authority' is appeals, supplications, and similar expression that may resemble commands in structure but do no carry the authority of a command.
+
+** Forms of command
+The forms of command are four:
+1. The imperative verb, such as
+   "recite [O Muhammed], what has been revealed to you of the book" 29:45
+2. The imperative verbal noun, such as
+   "Come to prayer" (from the adhan)
+3. The verbal noun that is used in place of the imperative verb, such as:
+   "So when you meet those who disbelieve [in battle], strike [their] necks' 47:4
+4. Present tense verb joined with the Lam of imperative, such as:
+   "To believe in Allah and his messenger" 58:4
+
+Commands can also be conveyed through means other than the standard forms mentioned above, for instance, a command may be indicated by describing it as fard, wajib,mandud or obedience, or by praising the performer and disparaging the one who neglects it. Additionally, a reward may be associated with its fulfilment, ore leaving it may incur punishment.
+
+** What the wording of a command necessitates
+The commands, when not contrained by other factors, entails the obligation of executing what is being commanded and doing so promptly.
+
+For the evidence that it necessitates obligation in the verse:
+"So let those beware who dissent from the Prophet's order, lest fitnah strike them or a painful punishment" 24:63
+
+The significance of this verse is that Allah has warned those who disobey the Prophet (ﷺ) commands to beware of a fitnah, which is a deviation, or face a painful punishment. such a warning implies that the general commands of the Prophet must b e obeyed, as neglecting them could lead to dire consequences.
+
+From the evidence that it is to be carried out straight away in the verse:
+"so race forward in doing good deeds" 2:148,5:28
+
+The things enjoined by the shariah are inherently good, and the command to hasten towards goodness servers as evidence for the obligation to promptly engage in virtuous deed. For instance, the Prophet expressed displeasure when people delayed the sacrifice and shaving of their heads on the Day of Hudaybiyah, a matter he shared with Umm Salamah. Prompt actions reflect a sense of vigilance and righteousness, while delay can lead to complication and the accumulation of unfulfilled duties.
+
+pg34

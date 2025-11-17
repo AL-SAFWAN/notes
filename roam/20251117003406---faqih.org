@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       0e48c744-3e6e-4d6a-9b43-5a43daf938e1
+:END:
+#+title: faqih
+#+filetags: :terminology:
+jurist

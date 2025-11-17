@@ -142,7 +142,7 @@ This only applies during a conflict between father and mother where you should p
 :PROPERTIES:
 :ID:       7caae1c4-e4da-4a22-b363-136e6197ebd8
 :END:
-* (11) Chapter: Whoever is dutiful to his parents, Allāh increases him in his lifespan.
+* (11) Chapter: Whoever is dutiful to his parents, Allah increases him in his lifespan.
 :PROPERTIES:
 :ID:       3472b513-d134-4786-9c70-70a97804411d
 :END:
@@ -216,11 +216,26 @@ the scholars says "Let him be hummled into dust" means:
  2. or a person describing a person like this
 
 ** 22. [[id:bbaf35e6-7daf-45f7-a188-2b83ad034111][Abu Hurairah]] report Allah's Apostle (ﷺ) as saying: "let him be humbled into dust; let him be humbled into dust. three times, He who sees either of his parents during their old age or he sees both of them, and enter the Hell fire: or he does not enter Paradise.""
+:PROPERTIES:
+:ID:       842d7a7d-d128-4992-9905-4bbdc804197f
+:END:
 ** 23. [[id:bbaf35e6-7daf-45f7-a188-2b83ad034111][Abu Hurairah]] narrates that the Messenger of Allah (ﷺ) said : "May the man before whom I am mentioned - and he [[id:0e911a9f-4179-40eb-8914-c91f8169db68][does not sent Salat upon me]] - be humiliated. And may a man whose parents reach old age in his presence, and they were not a cause for his entrance to Paradise, be humiliated, be humiliated. and may a man upon whom Ramadan enters and then passes, before his is forgiven.""
-** TODO 24. [[id:b8066a53-680f-4f46-9df4-b264317f73ab][Ka'ab Ibn Ujrah]] narrates that the prophet (ﷺ) said, "Bring the pulpit." Then when he (ﷺ) emerged and ascended the pulpit, he ascended the first step and said "Amin", Then he ascended the second (step) and said "Amin". Then he ascended the third step and said "Amin". Then when he had finished and descended the pulpit, we said "O messenger of Allah, we have indeed heard something from you today which we have not heard before. He asked, "And you heard it?" We replied "Yes". He said "Indeed Jibril appeared and said, "Distant (from the mercy of Allah) is he who reaches Ramadan and is not forgiven." So I said, "Amin". Then when I ascended the second (step), he said "Distant is he who doesn't not send salutation upon you when you are mentioned in his presence." So I said "Amin." Then when I ascended the third, he said "Distant is he who find his , or one of them, in old age and they are not a means of his entry into Paradise." so I said "Amin".
-53:40
+:PROPERTIES:
+:ID:       cac8b9e5-c244-4359-a50f-4669f40f20ec
+:END:
+** 24. [[id:b8066a53-680f-4f46-9df4-b264317f73ab][Ka'ab Ibn Ujrah]] narrates that the prophet (ﷺ) said, "Bring the pulpit." Then when he (ﷺ) emerged and ascended the pulpit, he ascended the first step and said "Amin", Then he ascended the second (step) and said "Amin". Then he ascended the third step and said "Amin". Then when he had finished and descended the pulpit, we said "O messenger of Allah, we have indeed heard something from you today which we have not heard before. He asked, "And you heard it?" We replied "Yes". He said "Indeed Jibril appeared and said, "Distant (from the mercy of Allah) is he who reaches Ramadan and is not forgiven." So I said, "Amin". Then when I ascended the second (step), he said "Distant is he who doesn't not send salutation upon you when you are mentioned in his presence." So I said "Amin." Then when I ascended the third, he said "Distant is he who find his , or one of them, in old age and they are not a means of his entry into Paradise." so I said "Amin".
+:PROPERTIES:
+:ID:       c0de1e0a-17ab-4c73-8f42-89491bf72cd2
+:END:
+- we have the greatest prophet (ﷺ) and the greatest angle, against the one
+  1. who is not forgive in Ramadan 
+  2. Don't not send salat upon the prophet (ﷺ)   
+  3. The parents are not a means for us to enter Jannah
 ** 25. [[id:685a9a53-941d-46fe-b886-5935bbd43f2a][Anas]] said, "The Prophet (ﷺ) ascended the pulpit, when he went up one level he said, amin, then he went up another level and said, amin, then he went up a third level and said, amin, then he sat down. His companions asked, to what are you saying amin to O Messenger of Allah? He said, Jibril come to me and said, May the man before whom I am mentioned - and he does not send Salat upon me - be humiliated. And may a man who meets one of his parents or one of them and he did not enter Paradise. I said, Amin"
-** 26. Ibn Abbas narrates, "The Prophet (ﷺ) said, "When a parents gazes upon their child and he make them happy, the child gain (the reward of) freeing a soul""
+:PROPERTIES:
+:ID:       6d46f5a4-e98c-4509-a343-6e1a2a914a43
+:END:
+** TODO 26. [[id:6238b7a2-451a-4f1b-a08d-1516c9269361][Ibn Abbas]] narrates, "The Prophet (ﷺ) said, "When a parents gazes upon their child and he make them happy, the child gain (the reward of) freeing a soul""
 ** 27. Ibn Umar narrates from the Messenger of Allah (ﷺ), who said, "Indeed, the strongest from the dutifulness is for a person to maintain ties with the loved ones of his father."
 ** 28. [[id:bbaf35e6-7daf-45f7-a188-2b83ad034111][Abu Hurairah]] narrates form the Prophet (ﷺ) who said, "Indeed, Allah has created the ties of kinship as [interwaving] branches". Allah says to the ties of kindship: "Are you not pleased that I enter into Paradise the one who maintains you, and I enter into the Fire the one who severs you?"
 ** 29. Jubayr ibn Mutim narrates that he heard the Prophet (ﷺ) say , "A person who severs ties will not enter Paradise." 

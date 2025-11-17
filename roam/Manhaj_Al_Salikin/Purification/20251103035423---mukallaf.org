@@ -1,7 +1,9 @@
 :PROPERTIES:
 :ID:       ba93d19b-37c1-40d2-9613-a01ac674fa21
+:ROAM_ALIASES: al-mukallafin
 :END:
 #+title: mukallaf
 #+filetags: :terminology:
 
-someone who is legally held accountable
+- someone who is legally held accountable
+- those who are deemed legally responsible with the Islamic law

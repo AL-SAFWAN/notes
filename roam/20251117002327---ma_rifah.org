@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       6225c4e5-39bf-454c-b432-2c6073ad7c7e
+:END:
+#+title: ma'rifah
+#+filetags: :terminology:
+
+encompasses both knowledge and conjecture. This is because the ruling of fiqh (Islamic jurisprudence) can be understood through certainty or through speculative means, as is common in many fiqh issue.
