@@ -338,4 +338,124 @@ From the evidence that it is to be carried out straight away in the verse:
 
 The things enjoined by the shariah are inherently good, and the command to hasten towards goodness servers as evidence for the obligation to promptly engage in virtuous deed. For instance, the Prophet expressed displeasure when people delayed the sacrifice and shaving of their heads on the Day of Hudaybiyah, a matter he shared with Umm Salamah. Prompt actions reflect a sense of vigilance and righteousness, while delay can lead to complication and the accumulation of unfulfilled duties.
 
-pg34
+
+There are instances where a command, although give, may not be obligatory or demand immediate execution due to the specific evidence. In such cases, the command's status shifts from being an obligation to signifying something else, such as
+
+1. Recommended - for example:
+   "When you buy and sell have it witnessed" 2:282
+   
+   The command to have buying and selling witnessed is considered preferable according to evidence that the Prophet Muhammad (ﷺ) bought a horse from a Bedouin without having it witnessed.
+
+2. Al-ibahah (permissible) often arises after a warning or in response to what might initially seem prohibited. An example of this occurring after a prohibition in the verse:
+   "but when you come out of ihram, the [you may] hunt" 5:2
+   
+3. The command to go hunting is one of permissibility because it is mentioned after the warning, as is deduced form the verse:
+   "Hunting not being permitted while you are in the state of Ihram"
+
+And an example of when it is reply to what is perceived to be prohibited is the statement of the prophet (ﷺ) "Do it and there is nothing wrong", in reply to the one who asked during the final Hajj about doing the action on the day of Eid in a different order.
+
+4. As a threat, as in the statement of the Most High:
+   "Do what you like indeed He is ever-watchful over what you do" (41:40) and "So whoever wishes then let him believe and whoever wished, let him disbelieve. Verily We have prepared for the unjust a fire"
+
+So, the warning is mention after the command is laid down proving that it is a threat.
+
+And the command can be shifted from an immediate nature to one that can be implemented over time. An example of this is making up the missed days of Ramadan, because even though it is ordered to be done, the evidence indicate that it can be done over a period of time, as narrated by A'ishah:
+
+"When I has to make up the fasting of Ramadan, I would make up for it what I could except in Sha'ban and that due to the Messenger of Allah's station." If delaying it was forbidden, then he wouldn't have allowed Aisha to do it.
+
+Furthermore, a commands can also be carried out over time when what has been commanded cannot be completed expect with it.  So, if an action that has been commanded cannot be completed because of something, then that thing itself becomes commanded in order to fulfil the command. Similarly, if it is recommended, then the thing its by default recommended.
+
+An example of an obligation is covering someone's 'awarah (part of the body that must be covered). if you are prevented from doing so without certain clothes, then buying those clothes also becomes an obligation.
+
+An example of something recommended is wearing perfume on the day of Jum'uah. If it relies on buying perfume to carry it out, then buying the perfume is likewise recommended.
+
+The principle is part of a more genreal principle: the means follow the rulings of the purposes they are being used for. So, the means undertaken to fulfil obligation are themselves obligatory, and similarly, those things that are prohibited render the means unlawful as well.
+
+
+
+* The Prohibition (an-nahi)
+The definition of a prohibition is a statement form a higher authority that includes a request to avoid doing something. It typical follows a specific format, using the present tense couple with the "laam" of prohibition such as the statement of the Most High":
+"Do not follow those who deny Our revelation and who do not believe in the Hereafter" 6:150
+
+What is excluded from our definition is the inclusion of "gestures", as it's not typically regarded as a form of prohibition, even if it conveys a similar meaning. Additionally, excluded form out description of "a request to avoid something" is the concept of command, which entail a request to carry out an action rather than to avoid it. Furthermore, excluded from "from a higher authority" are appeals, supplications, or other forms of expression that do not imply prohibition.
+
+Also excluded form our descriptions of 'a specific format of the presence tense, etc' are expressiong that indicate a request to abstain from something but are in the form of a command (al-amr), such as "da" (Leave alone), 'utruk'(leave, abandon), and 'kaff leave off, among other. While these expression convey a request to stop, their form is that of a command rather than a prohibition. furthermore, prohibition can be conveyed through means other than the normal forms of prohibition, such as when the act is described as haram, severely warned against, distasteful or when the perpetrator is disparaged, or when a punishment is ascribed to it, and so forth.
+
+** What the wording of prohibition necessitates
+When left unrestricted, prohibitions necessitates the complete forbiddance of the action in question and render it invalid. This is supported by evidence such as the statement of the Most High:
+
+"And whatever the Messenger give you then take it, and whatever he forbids you form then abstain from it" 59:7
+
+So, the command is to cease what he has forbidden us from, necessitating our abstention from it, thus rendering it a prohibited act.
+
+From the evidence that demonstrates the invalidity of certain actions is the saying of the Prophet (ﷺ): "whoever does an action that is not in accordance with our affair , then it is rejected", meaning it is reject if it goes against his teachings.
+
+The principle according to the Hanbali school of thought concerning those things that have been forbidden, wheather they are correct or not is as follows:
+
+1. The prohibition returns back to the very thing itself being prohibited or its conditions, thus making it incorrect.
+   
+2. The prohibition returns back to something other than itself or its conditions, therefore not being incorrect.
+
+An example of the first principle in worship is the prohibition on fasting on the two days of Eid.
+
+an Example of the first principle in dealing with other people is the prohibition of selling after the second call of prayer for whoever is obligated to observe Friday.
+
+An example of the second principle is the prohibition of a man wearing silk. although covering his 'awrah fulfils one of the condition of prayer, if he covers it with a fordden cloth, such as silk, his prayer is invalid because of the prohibition return to the condition required for the prayer to be valid.
+
+An example of the second principle in transaction is the prohibition on the sale of foetus. Knowledge of what one is buying is a condition for the validity of the transaction. if a foetus is sold, the transaction is not valid due to the condition of the prohibition.
+
+An example of a prohibition return to an external issue in worship is wearing of a silk turban by a man. If he prays while wearing a silk turban, it does not invalidate his prayer because the prohibition does not related directly to the prayer or it's condition for acceptance.
+
+An example of a prohibition returning to an external issue in transactions is the prohibition of fraud if something is sold fraudulently, that does not invalidate the sale itself.
+
+Prohibition can sometimes encompass actions that are disliked or discouraged rather than explicitly forbidden, as evidence by the following instance
+
+1. Dislike: For instance, the Prophet (ﷺ) advised against using the right hand to touch one's private part while urinating, state, "Do not let any of you touch his private part with his right hand when he urinates." Scholars suggest that the prohibition her signifies dislike, as the private part is part of the body, and refraining from using the right hand aims to maintain its purity.
+   
+2. Guidance. Another example is the Prophet's instruction to Muadh ibn Jabal, advising him to regularly supplicate after every prayer "O Allah, help me to remember You, give thanks to You, and worship You well", Although not explicitly obligatory, this guidance highlights the importance of continual remembrance, gratitude and devotion to Allah.
+
+Who is addressed by the legislation is to implement commands and prohibitions? it is the mukallaf, an adult who has reached puberty and of is sound mind.
+
+That is excluded from the term 'adult' is a child, who is not held to the same level of responsibility for commands and prohibition as an adult. However, a child is instructed to perform acts of worship to instill obedience to Allah and should be deterred form sins to foster habits of restraint.
+
+Excluded from the term "sane" is an instance person, who is not held accountable for commands and prohibitions. Nonetheless, they are prevented form actions that may harm other or lead to perversion. Even if they perform an actions commanded, it is not considered valid if they did not intent to comply with the command.
+
+This exemption does not apply to the obligation of zakat and financial rights of a child or insane person. These obligation are contingent on  specific condition, and once those conditions are met, the ruling applies based on the circumstance,  not the individual performing it.
+
+** Accountability for Commandments and Prohibitons include Muslim and Non-Muslim
+
+Both groups are obligated to obey the commands and refrain from the prohibitions. However the acceptance of deed differs between Muslim and non-Muslim. None-Muslims have their deed accepted even while they remain in a state of disbelief, as mention in the Qur'an:
+
+"What prevents their expenditures from being accepted form them but that they have disbelieved in Allah and his Messenger" 9:54
+
+Non-Muslims are not required to make up for their past deed if they accept Islam, as indicated in another verse:
+
+"Say to those who have disbelieved [that] if they cease, what has previous occurred will be forgiven for them" 8:38
+
+Additionally, the Prophet Muhammad (ﷺ) informed Amr ibn al-as that "Islam nullifies previous actions." Therefore, a person is only punished if they die in a state of disbelief. This is evident from the quranic verse describing the response of the wrongdoers when question about their deeds.
+
+"What put you into Saqar? They will say, We were not of those who prayed, not did we used to feed the poor, and we used to enter into vain discourse with those who engaged [in it], and we used to deny the Day of recompense until there came to us the certainty" 74:42-47
+
+
+** Preventions for Accountability
+pg 42 - time 8:48
+
+There are circumstances that exempt individual from he obligations set by the shariah
+1. Ignorance, forgetfulness, and coercion, The prophet Muhammad (ﷺ) stated: "Allah has forgiven my ummah for its mistakes; what they forget and they are forced to do". This hadith narrated by ibn Majah and al Bayhaqi and is supported by corroborating evidence form the Quran and Sunnah. If a person violates a prohibitions unknowingly, they bear no sin. For example, someone speaking during prayer without knowledge of the prohibition against it. Similarly, if one neglected and obligation without realising it necessity, they are not required to make up for it once the time has passed. An example is when the Prophet (ﷺ) did not instruct a person who prayed incorrectly, lacking tranquillity, to compensate for missed prayer. Instead, he direct them to perform the current prayer correctly.
+2. Forgetfullness refer to the absence of mind regarding something known. If someone unintentionally commits a prohibited act due to forgetfulness, there is no sin upon them. An example is someone eating while fasting because they forgot they were fasting. Similarly, if a duty is forgetten, there is no obligation while in a state of forgetfulness. However, once a remembered, the duty must be fulfilled. This is supported by the saying of the Prophet Muhammed (ﷺ: "Whoever forgets the prayer, let him pray when he remembers" 
+3. Coercion entails forcing someone to do something against their will. If someone is compelled to engage in a forbidden act, there is no sin upon them, such as being coerced into acts of disbelieved while maintaining faith in their heart. Similarly, if someone is compelled to neglect an obligation, there is no sin while under coercion, and they must fulfil it once the coercion ceases. For instance, if someone is coerced to miss a prayer until after its allotted time, they must make it up as soon as possible once the coercion ends.
+
+These allowance are based on Allah's forgiveness and mercy concerning His rights. However regarding the rights of others, commitments must be honred unless the involved party choose to overlook them.
+
+* The General (Al-'Am)
+9:01
+The term Al-'Am linguistically signifies inclusively. Technically, it refers to an all-encompassing word that incorporates all its individual elements without restriction: such as:
+"The righteous are in bliss" 82:13, 84:22
+
+What is excluded from our phrase "includes all its individual elements" is anything that pertains only to single elements, like a specific noun or an indefinite article in an affirmative context. For example, the verse:
+"The freeing of a neck" 58:3
+it does not encompass all elements inclusively but focuses on one unspecified element.
+
+And what it not covered by the phrase "without restriction"
+
+ 
