@@ -456,6 +456,221 @@ What is excluded from our phrase "includes all its individual elements" is anyth
 "The freeing of a neck" 58:3
 it does not encompass all elements inclusively but focuses on one unspecified element.
 
-And what it not covered by the phrase "without restriction"
+And what it not covered by the phrase "without restriction" is anything that addresses all its elements with restrictions, such as specific number like "one hundred thousand" and similar expressions.
 
- 
+** Forms of General (Al-'Am)
+The seven types of wording which indicate genreality are
+1. What shoes generality in itself - such as: kullu (every), Jami (entirely), Kafak (totality), qatibah (all without exception), and al-'Am (general): such as the saying of the Most High
+   "Everything We have created with due propotion and measure" 54:49
+2. Nouns of condition - like the saying of the Most High:
+   "Whoever does a righteous deed then it is for himself" 45:15
+   "Wherever you turn there is the face of Allah" 2:115
+3. interrogative nouns - like the saying of the Most High:
+   "Who is that will bring forth gushing water" 67:30
+   "What did you answer the messengers" 28:65
+   "Where are you going" 81:26
+4. Relative nouns - like the saying of the Most High
+   "And the one who has brought the truth and [they who] believe in it those are the righteous" 39:33
+   "and those who strive for Us - we will surely guide them to Our way" 26:69
+   "indeed in that is a warning for whoever would fear Allah" 79:26
+   "And to Allah belongs whatever is in the heavens and whatever is on the earth" 3:129
+5. The indefinite noun in the context of negation, prohibition or rhetorical question - like the saying of the Most High:
+   "there is no true good but Allah"3:63
+   "and worship Allah and join none with him" 4:36
+   "If you reveal anything or conceal it, indeed Allah is the knower of everyting" 33:54
+   "Which deity is there other than Allah that can bring light for you, do you then not hear" 28:71
+6. The possession (noun) singular or plural, defined thought Al-idhafah (a possessive noun) - like the saying of the Most High:
+   "mention the grace of Allah upon you" 3:103
+7. The fined noun, singular or plural, by way of the definite article ("al" of inclusiveness)- like the saying of the Most High
+   "And man was created weak"4:28
+   "And when the children among you came of age, let also ask permission of those before them" 24:59
+
+   in the context of defined nouns acknowledge by the 'al' article, their definition depends on the extent of acknowledgement. If the acknowledgement is general, then the noun is considered defined in general terms. Conversely, if the acknowledgement is specific, then the noun is regarded as defined in specific terms.
+
+   An example of a general acknowledgement is found in the verse:
+   "The lord said to the angels, I create man from clay. When I have breathed into him of my spirit and fashioned him, they prostrated to him. all the angels, every last one of them, fell done in prostraction" 38:71-47
+   
+   An example of specific is the saying of the Most High:
+   o"As we sent a messenger to Pharaoh, so Pharaoh disobeyed the messenger so we took hold of him in a severe way" 73:15-16
+   When the "al" article defines a class noun, it doesn't render singular nouns as general. For instance, when saying "The man is better than the women" or "the men are better than the women" it doesn't imply that every individual man is better than every individual women, Rather, it suggest that the male gender as a whole is considered superior to the female gender, even though theere may be  individual women who surpass certain men in certain aspects.
+
+** Acting on the general
+time -932
+It's imperative to adhere to the general implication of text until evidence suggest specificity. This is because the Quranic and Sunnah text require adherence to their general meaning until evidence indicate otherwise.
+
+When we encounter a general statement stemming form a particular circumstance, we should still abide by its general implication . This focus is on the generality of the wording rather than the specific reason behind it, unless evidence specifically points to its particular application.
+
+For instance , consider the case of zihar (a form of divorce where a man compares his wife to a relative). While it originated from a specific incident involving a companion, the ruling applies generally to anyone in a similar situation.
+
+An instance where evidence specifies a general statement is found in the Prophet (ﷺ) saying: "it is not from righteousness to fast while travelling". The context behind this statement involves the Prophet encountering a man during a journey. The Prophet (ﷺ) was on a journey whereupon he saw a crowd and a man being shaded by them and said What is this, They said, he is fasting, he said, it is not from righteousness to fast while travelling. Uponthis observation, he remarked that fasting while travelling is not a righteous act. This generality becomes specific to those who share the circumstance of the man in question - specifically, when fasting becomes burdensome during travel.
+
+The specificity of this ruling is evident from the Prophet own practice. He would fast during journey when it wasn't arduous for him, highlighting that he abstain from actions deemed unrighteous.
+   
+*  The Specific (Al-Khas)
+ the term "al-Khas" linguistically denotes the opposite of "general" (Al-'Am). Technically, it refers to a word that is restrict to a particular person or a specific number, such as names of well known individual, demonstrative noun, and numerical values.
+
+ Excluded from the definitions of "restricted" are nay element of characterised by generality.
+
+ The term "Takhsis" linguistically represents the exact opposite of generalisation. Technically, it signifies singling out specific elements form what is general.
+
+ An "Al-mukhasis" with an I - is the individual responsible for making things specific or customised (takhsis). This role is typically held by the legislator, and the evidence supporting taksis is also referred to using this term (mukhasis)
+ Evidence indicating takhsis can be categorised into two types
+ 1. Connecting, referring to what cannot stand independently
+ 2. Separate, referring to what can exist independently
+
+Therefore, one form of the connected specified, know as "Mukhasis al Mutasil" is the "Al-istithnah (exception)". Linguistically, "Al-istihnah" derives form "thana", which means to bend something with another part of itself, akin to tying a rope. Technically, it involves extracting specific elements from the general using the word "illa"(except) or its equivalent, as seen in the Quranic verse:
+
+"indeed man is in loss except those who believe and do good work, and exhort one another to truth and exhort one another to patience" 103: 2-3
+
+Excluded from this definition are methods of specifying something with a conditions or any other means beside "illa" or its equivalents.
+** Conditions for Al-istithnah
+For the validity of istihnah, certain conditions must be met:
+1. It must be connect to the thing it is excluding, either directly or indirectly
+   - Direct connection occurs when the exception immediate follows the thin it exempts without interuption 
+   - Indirect connection is assumed when there is a break betwen them cause by something unavoidable, like coughting or sneezing, if the separation is cause by something avoidable, such as pausing or speaking other words, the exceptions is not valid, for example, saying  "My slave are free", pausing, and then adding "except sa'd" would not be valid, and all slaves would be considered free.
+Some scholars argue that exceptions can be valid even with silence or a break in speech if it's part of a single speech act. They cite the hadith of ibn 'Abbas that the Prophet (ﷺ)  said on the day of the Conquest of Mecca, This country has been made sacred by Allah on the day he created the heavens and earth, it thorn are not to be popped up, nor its shrubs uprooted' So Al-Abbas said O messenger of Allah except idhker? He said: except idhker. This interpretation is support by the apprent meaning of the hadith.
+
+2. The exception should not exceed half of what it is excluding
+If someone say "I owe him ten dirhams except six", this exception is not valid, and the entire ten dirhams are payable. Some argue that this condition is unnecessary, and the exception remains valid even if it exceeds half, but the obligation is limited to the remaining amount (in this case, not more than 4 dirhams). However, if the entire sum is made an exception, it is not valid according to both position. For instance, if someone says "I own him ten expect 10", the entire ten dirhams are payable
+
+This condition applies specifically to exception concerning number. However, if the exception pertain to a description, it remains valid even if most or all of the subject is exempted.
+
+For example in the Quran Allah say to Ibless (Satan)
+"Indeed, My servants - no authority will you have over them, except those who follow you of the deviator" 15:42
+
+Even though the follower of Satan outnumber the righteous, the exception still applies. Similarly if someone say "give to eveone in the hose except the wealthy", and it turns out everyone in the house is wealthy, the exception stands, and no one receives anyting.
+
+Secondly, among the connected specified is the "shart" conditions, which in Arabic refers to a mark or sign. Here, it denotes connecting one thing to another, wether it is present or not, using the conditional "An" or one of it equivalents
+
+The conditions is specific, whether it appears early or late in the text. An example of its early appearance is found in Allah's statement regarding the idolaters:
+
+"But if they should, repent, establish prayer, and give zakah, let them go on their way. Indeed Allah is fogiving and merciful" 9:5
+
+And an example of when it is delayed in the text is the saying of the Most High:
+"And those who seek a contract [for eventual emancipation] form among who you right hand possess - then make a contract which them if you know there is within them goodness" 24:33
+
+Thirdly, among the connected specifiers is a description, which involves specifying certain individuals from a general group using an adjective, substitute (badl), or state (hal).
+
+And example of this is found in the Qur'an verse:
+"From those whom your right hand possess of believing slave girls" 4:25
+
+The example of substitute in the saying of the Most High:
+
+"And due to Allah from the people is a pilgrimage for the House - for whoever is able to find there to away" 3:97
+
+And example of a state (hal) is the saying of the Most High:
+"But whoever kill ad believer intentionally - his recompense is Hell, wherein he will abide eternally, and Allah as become angry with him and has cursed him and has prepared him a great punishment" 4:93
+
+** The sperate Mukhasis
+
+The separate specifier is independent and consist of three elements: sense, reason and legislation
+
+An example of specification by sense is found in the quran verse about the wind of 'Ad:
+"Destroy everything by command of its' lord" 46:25
+
+Here, the sense indicate that the wind did not destroy the heaven and the earth, and example of taksis through reason is the saying of the Most High:
+"Allah is the Creator of All things" 39:62
+
+The mind indicates that Allah is not created. Some of the scholars hold the view that what is made specific by the sense and intellect is not from the general that is made specific, rather it is from the general which is inteded for being specific, so the intent of the speaker or the addressee is not the specific in the first place, and is a general reality which a specific one (as the saying of the Most High) is intended by.
+
+As for takhsis of legislation, then the Book and the Sunnah is made specific by each other as well as by Ijma and analogy.
+
+As an example of the Quran making specific other part of the Quran, note the saying of the Most High: 
+"Divorced women remain in waiting for three period" 2:228
+
+This is made specific by the saying of the Most High
+"O  You who have believed, when you marry a believing women and the divorce them before you have touched them, then there is not for you any waiting period to count concerning them"33:49
+
+
+
+
+time 10:13
+pg
+
+7:24am
+For example of how the Quran is made specific by the Sunnah, take the verse of inheritance, as the saying of the Most High: 
+"Allah instruct you concerning your children: for the male what is equal to the share of two femails" 4:11
+
+And the like are made specific by the saying of the Prophet:
+"The Muslim must not inherit from the infidel and the infidel must not inherit from the Muslim"
+
+For an example of the Qur'an being made specific by consensus, the saying of the Most High:
+
+"And those who accuse chaste women and then do not produce four witness - lash them with eighty lashes" 24:4
+...is made specific by consensus that the slanderous slave is to be flogged forty time instead, and like this many of the people of usul give example, although there is some proven disagreement in this, I have not been able to find a sound example which is free from disagreement.
+
+an example of the Qur'an being made specific through analogy is the saying of the Most High:
+"The unmarried women or unmarried man found guilty of sexual intercourse - last each one of them with a hundred lashes" 24:2
+
+This has been made specific by analogy to fifty lashes for the slave adulterer with the slave girl and this option is most well-known.
+An example of the Sunnah being made specific by the Qur'an is the statement of the Prophet (ﷺ).
+"I have been commanded to fight the people until they testify that there is no true God but Allah and that Muhammad is the Messenger of Allah..."
+
+This has been made specific by the saying of the Most High:
+"Fight those who do not believe in Allah or in the Last Day and who do not consider unlawful what Allah and his Messenger have made unlawful and who do not adopt the religion of truth from those who were given the Scripture - fight until they give the jizyah willingly while they are humbled".
+
+An example of the Sunnah making specific something from the Sunnah is the saying of the Prophet (ﷺ):
+"on a land irrigate by rain water or by natural water channels or if the land is wet due to nearby water channels Ushr (i.c one tenth) is compulsory (as zakat)" and on the land irrigated by the well, half an Ushr (i.c one-twentieth) is compulsory (as Zakat on the yield of the land).
+
+I have not been able to find an example from the Sunnah being made specific by concensus.
+
+Lastly an example of the Sunnah being made specific by analogy is the saying of the prophet (ﷺ):
+
+"The virgin with the virgin is one hundred lashes and banishment for one year"
+
+This has been made specific by analogy for the slave man and women it is limited to fifty lashes, this is what is well known.
+* The absolute and restricted
+The definition of Absolute (al-mutlaq): Al-mutlaq linguistically means the opposite of unrestricted, and technically it means: whatever indicates a reality without a restriction as the saying of the Most High.
+"The freeing of a slave before they touch one another " 58:3
+
+What is excluded from our words: "Whatever indicates a reality" is the general (al-Am)  because it indicates the generality of something whereas the Absolute indicate the absolute nature of a particular reality. And what is also excluded from our word "restricted" is unrestricted.
+
+The definition of Restricted (Al-muqayyid ): restricted linguistically means whatever is used to restrain a camel and the like, and technically means: whatever shows the reality of something but with a restriction such as the saying of the Most High:
+
+"Freeing a believing slave" 4:92
+
+Acting on Absolute (al-mutlaq): Al-mutlaq (text) must be acted upon in according to it apparent meaning (of absoluteness) until evidence restricts it. This is for the reason that acting on the Qur'an and Sunnah is an obligation and must abide by what is apparent unless other evidence show us otherwise.
+
+When an absolute text and a restricted on address the same issue, the restricted is applied to the absolute text. However, if they pertain to different matters, both text are followed, with the restriction of one an the absoluteness of the other taken into account.
+
+An example of when the issue of both text is addressing one issue, is the saying of the Most High in expiation of zihar (pronouncing one's wife as the back of his mother intended by it divorce):
+
+"The freeing of a slave before they touch one another" 58:3
+
+And his saying about the expiation for murder:
+
+"Freeing a believing slave"  4:92
+
+The ruling remains consistent: the freeing of a slave, therefore, we must qualify the absolute nature of the first verse concerting the expiation of zihar by restricting it to the freeing of a believing slave, which aligns s with the restriction specified in the verse regarding the expiation for murder consequently, in both cases, the slave being freed should be a believer.
+
+An example for when the ruling is for different issues is the saying of the Most High:
+"as for the thief, the male and the female, amputate their hands" 5:38
+
+And his saying in the verse regarding ablution:
+"Wash you're faces and your forarms to the elbows" 5:6
+
+Here although the ruling may seem similar, there is a difference, the first verse mention cutting, while the second mentions washing. Therefore, we do not qualify the first text by the second: the first verse remains absolute, specifying that the cutting should be from the write. Similarly, the second verse remain restricted, indicating that the washing should be done up to and including the elbows.
+
+* The Obscure and The clarifying
+pg 62 time 807
+
+The Definition of  Obscure (Al-mujmal)
+Obscure linguistically denotes something vague or accumulated. Technically, it refer to what cannot be understood without futher specification, clarification of its description or determination of it quantity.
+
+And example of what needs something to specify it is the saying of the Most High:
+"Divorced women remain in waiting for three periods"2:228
+
+The term "al-qar" is ambiguous, encompassing both menstruation and purity. Therefore, clarification is needed from evidence to determine which meaning is intended in given context.
+
+An example of what needs something else explaining it's description is the saying of the Most High:
+"And establish the prayer" 2:43
+
+Indeed establishing the prayer is unknown and needs to be explained.
+
+An example of what needs something else explaining its amount is the saying of the Most High:
+"And pay Zakat" 2:43
+
+Similarly, the specific amount of Zakat that must be paid is not specified in this verse and require clarification for other source.
+
+** The definition of the Clarifying (Al-mubayyin)
+
