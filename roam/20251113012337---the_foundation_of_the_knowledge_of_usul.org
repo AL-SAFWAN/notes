@@ -1146,7 +1146,51 @@ Ijthad is a crucial concept in Islamic jurisprudence, requiring specific conditi
 4. Awareness of Legal Terminology: Knowledge of legal terminology and principle of Islamic jurisprudence is necessary for the Mujtahid to interpret text accurately. This includes understanding terms like 'Am (general), Khas (specific), Mutlaq (absolute), Muqayyid (restricted), Mujmal (ambiguous), Mubayyin (clear), among others
 5. Ability to Derive Rulings: The Mujtahid must possess the capability to derive legal rulings form the available evidence, applying sound reasoning and methodology in their analysis.
 Ijtihad can be categorised based on the scope of the issue being addressed, whether it pertains to a specific chapter of Islamic law or particular legal problem. By meeting these conditions, the Mujtahid is able to engage in the process of Ijtihad effectively, contributing to the development and application of Islamic jurisprudence.
+
 ** What is necessary for the Mujtahid
 The Mustahid is required to exert diligent effort in seeking the truth. If he arrives at a correct ruling, her earns two rewards: one for his effort and another for reaching the truth. However, if he make an error despite this sincere efforts, he still receives a reward, and his mistake is forgiven. As the Prophet Muhammad (ﷺ) said "When a judge give a ruling and he tries his best (to find the truth) then he gets it receives he has two rewards, and if he judges and gets it wrong then he has only one reward"
+
 If a ruling remains unclear to him, it is permissible for him to refrain from issuing a judgement and instead resort to blind following due to the necessity of the situation.
-* Blind Following (Taqlid) 
+
+* Blind Following (Taqlid)
+Linguistically: refers to encircling or encompassing something like a rope around the neck.
+Technically: it means to follow the statements of someone whose words are not considered evidence.
+
+It's important to note that when we say "Whose statements are not evidence", we are excluding following the Prophet (ﷺ), following the concensus of scholars, and the following the statement of the Companions. Following these sources is not considered taqlid because they are considered evidence in themselves. 
+
+However the term taqlid is sometime used figuratively and more broadly to include following these source for the sake of clarity and inclusiveness
+
+** Situations of Taqlid
+Taqlid can occur in two main situations:
+
+For the Common Person: When an individual lack the ability to determine legal rulings independently, they are obligated to engage in blind following. This obligation arises from the Quranic injunction:
+"Ask the people of the Reminder if you do not know" 16:43
+In this case, the individual should follow the most knowledgeable and pious scholar available to them. If multiple scholars are of equal standing, the individual may choose any of them.
+
+From the Mujtahid: Even a qualified scholars may sometimes encounter a situation requiring an immediate responce, without the opportunity to research the matter thoroughly. In such instances, the scholar may engage in blind following temporarily. some scholars have suggested that blind following should not extend to matters of belief, as certainty is required in matters of faith.
+
+However, the more widely accepted view is that this is not a condition, as the Quranic directive to seek guidance from knowledgeable individuals applies universally. The verse "Ask the people of the Reminder if you do not know" 16:43 is general and encompasses all aspects of religious knowledge, including matters of belief. If a person is unable to arrive at the truth through their own efforts, they are obligated to resort to blind following, as Allah commands believer
+"Fear Allah as much as you are able" 64:16
+
+** Types of Taqlid
+Blind following can be categorised into two types: general and specific
+1. General Blind Following: in this type, an individual adheres to a particular school of thought and follows its rulings and decisions in all matters of religions. Scholars have differed in their opinions regarding the obligation or permissibility of general blind follwing. Some argue that it is obligatory due to the lack of ability for independent reasoning (Ijtihad) among latter generations Other contend that it is forbidden as it involves following someone other than the Prophet (ﷺ) without restriction.
+
+   Shaykh al-Islam ibn Taymiyyah said: "The statement that it is obligatory to obey someone other than the Prophet (ﷺ) in all commands and prohibitions, is against the consensus, and its permissibility is what it is." And he said: "Whoever adheres to a particular school of though then he opposes it not out of blind following another scholar that has given him a fatwa, not using a evidence that necessitates that or without a legal excuse which he requires a solution for what he has done then he is a follower of his desires, a doer of something forbidden without a legal excuses this is evil; as someonething becomes clear to him which gives preference to one saying over another either by detailed evidence if he know them and understand them, or he see one of two men more knowledgeable than the other and more pious in what he say so he can return from one saying to another the like of this is permissible rather obligatory and Iman Ahmad has written about this"
+   
+2. Specific Blind Following. In this type an individual only follows the ruling of a particular scholar or school of though in a specific case. This is permissible if the person is unable to arrive at the truth thought their own Ijtihad, either due to genuine inability or because doing so would entail significant hardship.
+
+** Blind following of Fatwas
+Allah says:
+"Ask the people of the Remembrance if you do not know" 16:43
+
+And the people of the Reminder are the scholars, and the blind follower are not from the people of knowledge who are followed, rather they are followers of others.
+Abu 'Umar bin Abdul-barr and other said: "The people are unanimously agreed that the blind follower is not of the scholars, and that knowledge is to know the truth with its evidence." ibn al Qayim said "This is as Abu Umar said: the people do not disagree that knowledge is obtained from the evidence, as for without the evidence then this is blind following" then ibn al Qayim mentioned the permissibility of the fatwa through blind following according to three sayings:
+
+1. it is impermissible to issue fatwas through blind following, as it lack true knowledge, a sentiment shared by most companions and the majority of the Shafi'yah
+2. it is permissible for an individual to follow a fatwa thorough blind following for himself, but it is impermissible to blindly follow others'fatwas intended for themselves
+3. blind following of fatwas is permissible when necessary and in the absence of a qualified Mujtahid scholar, a view deemed most correct and worthy of implemention.
+   
+And with this we complete what we intended to write in this concise reminder, we ask Allah to inspire us towards righteousness in speech and action and to crown our actions with success.
+
+Indeed, He is the Most Generous, and blessing sand peace be upon our Prophet Muhammad and his family.
