@@ -1064,5 +1064,89 @@ Part C) When a contradiction arises between a specific text and a general text, 
 Part D) When one text is more genreal in one aspect and mor specific in another aspect compare to another text, there are three cases
 
 1. Specification of Generality
+   If one text makes specific the general of the other, the more specific text is followed. For instance, the quranic verse specifying the waiting period for widows is made specific by the verse specifying the waiting period for pregnant women.
+   
+   Example: The saying of the Most High:
+   "And those who are taken in death among you and leave wives behind-they [the wives,shall] wait four months and ten [days]"
+
+   and the saying:
+   "and for those who are pregnant, their term is until they give birth" 65:4
+   The first verse is specific about its mention of widows but general when it comes to pregnant women. The second verse is specific about pregnant women but general about widows so the proof shows that the generality of the first one is made specific by the second one. Subiya Al-Aslamiah gave birth after her husband died by a few nights, and the Prophet (ﷺ)  allowed her to get married, based on this the iddah for the pregnant women is when she gives birth whether she is a widow or otherwise 
+   
 2. Preference
-3. Silent Adherence 
+   If neither text specifies the generality of the other, the more preferred view is followed. For example, the saying of the Propeht (ﷺ)  "If one of you enter the mosque let him not sit down until he prayer two rak'ah" and his saying "There is no prayer after Fajr until the sun rises and no prayer after Asr until the sun goes down."
+   The first is specific regarding the two rak'ah that are prayed before siting down in the masjid, but general about time. The second is specific about the time but genreal about the type of prayer, which includes the tahiyahtul masjid and other than that, but the most preferred opinion is  to make specific the generality of thee second with the firs , so it is permissible to pray tahiyahtul Masjid during the times that are prohibited for general prayers to be prayed therein.
+   We prefer this opinion because making specific the generality of the second has been confirmed for other prayer beside the tahiyahtul masjid such as making up the missed obligatory prayers, or praying again in congregation, so the generality has a weak position.
+   
+3. Silent Adherence
+   If there is no evidence or method to specify the genereal meaning of conflicting text, both text are followed in the aspect where they do not conflict, while remaining silent on the conflict aspect.
+
+However, it is not possible for there to be a contradiction between text of the same issue in a way that they cannot be reconciled, or that one of them is abrogating the other, or that one cannot be given preference over the other because the text do not contradict each other. The messenger (ﷺ) has made things perfectly clear and propagated (the message) so, it may be that the Mujtahid fell short in his understanding of the text, and Allah knows best.
+   
+(It's important to note that contradictions betwen text on the same issues are not inherent, and they can often be reconciled, abrogated, or one can be given preference over the other. If contradictions seem irreconcilable, it indicates a limitation in the understanding of the texts rather than an actual contradiction.)      
+
+** The order between the Evidence
+When the evidence mentioned previously (The Quran, Sunnah, consensus and analogy) agree on a ruling, or one of them does without contradicting the other source of evidence, then affirming it is compulsory. If there is a contradiction and it is possible to reconcile them then that is what must be done. If that is not the case then the abrogating text should be acted upon if the conditions are met. If all of that is not possible then one text must be given preference.
+
+Here's a summary of the order between the evidence:
+
+From the Qur'an and Sunnah
+1. The Apparent Text: The clear straightforward meaning of a text is given precedence over interpretation or ambiguous meaning.
+2. The Apparent Text over the Interpreted Text: If there is a conflict between a clear text and an interpreted one, the clear text is followed.
+3. The explicitly stated over the Understood: Direct statement take precedence over inferred meaning.
+4. Affirming Text over Negating Text: A text that affirms something is prioritised over one that denies it.
+5. Narrator of the Primary Source: The one narrating the original source of the information is given preference, as they likely have more knowledge.
+6. Preserved General Text over Non-preserved General Text: a general text that has been preserved in its original form is prioritised over a general text that has not been preserved.
+7. Text with More Affirmation: A text that is affirmed by more sources or has stronger evidence is given precedence 
+8. Person of the Story: The testimony of the person involved in the story or event is prioritised over other.
+   
+From consensus:
+9. Qati' (Clear Cut) consensus over Dhanni (uncertain) Consensus: Consensus that is indisputable and clearly established is a given precedence over uncertain consensus.
+
+From Analogy:
+10. Clear Text over Hidden Text: When applying analogy, a clear text is prioritised over a hidden or ambiguous text. 
+
+By adhering to this order, scholars ensure a systematic approach to deriving rulings from Islamic source, maintaining coherence and consistency in jurisprudence. 
+
+* The Mufti and The Mustafti
+The Mufti is the one who has knowledge of the legal rulings.
+The Mustafti is a questioner that ask for a legal ruling
+
+** The Conditions of Fatwa
+The requirements for the permissibility of a fatwa, which, if they are not met then the correct fatwa will not be obtained:
+
+1. Certainty of Knowledge: The Mufti must have certain or a strong conviction of the legal ruling regarding the matter at hand. If there is doubt or uncertainty, the Mufti should refrain from issuing a fatwa.
+2. Understanding the Question Fully: The Mufti must fully comprehend the question asked by the Mustafti in order to provide an accurate judgement. If the question is unclear or ambiguous, the Mufti should seek clarification or provide futher details in the answer
+   
+   So if someone dies and leaves behind a daughter, a brother and an uncle. Ask about the brothe was he from the mother or not? Or make the distinction in the answer. So if he was form the mother then there is nothing for him in inheritance and the remainder after what belongs to the daughter is for the uncle, and if he is from another mother, then the whats left after the daughter takes whats hers, is for him.
+3. Calm State of Mind:  The mufti should be in a calm and compose state of mind when issuing a fatwa. Fatwas should not be given impulsively or in a state of anger, preoccupation, or boredom. Instead, the Mufti should take the time to carefully consider the issue and apply legal evidence appropriately.
+** Conditions for Fatwa
+The conditions for issuing a fatwa are crucial for ensuring the validity and appropriateness of the legal ruling. Here are the specified conditions:
+1. Occurrence of the Incident: The incident or matter in questions must have actually taken place. If there is no occurrence of the incident, then issuing a fatwa is not obligatory. However, if the question is asked for the purpose of seeking knowledge, it is obligatory to answer truthfully whenever it is asked, regardless of the circumstance. 
+2. Intentions of the Questioner: It is necessary that the intention of the questioner are not malicious or aimed at causing discord among scholars or seeking an excuse for Wrongdoing. If the questioner's intuitions are found to be harmful or hishonest, then it is not obligatory to provide a fatwa.
+3. Avoidance of Harm: if issuing a fatwa would lead to greater harm or negative consequence, it is imperative to withhold from issuing a ruling. In such cases, avoiding the greater harm takes precedence over issuing a fatwa.
+
+(Adhering to these condition ensures that fatwas are issued responsibly and in accordance with Islamic principles, safeguarding the integrity of the fatwa process and promoting justice and well-being in society)
+** What the questioner is obliged to do
+The obligation of the questioner is seeking a fatwa are essential for ensuring the integrity and effectiveness of the fatwa process. Here are the two requirements for the questioners:
+
+1. Seeking the Truth and Acting Upon It: The questioner must seek the truth through his questioning and be willing to act upon the fatwa provided. This means that the questioner should not have ulterior motives or seek a specific fatwa that aligns with their desires. Instead, they should genuinely seek guidance in accordance with Islamic principles and be prepared to follow the guidance provided.
+2. Selecting an Appropriate Mufti: The questioner should choose a mufti whom they believe to be knowledgeable and pious, capable of providing a reliable fatwa. It is important to select a mufti who is well-versed in Islamic jurisprudence and possesses sound religious knowledge. Selecting the most knowledgeable and pious mufti available is considered obligatory by some scholars, highlighting the importance of choosing the right individual to seek guidance from.
+
+ (By adhering to these obligation, the questioner contributes to the integrity and effectiveness of the fatwa process, ensuring that they receive sound guidance in matters of religious significance)
+* Al Ijtihad
+Linguistically: exerting full effort to comprehend a complex matter
+Technically: To make an effort to understand a legal ruling
+The Mujtahid: The individual who dedicates themselves to the endeavour, striving to expert their utmost effort in understanding and deriving legal rulings in accordance with Islamic jurisprudence.
+
+Ijthad is a crucial concept in Islamic jurisprudence, requiring specific conditions to be met by the Muijtahid, or the individual exerting effort to understand legal rulings. Here are the conditions of Ijtihad:
+1. Knowledge of Legal Evidence: The mujtahid must possess a deep understanding of the legal evidences relevant to the issue at hand, including Quranic verse and relevant narrations
+2. Expertise in Hadith Science: It is essential for the Mujtahid to be knowledgeable about the authenticity and weaknesses of hadith, including understanding the chains of narrations and assessing the reliability of narrators.
+3. Understanding of Abrogation and Consensus: The Mujtahid should be familiar with the concept of abrogation in Islamic La, as well as instance of concensus among scholars, to ensure that their rulings do not contradict established principles
+4. Awareness of Legal Terminology: Knowledge of legal terminology and principle of Islamic jurisprudence is necessary for the Mujtahid to interpret text accurately. This includes understanding terms like 'Am (general), Khas (specific), Mutlaq (absolute), Muqayyid (restricted), Mujmal (ambiguous), Mubayyin (clear), among others
+5. Ability to Derive Rulings: The Mujtahid must possess the capability to derive legal rulings form the available evidence, applying sound reasoning and methodology in their analysis.
+Ijtihad can be categorised based on the scope of the issue being addressed, whether it pertains to a specific chapter of Islamic law or particular legal problem. By meeting these conditions, the Mujtahid is able to engage in the process of Ijtihad effectively, contributing to the development and application of Islamic jurisprudence.
+** What is necessary for the Mujtahid
+The Mustahid is required to exert diligent effort in seeking the truth. If he arrives at a correct ruling, her earns two rewards: one for his effort and another for reaching the truth. However, if he make an error despite this sincere efforts, he still receives a reward, and his mistake is forgiven. As the Prophet Muhammad (ﷺ) said "When a judge give a ruling and he tries his best (to find the truth) then he gets it receives he has two rewards, and if he judges and gets it wrong then he has only one reward"
+If a ruling remains unclear to him, it is permissible for him to refrain from issuing a judgement and instead resort to blind following due to the necessity of the situation.
+* Blind Following (Taqlid) 
