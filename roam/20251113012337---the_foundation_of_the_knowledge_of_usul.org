@@ -932,3 +932,137 @@ According to the majority opinion, it is not necessary for the era of those achi
 When Mujtahideen make statements or perform actions that become well-known among scholars of Ijithad, and they do not object despite having the ability to do so, it is considered consensus by some. Others argue it may be evidence but not consensus. Still, another view suggests it is neither evidence nor consensus. The closest to the truth is deemed to be when those with the ability to object pass away without doing so, indicating implicit agreement thought silence.
 
 * Analogy (Al-Qiyas)
+Definition: linguistically, "qiyas" means appreciation and equality. Technically, it means drawing a similarity between a subsidiary issue and a core issue in a ruling that pertains to a common element between them.
+
+- Subsidiary Issues (Al-Far'): The subject to which the analogy is applied.
+- Core issues (Al-'Asl): The subject from which the analogy is drawn.
+- Ruling (Al-Hukm): Refers to what the evidence necessitates in terms of obligation, prohibition, correctness, or incorrectness.
+- Common Elements: Refers to the meaning with which the reason for the ruling of the primary issue is made.
+
+  There four pillars constitutes analogy, which is a legal source of evidence used to establish legal ruling.
+
+  What demonstrates that it's to be considered as a legal source of evidence is the Qur'an and Sunnah and the saying of the Companions.
+
+  Evidence from the Quran: 
+  1. The saying of the Most High:
+     "It is Allah who has sent down the Book in truth adn also the balance" 42:17
+
+     The Qur'an metions "the balance, which is used to weigh up  affairs and make analogies between them.
+
+  2. The saying of the Most High:
+    "As we began the first creation, we will repeat it" 21:104
+    "And it is Allah who sends the winds, and they stir the clouds, and we drive them to a dead land and give life thereby to the earth after its lifelessness. Thus is the resurrections" 35:9
+   
+    Allah's likening of the returning of creation to its beginning and the revival of the dead to the revival of the earth demonstrates analogy.
+    
+ Evidence from the Sannah
+ 1. The saying of the Prophet (ﷺ) to the women who asked him about making up the fast to her mother after she had died: "What do you think if your mother was in debt and you settled it for her would that then not be lifted form her? she said: Yes So he said Then fast for your mother".
+
+    The Prophet's response to a woman about fasting for her deceased mother, likening it to settling her debts.
+
+2. A man came to the Prophet and said, "O Messenger of Allah! A black child has been born to me" The Prophet asked him, "Have you got camels" The man said "Yes" The Prophet asked him "What colour are they?" The man replied "Red" The prophet said "is there a grey one among them?" The man replied "Yes". The Prophet said "Where did it come from" He said "Maybe it is hereditary". The Prophet said, "May be your new born has this colour because of hereditary"
+   
+   The Prophet (ﷺ) response to a man about the colour of his newborn child, drawing an analogy to genetics.
+
+Statements of the Scholars:
+Umar bin Al Khattab letter to Abu Musa al Ash-ari emphasices the use of analogy in understanding matter not explicitly addressed in the Quran and Sunnah.
+
+He said "As for understanding properly what comes to you, from these issues that are not in the Quran nor in the Sunnah, the make analogy of the affairs that are with you and know the examples, then rely on what you hold to be most beloved to Allah, and the most resembling of the truth".
+
+Ibn al-Qayim said: "This magnificent letter has been received by the scholars with acceptance".
+
+Al-Muzani has mentioned that the scholars from the era of the Companions to his day agreed that what resembles the truth is the truth and likewise what resembles falsehood is falsehood, and so they used the standards of analogy in fiqh for all the rulings.
+
+(Analogy is considered a valid legal source because it involved considering similarities between different situations to derive rulings)
+
+** Conditions of Analogy
+These conditions ensure the validity and correctness of analogy
+
+1. Non-contradiction
+   Analogy should not conflict with stronger evidence such as text, consensus, or the statement of the Companions; so we say: The statement of the Comanions are evidence, and Analogy that is in conflict with what has been mentioned is regarded as a corrupt analogy
+   
+   For instace, if someone argues that a women can marry without a guardian based on an analogy with her ability to sell property independently, it contradicts the clear statement of the Prophet Muhammad (ﷺ), "There is no marriage without a wali (guardian)" This analogy is flawed because it goes against explicit textual evidence.
+   
+2. Based on Established Primary Issues
+   Analogy should stem from primary issues established by text or consensus. analogising a secondary issue as a primary one or building analogies upon other analogies without reference to established primary issues is incorrect.
+
+   For instance, if someone claims that usury occurs in corn based on an analogy with rice, and then extends this analogy to claim that usury also occurs in rice based on analogy with corn, it is flawed. Instead, the analogy should be rooted in an established primary issue, such as usury in rice being analogised with ususry in corn. (This approach ensures a more sound and valid analogical reasoning).
+
+ 3. Understating the Cause.
+    Analogy requires an understanding of the cause behind the ruling of a primary issue, enabling comparison with subsidiary issue. If the primary issue's rationale is solely an act of worship to Allah, analogising it is inappropriate.
+
+    For instance, claiming that ostrich meant breaks wudu based on an analogy with camel meat due to the similarity is flawed. This analogy fails because the primary ruling's reason, wudu nullification, is not based on a common factor but rather an act of worship. Therefore, analogising such issues based on worship realted ruling is not valid.
+
+ 4. Suitable Mutual Reason
+    Analogies must rely on a mutual reason that aligns with the principles of legislation, such as the intoxicating effect of alcohol. If the comparison involves a direct description lacking suitability, it it's invalid.
+
+    For example, in the hadith of Ibn Abbas mentioning Barirah's husband as a black slave, his race has no relevance to the ruling. Therefore, analogising based on irrelevant descriptions, like colour, is incorrect, therefore a women once freed is give the choice if her husband remains a slave to stay with him or not, even if he is white, but she is not given the choice if her husband is free even if he is black. (Analogies should focus on meaningful similarities related to the legislative principle to ensure their validity)
+
+  5. Presence of common Cause
+     Analogies require the presence of a common cause in both the primary and secondary matter
+
+     For instance, analogising the harm in striking parents with the use of the word "Uff" relies on a shared cause. If the cause is absent in the secondary matter, the analogy is invalid. For example, suggesting that the prohibition of usury, based on its measurability, applies to apples as it does to wheat is flawed. Since apples aren't weight like wheat, the common cause essential for analogy is lacking, rendering the comparison incorrect. (analogies must ensure the presence of shared cause to maintain their validity)
+     
+** Categories of Analogy
+Analogy is divided into clear and hidden:
+1. Clear Analogy
+   - clear analogy is characterised by having its cause established through a text, consensus, or a maqtu'(a statement that stops at a companion), where the difference between the primary and secondary source is negated.
+   - an example of clear analogy based on a text is the prohibition of using dry unclean blood for purification after relieving oneself with the prohibition of using dry dung. This analogy is supported by a text where Ibn Mas'ood brought two stones and dry dung to the Prophet (ﷺ), who discarded the dung, declaring it impure.
+   - Another example based on consensus in the Prophet (ﷺ) forbidding an angry judge from passing judgement. Analogy with someone suffering from constipation, due to both being preoccupied and having confused thoughts, is a clear analogy supported by concensus.
+   - Maqtu' analogies, such as the prohibition of squandering the wealth of orphans on unnecessary clothing, analogised with squandering it on food, also fall under clear analogies due to the negation of any difference between the primary and secondary rulings.
+2. The Hidden Analogy
+   - Hidden analogy involves deducing its cause through careful analysis, but without clearly negating the difference between the primary and secondary issues.
+   - An example is the analogy between Ashnan(a type of plant) and wheat is the prohibition of usury in all measurements. While the cause is measuring hasn't been established by text or consensus, and the difference between wheat and Ashnan hasn't been clearly negated, it's permissible to distinguish between them by highlighting that wheat is consumed while Ashnan is not.
+** Analogy of Similarities
+'Qiyas ash-Shibh' (the analogy of likeness) involves a secondary matter positioned between two different primary matters due to its similarities with both. The secondary matter is aligned with the primary matter it shares the most commonalities with. For example, consider the analogy of a slave: is he owned like property, akin to a free person, or is he not owned resembling an animal?
+
+Upon examining these two primary issues, one involving a free person and the other an animal, we find that the status of a slave oscillates between the two. In terms of intellectual capcity, accountability, marital freedom, and other aspect related to personhood, the slave resembles a free person. However, regarding aspects such as being bought and sold, use as collateral, disposed of, etc, the slave resembles an animal in financial dealings.
+
+This type of analogy is considered weak because there isn't suitable common cause between them other than the slave resembling an animal in most financial dealings, despite the dispute presented by another primary ruling.
+
+** Analogy of Opposite
+"Qiyas Al-Aks" ( analogy of opposites) involves affirming the opposite of a ruling of a primary issue to for the secondary issue, due to the presence of the oppsing cause in the primary ruling.
+
+An example of this type of analogy is found in the saying of the Prophet Muhammad (ﷺ) "... and is using your private part (lawfully) is a type of charity" Upon hearing this, come companions were puzzled and asked: "O Messenger of Allah! Does one of us fulfil his desire and then gets rewarded for it?" In response, the Prophet clarified: "do you not see that if he were to do it in a forbidden way, he would be punished for it?" So if he does it in the right way, he is rewarded.
+
+In this example, the Prophet affirmed the opposite rulings for the secondary issue, which is engaging in lawful intercourse, compared the primary ruling, which pertains to engaging in intercourse in a forbidden manner. This affirmation is based on the presence of the opposing cause; engaging in the act lawfully leads to rewards, whereas engaging in it unlawfully results in punishment.
+
+* Contradiction (at-ta'arud)
+The definition: At-ta'arud linguistically refers to the opposition or preventions of one thing by another. Technically, it denotes a situation in Islamic jurisprudence where two piece of evidence conflict or oppose each other.
+
+And the contradiction has four parts.
+
+Part A) Contradiction between two general evidence can result in four cases:
+1. Combination:
+    if the two conflicting evidence can be reconciled in a way that they don't contradict each other, then they should be combined. An example of this is reconciling the verse where Allah says to the Prophet Muhammad (ﷺ) "And indeed [O Muhammad], you guide to a straight path" 42:52 with "You [O Muhammad] do not guide whom you love" 28:56. Here, the first verse refers to guidance as directing to the right path, which the Prophet doe, while the second verse refers to the ability to act upon guidance, which is in Allah's hand alone.
+2. Abrogation:
+    If reconciliations is not possible, the later evidence may abrogate the earlier one if the historical context is known. For instance the verse allowing the option between fasting and feeding the needy, "And whoever volunteers excess - it is better for him. But to fast is best for you, if you only knew" 2:184 was abrogated by the verse specifying the obligation to fast during Ramadan, "So whoever sights [the new moon of] the month, let him fast it; and whoever is ill or on a journey - then an equal number of other days" 2:185 
+3. Preferable Opinion:
+    if the historical context is unknown, the most probable opinion should be followed if one exists. For example, the Prophet's statement that one who touches their private part should perform ablution contradicts his statement that it is part of oneself. The former opinion is preferred due to it cautiousness, freqency in narrations, authenticity, and direct attribution to the prophet (ﷺ).
+4. No Preferred Opinion:
+    If there is no preferable opinion, neither should be acted upon, though no sound example can be found for this scenario.
+
+Part B) Contradiction between two specific text also presents four scenarios
+1. Reconciliation
+    If both text can be harmonised without conflict, then reconciliation is necessary. For instance, the narration of Jabir stating that the Prophet (ﷺ)  prayer Zuhr on the Day of Sacrifice in Makkah, and the narrations of Ibn Umar indicating that the Prophet (ﷺ)  prayer Zuhr in Mina, are reconciled by considering that the prophet prayer in both locations with his companions.
+2. Abrogation
+   If reconciliation is not possible, and the history of text is known, the second text abrogate the first.
+   An example is the Quranic verse regarding the Prophet's wives, where the second verse abrogates the permissibility of additional marriage mentioned in the first verse.
+   An example for that is the saying of the Most High:
+   "O Prophet, indeed we have made lawful to you your wives to whom you have given their due compensation and those your right hand possesses from what Allah has returned to you [of captives] and the daughters of your paternal uncles and the daughters of you paternal aunt" 33:50
+   And His saying:
+   "Not lawful to you [O Muhammad], are [any additional] women after [this] nor [is it] for you to exchange them for [other] wives, even if their beauty were to please you" 33:52
+3. Preference
+   If no abrogation is found, then the more preferred test should be followed if one is identifiable.
+   Example: The narration of Maymunah, that the Prophet (ﷺ) married her while he was not in the state of ihram, and the narrations of Ibn Abbas, that the Prophet (ﷺ) married her while being in the state of ihram.
+   The most correct opinion is the first because Maymunah is the person telling the story so she is more aware of what happened. Her narration is supported by the other narration of Abu Rafi that the Prophet (ﷺ) married her while he was not in the state of ihram and he said I was the messenger between them.  
+4. Stalemate
+   If neither text can be preferred over the other, then both should be disregarded. However such scenario doesn't exist.
+
+Part C) When a contradiction arises between a specific text and a general text, the specific text restricts the general text. For example, the Prophet (ﷺ) statement regarding Zakat being a tenth of what the sky water is made specific by his statement that anything less than five aswaq is not zakat, thus, zakat is only obligatory for produce reaching or exceeding five aqsaq. 
+
+Part D) When one text is more genreal in one aspect and mor specific in another aspect compare to another text, there are three cases
+
+1. Specification of Generality
+2. Preference
+3. Silent Adherence 
