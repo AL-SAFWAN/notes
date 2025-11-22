@@ -4,4 +4,15 @@
 #+title: ma'rifah
 #+filetags: :terminology:
 
-encompasses both knowledge and conjecture. This is because the ruling of fiqh (Islamic jurisprudence) can be understood through certainty or through speculative means, as is common in many fiqh issue.
+The *ruling* of fiqh (Islamic jurisprudence) encompasses both
+
+* knowledge (certainty)
+:PROPERTIES:
+:ID:       eceb7888-414a-41c5-aac0-420b06d4de39
+:END:
+e.g the time of Fajr (Everyone agrees), there are 5 salah
+* conjecture (through speculative means).
+:PROPERTIES:
+:ID:       460853d8-5b91-4ef8-a868-ec3761b4b219
+:END:
+e.g the time of Asr (There are difference of opinions)

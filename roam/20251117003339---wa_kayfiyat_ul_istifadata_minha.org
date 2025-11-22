@@ -5,10 +5,34 @@
 #+title: wa kayfiyat ul-istifadata minha
 #+filetags: :terminology:
 
-The phrase "and how to make full use of them" (wa kayfiyat ul-istifadata minha) refers to the understanding and application of methodologies that enables a jurist ([[id:0e48c744-3e6e-4d6a-9b43-5a43daf938e1][faqih]]) to extract and apply rulings from the legal evidences efficiently.
+wa kayfiyat ul-istifadata minha "and how to make full use of them" 
 
-This involves analysing the language of the text, discerning nuances such as the general from the specific, the conditional from the unconditional, and identifying instances of abrogation.
 
-Such skill are essential for a faqih to effectively interpret and implement the evidence in deriving coherent and applicable legal ruling from the foundational text of fiqh.
+refers to
+- the understanding and application of methodologies
+  - that enables a jurist ([[id:0e48c744-3e6e-4d6a-9b43-5a43daf938e1][faqih]])
+    - to extract (interpret) and apply (implement) rulings from the legal evidences efficiently.
+      
+* Includes
+:PROPERTIES:
+:ID:       1c048cbe-4656-405e-8808-65e17243cbde
+:END:
+** analysing the language of the text
+:PROPERTIES:
+:ID:       ca4b9129-873b-483e-a517-271f7e94cac7
+:END:
+** discerning the general from the specific
+:PROPERTIES:
+:ID:       49848bac-889f-4ea8-b21f-67bec4d108f0
+:END:
+** discerning the conditional from the unconditional,
+:PROPERTIES:
+:ID:       5cc14f75-9469-4dd2-9401-cbcaec1908ea
+:END:
+** identifying instances of abrogation.
+:PROPERTIES:
+:ID:       74b51843-da00-4bf4-9c60-37b28fb82b05
+:END:
+
 
 

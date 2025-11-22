@@ -4,8 +4,16 @@
 :END:
 #+title: al-adillah at tafsileyah
 #+filetags: :terminology:
-The term "specific evidences" (al-adillah at tafsileyah) refers to evidence in fiqh that are specifically related to detailed aspects of fiqh.
 
-This definition excludes the subject of usul ul fiqh which deals primaryly with the general principles and broader evidence within fiqh.
+al-adillah at-tafsileyah "specific evidences"
+
+refers to
+- evidences specifically related to detailed aspects of fiqh.
+
+excludes:
+- the subject of usul ul fiqh
+  - which deals primarily with the general principles 
+  - broader evidence within fiqh.
+
 
 

@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       f8dd8091-df3b-449c-92d7-2bcbf3df2a1a
+:END:
+#+title: asl
+#+filetags: :terminology:
+
+Meaning
+
+Something which other things will stem out of.
+Foundation  of a wall which is in essence its base, e.g the stem of a tree.
+The main pillars of a building.
+
+- foundation/pillars/roots

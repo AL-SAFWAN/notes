@@ -3,11 +3,32 @@
 :ROAM_ALIASES: "physical actions"
 :END:
 #+title: al-'amaleyyah
-refers to 'physical actions' and not cure doctrinal beliefs.
 
-This includes physical practise such as prayer and zakat.
+al-'amaleyyah  "physical actions"
 
-It distinctly excludes:
-aspects intimately linked to belief's such as Tawhid (the oneness of Allah) and the understanding of Allah's names and attributes. Hence these doctrinal elements do not fall under  the category of fiqh in jurisprudence.
+
+
+* Includes
+:PROPERTIES:
+:ID:       9dbed948-d3ea-4260-98d6-0fc6a3600098
+:END:
+** Prayer
+:PROPERTIES:
+:ID:       2e594db2-7d88-45ca-a90e-c574589295e0
+:END:
+**  Zakat
+:PROPERTIES:
+:ID:       e997b394-51ca-4b42-92f7-f26e689818be
+:END:
+
+* Excludes
+:PROPERTIES:
+:ID:       58cf600c-a194-4a81-bfad-f3d5ffb3f2fc
+:END:
+** doctrinal beliefs
+:PROPERTIES:
+:ID:       b1a67b2e-93d3-4064-861d-26c1bbe68f28
+:END:
+aspects intimately linked to belief's such as Tawhid (the oneness of Allah) and the understanding of Allah's names and attributes. Hence these doctrinal elements do not fall under the category of fiqh in jurisprudence.
 
 

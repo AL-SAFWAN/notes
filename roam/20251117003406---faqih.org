@@ -4,3 +4,26 @@
 #+title: faqih
 #+filetags: :terminology:
 jurist
+* Includes
+:PROPERTIES:
+:ID:       1c048cbe-4656-405e-8808-65e17243cbde
+:END:
+** analysing the language of the text
+:PROPERTIES:
+:ID:       ca4b9129-873b-483e-a517-271f7e94cac7
+:END:
+** discerning the general from the specific
+:PROPERTIES:
+:ID:       49848bac-889f-4ea8-b21f-67bec4d108f0
+:END:
+** discerning the conditional from the unconditional,
+:PROPERTIES:
+:ID:       5cc14f75-9469-4dd2-9401-cbcaec1908ea
+:END:
+** identifying instances of abrogation.
+:PROPERTIES:
+:ID:       74b51843-da00-4bf4-9c60-37b28fb82b05
+:END:
+
+
+

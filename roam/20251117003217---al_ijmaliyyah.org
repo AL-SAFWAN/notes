@@ -4,8 +4,16 @@
 :END:
 #+title: al-ijmaliyyah
 #+filetags: :terminology:
-The term "general" (al-ijmaliyyah) refers to broad principle or rules, exemplified by maxims such as; a command implies an obligation, prohibition implies forbidance, and the validity of a transaction necessitate the execution of action that follow, such as the exchange of goods.
 
+al-ijmaliyyah "general"
 
-From this definition, we can conclude that specific evidence fall outside the scope of Usul ul Fiqh except when used illustratively to demonstrate a general rule.
+refers to
+- broad principle or rules
+- exemplified by maxims 
+  - a command implies an obligation, prohibition implies forbidance
+  - actions are based upon intention
+
+exclude:
+- specific evidence 
+  - except when used illustratively to demonstrate a general rule.
 

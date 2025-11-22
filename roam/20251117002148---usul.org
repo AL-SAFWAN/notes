@@ -1,13 +1,8 @@
 :PROPERTIES:
 :ID:       2c25cddd-1beb-4b1a-8626-a08231ef9a42
-:ROAM_ALIASES: asl
 :END:
 #+title: Usul
-#+filetags: :asl:
-Usul is the plural of the word 'asl', and it means whatever can have something else built upon it ; from that we have the asl foundation of a wall which is in essence its base; likewise the foundation of a tree which has many branches sprouting from it.
+#+filetags: :terminology:
 
-As Allah (ﷻ) the most High says:
- #+begin_quote
- have you not considered how Allah presents an example, making a good wrld like a good tree. Whose root is firmly fixed and it's branches high in the sky? 14:24
- #+end_quote
- 
+whatever can have *something* else *built upon it*, e.g the branches of a tree
+

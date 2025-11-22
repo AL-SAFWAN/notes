@@ -2,45 +2,88 @@
 :ID:       b615dd7b-04b1-4163-ad49-e26bd07fcc3e
 :END:
 #+title: The Foundation of the Knowledge of Usul
-By sheikh Muhammad ibn Saleh al Uthaymeen (d. 1421 AH) may Allah (ﷺ) have mercy on him.
+By [[id:1f3c2584-6f42-4867-97d9-d79905054018][Sheikh Muhammad ibn Saleh al Uthaymeen]] (d. 1421 AH) may Allah (ﷺ) have mercy on him.
 
 
-All praise is due to Allah; we praise him; seek his help and forgiveness; we repent to him; we seek refuge with Allah from the evils of ourselves and the evil of our actions. For whosoever Allah guides none can misguide and whosoever he misguides none can guide, I bear witness that there is not true god but Allah alone with no partners and I bear witness that Muhammad is his slave and messenger, may Allah's peace and blessing be upon him, his family, his companions and those who follow them until the Day of Judgement. 
+[[id:593cd4a4-1a17-41c6-bfe3-70bc06ad0f8b][All praise is due to Allah]]; we praise him; seek his help and forgiveness; we repent to him; we seek refuge with Allah from the evils of ourselves and the evil of our actions. For whosoever Allah guides none can misguide and whosoever he misguides none can guide, I bear witness that there is not true god but Allah alone with no partners and I bear witness that Muhammad is his slave and messenger, may Allah's peace and blessing be upon him, his family, his companions and those who follow them until the Day of Judgement. 
 
 To proceed, I have authored a concise treatise on the principles of jurisprudence, tailored to align with the curriculum prescribed for third-year high school student at institutes of Islamic knowledge. I have titled this work "The foundations of the Knowledge of Usul"
 
 I ask Allah to make our actions purely for his sake and beneficial to his Servants; He is always near and responsive.
 
 * Usul ul-Fiqh
-The definition of Usul ul-Fiqh is understood in two ways:
+:PROPERTIES:
+:ID:       f0ed4fd3-904f-4c79-97a8-25c113f04995
+:END:
+[[id:61259c82-b79c-4c4f-bf60-5a2e93d8bdd7][The definition]] of Usul ul-Fiqh is understood in two ways:
 
-First with regard to the first component "[[id:2c25cddd-1beb-4b1a-8626-a08231ef9a42][Usul]]" and the second "[[id:1316d477-4b3c-4b9b-9d0a-f9017c3f2521][Fiqh]]".
+First with regard to the first component "Usul" and the second "Fiqh".
 
-Usul is the plural of the word 'asl', and it means whatever can have something else built upon it ; from that we have the asl foundation of a wall which is in essence its base; likewise the foundation of a tree which has many branches sprouting from it.
+** Definition of Usul
+:PROPERTIES:
+:ID:       e200b2bf-20f0-4835-a91d-574a01ec1ab2
+:END:
+[[id:2c25cddd-1beb-4b1a-8626-a08231ef9a42][Usul]] is the plural of the word '[[id:f8dd8091-df3b-449c-92d7-2bcbf3df2a1a][asl]]', and it means whatever can have something else built upon it; from that we have the asl foundation of a wall which is in essence its base; likewise the foundation of a tree which has many branches sprouting from it.
 
 As Allah (ﷻ) the most High says:
  #+begin_quote
- have you not considered how Allah presents an example, making a good word like a good tree. Whose root is firmly fixed and it's branches high in the sky? 14:24
+ [[id:4c885a21-2678-4a71-9b91-6804b862679a][Abraham (14:24)]]
+ Have you not considered how Allāh presents an example, [making] a good word like a good tree, whose *[[id:f8dd8091-df3b-449c-92d7-2bcbf3df2a1a][root]]* is firmly fixed and its *branches* [high] in the sky?
+  — Saheeh International
+ https://quran.com/14/24
  #+end_quote
- 
-"Fiqh". linguistically means understanding, as is the case in the statement of Allah (ﷻ)  the most High:
+
+** Types of Meaning in words :notes:
+:PROPERTIES:
+:ID:       60f95f25-0683-49a3-b00b-6f01779f213c
+:END:
+words have:
+*** linguistic definition
+:PROPERTIES:
+:ID:       41aa8189-6197-4126-b2e2-7c450835e857
+:END:
+a word termed from the Arabic language
+- e.g salah, means dua  
+*** Technical Definition
+:PROPERTIES:
+:ID:       1caffa5b-c7c9-4b92-8d05-a5f96c5fa6ab
+:END:
+a word termed within the Shari'a
+- e.g salah, the prayer we preform
+
+** Definition of Fiqh
+:PROPERTIES:
+:ID:       688982c1-6f02-4812-bc2d-b3171d599a37
+:END:
+"[[id:1316d477-4b3c-4b9b-9d0a-f9017c3f2521][Fiqh]]", linguistically means understanding, as is the case in the statement of Allah (ﷻ) the Most High:
  #+begin_quote
-  And untie the knots of my tongue. so that they many understand my speech
+  [[id:4d4bfa23-495b-4e38-b7b0-50de0d3021e6][Ta-Ha (20:27)]] 
+  And untie the knot from my tongue
+  — Saheeh International
+ #+end_quote
+ #+begin_quote
+  [[id:9db343a1-1f3c-4c93-be20-fa1ba7876211][Ta-Ha (20:28)]]
+  That they may *understand* my speech.
+  — Saheeh International
  #+end_quote
 
-And it use in the science of jurisprudence is: knowledge of ruling of the Shariah along with their specific evidence. 
+And it use in the science of jurisprudence is: knowledge of ruling of the Shariah along with their specific evidence.
 
+** Knowledge of ruling of the Shariah along with their specific evidence
+:PROPERTIES:
+:ID:       026cecea-cd2e-4bcd-91f4-e5bcd1fe35b5
+:END:
 The term "[[id:6225c4e5-39bf-454c-b432-2c6073ad7c7e][ma'rifah]]" encompasses both knowledge and conjecture. This is because the ruling of fiqh (Islamic jurisprudence) can be understood through certainty or through speculative means, as is common in many fiqh issue. 
 
 The term "[[id:4df624e4-c807-45de-84d5-69b8fff4e82f][al-ahkam as shar'iyayah]]" refers to legal rulings derived from religious legislation. These include determinations of what is obligatory or prohibited. It specifically excludes intellectual judgement, such as understanding that a whole is greater than any of it's part, and natural observation like the occurrence of rain on a clear winter night.
 
-The term "[[id:97c40ef6-c0fb-45ac-bdbd-91025209fed9][al-'amaleyyah]]" refers to 'physical actions' and not cure doctrinal beliefs. This includes physical practise such as prayer and zakat. It distinctly excludes aspects intimately linked to belief's such as Tawhid (the oneness of Allah) and the understanding of Allah's names and attributes. Hence these doctrinal elements do not fall under the category of fiqh in jurisprudence.
+The term "[[id:97c40ef6-c0fb-45ac-bdbd-91025209fed9][al-'amaleyyah]]" refers to '[[id:97c40ef6-c0fb-45ac-bdbd-91025209fed9][physical actions]]' and not core doctrinal beliefs. This includes physical practise such as prayer and zakat. It distinctly excludes aspects intimately linked to belief's such as Tawhid (the oneness of Allah) and the understanding of Allah's names and attributes. Hence these doctrinal elements do not fall under the category of fiqh in jurisprudence.
 
-The term "specific evidences" ([[id:c1d4bfaf-6fb9-4c19-b2a1-175c97b52f95][al-adillah at tafsileyah]]) refers to evidence in fiqh that are specifically related to detailed aspects of fiqh. This definition excludes the subject of usul ul fiqh which deals primarily with the general principles and broader evidence within fiqh
+The term "[[id:c1d4bfaf-6fb9-4c19-b2a1-175c97b52f95][specific evidences]]" ([[id:c1d4bfaf-6fb9-4c19-b2a1-175c97b52f95][al-adillah at tafsileyah]]) refers to evidence in fiqh that are specifically related to detailed aspects of fiqh. This definition excludes the subject of usul ul fiqh which deals primarily with the general principles and broader evidence within fiqh
 
 Secondly, when used as a term for this particular field of study, it is defined as; a discipline focused on identifying the general evidence used in fiqh, understanding how these evidence can be applied and determining the qualifications necessary for those who seek to benefit from this knowledge.
 
-The term "general" ([[id:e7f4cb66-301f-4c32-afcc-026f4da91f32][al-ijmaliyyah]]) refers to broad principle or rules, exemplified by maxims such as ; a command implies an obligation, prohibition implies forbidance, and the validity of a transaction necessitate the execution of action that follow, such as the exchange of goods.
+The term "general" ([[id:e7f4cb66-301f-4c32-afcc-026f4da91f32][al-ijmaliyyah]]) refers to broad principle or rules, exemplified by maxims such as; a command implies an obligation, prohibition implies forbidance, and the validity of a transaction necessitate the execution of action that follow, such as the exchange of goods.
 
 From this definition, we can conclude that specific evidence fall outside the scope of Usul ul Fiqh except when used illustratively to demonstrate a general rule.
 
@@ -50,7 +93,28 @@ The term "condition of the beneficiary" ([[id:6c506c91-b8fb-43c9-a509-21b85f9f42
 
 Therefore, a deep comprehension of the  nature of a mujtahid, the prerequisite for Ijithad, and its associated legal judgement are foundations aspects taught within the study of Usul ul Fiqh.
 
+** definition of Usul ul Fiqh :notes:
+:PROPERTIES:
+:ID:       0b1e5ef4-f7c2-40cb-b3bd-9e8e25eb7a5e
+:END:
+*** Linguistically
+:PROPERTIES:
+:ID:       f00290c0-7d27-4e02-8d9d-33453b288f43
+:END:
+- Usul - roots
+- Fiqh - understanding
+- Usul ul-Fiqh
+  - The roots of understanding
+    - without usul, the fiqh will collapse. 
+*** Technically
+:PROPERTIES:
+:ID:       cbca63ea-5af5-4cee-bcff-b9836ea61cd9
+:END:
+- Fiqh - knowledge of ruling of the Shariah, along with their specific evidence.
+- Usul ul Fiqh:
+  - The knowledge thought certainty and speculative mean of legal rulings for physical actions and what condition a mujtahid should have to derive them
 
+    
 * The benefits of usul ul fiqh
 Usul ul Fiqh is a distinguished and vital field of Islamic scholarship, providing profound rewards, it equips scholars with the essential skill and knowledge required to derive legal rulings form religious text accurately and reliably.
 
@@ -58,7 +122,7 @@ Usul ul Fiqh is a distinguished and vital field of Islamic scholarship, providin
 
 [[id:2dada820-43bc-4ab9-a532-d10230524921][Imam ash-shafi'i]], Muhammad ibn Idris, was the pioneering figure who established Usul ul Fiqh as a distinct discipline with Islamic scholarship. Following his ground breaking work, numerous scholars across generation have build upon his foundation, contributing extensive thought various forms of writing-prose, poetry and both concise and expansive volumes. This prolific scholarly activity have evolved Usul ul Fiqh into well defined and recognised fields, characterised by its unique feature and profound depth.
 
-* TODO Rulings (Al Ahkam) pg 9
+* Rulings (Al Ahkam) pg 9
 The term "[[id:948d05ba-0ec0-403a-b737-6f79eab474d2][Al-ahkam]]" (rulings), in its plural form derived form "hukm", refers linguistically to a judgement or decision. In the context of Islamic jurisprudence, it specifically denotes judgements that arise from the directives issued by the legislator - the Lawgiver, which in this instance are manifested in the Qur'an and the Sunnah. These directive address the actions of those who are deemed legally responsible (al-mukallafin) with the Islamic law. Such rulings mandate specific behaviour and choices or outline certain state, providing a structured guide on how to conduct oneself in accordance with divine legislation.
 
 The phrase 'relating to the actions of those burdened with carrying out the obligation of the legislation' pertains to those aspects that involve active engagement, whether in speech or action, requiring individual to either perform specific acts or abstain from them. This definition specifically targets practical, observable behaviours rather than internal belief or convictions. Thus, within this scope, the term 'ruling' is applied only to those directives that influence physical or verbal actions, distinctly excluding matters purely of faith or belief, which do not fall under the category of 'rulings' in this specific juristic context.
@@ -66,7 +130,7 @@ The phrase 'relating to the actions of those burdened with carrying out the obli
 The term "al-[[id:ba93d19b-37c1-40d2-9613-a01ac674fa21][mukallaf]]in" refers to individual who are deemed legally responsible and capable of bearing the obligation set forth by Islamic legislation. This category specifically includes those who have reached the age of maturity and are of sound mind, thereby excluding minors and those who are mentally incapacitated. The term 'mandated'(talab) in this context signifies the legal commands and prohibition issued by the legislator. These can be obligatory (which must be adhered to strictly) or recommended (suggesting preference but not strict enforcement).
 
 The term 'choice' (takhyir) pertains to matter that are deemed permissible within the law (where the individual has the freedom to decide how to act). finally the term state wad' refers to being accepted or rejected, or other conditions or statues defined by the legislator through specific sign or descriptions. These dictate whether certain actions should be carried out or avoided, based on the context provided by these indicator.
-  
+                         
 * The types of Rullings in the Shari'ah
 
 The types of commands (in the shari'a) falls into two categories Taklifyah and Wad'iyah
@@ -199,7 +263,6 @@ C- The particle: particles are word that imply meaning indirectly, relating to o
 2. Fa: severs as a connector indicating sequence and immediacy between elements, it often implies causality or purpose, showing why something occurs following another event
 3. Genitive Lam: this particle can express several meanings, including reasoning (why something is done), ownership (belonging to someone), and permissibility (allowing for an action)
 4. Genitive 'Ala: Often conveys a sense of obligation, indicating that the actions described is required or expected
-
 
 * Parts of speech
 time 1:26
@@ -1194,3 +1257,8 @@ Abu 'Umar bin Abdul-barr and other said: "The people are unanimously agreed that
 And with this we complete what we intended to write in this concise reminder, we ask Allah to inspire us towards righteousness in speech and action and to crown our actions with success.
 
 Indeed, He is the Most Generous, and blessing sand peace be upon our Prophet Muhammad and his family.
+
+
+
+
+

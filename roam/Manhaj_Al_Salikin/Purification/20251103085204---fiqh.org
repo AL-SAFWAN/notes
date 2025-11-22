@@ -4,14 +4,14 @@
 #+title: Fiqh
 #+filetags: :terminology:
 
-"Fiqh". linguistically means understanding, as is the case in the statement of Allah (ﷻ)  the most High:
- #+begin_quote
-  And untie the knots of my tongue. so that they many understand my speach
- #+end_quote
+|----------------+------------------------------------------------------------------------|
+| Fiqh           | definition                                                             |
+|----------------+------------------------------------------------------------------------|
+| linguistically | understanding,                                                         |
+|----------------+------------------------------------------------------------------------|
+| Technical      | knowledge of ruling of the Shariah along with their specific evidence. |
+|----------------+------------------------------------------------------------------------|
 
-And it use in the science of jurisprudence is: knowledge of ruling of the Shariah along with their specific evidence.
-
------
 
 cognisance of the subsidiary rulings of the Sari’ah based on the
 

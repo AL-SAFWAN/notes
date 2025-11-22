@@ -4,6 +4,11 @@
 :END:
 #+title: hal al-mustafid
 
-The term "condition of the beneficiary" (hal al-mustafid) pertains to the qualification and status of the individual who is capable of deriving leg rulings from the foundational text.
+hal al-mustafid "condition of the beneficiary" 
+
+refers to
+- the qualification and status
+  - of the individual who is capable of deriving leg rulings from the foundational text.
+
 
 
