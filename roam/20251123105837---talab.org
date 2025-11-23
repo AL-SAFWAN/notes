@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       7836d305-da4c-4cac-be7f-b96e3e66c557
+:END:
+#+title: talab
+talab 'mandated'
+
+refers to 
+* legal commands and prohibition issued by the legislator.
+:PROPERTIES:
+:ID:       0565a001-9b69-43ee-8ffb-12446a514904
+:END:
+These can be
+- obligatory
+  - which must be adhered to strictly
+- recommended
+  - suggesting preference but not strict enforcement.

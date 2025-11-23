@@ -8,12 +8,23 @@
 al-adillah at-tafsileyah "specific evidences"
 
 refers to
-- evidences specifically related to detailed aspects of fiqh.
-
-excludes:
-- the subject of usul ul fiqh
-  - which deals primarily with the general principles 
-  - broader evidence within fiqh.
+*  evidences specifically related to detailed aspects of fiqh.
+:PROPERTIES:
+:ID:       16062fcb-3d1b-4739-b04f-3f506cc6107a
+:END:
+** excludes:
+:PROPERTIES:
+:ID:       857ad663-14a5-4e7d-aef6-cb1e84948499
+:END:
+- the subject of usul ul fiqh, which deals primarily with
+*** the general principles 
+:PROPERTIES:
+:ID:       0cb2bb6b-8ccc-4c43-ad82-840e2fe39f22
+:END:
+*** broader evidence within fiqh.
+:PROPERTIES:
+:ID:       ba4e8c2e-6ebb-4888-ae49-a3522ae8cc39
+:END:
 
 
 

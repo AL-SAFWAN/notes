@@ -1,0 +1,50 @@
+:PROPERTIES:
+:ID:       fc1f0325-07ff-4d1e-977d-148511217a17
+:ROAM_ALIASES: halal jaiz permissible
+:END:
+#+title: Mubah
+
+* linguistically
+:PROPERTIES:
+:ID:       3fe489fe-4865-42b1-93fe-bfc7ecb2469d
+:END:
+means something declared or permitted.
+* Technically
+:PROPERTIES:
+:ID:       d9416941-f758-464b-8d72-0045797be5ef
+:END:
+It is also refereed to as halal and ja'iz.
+it refers to
+** what is neither connected with a command nor prohibited in and of itself,
+like eating during the night of Ramadan.
+
+
+
+** excludes
+:PROPERTIES:
+:ID:       56143647-3c37-420f-97e4-f9753fa641fc
+:END:
+*** what is connected with a command
+:PROPERTIES:
+:ID:       37f8731b-2fd9-4b02-94e0-45badfd72790
+:END:
+- wajib (obligatory)
+- mandud (recommended).
+*** not something prohibited
+:PROPERTIES:
+:ID:       6643be50-57ef-458d-a2a9-096232efe2eb
+:END:
+-  muharram (forbidden)
+-  makruh(disliked).
+
+*** in and out itself 
+:PROPERTIES:
+:ID:       bef6ce76-2df2-4459-8f70-e7aef6162887
+:END:
+**** excludes anything that acts as a medium leading to a commanded actions
+:PROPERTIES:
+:ID:       569fb929-2cee-4834-b14c-cfca8344a7af
+:END:
+- thus becoming obligatory, or leading to a forbidden actions,
+- thus becoming prohibited, which would alter its original status as mubah (permissible).
+- When something is categorised as mubah (permissible), it remains within the bounds of permissibility, not resulting in reward or punishment for engaging in it.

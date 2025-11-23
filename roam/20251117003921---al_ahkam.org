@@ -4,12 +4,30 @@
 :END:
 #+title: Al-ahkam
 
-The term "[[id:948d05ba-0ec0-403a-b737-6f79eab474d2][Al-ahkam]]" (rulings), in its plural form derived form "[[id:a052cfd1-2d00-476f-9df6-036c999d7f1b][hukm]]", refers linguistically to a judgement or decision.
+The term "[[id:948d05ba-0ec0-403a-b737-6f79eab474d2][Al-ahkam]]" (rulings), in its plural form derived form "[[id:a052cfd1-2d00-476f-9df6-036c999d7f1b][hukm]]",
 
-In the context of Islamic jurisprudence, it specifically denotes judgements that arise from the directives issued by the legislator - the Lawgiver, which in this instance are manifested in the Quran and the Sunnah.
+* pillars
+:PROPERTIES:
+:ID:       955e258f-d136-4595-bca8-e0a7e2770ee1
+:END:
+*** The law giver
+:PROPERTIES:
+:ID:       c0c36766-3e75-4bb2-83dc-947a934b240b
+:END:
+*** The acts (directives)
+:PROPERTIES:
+:ID:       198aa55c-eb45-420c-bc29-712642bedca2
+:END:
+- pertains to those aspects that involve active engagement, whether in speech or action, requiring individual to either perform specific acts or abstain from them.
+- This definition specifically targets practical, observable behaviours rather than internal belief or convictions.
+  - Thus, within this scope, the term 'ruling' is applied only to those directives that influence physical or verbal actions, distinctly excluding matters purely of faith or belief, which do not fall under the category of 'rulings' in this specific juristic context.
 
-These directive address the actions of those who are deemed legally responsible (al-[[id:ba93d19b-37c1-40d2-9613-a01ac674fa21][mukallaf]]in) with the Islamic law.
+*** The Accountable
+:PROPERTIES:
+:ID:       9549e866-75fd-4ce5-938e-68b863628ef8
+:END:
+These directive address the actions of those who are deemed legally responsible (al-[[id:ba93d19b-37c1-40d2-9613-a01ac674fa21][mukallaf]]in) and capable of bearing the obligation set forth by Islamic legislation.
 
-Such rulings mandate specific behaviour and choices or outline certain state, providing a structured guide on how to conduct oneself in accordance with divine legislation.
+This category specifically includes those who have reached the age of maturity and are of sound mind, thereby excluding minors and those who are mentally incapacitated.
 
-
+                        

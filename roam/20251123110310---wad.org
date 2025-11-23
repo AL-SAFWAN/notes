@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5960aa48-39b3-4d37-a4dc-0a96ec1c52a1
+:END:
+#+title: wad'
+wad' 'state'
+
+refers to
+- conditions or statues of certain actions
+- defined by the legislator through specific indicators (sign or descriptions). 
+- being accepted or rejected to be carried out or avoided
+                         

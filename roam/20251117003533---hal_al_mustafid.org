@@ -7,8 +7,14 @@
 hal al-mustafid "condition of the beneficiary" 
 
 refers to
-- the qualification and status
-  - of the individual who is capable of deriving leg rulings from the foundational text.
+* the qualification and status
+:PROPERTIES:
+:ID:       61bb895c-1fc4-4af3-8074-af63f1207502
+:END:
+- of the individual who is capable of deriving leg rulings from the foundational text.
+- Therefore, a deep comprehension of the nature of a [[id:4f1df04b-df6f-4aaa-bca9-ee0c2a4879e8][mujtahid]], the prerequisite for Ijithad, and its associated legal judgement are foundations aspects taught within the study of Usul ul Fiqh.
 
 
-
+* Example
+• This is not from the core principles of Usul
+• What does one require to extract rulings?

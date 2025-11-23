@@ -1,0 +1,47 @@
+:PROPERTIES:
+:ID:       265dcc0d-0d72-4f6c-8819-85c4e27174f5
+:ROAM_ALIASES: disliked
+:END:
+#+title: Makruh
+* linguistically
+:PROPERTIES:
+:ID:       d0c74ad3-aeaf-4aec-be12-e46256a103d5
+:END:
+means something hatred.
+* Technically,
+:PROPERTIES:
+:ID:       244f0367-be96-465a-bc32-84c36fcbbd61
+:END:
+it refers to
+** what the legislator has discouraged but not by way of obligatory or abandon
+:PROPERTIES:
+:ID:       29f6001e-0bb4-45a5-80c7-264ee7c62557
+:END:
+such as taking and giving with the left hand.
+
+*** refrains is rewarded
+:PROPERTIES:
+:ID:       e40dc3ec-e0a3-46ab-81f3-8622e3bb7ff9
+:END:
+*** engaging is not punished
+:PROPERTIES:
+:ID:       8b0472ce-8d46-444d-a0cc-7ff33d0517f5
+:END:
+
+** excludes
+:PROPERTIES:
+:ID:       d20b383a-1512-49e3-9161-154d52619f1c
+:END:
+*** forbidden by the legislator
+:PROPERTIES:
+:ID:       467c40a8-d072-4f8a-b3b7-4effa7809213
+:END:
+- wajib (obligatory),
+- mandud (recommended),
+- mubah(permissible).
+*** not by way of obligation
+:PROPERTIES:
+:ID:       84e0a70e-3906-4e01-b75c-37fd95d153f6
+:END:
+- muharram (strictly forbidden).
+

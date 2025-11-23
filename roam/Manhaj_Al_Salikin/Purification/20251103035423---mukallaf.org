@@ -7,3 +7,31 @@
 
 - someone who is legally held accountable
 - those who are deemed legally responsible with the Islamic law
+This category specifically
+
+* includes
+:PROPERTIES:
+:ID:       f1628b34-bb6c-4ec7-b8a4-870c6115a78a
+:END:
+** reached age of maturity
+:PROPERTIES:
+:ID:       5070c26f-dc23-4762-8e90-b35c1eb68c16
+:END:
+** and are of sound mind,
+:PROPERTIES:
+:ID:       7289e1d2-9cb1-44e8-9a4a-e530cc04c755
+:END:
+
+* exclude
+:PROPERTIES:
+:ID:       8186afff-efbe-4962-b959-3d49bb1118a8
+:END:
+** minors
+:PROPERTIES:
+:ID:       8496a3d8-4aa8-4000-9dcd-7c41b3bc0493
+:END:
+** mentally incapacitated.
+:PROPERTIES:
+:ID:       feac104e-a0df-4d9e-9a9c-fa3ea2a81421
+:END:
+

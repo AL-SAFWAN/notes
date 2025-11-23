@@ -1,0 +1,94 @@
+:PROPERTIES:
+:ID:       f2ed94ec-eb30-45bc-8b5a-b01a6169903f
+:ROAM_ALIASES: Fard faridah hatam lazim wajib compulsory obligation
+:END:
+#+title: Wajid
+
+* Semantic Synonym
+:PROPERTIES:
+:ID:       d4c4621d-d261-4e7d-a16a-f343d5a03d5e
+:END:
+It also referred to as Fard, faridah, hatam and lazim.
+** hatim
+something that is imposed
+** lazim
+something that is necessary
+** Difference of Opinions
+:PROPERTIES:
+:ID:       66c7fec2-95a0-46ce-b506-a8f56dc90b53
+:END:
+*** Fard = Wajid, 
+:PROPERTIES:
+:ID:       bd1cb508-a470-48d5-9d45-f933eb5dd57b
+:END:
+the majority (Iman Ahmad, Iman Ash-Shafee, Iman Malik)
+*** Fard != Wajid,
+:PROPERTIES:
+:ID:       609ce13c-0846-4f9a-a1f3-2b1f7dab8401
+:END:
+Imaan Abu Hanifa,
+- says both is obligatory and the same nature of action,
+- Fard is when Allah demands an Action with a evidence with not ambiguous, with absolute certainty i.e Quran or Mutawatir narrations(dalil qatri)
+- Wajid is what Allah request through an evidence that is slightly ambiguous. 
+
+* Linguistically
+:PROPERTIES:
+:ID:       b53b68d1-dc13-46cd-89a2-37e9614bc03c
+:END:
+what have fallen or what is compulsory.
+* Technically
+:PROPERTIES:
+:ID:       da20410b-da90-418f-a033-21cf6828fdda
+:END:
+refers to:
+** what the legislator has ordered by way of obligation
+:PROPERTIES:
+:ID:       29f62132-d2ce-43e4-8b80-d66aefe4e485
+:END:
+- An act or duty that the legislator has mandated as obligatory.
+  - Example of such obligatory act include the five prayers
+*** doing is rewarded
+:PROPERTIES:
+:ID:       1204d41d-031e-45f9-a62e-8ad5356cece4
+:END:
+*** not doing deserve punishment
+:PROPERTIES:
+:ID:       96b2d08d-0ad8-4b70-b57b-84ce8cac93d2
+:END:
+** excludes
+:PROPERTIES:
+:ID:       035fdbc2-b534-4679-bf6a-4e3c2ca910a5
+:END:
+- Haram - Forbidden
+  - Actions that the legislator has explicitly prohibited.
+- Makruh - Disliked
+  - Actions that are discouraged but not sinful if performed
+- Mubah - Permissible
+  - (Actions that are neither required nor discouraged, and carry no reward of punishment)
+- Mandud - That are Encouraged
+- Sunnah - acts that are recommended but not obligatory.
+  - Performing these actions brings reward, whereas neglecting them does not bring sin. This clarification is essential to differentiate between various levels of legal and moral responsibilities in Islamic law
+
+* Indication of this rulings 
+:PROPERTIES:
+:ID:       5b354234-17ff-4c85-8f61-af2294c62c9d
+:END:
+- The [[id:7faf8b22-4668-4721-805a-57acd3a1b85a][Forms of Command]]
+- Explicitly using the word (أمر command) or the synonyms of wajib
+- Other Arabic language styles that indicate obligation
+- Associating sin for abandoning the action
+  The Prophet (ﷺ) said:
+   #+begin_quote
+    “[[id:db6d374b-508a-4f5e-88e0-ed5b2226d0ba][Whoever can afford it, but does not offer a sacrifice, let him not come near our prayer place.]]” 
+   #+end_quote
+  
+* Points of Iman 
+:PROPERTIES:
+:ID:       ef8e440c-a956-415a-b5e0-b75c291f44f5
+:END:
+- Duty upon the servant
+  - our lives be revolved around this, what we must carry out
+- Greatest manner in achieving closeness to Allah
+  - to perfect the Wajid over Sunnah 
+- Legislated with perfect wisdom serving to benefit mankind
+  - this is also a qaidah

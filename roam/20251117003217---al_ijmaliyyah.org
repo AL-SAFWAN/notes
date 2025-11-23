@@ -8,12 +8,26 @@
 al-ijmaliyyah "general"
 
 refers to
-- broad principle or rules
+* broad principle or rules
+:PROPERTIES:
+:ID:       e6d2dd3b-3376-4b6b-9a53-8794c16ee798
+:END:
 - exemplified by maxims 
   - a command implies an obligation, prohibition implies forbidance
   - actions are based upon intention
-
-exclude:
-- specific evidence 
+    
+** exclude
+:PROPERTIES:
+:ID:       0a9094f1-d138-407c-b1f2-1f6bc5b3e1f6
+:END:
+*** specific evidence 
+:PROPERTIES:
+:ID:       ba019a74-b637-414d-919c-9911fee8795c
+:END:
   - except when used illustratively to demonstrate a general rule.
 
+* examples
+• What are the agreed upon evidences in Islam?
+• How does the Sunnah constitute as an evidence?
+• Do the statements of the companions constitute as an evidence?
+• Can the scriptures of “the people of the book” be used as an evidence?

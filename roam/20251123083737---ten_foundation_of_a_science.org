@@ -1,0 +1,72 @@
+:PROPERTIES:
+:ID:       d3e98a77-b8ab-4c22-8567-04f3d755d321
+:END:
+#+title: Ten foundation of a science
+* The Ten Fundamentals of Every Science (al-Mabādi’ al-‘Asharah)
+Before studying Islam sciences, there are the ten *fundamentals* that introduce and define it.
+
+They summarise what a student must know before studying any discipline.
+
+** Poem (Al-Mabādi’ al-‘Asharah)  
+By Abu al-‘Irfān Muhammad ibn ‘Ali al-Sabbān (d. 1206 AH)
+
+لِكُلِّ فَنٍّ مِنَ الْفُنُونِ عَشَرَهْ  
+الحَدُّ وَالمَوْضُوعُ ثُمَّ الثَّمَرَهْ  
+
+وَنِسْبَةٌ وَفَضْلُهُ وَالوَاضِعْ  
+وَالاِسْمُ وَالاِسْتِمْدَادُ حُكْمُ الشَّارِعْ  
+
+مَسَائِلٌ وَالبَعْضُ بِالبَعْضِ اكْتَفَى  
+وَمَنْ دَرَى الجَمِيعَ حَازَ الشَّرَفَا
+
+** Meaning of the Ten Fundamentals
+1. Definition (al-ḥadd)
+   What the science *is*; its boundary and limits.
+   - a discipline focused on identifying the general evidence used in fiqh, understanding how these evidence can be applied and determining the qualifications necessary for those who seek to benefit from this knowledge.
+     
+2. Subject (al-mawḍū‘)
+   What topics the science deals with.
+   - What else does it connect to
+   - it deals with the evidence, what constitutes the evidence, the manner its derived and the who and the person who derives it   
+
+3. Benefit / Fruits (al-thamarah)
+   What you gain by studying it.
+   - guide the scholars of Islam to the correct legal rulings
+     - enables to come to the conclusion that Allah is please with
+       - the correct ruling 
+    
+4. Lineage / Relation (al-nisbah)
+   How it connects to other sciences.
+   - the roots of fiqh
+   - also the roots connect to all the other foundations 
+     - because, it all related to understanding the evidence
+     
+5. Virtue (al-faḍl)
+   Its value and rank among sciences.
+   - who ever is deprived of usul is deprived of reaching any goal
+   - if you don't have usol, you can't give fatwah 
+     - it is the base of the entire religion
+     - you'll have the correct understanding
+    
+6. Founder (al-wāḍi‘)
+   The first scholar to write in the field.
+   - Imaan ash-shafiee
+     
+7. Name (al-ism)
+   What the science is called.
+   - usul ul-fiqh
+     
+8. Source / Derivation (al-istimdād)
+   What the science draws from
+   - Qur’an, Sunnah, Ijmah and Qiyas
+
+9. Islamic Ruling (ḥukm al-shāri‘)
+   The Shar‘i ruling on learning it (e.g., fard kifāyah).
+   - Studying this is a communal obligation, and lift the obligation of the ummah/ community
+
+10. Topics (al-masā’il)
+    Important questions and topics discussed in the science.
+    -  e.g the command
+
+
+

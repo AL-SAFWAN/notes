@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       8d2c540f-3caf-4251-bc5f-160ba98d9f3b
+:END:
+#+title: relating to the actions of those burdened with carrying out the obligations of the legislation
+
+pertains to those aspects that involve active engagement, whether in speech or action, requiring individual to either perform specific acts or abstain from them.
+
+* Include
+:PROPERTIES:
+:ID:       94f2868e-8f64-4f9e-91c0-c4fee6ee5d31
+:END:
+Thus, within this scope, the term 'ruling' is applied only to those directives that influence physical or verbal actions,
+** targets practical
+:PROPERTIES:
+:ID:       9ac688c1-7674-455d-9dd5-66edefa2662a
+:END:
+** observable behaviours
+:PROPERTIES:
+:ID:       180cfb54-6f29-49dc-9552-7ed79e2179ca
+:END:
+
+* excludes
+:PROPERTIES:
+:ID:       30d6b641-71d0-40e2-b0ff-b4ba804239ab
+:END:
+distinctly excluding matters purely of faith or belief, which do not fall under the category of 'rulings' in this specific juristic context.
+** internal belief
+:PROPERTIES:
+:ID:       8b86ea6e-909b-4182-8e53-2f1aef6b99a4
+:END:
+** convictions
+:PROPERTIES:
+:ID:       8bb59732-d642-4fee-9ea6-a7e3f24eaaf5
+:END:
+

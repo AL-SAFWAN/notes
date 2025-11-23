@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       bfcf44b1-22b4-4531-a288-5e1b410647bb
+:END:
+#+title: Sahih
+
+linguistically
+means something free from defect or disease.
+Technically
+The legitimacy and effectiveness resulting from and act of worship or a contract.
+
+Examples
+For acts of worship to be sahih (valid)
+- they must meet all necessary conditions, pillars and obligatory steps; this ensures the fulfilment of religious responsibilities.
+- For instance, performing prayer on time with completed purification and adhering to all it's requirements is essential for its validity.
+Examples of impediments in worship
+- invalidity of a prayer performed without proper purification.
+- performing supererogatory prayer at times specifically prohibited by religious guidelines.
+
+
+Regarding contracts, sahih (valid)
+- implies that the consequence of the contract directly depends on it existence and fulfilment of all legal requirement, such a in a sale contract, the property and the terms of sale must be clearly defined and greed upon.
+- A contract cannot be considered valid unless it meets all essential condition and is free from any hindrances that might invalidate it.
+
+Examples of impediments in contract
+- attempting to see something not owned by the seller.
+- executing a sale during the Friday prayer after the second call, when such transaction are considered inappropriate.
+
+

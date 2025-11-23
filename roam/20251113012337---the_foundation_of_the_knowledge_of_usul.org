@@ -4,13 +4,15 @@
 #+title: The Foundation of the Knowledge of Usul
 By [[id:1f3c2584-6f42-4867-97d9-d79905054018][Sheikh Muhammad ibn Saleh al Uthaymeen]] (d. 1421 AH) may Allah (ﷺ) have mercy on him.
 
-
+* Authors Introduction
+:PROPERTIES:
+:ID:       870e90e9-1597-48fa-9393-2b8ad5c78b9a
+:END:
 [[id:593cd4a4-1a17-41c6-bfe3-70bc06ad0f8b][All praise is due to Allah]]; we praise him; seek his help and forgiveness; we repent to him; we seek refuge with Allah from the evils of ourselves and the evil of our actions. For whosoever Allah guides none can misguide and whosoever he misguides none can guide, I bear witness that there is not true god but Allah alone with no partners and I bear witness that Muhammad is his slave and messenger, may Allah's peace and blessing be upon him, his family, his companions and those who follow them until the Day of Judgement. 
 
 To proceed, I have authored a concise treatise on the principles of jurisprudence, tailored to align with the curriculum prescribed for third-year high school student at institutes of Islamic knowledge. I have titled this work "The foundations of the Knowledge of Usul"
 
 I ask Allah to make our actions purely for his sake and beneficial to his Servants; He is always near and responsive.
-
 * Usul ul-Fiqh
 :PROPERTIES:
 :ID:       f0ed4fd3-904f-4c79-97a8-25c113f04995
@@ -37,8 +39,9 @@ As Allah (ﷻ) the most High says:
 :PROPERTIES:
 :ID:       60f95f25-0683-49a3-b00b-6f01779f213c
 :END:
+Understanding the difference is important, else you'll misjudge the text later on.
 words have:
-*** linguistic definition
+*** Linguistic Definition
 :PROPERTIES:
 :ID:       41aa8189-6197-4126-b2e2-7c450835e857
 :END:
@@ -55,7 +58,8 @@ a word termed within the Shari'a
 :PROPERTIES:
 :ID:       688982c1-6f02-4812-bc2d-b3171d599a37
 :END:
-"[[id:1316d477-4b3c-4b9b-9d0a-f9017c3f2521][Fiqh]]", linguistically means understanding, as is the case in the statement of Allah (ﷻ) the Most High:
+[[id:1316d477-4b3c-4b9b-9d0a-f9017c3f2521][Fiqh]], linguistically means understanding,
+as is the case in the statement of Allah (ﷻ) the Most High:
  #+begin_quote
   [[id:4d4bfa23-495b-4e38-b7b0-50de0d3021e6][Ta-Ha (20:27)]] 
   And untie the knot from my tongue
@@ -67,113 +71,196 @@ a word termed within the Shari'a
   — Saheeh International
  #+end_quote
 
-And it use in the science of jurisprudence is: knowledge of ruling of the Shariah along with their specific evidence.
-
-** Knowledge of ruling of the Shariah along with their specific evidence
+*** And it use in the science of jurisprudence is:
+:PROPERTIES:
+:ID:       99dd694b-afae-4de7-bb46-3def19b09925
+:END:
+Knowledge of the Shariah practical ruling along with their specific evidence.
+**** Knowledge of
 :PROPERTIES:
 :ID:       026cecea-cd2e-4bcd-91f4-e5bcd1fe35b5
 :END:
 The term "[[id:6225c4e5-39bf-454c-b432-2c6073ad7c7e][ma'rifah]]" encompasses both knowledge and conjecture. This is because the ruling of fiqh (Islamic jurisprudence) can be understood through certainty or through speculative means, as is common in many fiqh issue. 
-
+**** ruling of the Shariah
+:PROPERTIES:
+:ID:       873b2503-f926-43f1-b7a9-00e9da6f32ae
+:END:
 The term "[[id:4df624e4-c807-45de-84d5-69b8fff4e82f][al-ahkam as shar'iyayah]]" refers to legal rulings derived from religious legislation. These include determinations of what is obligatory or prohibited. It specifically excludes intellectual judgement, such as understanding that a whole is greater than any of it's part, and natural observation like the occurrence of rain on a clear winter night.
-
+**** practical ruling 
+:PROPERTIES:
+:ID:       7e908a92-7b47-457d-9875-577394584ea0
+:END:
 The term "[[id:97c40ef6-c0fb-45ac-bdbd-91025209fed9][al-'amaleyyah]]" refers to '[[id:97c40ef6-c0fb-45ac-bdbd-91025209fed9][physical actions]]' and not core doctrinal beliefs. This includes physical practise such as prayer and zakat. It distinctly excludes aspects intimately linked to belief's such as Tawhid (the oneness of Allah) and the understanding of Allah's names and attributes. Hence these doctrinal elements do not fall under the category of fiqh in jurisprudence.
-
+**** with their specific evidence
+:PROPERTIES:
+:ID:       98c6896f-cbc2-4238-b4d7-82caeb91bb72
+:END:
 The term "[[id:c1d4bfaf-6fb9-4c19-b2a1-175c97b52f95][specific evidences]]" ([[id:c1d4bfaf-6fb9-4c19-b2a1-175c97b52f95][al-adillah at tafsileyah]]) refers to evidence in fiqh that are specifically related to detailed aspects of fiqh. This definition excludes the subject of usul ul fiqh which deals primarily with the general principles and broader evidence within fiqh
+** Technical definition of Usul ul-Fiqh
+:PROPERTIES:
+:ID:       81051983-5419-449a-83e1-e7dda761a7e1
+:END:
+Secondly, when used as a term for this particular field of study, it is defined as;
 
-Secondly, when used as a term for this particular field of study, it is defined as; a discipline focused on identifying the general evidence used in fiqh, understanding how these evidence can be applied and determining the qualifications necessary for those who seek to benefit from this knowledge.
+a discipline focused on identifying the general evidence used in fiqh, understanding how these evidence can be applied and determining the qualifications necessary for those who seek to benefit from this knowledge.
 
+*** Evidence of Fiqh
+:PROPERTIES:
+:ID:       d6d3e94c-1b41-49e7-b392-02c141e12f92
+:END:
+- (identifying the general evidence used in fiqh)
 The term "general" ([[id:e7f4cb66-301f-4c32-afcc-026f4da91f32][al-ijmaliyyah]]) refers to broad principle or rules, exemplified by maxims such as; a command implies an obligation, prohibition implies forbidance, and the validity of a transaction necessitate the execution of action that follow, such as the exchange of goods.
 
 From this definition, we can conclude that specific evidence fall outside the scope of Usul ul Fiqh except when used illustratively to demonstrate a general rule.
 
+*** The Manner in Deriving Rulings
+:PROPERTIES:
+:ID:       ead1178a-cbcf-4a17-a7b1-456bf34ca602
+:END:
+- (understanding how these evidence can be applied)
 The phrase "and how to make full use of them" ([[id:785116ff-2a6e-4d86-a4fe-538d65e2c0bd][wa kayfiyat ul-istifadata minha]]) refers to the understanding and application of methodologies that enables a jurist (faqih) to extract and apply rulings from the legal evidences efficiently. This involves analysing the language of the text, discerning nuances such as the general from the specific, the conditional from the unconditional, and identifying instances of abrogation. Such skill are essential for a faqih to effectively interpret and implement the evidence in deriving coherent and applicable legal ruling from the foundational text of fiqh.
 
+*** The one able to derive Rulings
+:PROPERTIES:
+:ID:       0578557b-ad8f-455d-b1a0-0ad3ffa63eea
+:END:
+- (determining the qualifications necessary for those who seek to benefit from this knowledge)
 The term "condition of the beneficiary" ([[id:6c506c91-b8fb-43c9-a509-21b85f9f4277][hal al-mustafid]]) pertains to the qualification and status of the individual who is capable of deriving leg rulings from the foundational text.
 
-Therefore, a deep comprehension of the  nature of a mujtahid, the prerequisite for Ijithad, and its associated legal judgement are foundations aspects taught within the study of Usul ul Fiqh.
+Therefore, a deep comprehension of the nature of a mujtahid, the prerequisite for Ijithad, and its associated legal judgement are foundations aspects taught within the study of Usul ul Fiqh.
 
-** definition of Usul ul Fiqh :notes:
-:PROPERTIES:
-:ID:       0b1e5ef4-f7c2-40cb-b3bd-9e8e25eb7a5e
-:END:
-*** Linguistically
-:PROPERTIES:
-:ID:       f00290c0-7d27-4e02-8d9d-33453b288f43
-:END:
-- Usul - roots
-- Fiqh - understanding
-- Usul ul-Fiqh
-  - The roots of understanding
-    - without usul, the fiqh will collapse. 
-*** Technically
-:PROPERTIES:
-:ID:       cbca63ea-5af5-4cee-bcff-b9836ea61cd9
-:END:
-- Fiqh - knowledge of ruling of the Shariah, along with their specific evidence.
-- Usul ul Fiqh:
-  - The knowledge thought certainty and speculative mean of legal rulings for physical actions and what condition a mujtahid should have to derive them
-
-    
 * The benefits of usul ul fiqh
+:PROPERTIES:
+:ID:       9e29db49-1ec9-4789-bef4-53602fa90eb7
+:END:
+** [[id:d3e98a77-b8ab-4c22-8567-04f3d755d321][Ten foundation of a science]]
+** Benefit
+:PROPERTIES:
+:ID:       4bb7397f-abcb-4ed3-9b5a-26b430c9a8f8
+:END:
 Usul ul Fiqh is a distinguished and vital field of Islamic scholarship, providing profound rewards, it equips scholars with the essential skill and knowledge required to derive legal rulings form religious text accurately and reliably.
 
 (The science ensure that the principle and methodologies employed are both rigorous and adherent to the spiritual and legal standards set forth in Islam, facilitating a deep and sound understanding of the law)
-
+** History
+:PROPERTIES:
+:ID:       1acd9a2b-4132-4dfe-936e-a4c5a53a4a05
+:END:
 [[id:2dada820-43bc-4ab9-a532-d10230524921][Imam ash-shafi'i]], Muhammad ibn Idris, was the pioneering figure who established Usul ul Fiqh as a distinct discipline with Islamic scholarship. Following his ground breaking work, numerous scholars across generation have build upon his foundation, contributing extensive thought various forms of writing-prose, poetry and both concise and expansive volumes. This prolific scholarly activity have evolved Usul ul Fiqh into well defined and recognised fields, characterised by its unique feature and profound depth.
 
-* Rulings (Al Ahkam) pg 9
-The term "[[id:948d05ba-0ec0-403a-b737-6f79eab474d2][Al-ahkam]]" (rulings), in its plural form derived form "hukm", refers linguistically to a judgement or decision. In the context of Islamic jurisprudence, it specifically denotes judgements that arise from the directives issued by the legislator - the Lawgiver, which in this instance are manifested in the Qur'an and the Sunnah. These directive address the actions of those who are deemed legally responsible (al-mukallafin) with the Islamic law. Such rulings mandate specific behaviour and choices or outline certain state, providing a structured guide on how to conduct oneself in accordance with divine legislation.
+* Rulings (Al Ahkam)
+:PROPERTIES:
+:ID:       df9924a3-636d-47db-82ca-5a00084413cf
+:END:
+** Al Akham
+The term "[[id:948d05ba-0ec0-403a-b737-6f79eab474d2][Al-ahkam]]" (rulings), in its plural form derived form "hukm",
+*** Linguistically 
+:PROPERTIES:
+:ID:       389b3e74-6774-4343-937d-0c30fa71ea99
+:END:
+refers linguistically to a judgement or decision.
+*** Technically 
+:PROPERTIES:
+:ID:       57901235-3b27-468a-bfc3-fe200278a7c6
+:END:
+In the context of Islamic jurisprudence, it specifically denotes
 
-The phrase 'relating to the actions of those burdened with carrying out the obligation of the legislation' pertains to those aspects that involve active engagement, whether in speech or action, requiring individual to either perform specific acts or abstain from them. This definition specifically targets practical, observable behaviours rather than internal belief or convictions. Thus, within this scope, the term 'ruling' is applied only to those directives that influence physical or verbal actions, distinctly excluding matters purely of faith or belief, which do not fall under the category of 'rulings' in this specific juristic context.
+judgements that arise from the directives issued by the legislator - the Lawgiver, which in this instance are manifested in the Qur'an and the Sunnah. These directive [[id:4e8b2b27-894d-49ec-87f9-ef363544cdc4][address the actions]] of those [[id:aa6e4818-ff72-4c80-93d4-a23c24330872][who are deemed legally responsible]] (al-mukallafin) with the Islamic law. [[id:936505a7-95c2-4362-8c65-6591111964d7][Such rulings mandate]] specific behaviour and [[id:266df128-c5d2-4174-8d7e-c1cf26b26ae4][choices]] or outline certain [[id:50737953-6181-451d-808b-af1755e9b651][state]], providing a structured guide on how to conduct oneself in accordance with divine legislation.
 
-The term "al-[[id:ba93d19b-37c1-40d2-9613-a01ac674fa21][mukallaf]]in" refers to individual who are deemed legally responsible and capable of bearing the obligation set forth by Islamic legislation. This category specifically includes those who have reached the age of maturity and are of sound mind, thereby excluding minors and those who are mentally incapacitated. The term 'mandated'(talab) in this context signifies the legal commands and prohibition issued by the legislator. These can be obligatory (which must be adhered to strictly) or recommended (suggesting preference but not strict enforcement).
+**** address the actions
+:PROPERTIES:
+:ID:       091263bb-fa09-4cf1-826d-c239d1cbad2a
+:END:
+The phrase '[[id:8d2c540f-3caf-4251-bc5f-160ba98d9f3b][relating to the actions of those burdened with carrying out the obligations of the legislation]]' pertains to those aspects that involve active engagement, whether in speech or action, requiring individual to either perform specific acts or abstain from them. This definition specifically targets practical, observable behaviours rather than internal belief or convictions. Thus, within this scope, the term 'ruling' is applied only to those directives that influence physical or verbal actions, distinctly excluding matters purely of faith or belief, which do not fall under the category of 'rulings' in this specific juristic context.
 
-The term 'choice' (takhyir) pertains to matter that are deemed permissible within the law (where the individual has the freedom to decide how to act). finally the term state wad' refers to being accepted or rejected, or other conditions or statues defined by the legislator through specific sign or descriptions. These dictate whether certain actions should be carried out or avoided, based on the context provided by these indicator.
+**** who are deemed legally responsible
+:PROPERTIES:
+:ID:       712c88c5-5ef2-4b56-bd66-a4f3f393b88f
+:END:
+The term "al-[[id:ba93d19b-37c1-40d2-9613-a01ac674fa21][mukallaf]]in" refers to individual who are deemed legally responsible and capable of bearing the obligation set forth by Islamic legislation. This category specifically includes those who have reached the age of maturity and are of sound mind, thereby excluding minors and those who are mentally incapacitated.
+
+**** Such rulings mandate specific behaviour
+:PROPERTIES:
+:ID:       5265259b-5647-4f67-89c2-4e0b66122d80
+:END:
+The term 'mandated' ([[id:7836d305-da4c-4cac-be7f-b96e3e66c557][talab]]) in this context signifies the legal commands and prohibition issued by the legislator. These can be obligatory (which must be adhered to strictly) or recommended (suggesting preference but not strict enforcement).
+**** and choices
+:PROPERTIES:
+:ID:       58ec793a-496e-439c-b8a0-878c5e7cef82
+:END:
+The term 'choice' ([[id:294cf818-0fce-4cf3-a8d8-1805a6a700f2][takhyir]]) pertains to matter that are deemed permissible within the law (where the individual has the freedom to decide how to act).
+**** or outline certain state
+:PROPERTIES:
+:ID:       df3fa4da-ab44-4a7d-a295-e5cecc505793
+:END:
+Finally the term 'state' ([[id:5960aa48-39b3-4d37-a4dc-0a96ec1c52a1][wad']]) refers to being accepted or rejected, or other conditions or statues defined by the legislator through specific sign or descriptions. These dictate whether certain actions should be carried out or avoided, based on the context provided by these indicator.
                          
-* The types of Rullings in the Shari'ah
-
+** The types of Rulings in the Shari'ah
+:PROPERTIES:
+:ID:       f1fac6a5-53a2-4a47-a96f-3f6b13dbc121
+:END:
 The types of commands (in the shari'a) falls into two categories Taklifyah and Wad'iyah
 
-The Talifiyah are five; wajib (obligation), mandud (encouraged to understake), muharram (prohibited), makruh (disliked), and mubah (permissible).
+*** Rulings Talifiyah are five;
+:PROPERTIES:
+:ID:       92ad64e9-116f-42ec-8d51-17ae5ef61652
+:END:
+ The [[id:a45f3047-54e8-405f-9166-40242b688ed9][Talifiyah]] are five; wajib (obligation), mandud (encouraged to understake), muharram (prohibited), makruh (disliked), and mubah (permissible).
+**** 1. [[id:f2ed94ec-eb30-45bc-8b5a-b01a6169903f][Wajid]]
+linguistically means what have fallen or what is compulsory.Technically, (the context of Islamic law) it signifies an act or duty that the legislator has mandated as obligatory. Example of such obligatory act include the five prayers
 
-1. wajid: linguistically means what have fallen or what is compulsory. Technically, (the context of Islamic law) it signifies an act or duty that the legislator has mandated as obligatory. Example of such obligatory act include the five prayers
+so in this case, when we say "what the legislator has ordered by way of obligation," we are specifically referring to actions that are mandatory (wajib).
 
-so in this case, when we say "what the legislator has ordered by way of obligation," we are specifically referring to actions that are mandatory (wajib). This exclude:
-
+This exclude:
 Forbidden (Haram): (Actions that the legislator has explicitly prohibited).
 Disliked (Makruh):(Actions that are discouraged but not sinful if performed)
 Permissible (Mubah): (Actions that are neither required nor discouraged, and carry no reward of punishment)
 
 Additionally, the statement 'by way of obligation' does not include actions that are Encouraged (Mandub) or Sunnah (which refer to acts that are recommended but not obligatory. Performing these actions brings reward, whereas neglecting them does not bring sin. This clarification is essential to differentiate between various levels of legal and moral responsibilities in Islamic law).
 
-Therefore, something wajib is that which, if carried out, will bring reward to the one performing it, and the one fails to do so deserves to be punished. It also referred to as Fard, faridah, hatam and lazim.
+Therefore, something wajib is that which, if carried out, will bring reward to the one performing it, and the one fails to do so deserves to be punished.
 
-2. Mandud: linguistically means something or someone appointed or designated. Technically, it refers to what the legislator has recommended but not as an obligation, such as supererogatory prayers.
+It also referred to as Fard, faridah, hatam and lazim.
+
+**** 2. [[id:cb994b3c-c1f8-4197-9dd0-5774b1ebc3dd][Mandub]]
+linguistically means something or someone appointed or designated. Technically, it refers to what the legislator has recommended but not as an obligation, such as supererogatory prayers.
 
 Therefore, excluded from out statement 'what the legislator has ordered' are actions that are forbidden, disliked, or merely permissible. Additionally, excluded from the phrase 'not by way of obligations' are actions that are wajib
 
-Thus, when an actions is mandud, the performer is rewarded for carrying it out but is not punished for omitting it. It is also known as Sunnah, mansnun, mustahab and nafal.
+Thus, when an actions is mandub, the performer is rewarded for carrying it out but is not punished for omitting it.
 
-3. Muharram: linguistically means forbidden, and technically, it refers to what the legislator has explicitly forbidden as an obligation to avoid, such as disobedience to the parents.
+It is also known as Sunnah, mansnun, mustahab and nafal.
+
+**** TODO 3. [[id:3e653a3f-bd40-4551-b7fc-28c32b7ec903][Muharram]] t:1:09:23, lesson 2
+linguistically means forbidden, and technically, it refers to what the legislator has explicitly forbidden as an obligation to avoid, such as disobedience to the parents.
 
 Therefore, excluding from our statement 'forbidden by the legislator' are actions categorised as wajib (obligation), mandud (recommended), mubah (permissible). Furthermore, excluded from the phrase 'an obligation to avoid' are actions that are merely disliked
 
-Thus, when something is muharram (forbidden), the individual who refrains from it is rewarded, while one who engages in it deserve punishment. This term is also referred to as Mahzur or mamnu.
+Thus, when something is muharram (forbidden), the individual who refrains from it is rewarded, while one who engages in it deserve punishment.
 
-4. Makruh: linguistically means something hatred. Technically, it refers to what the legislator has discouraged but not by way of obligatory or abandon, such as taking and giving with the left hand.
+This term is also referred to as Mahzur or mamnu.
 
-Therefore, excluding from our statement "forbidden by the legislator" are actions categorised as wajib (obligatory), mandud (recommended), mubah (permissible). Also exclude from the phrase "not by way of obligation" is anything that is muharram (strictly forbidden).
+**** 4. [[id:265dcc0d-0d72-4f6c-8819-85c4e27174f5][Makruh]]
+linguistically means something hatred. Technically, it refers to what the legislator has discouraged but not by way of obligatory or abandon, such as taking and giving with the left hand.
+
+Therefore, excluding from our statement "forbidden by the legislator" are actions categorised as wajib (obligatory), mandub (recommended), mubah (permissible). Also exclude from the phrase "not by way of obligation" is anything that is muharram (strictly forbidden).
 
 Thus, when something is makruh, the individual who refines form it out of compliance with the legislation is rewarded, but one who performs the actions is not punished.
 
-5. Mubah: linguistically means something declared or permitted. Technically, it refers to what is neither connected with a command nor prohibited in and of itself, like eating during the night of Ramadan.
+**** 5. [[id:fc1f0325-07ff-4d1e-977d-148511217a17][Mubah]]
+linguistically means something declared or permitted. Technically, it refers to what is neither connected with a command nor prohibited in and of itself, like eating during the night of Ramadan.
 
-Thus, excluded form our statement  'what is connected with a command' are actions that are wajib (obligatory) and mandud (recommended). Also excluded form our statement 'not something prohibited' are actions that are muharram (forbidden) and makruh (disliked). The phrase 'in and out itself' excluded anything that acts as a medium leading to a commanded actions, thus becoming obligatory, or leading to a forbidden actions, thus becoming prohibited, which would alter its original status as mubah (permissible). When something is categorised as mubah (permissible), it remains within the bounds of permissibility, not resulting in reward or punishment for engaging in it. It is also refereed to as halal and ja'iz.
+Thus, excluded form our statement  'what is connected with a command' are actions that are wajib (obligatory) and mandub (recommended). Also excluded form our statement 'not something prohibited' are actions that are muharram (forbidden) and makruh (disliked). The phrase 'in and out itself' excluded anything that acts as a medium leading to a commanded actions, thus becoming obligatory, or leading to a forbidden actions, thus becoming prohibited, which would alter its original status as mubah (permissible). When something is categorised as mubah (permissible), it remains within the bounds of permissibility, not resulting in reward or punishment for engaging in it.
 
-* Rullings of Wad'iyah pg 13
-The rulings of wad'yah pertain to those indicators the legislator has set forth to determine the validity, implementation, or annulment of an action, distinguishing between what is valid (sahih) and what is invalid (fasid)
-1. Sahih, linguistically, means something free from defect or disease. Technically, it refer to the legitimacy and effectiveness resulting from and act of worship or a contract.
+It is also refereed to as halal and ja'iz.
+
+*** Rulings of Wad'iyah are two:
+:PROPERTIES:
+:ID:       91c6ed2e-75ac-4d3f-9093-6d6300663d54
+:END:
+The rulings of [[id:a95543d3-e328-4e07-8fb4-f65c676a0bdb][wad'yah]] pertain to those indicators the legislator has set forth to determine the validity, implementation, or annulment of an action, distinguishing between what is valid (sahih) and what is invalid (fasid)
+**** 1. [[id:bfcf44b1-22b4-4531-a288-5e1b410647bb][Sahih]]
+
+linguistically, means something free from defect or disease. Technically, it refer to the legitimacy and effectiveness resulting from and act of worship or a contract.
    
 For acts of worship to be sahih (valid), they must meet all necessary conditions, pillars and obligatory steps; this ensures the fulfilment of religious responsibilities. For instance, performing prayer on time with completed purification and adhering to all it's requirements is essential for its validity.
 
@@ -181,7 +268,9 @@ Regarding contracts, sahih (valid) implies that the consequence of the contract 
 
 Examples of conditions and impediments in worship include the invalidity of a prayer performed without proper purification. In contract, an invalid condition would be attempting to see something not owned by the seller. An example of an impediment in worship is performing supererogatory prayer at times specifically prohibited by religious guidelines. In contracts, an impediment would be executing a sale during the Friday prayer after the second call, when such transaction are considered inappropriate.
 
-2. Fasid, linguistically, means something that has been corrupted or is at a loss. Technically, it refers to action or contract that fail to produce their intended legal effect. Therefore, fasid (invalid) action of worship are those that do not fulfil the obligation required, resulting in an unmet religious demand, such as praying before the appointed time. Similarly fasid (invalid) contracts are those that are ineffective, like a contract to sell something unspecified or unknown.
+**** 2. [[id:65b3754f-220d-41fb-b1eb-721c2df6eef0][Fasid]]
+
+linguistically, means something that has been corrupted or is at a loss. Technically, it refers to action or contract that fail to produce their intended legal effect. Therefore, fasid (invalid) action of worship are those that do not fulfil the obligation required, resulting in an unmet religious demand, such as praying before the appointed time. Similarly fasid (invalid) contracts are those that are ineffective, like a contract to sell something unspecified or unknown.
 
 All corrupt acts of worship, contracts and related condition are considered haram (forbidden); this is viewed as overstepping Allah's limits and mocking His verse, especially since the prophet Muhammad (ﷺ) forbade stipulating conditions that are not sanctioned by the Book of Allah.
 
@@ -194,6 +283,9 @@ In Marriage: Fasid refers to conditions within a marriage that scholars have deb
 (These distinctions highlight the specific legal consequence and religious implications associated with each term, reflecting the depth and complexity of Islamic jurisprudential terminology)
 
 * Knowledge
+:PROPERTIES:
+:ID:       c152f78d-91bc-483c-8e58-baa2e10417af
+:END:
 time 11:40
 The definition of knowledge involves the accurate perceptions of something as it truly is, coupled with a certain and confident awareness of it. For instance, understanding that the whole is greater than the part, or recognising that intention is a prerequisite for the acceptance of worship.
 
@@ -213,7 +305,10 @@ This categorisation illustrate that our understanding of realities can be classi
 
 (Each of these states reflect different level of clarity, certainty and accuracy in the perceptions of realities, impacting the validity of conclusions drawn from such perceptions)
 
-* Categories of Knowledge
+** Categories of Knowledge
+:PROPERTIES:
+:ID:       6c48d345-af06-4bca-9033-831497274bfe
+:END:
 Knowledge, as a component of understanding and perception, can indeed be categorised into two primary types: essential and theoretical.
 
 Essential Knowledge: This type of knowledge is intrinsic and almost instinctual. Individuals acquire this. knowledge effortlessly, without deliberate investigation or analysis. it include universally self-evident truths or fact that are generally accepted without question once encounter, such as the understanding that the whole is greater than it's part, that fire produced heat, or recognition of Muhammad (ﷺ) as the messenger of Allah. These are perceived as basic truth that do not require proof or extended reasoning.
@@ -221,6 +316,9 @@ Essential Knowledge: This type of knowledge is intrinsic and almost instinctual.
 Theoretical Knowledge: Unlike essential knowledge, theoretical knowledge requires active learning, reflection and analysis. It involves concepts and information that are not immediately apparent and typically require education or personal inquiry to understand. This category includes knowledge like the necessity of intention in prayer (theoretical knowledge often demands a degree of intellectual effort to acquire and understand.)
 
 * Speech (Al-kalam)
+:PROPERTIES:
+:ID:       c2ddafa5-b672-4853-806d-75c0412632f6
+:END:
 time 12:51
 
 The concept of speech encompasses both linguistic and technical definition that focus on the use of words to convey meaning.
@@ -264,7 +362,10 @@ C- The particle: particles are word that imply meaning indirectly, relating to o
 3. Genitive Lam: this particle can express several meanings, including reasoning (why something is done), ownership (belonging to someone), and permissibility (allowing for an action)
 4. Genitive 'Ala: Often conveys a sense of obligation, indicating that the actions described is required or expected
 
-* Parts of speech
+** Parts of speech
+:PROPERTIES:
+:ID:       47964fc3-0775-4d86-b82c-db85897e333b
+:END:
 time 1:26
 
 Speech is divided, with regard to its potential for truthfulness into two part al-khabr (news) and al-insha (that which is established)
@@ -296,6 +397,9 @@ The statement "we will carry" is presented in the form of an order (insha), yet 
 
 (The use of directive language here serves to portray their assertion as something compelling and obligatory, there by elevating the persuasive force of their statement. This rhetorical strategy position their claims as something serious and blinding, enhancing the impact of their argument even though it is essentially an informational statement about their false promise).
 * Literal words and Metaphors
+:PROPERTIES:
+:ID:       f7ac4e44-a24e-4612-8619-48a6ff3e9325
+:END:
 speech is divided in terms of usage to literal words and metaphroical words.
 
 Literal words refers to terms used in their primary, original sense, which directly conveys the meaning they are commonly understood to represent. For example, "lion" refer to the well know large predatory cat.
@@ -365,7 +469,10 @@ The division of speech into fact and metaphor is well know among many later scho
 
 They argued that this convention emerged after the three preferred centuries. skhiek al Islam ibn taymiyyah and his student ibn al qayim supported this view with strong evidence, which becomes apparent upon closer examination that this is the correct option.
 
-* The Commands (Al-Amr)  pg 30
+* The Commands (Al-Amr)  
+:PROPERTIES:
+:ID:       39285781-98fb-4508-b1c5-1185440ba709
+:END:
 
 The definition of a command is: a statement that includes a requests for actions by a higher authority, such as "establish the prayer and pay zakat".
 
@@ -376,6 +483,9 @@ Additionally, what is also excluded from out phrase 'the request of an action' i
 And what is also excluded from our phrase 'by way of higher authority' is appeals, supplications, and similar expression that may resemble commands in structure but do no carry the authority of a command.
 
 ** Forms of command
+:PROPERTIES:
+:ID:       7faf8b22-4668-4721-805a-57acd3a1b85a
+:END:
 The forms of command are four:
 1. The imperative verb, such as
    "recite [O Muhammed], what has been revealed to you of the book" 29:45
@@ -386,9 +496,12 @@ The forms of command are four:
 4. Present tense verb joined with the Lam of imperative, such as:
    "To believe in Allah and his messenger" 58:4
 
-Commands can also be conveyed through means other than the standard forms mentioned above, for instance, a command may be indicated by describing it as fard, wajib,mandud or obedience, or by praising the performer and disparaging the one who neglects it. Additionally, a reward may be associated with its fulfilment, ore leaving it may incur punishment.
+Commands can also be conveyed through means other than the standard forms mentioned above, for instance, a command may be indicated by describing it as fard, wajib, mandub or obedience, or by praising the performer and disparaging the one who neglects it. Additionally, a reward may be associated with its fulfilment, ore leaving it may incur punishment.
 
 ** What the wording of a command necessitates
+:PROPERTIES:
+:ID:       9d393d51-7cd3-432e-a327-67d12cd60361
+:END:
 The commands, when not contrained by other factors, entails the obligation of executing what is being commanded and doing so promptly.
 
 For the evidence that it necessitates obligation in the verse:
@@ -434,17 +547,21 @@ An example of something recommended is wearing perfume on the day of Jum'uah. If
 
 The principle is part of a more genreal principle: the means follow the rulings of the purposes they are being used for. So, the means undertaken to fulfil obligation are themselves obligatory, and similarly, those things that are prohibited render the means unlawful as well.
 
-
-
 * The Prohibition (an-nahi)
+:PROPERTIES:
+:ID:       ba153459-1035-4764-8f2e-303a149be4bf
+:END:
 The definition of a prohibition is a statement form a higher authority that includes a request to avoid doing something. It typical follows a specific format, using the present tense couple with the "laam" of prohibition such as the statement of the Most High":
 "Do not follow those who deny Our revelation and who do not believe in the Hereafter" 6:150
 
 What is excluded from our definition is the inclusion of "gestures", as it's not typically regarded as a form of prohibition, even if it conveys a similar meaning. Additionally, excluded form out description of "a request to avoid something" is the concept of command, which entail a request to carry out an action rather than to avoid it. Furthermore, excluded from "from a higher authority" are appeals, supplications, or other forms of expression that do not imply prohibition.
 
-Also excluded form our descriptions of 'a specific format of the presence tense, etc' are expressiong that indicate a request to abstain from something but are in the form of a command (al-amr), such as "da" (Leave alone), 'utruk'(leave, abandon), and 'kaff leave off, among other. While these expression convey a request to stop, their form is that of a command rather than a prohibition. furthermore, prohibition can be conveyed through means other than the normal forms of prohibition, such as when the act is described as haram, severely warned against, distasteful or when the perpetrator is disparaged, or when a punishment is ascribed to it, and so forth.
+Also excluded form our descriptions of 'a specific format of the presence tense, etc' are expression that indicate a request to abstain from something but are in the form of a command (al-amr), such as "da" (Leave alone), 'utruk'(leave, abandon), and 'kaff leave off, among other. While these expression convey a request to stop, their form is that of a command rather than a prohibition. furthermore, prohibition can be conveyed through means other than the normal forms of prohibition, such as when the act is described as haram, severely warned against, distasteful or when the perpetrator is disparaged, or when a punishment is ascribed to it, and so forth.
 
 ** What the wording of prohibition necessitates
+:PROPERTIES:
+:ID:       d2a92f4c-5a61-4bc9-998b-05c5bbe80b9b
+:END:
 When left unrestricted, prohibitions necessitates the complete forbiddance of the action in question and render it invalid. This is supported by evidence such as the statement of the Most High:
 
 "And whatever the Messenger give you then take it, and whatever he forbids you form then abstain from it" 59:7
@@ -486,6 +603,9 @@ Excluded from the term "sane" is an instance person, who is not held accountable
 This exemption does not apply to the obligation of zakat and financial rights of a child or insane person. These obligation are contingent on  specific condition, and once those conditions are met, the ruling applies based on the circumstance,  not the individual performing it.
 
 ** Accountability for Commandments and Prohibitons include Muslim and Non-Muslim
+:PROPERTIES:
+:ID:       7a0243f5-6678-4d9b-a4a7-223738d4aa3f
+:END:
 
 Both groups are obligated to obey the commands and refrain from the prohibitions. However the acceptance of deed differs between Muslim and non-Muslim. None-Muslims have their deed accepted even while they remain in a state of disbelief, as mention in the Qur'an:
 
@@ -499,8 +619,10 @@ Additionally, the Prophet Muhammad (ﷺ) informed Amr ibn al-as that "Islam null
 
 "What put you into Saqar? They will say, We were not of those who prayed, not did we used to feed the poor, and we used to enter into vain discourse with those who engaged [in it], and we used to deny the Day of recompense until there came to us the certainty" 74:42-47
 
-
 ** Preventions for Accountability
+:PROPERTIES:
+:ID:       f7ed8027-6a6b-4604-b662-2dd996fb7ccf
+:END:
 pg 42 - time 8:48
 
 There are circumstances that exempt individual from he obligations set by the shariah
@@ -511,6 +633,9 @@ There are circumstances that exempt individual from he obligations set by the sh
 These allowance are based on Allah's forgiveness and mercy concerning His rights. However regarding the rights of others, commitments must be honred unless the involved party choose to overlook them.
 
 * The General (Al-'Am)
+:PROPERTIES:
+:ID:       500a4a34-298d-4b7a-8d3a-1ea674f875ba
+:END:
 9:01
 The term Al-'Am linguistically signifies inclusively. Technically, it refers to an all-encompassing word that incorporates all its individual elements without restriction: such as:
 "The righteous are in bliss" 82:13, 84:22
@@ -522,6 +647,9 @@ it does not encompass all elements inclusively but focuses on one unspecified el
 And what it not covered by the phrase "without restriction" is anything that addresses all its elements with restrictions, such as specific number like "one hundred thousand" and similar expressions.
 
 ** Forms of General (Al-'Am)
+:PROPERTIES:
+:ID:       69309a59-973f-4102-a1ee-b42a2734687e
+:END:
 The seven types of wording which indicate genreality are
 1. What shoes generality in itself - such as: kullu (every), Jami (entirely), Kafak (totality), qatibah (all without exception), and al-'Am (general): such as the saying of the Most High
    "Everything We have created with due propotion and measure" 54:49
@@ -558,6 +686,9 @@ The seven types of wording which indicate genreality are
    When the "al" article defines a class noun, it doesn't render singular nouns as general. For instance, when saying "The man is better than the women" or "the men are better than the women" it doesn't imply that every individual man is better than every individual women, Rather, it suggest that the male gender as a whole is considered superior to the female gender, even though theere may be  individual women who surpass certain men in certain aspects.
 
 ** Acting on the general
+:PROPERTIES:
+:ID:       dcaf3165-672c-421b-8521-a0a6b74987e4
+:END:
 time -932
 It's imperative to adhere to the general implication of text until evidence suggest specificity. This is because the Quranic and Sunnah text require adherence to their general meaning until evidence indicate otherwise.
 
@@ -569,7 +700,10 @@ An instance where evidence specifies a general statement is found in the Prophet
 
 The specificity of this ruling is evident from the Prophet own practice. He would fast during journey when it wasn't arduous for him, highlighting that he abstain from actions deemed unrighteous.
    
-*  The Specific (Al-Khas)
+* The Specific (Al-Khas)
+:PROPERTIES:
+:ID:       411ad8c6-fab6-4478-82a1-87c2831c6200
+:END:
  the term "al-Khas" linguistically denotes the opposite of "general" (Al-'Am). Technically, it refers to a word that is restrict to a particular person or a specific number, such as names of well known individual, demonstrative noun, and numerical values.
 
  Excluded from the definitions of "restricted" are nay element of characterised by generality.
@@ -587,6 +721,9 @@ Therefore, one form of the connected specified, know as "Mukhasis al Mutasil" is
 
 Excluded from this definition are methods of specifying something with a conditions or any other means beside "illa" or its equivalents.
 ** Conditions for Al-istithnah
+:PROPERTIES:
+:ID:       3e501456-6744-433a-b3e4-cd2cdc6936e0
+:END:
 For the validity of istihnah, certain conditions must be met:
 1. It must be connect to the thing it is excluding, either directly or indirectly
    - Direct connection occurs when the exception immediate follows the thin it exempts without interuption 
@@ -625,6 +762,9 @@ And example of a state (hal) is the saying of the Most High:
 "But whoever kill ad believer intentionally - his recompense is Hell, wherein he will abide eternally, and Allah as become angry with him and has cursed him and has prepared him a great punishment" 4:93
 
 ** The sperate Mukhasis
+:PROPERTIES:
+:ID:       4b8e919c-45d4-4ef4-8758-0bc3b1bb314a
+:END:
 
 The separate specifier is independent and consist of three elements: sense, reason and legislation
 
@@ -683,6 +823,9 @@ Lastly an example of the Sunnah being made specific by analogy is the saying of 
 
 This has been made specific by analogy for the slave man and women it is limited to fifty lashes, this is what is well known.
 * The absolute and restricted
+:PROPERTIES:
+:ID:       644ac976-ff78-4cb8-bb60-34ba0a9b30fc
+:END:
 The definition of Absolute (al-mutlaq): Al-mutlaq linguistically means the opposite of unrestricted, and technically it means: whatever indicates a reality without a restriction as the saying of the Most High.
 "The freeing of a slave before they touch one another " 58:3
 
@@ -715,6 +858,9 @@ And his saying in the verse regarding ablution:
 Here although the ruling may seem similar, there is a difference, the first verse mention cutting, while the second mentions washing. Therefore, we do not qualify the first text by the second: the first verse remains absolute, specifying that the cutting should be from the write. Similarly, the second verse remain restricted, indicating that the washing should be done up to and including the elbows.
 
 * The Obscure and The clarifying
+:PROPERTIES:
+:ID:       a8f87fad-dae8-44d0-abfc-7cda34ab0ce6
+:END:
 pg 62 time 807
 
 The Definition of  Obscure (Al-mujmal)
@@ -736,6 +882,9 @@ An example of what needs something else explaining its amount is the saying of t
 Similarly, the specific amount of Zakat that must be paid is not specified in this verse and require clarification for other source.
 
 ** The definition of the Clarifying (Al-mubayyin)
+:PROPERTIES:
+:ID:       a8b41f50-6d29-4c8a-96c9-1af1d134a7db
+:END:
 Linguistically. "Al-mubayyin" refers to clarifies or explainer. Technically, it denotes when the meaning is understood directly for the word itself in its original form or after clarification. For instance, words like "sky", "land", "mountain", "justice", "injustice", "sincerity", and others are self-explanatory and do not require futher clarification. An example for what is understood after clarification is the saying of the Most High:
         "And establish the prayer and pay the zakat"
         
@@ -754,6 +903,9 @@ indeed, the Prophet's practical explanation were profound. For instance, his obs
 Moreover, his action alone also served as instructive demonstration. For instance, in the narrations of Sahl Ibn Sa'd as Sadi, the prophet (ﷺ) led the prayer from the pulpit, initiating with "Allahu akbar", and the congregation followed suit. Subsequently, then turned to them and elucidated, "I have done this so that you may follow me and learn my prayer"
 
 * The Apparent and The Interpreted
+:PROPERTIES:
+:ID:       14833af3-bb2b-4b81-81bb-ce92ea9f9b32
+:END:
 The definition of Apparent (Ad-Dhahir)
 
 The term "Apparent" (Ad-Dhahir) carries a linguist connotation of clarity and visibility. Technically, it dentoes what it most likely in meaning, although other interpretation are possible. For instance, consider the Prophet's (ﷺ) statement: "Make ablution after (eating) camel meat." Here, the apparent meaning of ablution refers to the prescribed ritual ablution , not merely washing oneself.
@@ -775,6 +927,9 @@ And interpretation is of two types: acceptable and rejected
 [They changed the meaning of istawa (rose)] to meaning of "istawlah" to conquer, whereas it's correct interpretation is of highness and establishment without asking how or making similitude.
 
 * Abrogation (An-Naskh)
+:PROPERTIES:
+:ID:       36867766-fe81-4772-9d30-7e53470ba2fc
+:END:
 Abrogations, linguistically, entail removal or copying. Technically, it refers to the removal of a legal ruling or its wording, replaced by another evidence from the Qur'an and Sunnah. By "remove a ruling", we mean changing from obligation to permissibility or vice versa.
 
 However, this does not encompass situations like non-implementation due to condition or preventive factors. For instance, the obligation of Zakah may be lifted due to not meeting the set limit, or the obligation of prayer during menstruation; these instance are not termed as abrogations.
@@ -798,6 +953,9 @@ As for its occurrence in the Shariah then the evidence are many, from them:
    "I used to forbid you from visiting graves so visit them (from now on)"
    This text abrogated the prohibition of visiting the graves.
 ** What prevents abrogation taking place
+:PROPERTIES:
+:ID:       a23da66c-6026-4bb4-a55e-cbe5c9911c34
+:END:
 Abrogation is prevented from the taking place in the following:
 1. News: Abrogation is prevented from occurring in matters of news because it deals specifically with rulings. In cases where a ruling is conveyed in the form of news, abrogation can still apply. An example is found in the Quran, where Allah initially state:
    
@@ -811,6 +969,9 @@ Here, the initial ruling is replace by a new one, demonstrating the occurrence o
 2. Indeed, rulings that are universally beneficial, applicable in every time and place, such as the principle of Tawhid, the fundamental tenets of faith, and moral virtues like honesty, chastity, generosity, and courage, cannot be subject to abrogations. Similarly, prohibitions against universally recognised evils such as Shrik and Kufr, as well as immoral behaviour like lying, immorality, greed and cowardice, remains constant across all ages and regions. These laws are established for the welfare of humanity and to prevent harm and corruption. Therefor, they are immutable and not subjected to abrogation.
 
 ** Conditions of Abrogation
+:PROPERTIES:
+:ID:       dd7eb74b-4d6e-49e2-8860-03ed3de9beff
+:END:
 
 The conditions for abrogation that are required for what can be abrogated include:
 
@@ -824,6 +985,9 @@ And an example of knowledge garnered through history occurs in the saying of the
 3. Validation of the abrogating text. The majority has stipulated that the abrogating text be stronger than what is abrogating or at least similar, there the mutawatir (the narrations that has multiple narrators) would not be abrogated by narrations that are ahad (narrations that have a single narrator at each level of the chain), even if it is established (as correct narration), what is most correct is that it not be stipulated whether or not the abrogating text be stronger or similar, reason being the purpose of the abrogation is the ruling, and so it should require it to be mutawatir for it to take place.
 
 ** Categories of Abrogation
+:PROPERTIES:
+:ID:       e3fdc13b-6039-42f0-84fd-598ffc7c262f
+:END:
 Abrogation is divided into three segments with regards to the abrogated text:
 
 1. When the ruling has been abrogated and the wording has remained, this is frequent in the Qur'an. An example of which are the two verse of patience:
@@ -844,6 +1008,9 @@ The wisdom of abrogating the wording but not the ruling is to text the Ummah to 
 3. What has been abrogated both in wording and ruling: such as the abrogation of the ten breast feedings as in the previous narration of A'ishah
 
 ** The Abrogating Text
+:PROPERTIES:
+:ID:       4ec88b96-937a-4312-adca-5e64fce5c982
+:END:
 Abrogation is divided into four categories with regards to the abrogating text
 
 1. Abrogation of the Qur'an by Qur'an like the verse of patience (mentions above)
@@ -853,12 +1020,18 @@ Abrogation is divided into four categories with regards to the abrogating text
 4. Abrogation of the Sunnah by the Sunnah, and example of which is the saying of the Prophet:
    "I had forbidden you from the drinking (and preparation of) Nabidh in the vessels made out of leather, but (now) you may drink in all vessel, butt do not  drink intoxicants"
 ** The Wisdom of Abrogation
+:PROPERTIES:
+:ID:       a8b7f352-abc9-4f6c-b609-a7304a6cb059
+:END:
 There are many wisdom for Abrogation; from them:
 1. Taking into account the interest of people by legislating what is best for them in their religious and worldly affairs
 2. Gradually developing the legislation until it reaches perfection
 3. Testing the mukllafeen, their readiness to accept the transition from one rule to another and being content with it
 4. Testing the mukallafin to see if they give thanks for when the abrogation make things lighter for them, to see if they are patient when the abrogating text is harder for them.
 * Al-Akhbar
+:PROPERTIES:
+:ID:       6f074b07-242a-4cd9-9a80-de2f080f37d1
+:END:
 
 The Definition Al-Akhbar linguistically means news. But what is intended here is: that which is attributed to the Prophet (ﷺ) speech, actions, tacit approval or description.
 
@@ -901,6 +1074,9 @@ Action that occurred during his lifetime but of which he was not aware cannot be
 The fact that reprehensible actions attempted to be concealed by hypocrites were exposed and condemned by Allah further underscore that his silence on certain matter signifies their permissibility. This indicate that actions or statement approved by Allah, even if not explicitly addressed in revelation, are deemed permissible.
 
 ** The categories of news in light of who they are attributed to
+:PROPERTIES:
+:ID:       5d3263c0-2d68-4316-b5c7-52232f8ce500
+:END:
 
 News is divided into three categories with regards to who they are attributed to: Marfu', Mawquf and Maqtu'.
 
@@ -916,6 +1092,9 @@ News is divided into three categories with regards to who they are attributed to
    The Tabi'is is whoever met a companion as a believer and died upon that.
 
 ** Categories of news with regards ot its chians (of narrations)
+:PROPERTIES:
+:ID:       010a1de9-0749-4d7d-add5-21a568ffc8d6
+:END:
 
 News can be divided into Mutawatir and Ahad with regards to it chains of narrations:
 
@@ -934,6 +1113,9 @@ Status as Evidence
 - Da'if narrations are not considered evidence, but may be mentioned as supporting evidence for establishing matters sourced form authentic means. 
 
 ** Modes of Narrating Hadith
+:PROPERTIES:
+:ID:       996c9e60-e1cc-4535-8575-4628de5ee16f
+:END:
 Tahammul
 Definition: Taking the narration from other.
 Example: When a student listens to their teacher's narration.
@@ -951,6 +1133,9 @@ Formats of Ada'
 Additional Notes
 There are many types of hadith narrating in the field of Hadith science, but the above example cover the essential modes of narrating.
 ** Consensus (Al-Ijama')
+:PROPERTIES:
+:ID:       56486d53-3c26-4e73-a045-9702e8ca804b
+:END:
 Definition:
 Linguistically: Determination and agreement.
 Technical: Agreement between the "Mujtahidin" ( Scholars capable of independent reasoning) of this ummah after the Prophet (ﷺ) on an Islamic ruling.
@@ -969,6 +1154,9 @@ Proofs Of Evidence:
 4. So we say: The Consensus of the ummah on something is either true, and can be false. If it is true then it is an evidence, and if it is false, then how can this ummah, that is the most honourable of nation to Allah since the time of the Prophet (ﷺ) until the coming of the last hour, unite upon something false that Allah is not please with? This is from the greatest impossibilities.
 
 ** Types of Consensus
+:PROPERTIES:
+:ID:       abe27d11-808b-4754-983e-0a2dbe0e7417
+:END:
 Consensus can be categorised into type types: Qati and Dhanni
 
 1. Qati (Definitive):
@@ -984,6 +1172,9 @@ Conclusion:
 It's inconceivable for the ummah to unite against clear, authentic, and un-abrogated evidence. Therefore, if a consensus appears to contradict such evidence, further examination is necessary. There may be issues with the authenticity, clarity, abrogation, or underlying disagreement not readily apparent.
    
 ** Conditions for Consensus
+:PROPERTIES:
+:ID:       9c95ee1b-1a97-4a61-95ec-ebd4c864e358
+:END:
 The conditions for consensus are as follows:
 1. Authenticity of the Route: Consensus must be proven via an authentic route, either well-known among scholars or conveyed from trustworthy source who are well-read.
 2. Absence of Firmly-based Disagreement: Consensus cannot be preceded by a firmly-based disagreement. If there was such a disagreement, consensus cannot be claimed, as statements are not nullified simply because their proponents have passed away.
@@ -995,6 +1186,9 @@ According to the majority opinion, it is not necessary for the era of those achi
 When Mujtahideen make statements or perform actions that become well-known among scholars of Ijithad, and they do not object despite having the ability to do so, it is considered consensus by some. Others argue it may be evidence but not consensus. Still, another view suggests it is neither evidence nor consensus. The closest to the truth is deemed to be when those with the ability to object pass away without doing so, indicating implicit agreement thought silence.
 
 * Analogy (Al-Qiyas)
+:PROPERTIES:
+:ID:       47565ee6-391e-4a93-829b-d01701a7c2da
+:END:
 Definition: linguistically, "qiyas" means appreciation and equality. Technically, it means drawing a similarity between a subsidiary issue and a core issue in a ruling that pertains to a common element between them.
 
 - Subsidiary Issues (Al-Far'): The subject to which the analogy is applied.
@@ -1039,6 +1233,9 @@ Al-Muzani has mentioned that the scholars from the era of the Companions to his 
 (Analogy is considered a valid legal source because it involved considering similarities between different situations to derive rulings)
 
 ** Conditions of Analogy
+:PROPERTIES:
+:ID:       9adb04ae-adaf-46e9-a240-84ab59a7b49e
+:END:
 These conditions ensure the validity and correctness of analogy
 
 1. Non-contradiction
@@ -1067,6 +1264,9 @@ These conditions ensure the validity and correctness of analogy
      For instance, analogising the harm in striking parents with the use of the word "Uff" relies on a shared cause. If the cause is absent in the secondary matter, the analogy is invalid. For example, suggesting that the prohibition of usury, based on its measurability, applies to apples as it does to wheat is flawed. Since apples aren't weight like wheat, the common cause essential for analogy is lacking, rendering the comparison incorrect. (analogies must ensure the presence of shared cause to maintain their validity)
      
 ** Categories of Analogy
+:PROPERTIES:
+:ID:       6868dad8-0874-4fae-a918-f76a0c3d09a6
+:END:
 Analogy is divided into clear and hidden:
 1. Clear Analogy
    - clear analogy is characterised by having its cause established through a text, consensus, or a maqtu'(a statement that stops at a companion), where the difference between the primary and secondary source is negated.
@@ -1077,6 +1277,9 @@ Analogy is divided into clear and hidden:
    - Hidden analogy involves deducing its cause through careful analysis, but without clearly negating the difference between the primary and secondary issues.
    - An example is the analogy between Ashnan(a type of plant) and wheat is the prohibition of usury in all measurements. While the cause is measuring hasn't been established by text or consensus, and the difference between wheat and Ashnan hasn't been clearly negated, it's permissible to distinguish between them by highlighting that wheat is consumed while Ashnan is not.
 ** Analogy of Similarities
+:PROPERTIES:
+:ID:       0d4e4e84-5cfb-438a-91d7-5f111d2ddca9
+:END:
 'Qiyas ash-Shibh' (the analogy of likeness) involves a secondary matter positioned between two different primary matters due to its similarities with both. The secondary matter is aligned with the primary matter it shares the most commonalities with. For example, consider the analogy of a slave: is he owned like property, akin to a free person, or is he not owned resembling an animal?
 
 Upon examining these two primary issues, one involving a free person and the other an animal, we find that the status of a slave oscillates between the two. In terms of intellectual capcity, accountability, marital freedom, and other aspect related to personhood, the slave resembles a free person. However, regarding aspects such as being bought and sold, use as collateral, disposed of, etc, the slave resembles an animal in financial dealings.
@@ -1084,6 +1287,9 @@ Upon examining these two primary issues, one involving a free person and the oth
 This type of analogy is considered weak because there isn't suitable common cause between them other than the slave resembling an animal in most financial dealings, despite the dispute presented by another primary ruling.
 
 ** Analogy of Opposite
+:PROPERTIES:
+:ID:       235b2c81-3ccf-4770-9a2f-11e51590e34d
+:END:
 "Qiyas Al-Aks" ( analogy of opposites) involves affirming the opposite of a ruling of a primary issue to for the secondary issue, due to the presence of the oppsing cause in the primary ruling.
 
 An example of this type of analogy is found in the saying of the Prophet Muhammad (ﷺ) "... and is using your private part (lawfully) is a type of charity" Upon hearing this, come companions were puzzled and asked: "O Messenger of Allah! Does one of us fulfil his desire and then gets rewarded for it?" In response, the Prophet clarified: "do you not see that if he were to do it in a forbidden way, he would be punished for it?" So if he does it in the right way, he is rewarded.
@@ -1091,6 +1297,9 @@ An example of this type of analogy is found in the saying of the Prophet Muhamma
 In this example, the Prophet affirmed the opposite rulings for the secondary issue, which is engaging in lawful intercourse, compared the primary ruling, which pertains to engaging in intercourse in a forbidden manner. This affirmation is based on the presence of the opposing cause; engaging in the act lawfully leads to rewards, whereas engaging in it unlawfully results in punishment.
 
 * Contradiction (at-ta'arud)
+:PROPERTIES:
+:ID:       d7374500-3e8e-4308-ad97-e47a61ad44a4
+:END:
 The definition: At-ta'arud linguistically refers to the opposition or preventions of one thing by another. Technically, it denotes a situation in Islamic jurisprudence where two piece of evidence conflict or oppose each other.
 
 And the contradiction has four parts.
@@ -1149,6 +1358,9 @@ However, it is not possible for there to be a contradiction between text of the 
 (It's important to note that contradictions betwen text on the same issues are not inherent, and they can often be reconciled, abrogated, or one can be given preference over the other. If contradictions seem irreconcilable, it indicates a limitation in the understanding of the texts rather than an actual contradiction.)      
 
 ** The order between the Evidence
+:PROPERTIES:
+:ID:       efffbbf3-bb0b-4043-a65e-eb1e9fb60afe
+:END:
 When the evidence mentioned previously (The Quran, Sunnah, consensus and analogy) agree on a ruling, or one of them does without contradicting the other source of evidence, then affirming it is compulsory. If there is a contradiction and it is possible to reconcile them then that is what must be done. If that is not the case then the abrogating text should be acted upon if the conditions are met. If all of that is not possible then one text must be given preference.
 
 Here's a summary of the order between the evidence:
@@ -1172,10 +1384,16 @@ From Analogy:
 By adhering to this order, scholars ensure a systematic approach to deriving rulings from Islamic source, maintaining coherence and consistency in jurisprudence. 
 
 * The Mufti and The Mustafti
+:PROPERTIES:
+:ID:       5fe1016c-4678-437b-bd45-0aed866877f2
+:END:
 The Mufti is the one who has knowledge of the legal rulings.
 The Mustafti is a questioner that ask for a legal ruling
 
 ** The Conditions of Fatwa
+:PROPERTIES:
+:ID:       67eb7258-3b37-4114-9720-18fe764731bc
+:END:
 The requirements for the permissibility of a fatwa, which, if they are not met then the correct fatwa will not be obtained:
 
 1. Certainty of Knowledge: The Mufti must have certain or a strong conviction of the legal ruling regarding the matter at hand. If there is doubt or uncertainty, the Mufti should refrain from issuing a fatwa.
@@ -1184,6 +1402,9 @@ The requirements for the permissibility of a fatwa, which, if they are not met t
    So if someone dies and leaves behind a daughter, a brother and an uncle. Ask about the brothe was he from the mother or not? Or make the distinction in the answer. So if he was form the mother then there is nothing for him in inheritance and the remainder after what belongs to the daughter is for the uncle, and if he is from another mother, then the whats left after the daughter takes whats hers, is for him.
 3. Calm State of Mind:  The mufti should be in a calm and compose state of mind when issuing a fatwa. Fatwas should not be given impulsively or in a state of anger, preoccupation, or boredom. Instead, the Mufti should take the time to carefully consider the issue and apply legal evidence appropriately.
 ** Conditions for Fatwa
+:PROPERTIES:
+:ID:       c37eda46-ae7d-42df-a335-e0a8e57d5e23
+:END:
 The conditions for issuing a fatwa are crucial for ensuring the validity and appropriateness of the legal ruling. Here are the specified conditions:
 1. Occurrence of the Incident: The incident or matter in questions must have actually taken place. If there is no occurrence of the incident, then issuing a fatwa is not obligatory. However, if the question is asked for the purpose of seeking knowledge, it is obligatory to answer truthfully whenever it is asked, regardless of the circumstance. 
 2. Intentions of the Questioner: It is necessary that the intention of the questioner are not malicious or aimed at causing discord among scholars or seeking an excuse for Wrongdoing. If the questioner's intuitions are found to be harmful or hishonest, then it is not obligatory to provide a fatwa.
@@ -1191,6 +1412,9 @@ The conditions for issuing a fatwa are crucial for ensuring the validity and app
 
 (Adhering to these condition ensures that fatwas are issued responsibly and in accordance with Islamic principles, safeguarding the integrity of the fatwa process and promoting justice and well-being in society)
 ** What the questioner is obliged to do
+:PROPERTIES:
+:ID:       cb999388-d971-477e-b080-b73452e4a12f
+:END:
 The obligation of the questioner is seeking a fatwa are essential for ensuring the integrity and effectiveness of the fatwa process. Here are the two requirements for the questioners:
 
 1. Seeking the Truth and Acting Upon It: The questioner must seek the truth through his questioning and be willing to act upon the fatwa provided. This means that the questioner should not have ulterior motives or seek a specific fatwa that aligns with their desires. Instead, they should genuinely seek guidance in accordance with Islamic principles and be prepared to follow the guidance provided.
@@ -1198,6 +1422,9 @@ The obligation of the questioner is seeking a fatwa are essential for ensuring t
 
  (By adhering to these obligation, the questioner contributes to the integrity and effectiveness of the fatwa process, ensuring that they receive sound guidance in matters of religious significance)
 * Al Ijtihad
+:PROPERTIES:
+:ID:       0aaa5bde-6955-44b2-ac08-6ac3ed15f329
+:END:
 Linguistically: exerting full effort to comprehend a complex matter
 Technically: To make an effort to understand a legal ruling
 The Mujtahid: The individual who dedicates themselves to the endeavour, striving to expert their utmost effort in understanding and deriving legal rulings in accordance with Islamic jurisprudence.
@@ -1211,11 +1438,17 @@ Ijthad is a crucial concept in Islamic jurisprudence, requiring specific conditi
 Ijtihad can be categorised based on the scope of the issue being addressed, whether it pertains to a specific chapter of Islamic law or particular legal problem. By meeting these conditions, the Mujtahid is able to engage in the process of Ijtihad effectively, contributing to the development and application of Islamic jurisprudence.
 
 ** What is necessary for the Mujtahid
+:PROPERTIES:
+:ID:       726d1ca4-ef49-4731-a3b4-942e7e46c849
+:END:
 The Mustahid is required to exert diligent effort in seeking the truth. If he arrives at a correct ruling, her earns two rewards: one for his effort and another for reaching the truth. However, if he make an error despite this sincere efforts, he still receives a reward, and his mistake is forgiven. As the Prophet Muhammad (ﷺ) said "When a judge give a ruling and he tries his best (to find the truth) then he gets it receives he has two rewards, and if he judges and gets it wrong then he has only one reward"
 
 If a ruling remains unclear to him, it is permissible for him to refrain from issuing a judgement and instead resort to blind following due to the necessity of the situation.
 
 * Blind Following (Taqlid)
+:PROPERTIES:
+:ID:       59787e0b-cca2-480b-8944-9858f2aed358
+:END:
 Linguistically: refers to encircling or encompassing something like a rope around the neck.
 Technically: it means to follow the statements of someone whose words are not considered evidence.
 
@@ -1224,6 +1457,9 @@ It's important to note that when we say "Whose statements are not evidence", we 
 However the term taqlid is sometime used figuratively and more broadly to include following these source for the sake of clarity and inclusiveness
 
 ** Situations of Taqlid
+:PROPERTIES:
+:ID:       c38175a8-5e1b-4308-89a0-a24ffe860613
+:END:
 Taqlid can occur in two main situations:
 
 For the Common Person: When an individual lack the ability to determine legal rulings independently, they are obligated to engage in blind following. This obligation arises from the Quranic injunction:
@@ -1236,6 +1472,9 @@ However, the more widely accepted view is that this is not a condition, as the Q
 "Fear Allah as much as you are able" 64:16
 
 ** Types of Taqlid
+:PROPERTIES:
+:ID:       c53938ca-ad18-46b0-94fe-4b4a4bf9f7b9
+:END:
 Blind following can be categorised into two types: general and specific
 1. General Blind Following: in this type, an individual adheres to a particular school of thought and follows its rulings and decisions in all matters of religions. Scholars have differed in their opinions regarding the obligation or permissibility of general blind follwing. Some argue that it is obligatory due to the lack of ability for independent reasoning (Ijtihad) among latter generations Other contend that it is forbidden as it involves following someone other than the Prophet (ﷺ) without restriction.
 
@@ -1244,6 +1483,9 @@ Blind following can be categorised into two types: general and specific
 2. Specific Blind Following. In this type an individual only follows the ruling of a particular scholar or school of though in a specific case. This is permissible if the person is unable to arrive at the truth thought their own Ijtihad, either due to genuine inability or because doing so would entail significant hardship.
 
 ** Blind following of Fatwas
+:PROPERTIES:
+:ID:       66d1ab33-658b-4e64-8cda-1dfabe658bf1
+:END:
 Allah says:
 "Ask the people of the Remembrance if you do not know" 16:43
 

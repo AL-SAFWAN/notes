@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       65b3754f-220d-41fb-b1eb-721c2df6eef0
+:END:
+#+title: Fasid
+
+linguistically
+something that has been corrupted or is at a loss.
+Technically
+action or contract that fail to produce their intended legal effect.
+- are those that do not fulfil the obligation required, resulting in an unmet religious demand
+
+
+All corrupt acts of worship, contracts and related condition are considered [[id:3e653a3f-bd40-4551-b7fc-28c32b7ec903][haram]] (forbidden); this is viewed as overstepping Allah's limits and mocking His verse, especially since the prophet Muhammad (ﷺ) forbade stipulating conditions that are not sanctioned by the Book of Allah.
+
+Example
+Fasid (invalid) action of worship
+- such as praying before the appointed time.
+  
+Fasid (invalid) contracts
+- to sell something unspecified or unknown.
+
+
+While fasid (invalid) and batil (false) are generally synonymous, they differ distinctly in two specific scenario:
+
+In Ihram:
+
+        Fasid applies to violations by a person in Ihram, such as wearing stitched clothing or covering the head for males before the first restriction of Ihram are lifted.
+        
+        On the other hand batil (false) described more severs infractions, such as renouncing Islam while in Ihram
+
+In Marriage:
+        Fasid refers to conditions within a marriage that scholars have debated over, such as the validity of a marriage without a valid (guardian).
+        batil, however, refers to conditions unanimously recognised as invalid, such as the marriage of a widow or a divorced woman during her waiting period, which is universally accepted as invalid.
+
+(These distinctions highlight the specific legal consequence and religious implications associated with each term, reflecting the depth and complexity of Islamic jurisprudential terminology)

@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       db6d374b-508a-4f5e-88e0-ed5b2226d0ba
+:END:
+#+title: Whoever can afford it, but does not offer a sacrifice, let him not come near our prayer place.
+#+filetags: :hadith:
+
+حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا زَيْدُ بْنُ الْحُبَابِ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عَيَّاشٍ، عَنْ عَبْدِ الرَّحْمَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ ‏ "‏ مَنْ كَانَ لَهُ سَعَةٌ وَلَمْ يُضَحِّ فَلاَ يَقْرَبَنَّ مُصَلاَّنَا ‏"‏ ‏.‏
+
+It was narrated from [[id:bbaf35e6-7daf-45f7-a188-2b83ad034111][Abu Hurairah]] that the Messenger of Allah (ﷺ) said: “Whoever can afford it, but does not offer a sacrifice, let him not come near our prayer place.”
+
+Sunan Ibn Majah 3123
+Chapter 2: Are sacrifices obligatory or not?, Book 26: Chapters on Sacrifices
+Grade: Hasan (Darussalam)
+https://sunnah.com/ibnmajah:3123

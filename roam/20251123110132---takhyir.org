@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       294cf818-0fce-4cf3-a8d8-1805a6a700f2
+:END:
+#+title: takhyir
+takhyir 'choice'
+
+refers to 
+* matter that are deemed permissible within the law
+:PROPERTIES:
+:ID:       356672d6-4e6a-49e4-b0a5-67503b9da0ac
+:END:
+where the individual has the freedom to decide how to act

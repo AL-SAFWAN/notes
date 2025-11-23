@@ -1,0 +1,74 @@
+:PROPERTIES:
+:ID:       cb994b3c-c1f8-4197-9dd0-5774b1ebc3dd
+:ROAM_ALIASES: Sunnah mansnun mustahab nafal nafl recommended nafilah
+:END:
+#+title: Mandub
+
+* Semantic Synonym
+:PROPERTIES:
+:ID:       8c4a14a5-0b56-4b3f-a147-714e33c5b89c
+:END:
+- Nafl or Nafilah
+- Tatawwu’ & Ihsan
+- Mustahab, Sunnah & Masnun
+* Linguistically
+:PROPERTIES:
+:ID:       2142ad8c-4cba-43b8-b281-b21e5e8e74c6
+:END:
+- something or someone appointed or designated
+- something that is called to do that is extremely imported
+* Technically
+:PROPERTIES:
+:ID:       208fadf0-4088-495d-81a6-3b62c3e4e5a7
+:END:
+it refers to
+** what the legislator has request/commanded but not as an obligation
+:PROPERTIES:
+:ID:       ade644b1-bc92-41f2-9570-d0fd13846b59
+:END:
+such as supererogatory prayers.
+*** doing is reward and praised
+:PROPERTIES:
+:ID:       76540c58-f52b-493f-a3c3-00fba1c74bd4
+:END:
+*** not doing is not punished
+:PROPERTIES:
+:ID:       83bb4cbf-14dd-4f93-a9f9-478b26dcae27
+:END:
+- not blameworthy or sinful for abandoning the actions
+** exclude
+:PROPERTIES:
+:ID:       24d753b5-a1ee-4360-b78d-c66d3e57de18
+:END:
+*** what the legislator has ordered
+:PROPERTIES:
+:ID:       94643202-7cbf-4db6-ab61-6c3bf9594e17
+:END:
+- forbidden
+- disliked
+- merely permissible
+*** not by way of obligations
+:PROPERTIES:
+:ID:       54afaacd-66fd-4c1c-abfd-9f8dbfed84e9
+:END:
+- wajib
+* Indication of this rulings
+:PROPERTIES:
+:ID:       58a9b0ee-eaea-408c-b898-534f56978a47
+:END:
+- When a “command form” is paired with another evidence to shift the rule
+  - the default is wajib
+- Arabic language styles that indicate mandub, like “sunnah”
+- Highlighting something is better than the other
+- Removing blame from the one who abandons an action
+- The prophet (ﷺ) comands something, but acts the opposite to it
+  - this is to show it's not obligatory 
+* Points of Iman
+:PROPERTIES:
+:ID:       e961cacb-ed2c-4cc8-b9df-850d003b27ed
+:END:
+- Enables one to find the specific love of Allah
+  - [[id:4de421aa-083d-4d61-b69a-4f4d1c1d8aac][my slave will continue to come close to me with voluntary deed, until I love him]]
+- [[id:89c3dcae-5072-49fe-94b0-2cd658b8fa16][Perfects the errors found in obligatory actions]]
+- Legislated with perfect wisdom serving to benefit mankind
+  - [[id:acdc7df9-1140-4f40-bc51-44c51e2a9a22][Will anybody be called from all of those gates?]] 

@@ -7,27 +7,30 @@
 
 [[id:948d05ba-0ec0-403a-b737-6f79eab474d2][al-akham]] as shar'iyayah
 
-refers to *legal rulings* derived from religious legislation.
-
-* include
+refers to
+* *legal rulings* derived from religious legislation.
+:PROPERTIES:
+:ID:       fbcd0f5c-133c-4454-abd2-c91e9988aa4e
+:END:
+** include
 :PROPERTIES:
 :ID:       1c6c97ed-f29c-487a-868c-f8be5f64f5e0
 :END:
-** obligatory or prohibited
+*** obligatory or prohibited
 :PROPERTIES:
 :ID:       a3227aae-f50b-413a-8afb-0f1863087c52
 :END:
 
-* excludes
+** excludes
 :PROPERTIES:
 :ID:       167f2be4-a90f-45f8-aad0-0d8a992f9bf0
 :END:
-** intellectual judgement
+*** intellectual judgement
 :PROPERTIES:
 :ID:       21209c1c-74e3-4e81-8f52-8646bb952c09
 :END:
 e.g whole is greater than part
-** natural observation
+*** natural observation
 :PROPERTIES:
 :ID:       e98a3999-94d3-405f-a8fd-f8dea94f7fca
 :END:
