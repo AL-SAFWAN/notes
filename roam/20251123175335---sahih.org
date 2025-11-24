@@ -2,9 +2,38 @@
 :ID:       bfcf44b1-22b4-4531-a288-5e1b410647bb
 :END:
 #+title: Sahih
+*  al-Sahih/Sihhah – The Validity
+** •Linguistic Definition:
+The term sihhah is derived from the Arabic root ‫ح‬ ‫ح‬ ‫ص‬, which conveys the idea of being correct, healthy, or free from defects.
 
+It signifies the concept of correctness and validity in various contexts.
+
+** •Technical Definition:
+An act or contract performed correctly meeting all requirements legislated by the lawgiver allowing the perpetrator to acquire the intended benefit of the act.
+- so he no longer in need of repeating the action
+- eg if he don't have wudo and did the prayer, he will need to do the prayer again
+  - the action will not be submited to allah
+    
+** •Explanation:
+sihhah refers to the condition where a legal action or ruling fulfils all necessary requirements and conditions as prescribed by Islamic law, thereby making it valid and effective.
+If a ruling or action lacks sihah, it is deemed invalid or null.
+- the can seek benifit it's intented way, see the intent benfit, eg marriage, they can sit along together
+
+** example
+•Zakah: The validity of zakah is contingent upon it being calculated correctly, being given to eligible recipients, and
+being paid after the passage of a lunar year on the wealth. If these conditions are met ones offering of zakah is
+valid.
+
+•Salah: For a prayer to be valid, it must be performed facing the Qibla, during the correct time, after
+achieving purity(taharah) and fulfilling all other conditions, pillars and obligatory actions in the prayer. If these
+conditions and requirements are met ones offering of salah is valid.
+
+•Nikah: A marriage contract is valid only if it includes the consent of both parties, the consent of
+
+------
 linguistically
 means something free from defect or disease.
+
 Technically
 The legitimacy and effectiveness resulting from and act of worship or a contract.
 

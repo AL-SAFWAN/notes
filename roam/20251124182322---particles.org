@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       fa9b199b-9494-4857-b7da-ab7d599b6382
+:END:
+#+title: particles
+
+C- The particle:
+1. Particles - ‫الحروف‬:
+
+Particles do not carry full meaning alone but serve to structure sentences and convey relationships between other words ([[id:555a5917-a056-4a45-b474-826991512081][nouns]] and [[id:2c5eb58e-075f-44e4-b0c9-7e52d26f92aa][verbs]]).
+- it functions to connect, modify, or add relational meaning to the sentence
+  
+Examples include fi (in), min (from), and wa (and).
+
+1. Waw: used to denote association or conjugations between two elements
+   - indicating that they are linked in some form of ruling.
+     e.g wudo wash you're fash and wash you're arms
+               
+2. Fa: severs as a connector indicating sequence and immediacy between elements
+   - it often implies causality or purpose, showing why something occurs following another event
+     - do directly 
+       - two meaning
+         1. directly after
+            - if you wake up from sleep wash you're hand directly after
+         2. identify a sabab/reason
+            - you can use the fa to find the sabab
+            - e.g why you should wash you're hand becasue you don't know where it was when you was sleeping
+           
+3. Genitive Lam: this particle can express several meanings:
+   - reasoning (why something is done)
+   - ownership (belonging to someone)
+     - e.g to Allah belongs 
+   - permisibility (allowing for an action)
+   
+4. Genitive 'Ala: Often conveys a sense of obligation,
+   - indicating that the actions described is required or expected
+     - fasting has been made obligatory to you
+        used the "'ala " to show this
+
+
+
+

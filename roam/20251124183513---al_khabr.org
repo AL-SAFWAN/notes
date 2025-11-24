@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       350ec4e5-b067-478e-9ed8-ecfa2d71ad6c
+:END:
+#+title: Al khabr
+
+This refers to statement that can inherently be descried as either truthful or untruthful.
+
+- It is descriptive and aims to inform the listener about something factual or assertive.
+- For example, “The sun is shining” or “Zayd is standing” are both statements that relay information and can be verified.
+
+
+        
+This is because the news regarding what it report fall into three categories
+        
+  1. What cannot be described as lying,
+     - such as the khabar (information) from reliable source that is confirmed to be true that Allah and his Messenger said
+  2. What cannot be described as honest,
+     - such as news that is inherently impossible by legislate or logical standard.
+     - The first example is the claim of someone alleging to be a prophet after the messenger of Allah (ﷺ), and the second example involves contradictory phenomena, such as claiming that something is moving and being still at the same time 
+  3. There are statement that can be described as either truthful or untruthful, with varying degree of likelihood.
+     - An example of this is news that an absent person is arriving soon, where the truthfulness may depend on further context or evidence
+
+

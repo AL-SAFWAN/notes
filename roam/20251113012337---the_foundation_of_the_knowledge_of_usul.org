@@ -13,7 +13,7 @@ By [[id:1f3c2584-6f42-4867-97d9-d79905054018][Sheikh Muhammad ibn Saleh al Uthay
 To proceed, I have authored a concise treatise on the principles of jurisprudence, tailored to align with the curriculum prescribed for third-year high school student at institutes of Islamic knowledge. I have titled this work "The foundations of the Knowledge of Usul"
 
 I ask Allah to make our actions purely for his sake and beneficial to his Servants; He is always near and responsive.
-* Usul ul-Fiqh
+* DONE Usul ul-Fiqh
 :PROPERTIES:
 :ID:       f0ed4fd3-904f-4c79-97a8-25c113f04995
 :END:
@@ -129,7 +129,7 @@ The term "condition of the beneficiary" ([[id:6c506c91-b8fb-43c9-a509-21b85f9f42
 
 Therefore, a deep comprehension of the nature of a mujtahid, the prerequisite for Ijithad, and its associated legal judgement are foundations aspects taught within the study of Usul ul Fiqh.
 
-* The benefits of usul ul fiqh
+* HOLD The benefits of usul ul fiqh
 :PROPERTIES:
 :ID:       9e29db49-1ec9-4789-bef4-53602fa90eb7
 :END:
@@ -147,7 +147,7 @@ Usul ul Fiqh is a distinguished and vital field of Islamic scholarship, providin
 :END:
 [[id:2dada820-43bc-4ab9-a532-d10230524921][Imam ash-shafi'i]], Muhammad ibn Idris, was the pioneering figure who established Usul ul Fiqh as a distinct discipline with Islamic scholarship. Following his ground breaking work, numerous scholars across generation have build upon his foundation, contributing extensive thought various forms of writing-prose, poetry and both concise and expansive volumes. This prolific scholarly activity have evolved Usul ul Fiqh into well defined and recognised fields, characterised by its unique feature and profound depth.
 
-* Rulings (Al Ahkam)
+* TODO Rulings (Al Ahkam)
 :PROPERTIES:
 :ID:       df9924a3-636d-47db-82ca-5a00084413cf
 :END:
@@ -164,7 +164,7 @@ refers linguistically to a judgement or decision.
 :END:
 In the context of Islamic jurisprudence, it specifically denotes
 
-judgements that arise from the directives issued by the legislator - the Lawgiver, which in this instance are manifested in the Qur'an and the Sunnah. These directive [[id:4e8b2b27-894d-49ec-87f9-ef363544cdc4][address the actions]] of those [[id:aa6e4818-ff72-4c80-93d4-a23c24330872][who are deemed legally responsible]] (al-mukallafin) with the Islamic law. [[id:936505a7-95c2-4362-8c65-6591111964d7][Such rulings mandate]] specific behaviour and [[id:266df128-c5d2-4174-8d7e-c1cf26b26ae4][choices]] or outline certain [[id:50737953-6181-451d-808b-af1755e9b651][state]], providing a structured guide on how to conduct oneself in accordance with divine legislation.
+judgements that arise from the directives issued by the legislator - the Lawgiver, which in this instance are manifested in the Qur'an and the Sunnah. These directive address the actions of those who are deemed legally responsible (al-mukallafin) with the Islamic law. Such rulings mandate specific behaviour and choices or outline certain state, providing a structured guide on how to conduct oneself in accordance with divine legislation.
 
 **** address the actions
 :PROPERTIES:
@@ -199,8 +199,7 @@ Finally the term 'state' ([[id:5960aa48-39b3-4d37-a4dc-0a96ec1c52a1][wad']]) ref
 :ID:       f1fac6a5-53a2-4a47-a96f-3f6b13dbc121
 :END:
 The types of commands (in the shari'a) falls into two categories Taklifyah and Wad'iyah
-
-*** Rulings Talifiyah are five;
+*** DONE Rulings Talifiyah are five;
 :PROPERTIES:
 :ID:       92ad64e9-116f-42ec-8d51-17ae5ef61652
 :END:
@@ -230,7 +229,7 @@ Thus, when an actions is mandub, the performer is rewarded for carrying it out b
 
 It is also known as Sunnah, mansnun, mustahab and nafal.
 
-**** TODO 3. [[id:3e653a3f-bd40-4551-b7fc-28c32b7ec903][Muharram]] t:1:09:23, lesson 2
+**** 3. [[id:3e653a3f-bd40-4551-b7fc-28c32b7ec903][Muharram]]
 linguistically means forbidden, and technically, it refers to what the legislator has explicitly forbidden as an obligation to avoid, such as disobedience to the parents.
 
 Therefore, excluding from our statement 'forbidden by the legislator' are actions categorised as wajib (obligation), mandud (recommended), mubah (permissible). Furthermore, excluded from the phrase 'an obligation to avoid' are actions that are merely disliked
@@ -253,11 +252,17 @@ Thus, excluded form our statement  'what is connected with a command' are action
 
 It is also refereed to as halal and ja'iz.
 
-*** Rulings of Wad'iyah are two:
+*** TODO Rulings of Wad'iyah are five:
 :PROPERTIES:
 :ID:       91c6ed2e-75ac-4d3f-9093-6d6300663d54
 :END:
 The rulings of [[id:a95543d3-e328-4e07-8fb4-f65c676a0bdb][wad'yah]] pertain to those indicators the legislator has set forth to determine the validity, implementation, or annulment of an action, distinguishing between what is valid (sahih) and what is invalid (fasid)
+
+TODO make anki note
+**** TODO [[id:413a9dfe-a18a-4c05-9cd6-1308b3adb99b][al sabab - the casue/reason]]
+**** [[id:8e963c2a-f297-4c52-ae66-4cd1e62a1f67][Al shart - the condition]]
+**** [[id:58d17430-890e-46c2-bf42-983ff9339ee3][Al mani' - the preventer/impediment]]
+**** [[id:7a7898a3-dc51-4a60-9893-11170f7c9644][When does a legal rulings become established]]
 **** 1. [[id:bfcf44b1-22b4-4531-a288-5e1b410647bb][Sahih]]
 
 linguistically, means something free from defect or disease. Technically, it refer to the legitimacy and effectiveness resulting from and act of worship or a contract.
@@ -281,193 +286,87 @@ In Ihram: Fasid applies to violations by a person in Ihram, such as wearing stit
 In Marriage: Fasid refers to conditions within a marriage that scholars have debated over, such as the validity of a marriage without a valid (guardian). batil, however, refers to conditions unanimously recognised as invalid, such as the marriage of a widow or a divorced woman during her waiting period, which is universally accepted as invalid.
 
 (These distinctions highlight the specific legal consequence and religious implications associated with each term, reflecting the depth and complexity of Islamic jurisprudential terminology)
+*** [[id:a51ea0b9-941e-493e-be76-c0d92011ac7e][notes from l2]]
+*** [[id:ccba4382-2852-4f2c-b19a-745ed393a0e4][notes from l3 of usol]]
+*** [[id:20851726-82b7-41b8-8c06-ae05b52a2205][notes from l4 of usol]]
 
-* Knowledge
+* todo [anki] Knowledge
 :PROPERTIES:
 :ID:       c152f78d-91bc-483c-8e58-baa2e10417af
 :END:
-time 11:40
-The definition of knowledge involves the accurate perceptions of something as it truly is, coupled with a certain and confident awareness of it. For instance, understanding that the whole is greater than the part, or recognising that intention is a prerequisite for the acceptance of worship.
+The definition of knowledge
+~involves the accurate perceptions of something as it truly is, coupled with a certain and confident awareness of it~.
 
-From out definitions, what is excluded from the phrase "the perception of something" is the incomplete or absent awareness of a face, which is termed jahl basit (simple ignorance). An example of this is when someone is asked, "When was the battle of badr" and responds, "I don't know".
+- For instance, understanding that the whole is greater than the part, or recognising that intention is a prerequisite for the acceptance of worship.
+  
+excluded:
+         - From out definitions, what is excluded from the phrase "the perception of something" is the incomplete or absent awareness of a face, which is termed *jahl basit* (simple ignorance). An example of this is when someone is asked, "When was the battle of badr" and responds, "I don't know".
 
-Further excluded from our definition by the phrase "What it really is" is the misunderstanding or misperception of the reality, referred to as jahl murakkab (compounded ignorance). This occurs when a questions like "When was the battle of badr?" is answered with "in the third year after migrations,"which is incorrect as it actually took place in the second year after migration.
+         - Further excluded from our definition by the phrase "What it really is" is the misunderstanding or misperception of the reality, referred to as *jahl murakkab* (compounded ignorance). This occurs when a questions like "When was the battle of badr?" is answered with "in the third year after migrations,"which is incorrect as it actually took place in the second year after migration.
 
-Lastly, what is also excluded form the phrase "firmly aware of it" it any tentative or uncertain perception, where the truth could potentially be different than perceived, such a state does not qualify as knowledge. If one leans toward one interpretation over another uncertain one, this is termed dhann (presumptions) for more liekly and waham (illusion) for the less liekly, this state is refereed to as shakk (doubt)
+         - Lastly, what is also excluded form the phrase "firmly aware of it" it any tentative or *uncertain perception*, where the truth could potentially be different than perceived, such a state does not qualify as knowledge.
 
-This categorisation illustrate that our understanding of realities can be classified into distinct cognitive state based on the nature of perception and certainty
-1. Knowledge: This is characterised by the correct perception of an entity as it truly is, combined with as definitive and secure awareness.
-2. plain ignorance (jahl basit): This occurs when there is a complete lack of awareness about a subject, leaving the individual without any knowledge of it. 
-3. Compounded ignorance (Jahl murakkab): This involves a mistaken perception, where individual understanding is contract to the actual nature of the subject.
-4. Shann: This is the perception where the individual leans toward a belief what many oppose is less correct view, implying a higher probability but not absolute certainly.
-5. Wahm: This represents a perception where there is a significant possibility of the belief being contrary to the most accurate view, indicated a greater likelihood of error .
-6. Shakk (Doubt): This state is marked by uncertainty, where the perceived reality could have an equally valid opposing view, leaving the individual in ambiguity.
+         - If one leans toward one interpretation over another uncertain one, this is termed *dhann (presumptions)* for more likely and waham (illusion) for the less likely, this state is refereed to as *shakk (doubt)*
+
+This categorisation illustrate that our
+TODO make anki note
+** the 6 understanding of realities
+can be classified into distinct cognitive state based *on the nature of perception and certainty*
+*** Used in shari'a for rullings
+**** 1. [[id:8a05d1bb-7b26-4a27-8d66-3503edf7cf6d][Certain Knowledge al-ilm]]:
+:PROPERTIES:
+:ID:       365be583-736f-41db-9f23-0bdba41c7d7c
+:END:
+This is characterised by the correct perception of an entity as it truly is, combined with as definitive and secure awareness.
+**** 4. [[id:73ecb14c-d831-4e28-ad38-3f0235d849f6][Overwhelming Perception al-Dhann]]:
+:PROPERTIES:
+:ID:       860fa5b8-2ab0-4ed7-9111-86b214993052
+:END:
+This is the perception where the individual leans toward a belief what many oppose is less correct view, implying a higher probability but not absolute certainly.
+*** Cannot be used in the sharia
+**** 6. [[id:2628478f-4ff0-4f18-8522-dace9ee9d7fe][Shakk (Doubt)]]:
+:PROPERTIES:
+:ID:       ab8afe92-5c24-4550-8aba-562350d82c1a
+:END:
+This state is marked by uncertainty, where the perceived reality could have an equally valid opposing view, leaving the individual in ambiguity.
 
 (Each of these states reflect different level of clarity, certainty and accuracy in the perceptions of realities, impacting the validity of conclusions drawn from such perceptions)
+
+**** 5.[[id:4c4cec0a-3d0f-463f-b127-f0aca4b3c056][Underwheling Perception Wahm]]:
+:PROPERTIES:
+:ID:       cf7d8ca9-1440-4aeb-b657-f40235bcfb4d
+:END:
+This represents a perception where there is a significant possibility of the belief being contrary to the most accurate view, indicated a greater likelihood of error .
+**** 3. [[id:87d66647-a41f-41dc-9868-7507cbaf7acf][Compounded ignorance (Jahl murakkab)]]:
+:PROPERTIES:
+:ID:       d659f1e9-25bd-46f3-88ef-54ddbc5b1733
+:END:
+This involves a mistaken perception, where individual understanding is contract to the actual nature of the subject.
+**** 2. [[id:4c7c05ba-0cfd-42cc-bff5-8bd71d9e18d1][Plain ignorance (jahl basit):]]
+:PROPERTIES:
+:ID:       0c11b7d3-11a8-494f-b18a-f565390b9b08
+:END:
+This occurs when there is a complete lack of awareness about a subject, leaving the individual without any knowledge of it.
 
 ** Categories of Knowledge
 :PROPERTIES:
 :ID:       6c48d345-af06-4bca-9033-831497274bfe
 :END:
-Knowledge, as a component of understanding and perception, can indeed be categorised into two primary types: essential and theoretical.
+Knowledge
+as a component of *understanding and perception*,
+can indeed be categorised into two primary types: essential and theoretical.
 
-Essential Knowledge: This type of knowledge is intrinsic and almost instinctual. Individuals acquire this. knowledge effortlessly, without deliberate investigation or analysis. it include universally self-evident truths or fact that are generally accepted without question once encounter, such as the understanding that the whole is greater than it's part, that fire produced heat, or recognition of Muhammad (ﷺ) as the messenger of Allah. These are perceived as basic truth that do not require proof or extended reasoning.
-
-Theoretical Knowledge: Unlike essential knowledge, theoretical knowledge requires active learning, reflection and analysis. It involves concepts and information that are not immediately apparent and typically require education or personal inquiry to understand. This category includes knowledge like the necessity of intention in prayer (theoretical knowledge often demands a degree of intellectual effort to acquire and understand.)
-
-* Speech (Al-kalam)
+*** [[id:5a4cde3f-8ff4-4543-9348-2ca1450ca0b0][Essential Knowledge (ad-dorori)]]
+*** [[id:42eea55a-c13e-49f1-89e8-ed72150b055c][Theoretical Knowledge (an-nathari)]]
+* todo [anki] Speech (Al-kalam)
 :PROPERTIES:
 :ID:       c2ddafa5-b672-4853-806d-75c0412632f6
 :END:
-time 12:51
-
-The concept of speech encompasses both linguistic and technical definition that focus on the use of words to convey meaning.
-
-Linguistic, speech is defined as words composed and employed to articulate specific meaning. it essentially refers to the act of expressing or conveying ideas, information or feelings thought the structure use of language, weather spoken or written
-
-Technically, speech is described as words or phrases that are beneficial or meaningful, such as affirmation like "Allah is our lord" and "Our prophet is Muhammad (ﷺ) "(This highlight the important of speech in conveying significant and impactful messages)
-
-Compositions of speech.
-Speech is constructed from the basic element of language, typically involving at lead two component which could be nouns or a combination of a verb and a noun. Example of these structure include
-
-a statement with two types of nouns: "Muhammad is the Messenger of Allah"
-a construction with a verb and a nouns: "Mohamed remained steadfast"
-
-Element of speech
-At its simplest, a single unit of speech is a word, which can be a noun, verb or particle, each carrying a distinct meaning:
-
-The noun: Defined as a word that impacts meaning independently without the need to denote time. Nouns can be classified into three categories
-1. general nouns : those nouns signify general concept or classes of object, such as relative nouns that could apply broadly across many instances.
-2. absolute nouns: often seen in indefinite forms in affirmative context, these nouns express meaning that are unrestricted or not limited to specific instances 
-3. specific nouns: these nouns denote particular entities or items, highlighted through defined article or context, making them distinct and identifiable.
-
-(understanding these element's and their function in speech is fundamental in appreciate how language contract meaning and facilitates communication)
-
-(The structure of peach in linguistic terms continues with verb and particle, which further enrich how meaning are conveyed)
-
-B- The Verb: a verb is a word that inherently signifies a meaning and, based on its form, is associated with one of three tenses.
-
-Past Tense: Example include verbs like "fatima" (he understood ), denoting actions that have been completed
-
-Present tense: such as "yafhamu" (he understands), indicating ongoing or habitual actions
-
-Imperative Tense: Exemplified by "ifham" (understand), used for command or request.
-
-Verbs, regardless of their tense, suggest specific actions or states determined times by do not imply generality.
-
-C- The particle: particles are word that imply meaning indirectly, relating to other elements within the sentence rather than holding independent meaning. some common participle include
-
-1. Waw: used to denote association or conjugations between two elements, indicating that they are linked in some form of ruling. It neither commands nor negates by itself unless additional evidence suggest otherwise 
-2. Fa: severs as a connector indicating sequence and immediacy between elements, it often implies causality or purpose, showing why something occurs following another event
-3. Genitive Lam: this particle can express several meanings, including reasoning (why something is done), ownership (belonging to someone), and permissibility (allowing for an action)
-4. Genitive 'Ala: Often conveys a sense of obligation, indicating that the actions described is required or expected
-
-** Parts of speech
-:PROPERTIES:
-:ID:       47964fc3-0775-4d86-b82c-db85897e333b
-:END:
-time 1:26
-
-Speech is divided, with regard to its potential for truthfulness into two part al-khabr (news) and al-insha (that which is established)
-
-Al khabr: This refers to statement that can inherently be descried as either truthful or untruthful. Excluded from out description of 'that which can be described as truthful or untruthful' is 'al-isha,' because it significance cannot be evaluated at true or false until it is revealed whether it is indeed a truth or a lie.
-
-Additionally, excluded from our statement "in and of itself" are statement that have no potential to be either truthful or untruthful in relation to what they report. This is because the news regarding what it report fall into three categories
-1. What cannot be described as lying, such as the khabar (information) from reliable source that is confirmed to be true that Allah and his Messenger said 
-2. What cannot be described as honest, such as news that is inherently impossible by legislate or logical standard. The first example is the claim of someone alleging to be a prophet after the messenger of Allah (ﷺ), and the second example involves contradictory phenomena, such as claiming that something is moving and being still at the same time 
-3. There are statement that can be described as either truthful or untruthful, with varying degree of likelihood. An example of this is news that an absent person is arriving soon, where the truthfulness may depend on further context or evidence
-
-2- Al insha (What has been established) refers to statements that cannot be described as either truthful or untruthful. This category includes commands and prohibitions (which are directive or normative in nature and do not assert facts about the world. these expression instead function to establish rules, obligation or express wishes, such as directives like "Stop!" or prohibition like "Do not steal.")
-
-As in the saying of the Most High: 
-"Worship Allah and associate nothing with him" 4:36
-
-Speech can embody both khabar and insha simultaneously in certain context, such as in the proasing of a verbal contract. For example, in the statement "I sold and accepted", the phrase can function as khabar when it described the inten of the parties involved in the contract, indicating what has been agreed upon. Simultaneously, it acts as insha, as it establishes the contractual agreement and its ensuring obligations
-
-Additional speech may be presented as news (khabar) but inteded as insha, and vice versa (often from specific benefits or purpose. This duality allows from flexibility in communication, adapting the form of expression to suit the intended outcome or effect within a given context)
-
-The first example: the statement of the Most High:
-"The divorced women should remain in waiting for three periods" 2:228
-The phrase "they should wait for three periods" is structured as news (khabar), but the intent behind it is a command (insha). This stylistic choice serves to emphasise that action expected of the divorced women, treating it almost as pre existing state or established fact. By representing the command in this way, it underscores the importance and inevitability of the action, implying that it is a natural and expected behaviour. This method effetely strengthen the directive, framing it as n inherent attribute of those being addressed, thereby reinforcing compliance.
-
-an example of the opposite is the verse
-"And those who disbelieve say to those who believe, follow our way, and we will carry your sins" 29:12
-
-The statement "we will carry" is presented in the form of an order (insha), yet the intended purpose is informational (khabar). The disbelievers are not actually proposing to take the  sins of the believers in a literal sense but rather asserting this claim to persuaded or influence the believers.
-
-(The use of directive language here serves to portray their assertion as something compelling and obligatory, there by elevating the persuasive force of their statement. This rhetorical strategy position their claims as something serious and blinding, enhancing the impact of their argument even though it is essentially an informational statement about their false promise).
-* Literal words and Metaphors
-:PROPERTIES:
-:ID:       f7ac4e44-a24e-4612-8619-48a6ff3e9325
-:END:
-speech is divided in terms of usage to literal words and metaphroical words.
-
-Literal words refers to terms used in their primary, original sense, which directly conveys the meaning they are commonly understood to represent. For example, "lion" refer to the well know large predatory cat.
-
-- exclusion from "their primary, original sense",: This excludes term used in neglected or non-standard manner, which do not confirm to widely recognised definitions or usage. Such application are neither literal nor metaphorical; they are typically obscure or obsolete meaning not commonly understood.
-- exclusion from "commonly understood to represent": This category explicitly exclude metaphors, where words are used not in their direct, primary sense but to signify something else by way of resemblance or analogy. For instance, calling a brave person a lion uses the word in a metaphorical sense, not its literal meaning.
-  
-Literal words can be further divided based on the context in which they are understood:
-
-1. literal linguistics: This refers to words used according to the meaning assigned to them in a language. These are the definition generally accepted and understood by speakers of that language based on common usage and linguistic norms.
-
-   Exclusion from literal linguistics: This category specifically exclude definitions that are derived from legal (shari'a) or custom context (These specialised meaning might not align with the standard linguistic interpretation because they are influenced by legal precedents or cultural practices)
-   
-For example, the term "Salah" linguistically mean supplication or prayer in a general sense.
-
-(This is the meaning given by the speaker of the language without religious or legal connotation. However, in Islamic legal terminology, Salah refer specifically to the ritual prayer performed by Muslim, which include specific physical movement and recitation, a definition that goes beyond the mere concept of supplication).
-
-(understanding the distinction between literal linguistic meaning and those shaped by legal or customary influences is essentials for clear communication, especially in context where practice definition impact the interpretation and application of concept)
-
-2. Literal sharia (legislative) words: These refer to term that have specific meaning as defined by shariah (Islamic law). These definition are often precise and can differ significantly from the linguistic or customary meaning of the same words.
-   
-Exclusions form "by the sharia": This category explicitly excludes meaning that are based on customary usage or general linguistic interpretation. These secular or non-legal interpretations do not apply when the term are used in a legal Islamic context.
-
-For example while the term prayer might linguistically mean any act of supplication or prayer, in a Shari context, it specifically refer to the formal ritual of worship in Islam, which includes a series of words and actions started with the takbir (saying "allhu akbar" to signify the start of the prayer) and the ending with taslim (saying "as-salamu alaykum wa rahmatullah" to signify the end.) This precise definition encompasses the action and intention prescribed by Islamic law and it is this legal definitions that is meant when the term is used in discussion of Islamic practices.
-
-(understanding the distinction between literal shari words and their linguistic or customary counterpart is crucial, particularly in a theological discussion, legal interpretation and the practice of Islamic ritual, ensuring that the term are used correctly within their intended religious context.)
-
-3. literal customary words: these refer to words whose meaning are determined by the customs and practice of a community. This category emphasise how terms are understood in everyday life within a specific cultural or social context.
-
-Exclusions form "literal customary words": This explicitly exclude meaning that are defined linguistically or by legislative frameworks.
-
-(The focus here is on how words are used and understood in daily interactions among people within a particular cultural setting, rather than their strict dictionary definition or their specialised meaning in legal context).
-
-For example, consider the word dabah, which in many cultural context refer specifically to a four legged animal. This is understanding of the term according to local custom and does not necessarily align with scientific classification or legal definition. The customary meaning reflect the common usage and collective understanding of the word within that culture
-
-(Understanding the distinction between literal customary words and their linguistic or legislative counterpart is crucial because it helps ensure that communication is effective and appropriate within the given context. Knowing whether a word is being used according to community custom, linguistic definitions, or legal stipulations allows for clearer interpretation and helps avoid misunderstanding.)
-
-Understanding that words have three distinct realities - linguistics, legislative, and customary - offers several benefits. By recognising these distinctions, we can ensure that each word is correctly understood and applied within it's respective context; linguist analyse words according to linguistic norm, legislator interpret them within the legal framework, and traditionalist understand them based on cultural customs.
-
-(This awareness enables precise communication, effective interpretation, and cultural sensitivity)
-
-B - The metaphor involves using a word for a purpose other than its original intent. For instance, likening a brave man to a lion. Excluded from this definition are words that remains unused, neither representing reality nor serving as metaphors. Additionally, the term "for other than the purpose it was intended" does not compass  reality.
-
-it is impermissible to employ a word with its metaphorical meaning unless there is a valid evidence that prevents the intended realistic meaning, a principle known in the field of eloquence as a "qarinah".
-
-The condition for using a word in its metaphorical sense is the presence of a connection between the literal meaning and the metaphorical meaning, ensuring the expression remains correct. This principle, known in the field of eloquence as a "link", can be established through similarity or other means. When the connection is based on similarity, it is termed at tajawwas isti'arah' (borrowing), as seen in the example of using lion to represent a brave man
-
-If the connection is not based on similarity, it is termed 'at-tajawwas majaz mursul' (Metonym) when the metaphorical shift occurs in the word themselves, and 'psychological metaphor' when it happen in attribution.
-
-an example of a metonym is saying "we took care of the rain" to mean pasture. This exemplifies 'at-tajawwaz' occurring within the word itself.
-
-An example of a psychological metaphor is saying "The rain has given growth to the pastures". Here, the literal meaning of the words is understood, but attributing growth to the rain is metaphorical because true cause of growth is Allah. This is an example of at tajawwaz occurring in attributions
-
-Also, the use of metonyms involves both additions and omission. An example of which is the statement of Allah the Most High: 
-"There is none like him" 42:11
-
-The letter 'kaf is added to emphasise the negation of anything resembling Allah the Most High
-
-an example of metaphor by omission is the verse:
-"ask the village" 12:82
-
-i.e ask the villagers to respond. Here, the world people is omitted from metaphorical effect, and there are various types of such metaphorical instance listed in the science of eloquence (al-bayan)
-
-Indeed, only some of the types of reality and metaphor in usul ul fiqh have been mention here.This is because the meaning of words can either real or metaphorical, necessitating the need to understand each one and it's corresponding ruling. Allah knows best.
-
-The division of speech into fact and metaphor is well know among many later scholars, both in the qur'an and in other text. Some scholars assert that there is no metaphor in the qur'an. While other extant this assertion to all text. This view is was expressed by abu ishaq al isfaraini and later by the sholars skheik muhammad al-amin al-shinqiti.
-
-They argued that this convention emerged after the three preferred centuries. skhiek al Islam ibn taymiyyah and his student ibn al qayim supported this view with strong evidence, which becomes apparent upon closer examination that this is the correct option.
+The concept of speech encompasses both *linguistic* and *technical* definition that focus on the use of words to *convey meaning*.
+** [[id:7ea4f75f-1364-4946-9a30-b9658e1c2f41][Linguistic,]]
+** [[id:1557a4e0-a30b-467d-a8b4-a74c4b8498d7][Technically,]]
+** [[id:0a2fc230-6e05-4806-b82f-b8fc0a37d875][Compositions of speech.]]
+** [[id:38a42f99-680b-4fd7-9990-e8b0eee0a3a1][lesson notes l5 usol]]
 
 * The Commands (Al-Amr)  
 :PROPERTIES:
@@ -502,18 +401,19 @@ Commands can also be conveyed through means other than the standard forms mentio
 :PROPERTIES:
 :ID:       9d393d51-7cd3-432e-a327-67d12cd60361
 :END:
-The commands, when not contrained by other factors, entails the obligation of executing what is being commanded and doing so promptly.
+- The commands, when not contrained by other factors, entails the obligation of executing what is being commanded and doing so promptly.
 
-For the evidence that it necessitates obligation in the verse:
-"So let those beware who dissent from the Prophet's order, lest fitnah strike them or a painful punishment" 24:63
+  For the evidence that it necessitates obligation in the verse:
+   "So let those beware who dissent from the Prophet's order, lest fitnah strike them or a painful punishment" 24:63
 
-The significance of this verse is that Allah has warned those who disobey the Prophet (ﷺ) commands to beware of a fitnah, which is a deviation, or face a painful punishment. such a warning implies that the general commands of the Prophet must b e obeyed, as neglecting them could lead to dire consequences.
+  The significance of this verse is that Allah has warned those who disobey the Prophet (ﷺ) commands to beware of a fitnah, which is a deviation, or face a painful punishment. such a warning implies that the general commands of the Prophet must b e obeyed, as neglecting them could lead to dire
+       
+  From the evidence that it is to be carried out straight away in the verse:
+        "so race forward in doing good deeds" 2:148,5:28
 
-From the evidence that it is to be carried out straight away in the verse:
-"so race forward in doing good deeds" 2:148,5:28
-
-The things enjoined by the shariah are inherently good, and the command to hasten towards goodness servers as evidence for the obligation to promptly engage in virtuous deed. For instance, the Prophet expressed displeasure when people delayed the sacrifice and shaving of their heads on the Day of Hudaybiyah, a matter he shared with Umm Salamah. Prompt actions reflect a sense of vigilance and righteousness, while delay can lead to complication and the accumulation of unfulfilled duties.
-
+  The things enjoined by the shariah are inherently good, and the command to hasten towards goodness servers as evidence for the obligation to promptly engage in virtuous deed. For instance, the Prophet expressed displeasure when people delayed the sacrifice and shaving of their heads on the Day of Hudaybiyah, a matter he shared with Umm Salamah. Prompt actions reflect a sense of vigilance and righteousness, while delay can lead to complication and the accumulation of unfulfilled duties.
+  
+       
 
 There are instances where a command, although give, may not be obligatory or demand immediate execution due to the specific evidence. In such cases, the command's status shifts from being an obligation to signifying something else, such as
 
@@ -524,28 +424,30 @@ There are instances where a command, although give, may not be obligatory or dem
 
 2. Al-ibahah (permissible) often arises after a warning or in response to what might initially seem prohibited. An example of this occurring after a prohibition in the verse:
    "but when you come out of ihram, the [you may] hunt" 5:2
-   
-3. The command to go hunting is one of permissibility because it is mentioned after the warning, as is deduced form the verse:
+
+   The command to go hunting is one of permissibility because it is mentioned after the warning, as is deduced form the verse:
    "Hunting not being permitted while you are in the state of Ihram"
 
-And an example of when it is reply to what is perceived to be prohibited is the statement of the prophet (ﷺ) "Do it and there is nothing wrong", in reply to the one who asked during the final Hajj about doing the action on the day of Eid in a different order.
+   And an example of when it is reply to what is perceived to be prohibited is the statement of the prophet (ﷺ) "Do it and there is nothing wrong", in reply to the one who asked during the final Hajj about doing the action on the day of Eid in a different order.
 
-4. As a threat, as in the statement of the Most High:
+3. As a threat, as in the statement of the Most High:
    "Do what you like indeed He is ever-watchful over what you do" (41:40) and "So whoever wishes then let him believe and whoever wished, let him disbelieve. Verily We have prepared for the unjust a fire"
 
-So, the warning is mention after the command is laid down proving that it is a threat.
+   So, the warning is mention after the command is laid down proving that it is a threat.
 
-And the command can be shifted from an immediate nature to one that can be implemented over time. An example of this is making up the missed days of Ramadan, because even though it is ordered to be done, the evidence indicate that it can be done over a period of time, as narrated by A'ishah:
+   And the command can be shifted from an immediate nature to one that can be implemented over time. An example of this is making up the missed days of Ramadan, because even though it is ordered to be done, the evidence indicate that it can be done over a period of time, as narrated by A'ishah:
 
-"When I has to make up the fasting of Ramadan, I would make up for it what I could except in Sha'ban and that due to the Messenger of Allah's station." If delaying it was forbidden, then he wouldn't have allowed Aisha to do it.
+   "When I has to make up the fasting of Ramadan, I would make up for it what I could except in Sha'ban and that due to the Messenger of Allah's station." If delaying it was forbidden, then he wouldn't have allowed Aisha to do it.
 
-Furthermore, a commands can also be carried out over time when what has been commanded cannot be completed expect with it.  So, if an action that has been commanded cannot be completed because of something, then that thing itself becomes commanded in order to fulfil the command. Similarly, if it is recommended, then the thing its by default recommended.
+   Furthermore, a commands can also be carried out over time when what has been commanded cannot be completed expect with it.  So, if an action that has been commanded cannot be completed because of something, then that thing itself becomes commanded in order to fulfil the command. Similarly, if it is recommended, then the thing its by default recommended.
 
-An example of an obligation is covering someone's 'awarah (part of the body that must be covered). if you are prevented from doing so without certain clothes, then buying those clothes also becomes an obligation.
+   An example of an obligation is covering someone's 'awarah (part of the body that must be covered). if you are prevented from doing so without certain clothes, then buying those clothes also becomes an obligation.
 
-An example of something recommended is wearing perfume on the day of Jum'uah. If it relies on buying perfume to carry it out, then buying the perfume is likewise recommended.
+   An example of something recommended is wearing perfume on the day of Jum'uah. If it relies on buying perfume to carry it out, then buying the perfume is likewise recommended.
 
-The principle is part of a more genreal principle: the means follow the rulings of the purposes they are being used for. So, the means undertaken to fulfil obligation are themselves obligatory, and similarly, those things that are prohibited render the means unlawful as well.
+   The principle is part of a more genreal principle: the means follow the rulings of the purposes they are being used for. So, the means undertaken to fulfil obligation are themselves obligatory, and similarly, those things that are prohibited render the means unlawful as well.
+   
+** [[id:140bb7ab-c7c2-4a39-b0c1-0b3f109c72a1][lesson  notes l6]]
 
 * The Prohibition (an-nahi)
 :PROPERTIES:

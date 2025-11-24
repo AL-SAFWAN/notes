@@ -1,0 +1,165 @@
+:PROPERTIES:
+:ID:       140bb7ab-c7c2-4a39-b0c1-0b3f109c72a1
+:END:
+#+title: lesson  notes l6
+#+subtitle: Module: Usul al-Fiqh 1 – Usul min ʿIlm al-Usul
+
+* Lesson overview
+- Revision of previous lesson
+- Completing Lesson 5 – Metaphors
+- Chapter of Commandments & Prohibitions
+- Defining commandments
+- Forms of command
+- What the wording of a command necessitates
+- Exercise
+
+* The chapter of speech (continuation)
+
+** al-Kalām – Speech
+** Literal words and metaphors
+
+*** Literal (ḥaqīqah)
+
+**** Linguistic literal
+
+**** Customary literal
+
+**** Legislative / Sharʿī literal
+- Words that have a meaning given to them by the Sharīʿah.
+
+*** Metaphor (majāz)
+- A word used for other than the literal purpose it was originally intended.
+
+** Speech divided by its usage (detail)
+
+*** Literal language (ḥaqīqah)
+1. *Linguistic literal* :: The original, primary meaning of a word in the language.
+   - Example: *ṣalāh* linguistically means *duʿāʾ* (supplication).
+2. *Customary literal* :: A meaning that develops through common usage in a community.
+   - Example: *dābbah* (“anything that walks upon the earth”) used customarily for a four-legged animal.
+3. *Technical literal* :: A precise meaning within a specific science.
+   - Example: *ṣalāh* in fiqh = the ritual prayer with its known pillars and conditions.
+
+*** Metaphorical language (majāz)
+- The word is used in a non-literal sense.
+- There is some relationship between the literal and intended meanings (resemblance, association, etc.).
+- Example: describing a brave person as a “lion” (intending courage and strength, not the animal itself).
+
+** Metaphors (majāz)
+
+*** Main division
+- Metaphors based on *similarity* (علاقة المشابهة).
+- Metaphors based on *non-similarity* (علاقة غير المشابهة).
+
+*** Metaphors based on similarity (علاقة المشابهة)
+- The connection is resemblance/shared qualities.
+- Classic / central type of majāz in Arabic rhetoric (istiʿārah).
+- Examples:
+  - “Lion” used for a brave man.
+  - “Moon” used for a very beautiful person.
+
+*** Metaphors based on non-similarity (علاقة غير المشابهة)
+- Relationship is not resemblance, but context / association / substitution.
+- Includes:
+  - /Majāz mursal/ (metonymy) – e.g. “dish” for a plate of food, “hand” for assistance.
+  - /Majāz ʿaqli/ (logical/psychological metaphor).
+
+* The manner of deriving from evidences (Chapter 1 of Usul al-Fiqh)
+
+** Overview of topics
+- Commandments & prohibitions (al-amr wa an-nahy)
+- General & specific (al-ʿāmm wa al-khāṣṣ)
+- Absolute & restricted (al-muṭlaq wa al-muqayyad)
+- Obscure & clarifying (al-mujmal wa al-mubayyan)
+- Apparent & interpreted (aẓ-ẓāhir wa al-muʾawwal)
+
+* Commands and prohibitions
+
+** Commandments (al-amr)
+
+*** Definition
+- A statement that includes a *request for an action* from a higher authority.
+- e.g. the teacher said take some notes
+  - Allah has given poeple a level of authority
+  - when we ask Allah, this is not a command but a dua, because we are from a lower authority
+ 
+*** Forms of commandments (to signify a commanded) 
+- The imperative verb.
+  - recite, sit
+- The imperative verbal noun.
+  - stop, come
+- The verbal noun used in place of the imperative verb.
+  - strike the neck, have patients 
+- The present tense verb joined with the *lām* of imperative (لام الأمر).
+  - believe in allah and the messenger
+    
+- Other forms that carry the meaning of command depending on context.
+  - eg based on the form of the command - wajid, mandud, obdiance
+    
+*** What does a command necessitate (by default)?
+1. The default (aṣl) of all commands is that they necessitate *obligation* (wujūb) of that request.
+   - e.g salah is obligatory, zakat is obligatory
+     - ibn qudamah - the son doesnt listen obligaotry, if he doesn't do it then he will be punished
+
+2. Actions must be carried out at the *earliest possible time*.
+   - race forward to do the good deed and race forward to seek forgiveness
+   - what about for salah, it was shown that the salah can be done in between that time, as the prophet (ﷺ) showed this
+     - eg if you ask you're son, you will expect him to do it straght away
+       - e.g. hajj should be done stright away
+              
+3. Fulfilling the command *once* is sufficient (unless there is evidence for repetition).
+   - ibn qudamah - once is done then you don't have to do it again, but what about salah and wudo, for them you have to keep doing it becasue there are reasons for the actions
+   - eg at every our get me water
+     - e.g when they ask about hajj, why did you ask me know i have to ask Allah
+ 
+4. A command implies the *prohibition of the opposite*.
+   - eat from what Allah has made pure for use
+
+*** Other meanings of final commandments (with contextual indicator)
+
+Requied to have with an external indicator (qarīnah) or contextual clue, a command may indicate:
+e.g wajib -> madub
+
+1.  Recommendation (al-istihbāb).
+   - e.g witness buying and selling
+2. Mere permissibility (al-ibāḥah).
+   - 
+3. Threat or warning.
+
+* Exercise – Qur’ān 49:10–12
+
+** Arabic text (part of the slide)
+إِنَّمَا ٱلْمُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُوا۟ بَيْنَ أَخَوَيْكُمْ ۚ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُرْحَمُونَ ‎﴿١٠﴾  
+يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا يَسْخَرْ قَوْمٌ مِّن قَوْمٍ ...  
+(continues until the end of verse 12 as on the slide)
+
+** Translation (as on the slide)
+- “The believers are nothing else than brothers (in Islamic religion). So make reconciliation between your brothers, and fear Allah, that you may receive mercy. (10)
+- O you who believe! Let not a group scoff at another group, it may be that the latter are better than the former; nor let (some) women scoff at other women, it may be that the latter are better than the former. Nor defame one another, nor insult one another by nicknames. How bad is it, to insult one’s brother after having Faith. And whosoever does not repent, then such are indeed ẓālimūn (wrong-doers). (11)
+- O you who believe! Avoid much suspicion; indeed some suspicions are sins. And spy not, neither backbite one another. Would one of you like to eat the flesh of his dead brother? You would hate it. So hate backbiting. And fear Allah. Verily, Allah is the One Who forgives and accepts repentance, Most Merciful. (12)”
+
+* Lesson metadata
+- Module :: Usul al-Fiqh 1
+- Course book :: /Usul min ʿIlm al-Usul/
+- Lesson :: (Slides labelled as “Lesson Six”; closing slide dated “Lesson 5: Tuesday 19 November 2024”)
+* Prohibitions (an-nahy) not done
+
+*** Definition
+- A statement that includes a *request to avoid doing something* from a higher authority.
+
+*** Forms of prohibitions
+- The *lām* of prohibition.
+- The *lām* of negation before a nominal sentence.
+- Other wordings that carry the meaning of prohibition depending on context.
+
+*** What does a prohibition necessitate (by default)?
+1. The default (aṣl) of all prohibitions is that they necessitate *taḥrīm* (forbidden).
+2. Invalidity of the action if the prohibition returns to *the act itself* (its very essence).
+3. Actions must be *avoided immediately*.
+4. The action must be *continuously* avoided.
+5. A prohibition implies the *command of the opposite* action.
+
+*** Other meanings of prohibitions (with contextual indicator)
+With an external indicator or contextual clue, a prohibition may indicate:
+1. Dislike (karāhah).
+2. Guidance/instruction (irshād).

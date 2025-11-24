@@ -3,6 +3,11 @@
 :ROAM_ALIASES: halal jaiz permissible
 :END:
 #+title: Mubah
+* Synonyms
+•Halal – Something that is permissible/lawful
+•Jaa’iz– Something that is allowed
+•Mutlaq – Something that is absolute/unrestricted
+
 
 * linguistically
 :PROPERTIES:
@@ -13,8 +18,8 @@ means something declared or permitted.
 :PROPERTIES:
 :ID:       d9416941-f758-464b-8d72-0045797be5ef
 :END:
-It is also refereed to as halal and ja'iz.
 it refers to
+a neutral law
 ** what is neither connected with a command nor prohibited in and of itself,
 like eating during the night of Ramadan.
 
@@ -48,3 +53,34 @@ like eating during the night of Ramadan.
 - thus becoming obligatory, or leading to a forbidden actions,
 - thus becoming prohibited, which would alter its original status as mubah (permissible).
 - When something is categorised as mubah (permissible), it remains within the bounds of permissibility, not resulting in reward or punishment for engaging in it.
+
+* Sign of Identification
+•The “Forms of Command,” coupled with evidences to lower the rule
+ - bring down wajib-> madub -> mubah
+ - commanded to hunt, but this comanded come after a prohibitation
+•Explicitly offering a choice to the servants of Allah or declaring it halal
+ - eg do it if you want, leave it if you want
+•Removing complete blame or sin from the perpetrator
+ - there not rewasy or sin
+•A command to do an action after a prohibition
+
+
+* Points of Iman
+•Every permissible action may take any other ruling
+•The default position of permissibility of actions
+   - but with worship is the opposite
+•Constant engagement in permissible prevents worship to Allah unless!
+** According to Imām al-Shāṭibī (al-Muwāfaqāt), mubāḥ is not always permanently neutral.
+When done repeatedly, or considered as a whole pattern, it can take the ruling of one of the other four:
+ 1. Wājib 
+ 2. Mandūb
+ 3. Makrūh
+ 4. Ḥarām
+*** Meaning
+A neutral action (mubāḥ) can become:
+- Recommended or obligatory if the overall pattern leads to benefit.
+- Disliked or prohibited if the overall pattern leads to harm.
+**** Example
+Sleeping is mubāḥ,
+but if someone sleeps early to wake for Fajr, it becomes mandūb.
+If someone sleeps through prayer, it becomes makrūh or ḥarām.

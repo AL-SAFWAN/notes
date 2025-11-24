@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7ea4f75f-1364-4946-9a30-b9658e1c2f41
+:END:
+#+title: Linguistic,
+Linguistically: “Words composed to articulate meaning.”
+- speech is defined as words composed and employed to articulate specific meaning.
+  - it essentially refers to:
+    the act of expressing or conveying ideas, information or feelings
+    thought the structure use of language, weather spoken or written
+
+

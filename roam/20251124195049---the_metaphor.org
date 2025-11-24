@@ -1,0 +1,105 @@
+:PROPERTIES:
+:ID:       567d5be2-4ae9-42a2-b24e-550b5863ea69
+:END:
+#+title: The metaphor 
+
+* Definition
+A metaphor (majaz) is when:
+- a word is used for other than its original, literal meaning,
+- with evidence that the literal meaning is not intended.
+
+- Example: Calling a brave man “a lion”.
+- Exclusion:
+  - The definition applies only to words actually used in speech.
+  - It does not include:
+    - unused words,
+    - or cases where the word is used in its literal (real) sense.
+
+* Conditions for metaphor
+
+the default position of all words, is we always apply literal meaning
+the default position of all words in the context of Islam is the shar'i meanings
+
+The metaphor are only applied based on, two key conditions are required:
+
+1. There must be evidence (qarinah)
+   - Some contextual indicator that prevents us from understanding the literal meaning.
+   - Without this, we assume the literal meaning is intended.
+   - Evidence in the law of Allah to make it impressible to use the literal meaning
+
+2. There must be a "link" between the literal and metaphorical meanings
+   - This connection keeps the expression meaningful.
+   - The link can be through similarity or another recognised relation.
+     
+** 1.Borrowed metaphor (al-istiʿārah)
+- A type of linguistic majāz (al-majāz al-lughawī المجاز اللغوي)
+  where the ʿalāqah is similarity (ʿalāqat al-mushābahah علاقة المشابهة).
+  
+based on similarity
+- The *link* between the real and metaphorical meanings is similarity.
+- Example:
+  - Calling a brave man “a lion”.
+  - The word “lion” is borrowed from the animal and applied to the man due to similarity in bravery.
+
+** 2. Metonymic metaphor  (al-majāz al-mursal)
+- A type of linguistic majāz where the ʿalāqah is *not* similarity
+  (ʿalāqah ghayr al-mushābahah علاقة غير المشابهة).
+based on non-similarity
+- The *link* is *not* based on similarity.
+  - 'psychological metaphor' when it happen in attribution.
+- The relationship may be:
+  - cause ↔ effect,
+  - part ↔ whole,
+  - place ↔ people,
+- Example:
+  - Saying “we took care of the rain” intending “we took care of the pasture”.
+  - The word is shifted from one related thing to another.
+    
+** 3. Logical or psychological metaphor (al-majāz al-ʿaqli)
+- Here the majāz is in the *attribution* (isnād إسناد), not in a single word.
+
+based on non-similarity
+- The metaphor occurs in the *attribution*, not in the word itself.
+- Example:
+  - “The rain caused the pastures to grow.”
+  - Literally, growth is created by Allah, but it is attributed to rain as a cause.
+  - The words them
+
+
+* Metaphor by addition and omission
+These are examples of how metonymic usage can involve:
+- adding a word for emphasis,
+- or omitting a word for brevity and style.
+** Addition example
+Verse meaning: “There is none like Him” (42:11).
+
+- An extra element (like “like”) serves to:
+  - emphasise the complete negation of any resemblance to Allah,
+  - strengthen the meaning.
+- The letter *'kaf* is added to emphasise the negation of anything resembling Allah the Most High
+
+** Omission example
+Verse meaning: “Ask the village” (12:82).
+
+- Intended meaning: “Ask the people of the village.”
+- The word “people” is omitted for rhetorical effect.
+  - The wording focuses on the place to mean its inhabitants.
+
+* Scholarly discussion on metaphor in the Qur'an
+- Many later scholars accept the division of speech into real and metaphorical in:
+  - the Qur'an,
+  - and other texts.
+- Some scholars, however, held that:
+  - there is *no* metaphor in the Qur'an,
+  - and some extended this to all revealed texts.
+- This view is reported from:
+  - Abu Ishaq al-Isfaraini,
+  - and later supported by scholars such as Muhammad al-Amin al-Shinqiti,
+  - and strongly argued by Ibn Taymiyyah and his student Ibn al-Qayyim.
+
+Their argument:
+- The technical concept of “majaz” as later defined was not known in the first three generations,
+- so Qur’anic language should be understood as entirely “literal” within its revealed usage.
+- which becomes apparent upon closer examination that this is the correct option.
+
+

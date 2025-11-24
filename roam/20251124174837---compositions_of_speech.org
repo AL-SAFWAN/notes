@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       0a2fc230-6e05-4806-b82f-b8fc0a37d875
+:END:
+#+title: Classification of speech.
+
+why this introduction?
+because when we look at the text and evidence it is in the arabic language, it was built and preserved in the arabic language
+
+Speech is control from the basic element of language, which include their component/elements and their parts/meaning 
+
+* Definition
+- *Linguistically*: “Words composed to articulate meaning.”
+- *Technically*: “Words that are meaningful.”
+
+* Classifications of speech
+** By its components ([[id:820d3e4a-d797-4d4f-a4a6-cb1b74dba462][Element of speech)]]
+- Nouns
+- Verbs
+- Particles
+** By its meaning ([[id:5496fa89-1a4b-4d3b-8b72-224954f7ee33][Parts of speech]])
+- Speech that can be described as truthful or false.
+- Speech that cannot be described as either truthful or untruthful.
+
+** By its usage  ([[id:6bd8484a-2995-4d55-bc50-addb39677c23][Literal words and Metaphors)]]
+- Literal (ḥaqīqah)
+- Metaphors (majāz)
+
+
+
+
+
+       

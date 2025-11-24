@@ -1,0 +1,67 @@
+:PROPERTIES:
+:ID:       8e963c2a-f297-4c52-ae66-4cd1e62a1f67
+:END:
+#+title: Al shart - the condition
+** Definition
+*** •Linguistic Definition:
+
+plural ashrat
+to make someone bound by someone else
+
+A shart literally means "condition" or "stipulation. In everyday language, it refers to a requirement or prerequisite that must be met.
+
+*** •Technical Definition:
+A precondition of a legal obligation, prohibition, or ruling, whose absence results in the non-application of the ruling
+- precondition of taklifiyah
+  
+yet its mere presence does not impose the obligation of the ruling.
+- just if you implment the condition, you may have a preent
+*** Explanation:
+A shart refers to a condition that must be fulfilled for a legal ruling (hukm) to take effect.
+It is an external factor that is required for the validity or obligation of a particular act.
+- wihtin the action
+If the shart is absent, the related ruling or action cannot be considered valid or obligatory, but its mere presence does not necessarily cause the act to be obligatory.
+*** Examples
+•Zakah: The individual must possess wealth that exceeds the *minimum threshold* (nisab) for at least *one lunar* year. If they do not meet this threshold, they are not obligated to pay zakah.
+
+•Salah: Purity (Taharah) - A person must be in a *state of ritual purity* (wudu or ghusl) for the prayer to be valid.
+
+Fasting in Ramadan: Intention (Niyyah) - The intention to fast must be made before dawn during Ramadan.
+- Without this intention, the fast is not valid.
+
+** Classification of Shurut based on their relation to the Sabab and the Hukm
+Conditions can be divided into two types based on their
+relationship with the cause (sabab) or the effect
+(musabbab/hukm):
+
+- Shart
+  - complimenting a reaons (Sabab)
+    - the zani to be lashed or stone,
+      - the zina is conditon and it not on any zina
+        - there need specific amount of wintness, are they married or not?
+          - so the actual reason of stone of lashing change deepeding on the condition (shart) that is connected to the reason (sabab)
+            
+  - complimenting the effect (hukm)
+
+- Complementary Condition for the Cause: This is a condition that completes the cause to produce its effect in the ruling, which is the effect itself.
+   For example, the passage of a lunar year (hulul al-hawl) is a condition for the obligation of zakah (charitable giving) concerning the minimum threshold (nisab).
+    The nisab serves as the cause for the obligation of zakah, and the existence of the nisab, indicating wealth, is only realised throughthe condition of the passage of a year.
+     Thus, thepassage of a year is a complementary condition for the nisab.
+  
+- Complementary Condition for the Effect/Hukm: This is a condition that completes the effect, which is the ruling itself.
+   For instance, purity and covering the body areconditions that complete the validity of prayer.
+
+** Classification of Shurut based on their Source
+Conditions can be classified based on their source into
+
+Shart
+- A Shart mandated by Islamic Law
+- A Shart stipulated by an individual
+
+two categories:
+- Shari' Condition: This is a condition that is mandated by Islamic law for legal rulings and actions. Such conditions are often found in the context of acts of worship (ibadat), commercial transactions (mu'amalat),and the enforcement of legal penalties (hudud).
+
+
+- Conventional Condition: This is a condition stipulated by an individual, such as when a woman requires the entire dowry (mahr) to be paid in advance before consumateing the marriage, or don't marry any other women ( 2/4 madhabs) or when a buyer specifies that the item must
+
+  

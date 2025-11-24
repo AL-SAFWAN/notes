@@ -1,0 +1,132 @@
+:PROPERTIES:
+:ID:       20851726-82b7-41b8-8c06-ae05b52a2205
+:END:
+#+title: notes from l4 of usol
+Phase 1 – While the audio is playing (LISTEN + CAPTURE ONLY)
+Principle: you’re listening and catching key points, not making polished notes or cards.
+
+Identify what you’re hunting for:
+- Definitions
+- Lists (types/pillars/conditions)
+- Contrasts (X vs Y)
+- Strong examples
+
+
+-----
+* The Levels of Knowledge
+** The only two types which rulings comes from
+*** Certain Knowledge ilm
+- ‬Certain Knowledge
+  based upon:
+  - Absolute Clear Evidence
+    - the strongest evidence
+      - al ijma', because they have the correct interpretation of the quran and sunnah
+        - this ayah means this
+          no room for further interpretation
+          
+  - Correct Deduction
+    - a correct approach to decuct rules
+  - No Degree of Uncertainty
+    100% certain, e.g zina is haram 
+    - "ilmun yakin" 100% sure with certainty
+      - vast mojority of the rulings are this
+    - overwhelling certinity
+      
+  - Validates Rulings
+    
+Definition:
+
+“It is the perception of something as it truly is, with firm conviction.”
+
+- For instance, understanding that the whole is greater than the part, or recognising that intention is a prerequisite for the acceptance of worship.
+
+
+“al-Ilm” implies understanding or comprehending something with certainty, as it actually exists.
+
+
+
+*** Overwhelming perception al-dhann
+- Overwhelming Perception
+  - Possible Ambiguity in Evidence
+  - Correct Deduction
+  - Small Degree of Uncertainty
+  - Validates Rulings if Conditions are met
+
+Definition:
+“It is the perception of something with the possibility of a weaker opposing view.”
+
+- al zalbatul zunn
+  - small degree of uncerainty due to a ambdigouse the nature of evidence
+    - e.g khabar wahid, is raised by the indicator of the narrator to be used as a ruling
+      - the oppiste view feel weak
+        - why, due to your understanding of hadith
+    - e.g a shabah could have the opposing view
+    - it could be from 51%-> 99% of cerntating
+        - this has conditions
+
+“al-Dhann” in an understanding of something while acknowledging a slight possibility of an opposing or contrary view that is less likely to be true.
+
+e.g the is no marriage without the wali but imaan abu hanifa saw the evidence of aisha saying something like a women can marry herself, but the other school disagree for 98 percent, but they she can marry witout the mahram and it will be valid, but it will be fasid not bastil, zalbatul dhann
+- these are the difference, following a opionion over the over, based no your understanding
+** cannot be used in the shari'a  
+*** Doubt shak
+
+- Doubt
+  - Lack of Clear Evidence
+  - Unable to Deduct a Ruling
+  - Great Uncertainty
+  - Cannot Validate rulings
+
+Definition:
+“It is the perception of something with the possibility of an equal opposing view.”
+  
+- this is 50% of certainty
+
+  
+“Shak” describes a situation where one understands or perceives something but is equally aware of a contrary or opposing possibility that has the same weight or likelihood. Essentially, there is no clear preference or certainty because both the perception and its opposite hold equal validity or probability. 
+
+*** Underwhelming Perception
+- Underwhelming Perception
+  - Possible Ambiguity in Evidence
+  - Correct/Incorrect Deduction
+  - Greater Uncertainty
+  - Cannot Validate rulings
+
+
+Definition:
+“It is the perception of something with the possibility of a stronger opposing view.”
+1%-49%
+“al-Wahm” indicates a state of understanding or awareness of a particular thing while also recognising the likelihood or probability of an opposing perspective that is considered stronger or more convincing.
+- oppiste of az-dhann
+
+*** Compounded Ignorance
+- Compounded Ignorance
+  - Opposing Clear Evidence
+  - Incorrect Deduction
+    - reason why people come about with bidah
+      - he believes it's correct e.g. christains
+        
+  - Presumption of Correctness
+  - Cannot Validate rulings
+
+Definition:
+“It is the perception of something in a way that contradicts how it truly is.”
+
+“Jahl Murakkab”, refers to a state of misunderstanding or misperception where an individual not only lacks knowledge about a subject but also holds a false belief about it.
+
+*** Plain Ignorance
+- Plain Ignorance
+- Unaware of any Evidence
+- Unaware of how to deduce rulings
+- Awareness of ignorance
+- Cannot Validate rulings
+
+
+Definition:
+“It is the complete lack of perception.”
+
+This definition indicates a state where an individual has no awareness or understanding of a subject or concept at all. Unlike other forms of ignorance,which may involve some degree of misunderstanding or partial knowledge, “jahl baseet” implies a total absence of comprehension.
+
+* Categories of Knowledge
+** Essential Knowledge 
+** Theoretical Knowledge

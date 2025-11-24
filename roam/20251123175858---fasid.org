@@ -2,7 +2,49 @@
 :ID:       65b3754f-220d-41fb-b1eb-721c2df6eef0
 :END:
 #+title: Fasid
+* al-Fasid – The Corrupted/Invalid
+** Linguistic Definition:
+fasid comes from the Arabic root word ‫د‬ ‫س‬ ‫ف‬ (fasada), which means "to corrupt," "to spoil,"
+or "to decay."
 
+** •Technical Definition:
+An act or contract performed incorrectly, not meeting the requirements legislated by the lawgiver, thus preventing the perpetrator to acquire the intended benefit of the act.
+
+** •Explanation:
+Fasid simply denotes the invalidity of actions or contracts in Islamic law
+- won't be able to acquire the indented benfit
+  e.g fasid marriages, the befinit of validity is invalid, so it's not accepted by Allah as there was no mahram.
+** Examples•
+
+Invalid Fasting: Deliberate eating or drinking during Ramadan without a valid reason invalidates the fast.
+
+•Improper Prayer (Salah): If a prayer is performed without the necessary conditions, such as purity, it is
+considered fasid.
+
+•Transactions: Selling an ambiguous item.
+
+•Marriage Without Wali: A marriage conducted without the knowledge or consent of the wali.
+
+** fasid = batil
+
+While fasid (invalid) and batil (false) are generally synonymous, they differ distinctly in two specific scenario:
+
+In Ihram:
+
+        Fasid applies to violations by a person in Ihram,
+        - for example have a marital relations
+          - must continue to do hajj and return to do it again
+        
+        On the other hand batil (false) described more severs infractions, such as renouncing Islam while in Ihram
+        - his hajj is violated 
+
+In Marriage:
+        Fasid refers to conditions within a marriage that scholars have debated over, such as the validity of a marriage without a valid (guardian).
+        - marriage is still valid according to imaan abu hanifa
+          
+        batil, however, refers to conditions unanimously recognised as invalid, such as the marriage of a widow or a divorced woman during her waiting period, which is universally accepted as invalid
+
+* book
 linguistically
 something that has been corrupted or is at a loss.
 Technically
@@ -24,7 +66,8 @@ While fasid (invalid) and batil (false) are generally synonymous, they differ di
 
 In Ihram:
 
-        Fasid applies to violations by a person in Ihram, such as wearing stitched clothing or covering the head for males before the first restriction of Ihram are lifted.
+        Fasid applies to violations by a person in Ihram,
+        - for example have a marital relations
         
         On the other hand batil (false) described more severs infractions, such as renouncing Islam while in Ihram
 

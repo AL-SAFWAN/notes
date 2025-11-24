@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5496fa89-1a4b-4d3b-8b72-224954f7ee33
+:END:
+#+title: Parts of speech
+
+Speech is divided, with regard to its potential for truthfulness into two par al-khabr (news) and al-insha (that which is established)
+
+Speech Divided by its Meaning (Potential for Truthfulness or not)
+- al-khabr (informative)
+- al-insha (non-informative, but performative)
+  - Commandments
+  - Prohibitions
+  - Questions
+  - Supplications
+based on the type is how you'll abstract the rulings
+
+*** [[id:350ec4e5-b067-478e-9ed8-ecfa2d71ad6c][Al khabr]] (news)
+*** [[id:9a6d16ff-0022-463a-87be-f94944a8b083][Al insha]] (What has been established)
+*** [[id:ad91efd2-4c12-4cf2-9737-9200957a0781][Al khabr vs Al insha
+]]
+
+

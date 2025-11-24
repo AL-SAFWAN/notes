@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       7a7898a3-dc51-4a60-9893-11170f7c9644
+:END:
+#+title: When does a legal rulings become established?
+
+Absence of Mawani’ (preventers)
+Presence of Shurut (resons)
+Existence of Asbab (varriers)
+-----
+A legal ruling is established when three conditions are
+fulfilled:
+1. Existence of Asbab (Causes): The necessary causes
+must be present.
+2. Presence of Shurut (Conditions): The required
+conditions must be met.
+3. Absence of Mawani’ (Barriers): Any barriers must be
+absent
+
+

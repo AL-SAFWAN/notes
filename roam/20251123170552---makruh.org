@@ -3,6 +3,25 @@
 :ROAM_ALIASES: disliked
 :END:
 #+title: Makruh
+* Synonyms
+** 1. Historical Usage
+- Early scholars used makrūh to mean:
+- ḥarām, o disliked
+- Many, like Imām Aḥmad, used makrūh to mean ḥarām out of caution.
+  - How to know what they meant?
+    - Look at:
+            Their students’ explanations
+            Context of the ruling
+Today: makrūh = disliked, not sinful.
+
+
+** 2. Makrūh in the Ḥanafī Madhhab
+*** Makrūh Taḥrīmī = like haram
+Evidence: qaṭʿī meaning, ẓannī proof.
+Ruling: Close to ḥarām, sinful to do, *leaving is obligatory*.
+*** Makrūh Tanzīhī - like makruh
+Evidence: ẓannī dislike.
+Ruling: Disliked, not sinful; *leaving is rewarded*.
 * linguistically
 :PROPERTIES:
 :ID:       d0c74ad3-aeaf-4aec-be12-e46256a103d5
@@ -13,7 +32,7 @@ means something hatred.
 :ID:       244f0367-be96-465a-bc32-84c36fcbbd61
 :END:
 it refers to
-** what the legislator has discouraged but not by way of obligatory or abandon
+** what the legislator has prohibited but not by way of obligatory or abandon
 :PROPERTIES:
 :ID:       29f6001e-0bb4-45a5-80c7-264ee7c62557
 :END:
@@ -44,4 +63,16 @@ such as taking and giving with the left hand.
 :ID:       84e0a70e-3906-4e01-b75c-37fd95d153f6
 :END:
 - muharram (strictly forbidden).
+
+* Sing of Identification
+•When the “Forms of Prohibition” are coupled with an evidence to shift the rule
+- eg driking standing up 
+•Explicitly using the word ‫الكراهة‬ (disliked), or ‫بغض‬ (hated)
+•All words that indicate something is disliked in an unaggravated form
+
+* Points of Imaan 
+•Does not necessitate a punishment in this world or the next
+•Constantly doing makrooh will eventually lead to one falling into haram
+•Prohibited with perfect wisdom serving to protect mankind from harm
+
 

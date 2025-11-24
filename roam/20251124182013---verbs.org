@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       2c5eb58e-075f-44e4-b0c9-7e52d26f92aa
+:END:
+#+title: verbs
+B- The Verb:
+1. Verbs - ‫األفعال‬:
+a word that indicate actions (wrote) or states of being (remained,becamed) and provide temporal context (past, present, future and imperative commands).
+
+
+- Arabic verbs always carry temporal meaning and mood,
+  - sometimes:
+   - person
+   - number
+   - gender
+For example, kataba means “he wrote,” while yaktubu means “he writes.”
+
+
+Arabic Verbs Are Built Around Three Main Tenses:
+1. Past Tense
+    Example include verbs like "fahima" (he understood),
+     - actions completed
+
+2. Present tense
+    such as "yafhamu" (he understands),
+    - indicating ongoing or habitual actions
+
+3. Imperative Tense
+    Exemplified by "ifham" (understand!),
+     - used for command or request.
+        - a command form -> obligation/wajib -> recomdeded -> mubah
+          - default is wajib
+
+
+A verb inherently contains meaning on its own, like the noun.
+But unlike nouns, a verb’s meaning is tied to time.
+Verbs indicate specific actions or states, not general categories.
+
+

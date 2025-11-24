@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ID:       58d17430-890e-46c2-bf42-983ff9339ee3
+:END:
+#+title: Al mani' - the preventer/impediment
+* al-Mani’ – The Impediment/Preventer
+** •Linguistic Definition:
+The term mani comes from the Arabic root ‫ع‬ ‫ن‬ ‫م‬ that conveys the idea of prevention, a
+barrier or a prohibition. It signifies something that obstructs or hinders an action or ruling from being realised.
+** •Technical Definition:
+Its presence necessitates the absence of a legal ruling, whilst its absence does not
+necessarily lead to the existence or absence of the ruling.
+
+e,g the xample of mense i
+** •Explanation:
+A mani’ is a clear and defined attribute that necessitates the absence of the ruling or the absence of the cause.
+
+Thus, if the legal cause is present and its condition is met, the law will not follow unless the impediment is absent, as the mani prevents the ruling from being derived from the cause.
+
+** examples
+•Marriage: The existence of a waiting period (‘iddah) prevents the validity of marriage, as the waiting period
+serves as a barrier to the new marriage contract.
+ - the iddah is the preventer
+   
+•Salah & Fasting: The presence of menstruation results in the obligation of fasting (sawm) and prayer (salah) being lifted for women, as menstruation acts as a barrier to these acts of worship.
+- the mense is the mani'
+  
+•Inheritance: The occurrence of murder necessitates the absence of the right to inherit, as murder serves as a barrier to inheritance.
+- the murder is the preventer
+
+• Punishment for murder: The status of parenthood prevents the obligation of retribution (qisas), since a parent cannot be held accountable for the death of their child.
+- if a father kill the son, the law of retipution does not count here, allah has decreeded it
+
+
+

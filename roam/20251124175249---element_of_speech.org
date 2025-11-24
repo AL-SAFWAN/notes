@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       820d3e4a-d797-4d4f-a4a6-cb1b74dba462
+:END:
+#+title: Element of speechv
+
+
+In the Arabic language,
+- a single unit of speech is a word
+speech is structured around three primary components:
+   - [[id:555a5917-a056-4a45-b474-826991512081][nouns]] - ism - ‫األسماء‬
+     (The structure of speech in linguistic terms continues with verb and particle, which further enrich how meaning are conveyed)
+   - [[id:2c5eb58e-075f-44e4-b0c9-7e52d26f92aa][verbs]] - fi‘l - ‫األفعال‬
+   - [[id:fa9b199b-9494-4857-b7da-ab7d599b6382][particles]] - ḥarf - ‫الحروف‬
+
+typically involving at least two components; two nouns or a combination of a verb and noun.
+
+The Categories of Speech in its *Minimal Composition* to give a meaning that we can benefit from:
+
+- Noun & Particle
+        O Zayd – ‫زيد‬ ‫يا‬
+        O Fatimah – ‫فاطمة‬ ‫يا‬
+- Verb & Particle
+        He did not come –
+        She did not eat –
+- Verb & Noun
+        Zayd wrote –
+        Fatimah slept –
+- Two Nouns
+        Zayd (is a) Teacher – ‫مدرس‬ ‫زيد‬,
+        Fatimah (is a) Doctor – ‫طبيبة‬ ‫فاطمة‬
+ 

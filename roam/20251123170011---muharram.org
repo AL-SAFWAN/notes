@@ -6,23 +6,24 @@
 
 * Semantic Synonym
 This term is also referred to as Mahzur or mamnu.
+- Haram – something which is forbidden
+- Mahdhur – something which is banned
+- Mamnu’ – something which is prohibited
 * Linguistically
 :PROPERTIES:
 :ID:       cafa01bc-0158-4928-a61b-24bc75bf9842
 :END:
-means forbidden
+means something that is forbidden
 * Technically
 :PROPERTIES:
 :ID:       e99bf07d-86f4-4c9b-bfc4-dbcd0697e48a
 :END:
 it refers
-- forbidden by the legislator
 ** to what the legislator has explicitly forbidden as an obligation to avoid
 :PROPERTIES:
 :ID:       7c8bf229-b395-4e17-8272-6222ee78a6de
 :END:
 - such as disobedience to the parents.
-Thus, when something is muharram (forbidden),
 *** refrains is rewarded
 :PROPERTIES:
 :ID:       e418968c-9b75-4722-bc82-9b3809fa0e6d
@@ -48,5 +49,14 @@ Thus, when something is muharram (forbidden),
 :END:
 - merely disliked
 
-* Indication of this rulings   
+* Indication of this rulings
+- [[id:ba153459-1035-4764-8f2e-303a149be4bf][The Forms of Prohibition]]
+- Explicitly using the word ‫حرام‬ (forbidden) or ‫يحل‬ ‫ال‬ (it is not permissible)
+- All words that indicate something is disliked in an aggravated form
+- Associating sin for implementing the action
 * points of Iman
+- Necessitation of punishment in this world or the next
+- Haram paves the way to greater evil; in the form of doubts and desires
+  - increase evil, common theme of the was who became a kafir with the increase in sin to make the heart dark to the point the leave the fold of islam
+  - any heart that accept this sin, will become complete dark, it will no longer see good as good and bad as bad and islam will fall out of the heart
+- Prohibited with perfect wisdom serving to protect mankind from harm

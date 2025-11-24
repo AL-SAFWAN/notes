@@ -1,0 +1,53 @@
+:PROPERTIES:
+:ID:       ef2f3861-af3a-4679-bbbc-44e8762526e6
+:END:
+#+title: Literal words (al-haqiqah)
+
+refers to terms used in their primary, original sense, which directly conveys the meaning they are commonly understood to represent.
+- Words used for the meaning they have been assigned.
+  
+For example, "lion" refer to the well know large predatory cat.
+
+ 
+Literal (al-ḥaqīqī) meanings fall into *three categories*:
+
+* 1. literal linguistics
+This is the original, primary meaning of a word in the language.
+- example: "Salah" linguistically means "supplication" or "prayer" in a general sense.
+- Excludes:Meanings that come from:
+  - Sharʿī (legal) definitions
+  - Customary / cultural usage  
+  (These can go beyond or differ from the pure language meaning.)
+  
+* 2. Literal sharia (legislative/technical) words
+These refer to term that have specific meaning as defined by shariah (Islamic law).
+- Example:
+  "Salah" in a legal context means the formal ritual prayer with specific actions (takir and taslim) and recitations, not dua.
+
+- Excludes:
+  - purely linguistic meanings
+  - customary meanings
+    
+* 3. literal customary words
+these refer to words whose meaning are determined by the customs or social context, that is understood in everyday.
+- Example:
+  The word "dabah" may be used in some cultures specifically to mean a four-legged animal, even though this is not its strict language definition.
+
+- Excludes:
+  - strict linguistic definitions
+  - legislative definitions
+
+* Importance of distinguishing the three meanings
+
+Understanding that words have three distinct realities — linguistic, legislative, and customary — provides several benefits:
+
+- Each word is interpreted correctly within its proper context.
+- Linguists analyse words according to language norms.
+- Jurists interpret terms according to the legal framework.
+- People of custom understand words according to cultural usage.
+- This awareness improves clarity, prevents misunderstandings, and supports accurate communication.
+
+* Why this matters in deriving rulings
+- If we apply the wrong category (linguistic vs legal vs customary), we may arrive at incorrect rulings.
+- The correct meaning depends on context: how the sentence is constructed, what is being discussed, and the intended domain (law, language, or culture).
+- Allah taught Adam all the words, indicating that meanings, contexts, and categories are deliberate and foundational.
