@@ -11,11 +11,17 @@ Particles do not carry full meaning alone but serve to structure sentences and c
   
 Examples include fi (in), min (from), and wa (and).
 
-1. Waw: used to denote association or conjugations between two elements
+* 1. Waw: used to denote association or conjugations between two elements
+:PROPERTIES:
+:ID:       d1520a88-b1d1-40f4-8fc0-dcce285b534f
+:END:
    - indicating that they are linked in some form of ruling.
      e.g wudo wash you're fash and wash you're arms
                
-2. Fa: severs as a connector indicating sequence and immediacy between elements
+* 2. Fa: severs as a connector indicating sequence and immediacy between elements
+:PROPERTIES:
+:ID:       057d48db-c5e0-49b3-9d4a-fc63db1ed09f
+:END:
    - it often implies causality or purpose, showing why something occurs following another event
      - do directly 
        - two meaning
@@ -25,13 +31,19 @@ Examples include fi (in), min (from), and wa (and).
             - you can use the fa to find the sabab
             - e.g why you should wash you're hand becasue you don't know where it was when you was sleeping
            
-3. Genitive Lam: this particle can express several meanings:
+* 3. Genitive Lam: this particle can express several meanings:
+:PROPERTIES:
+:ID:       3168ace7-d627-4c16-8c61-d354691251cd
+:END:
    - reasoning (why something is done)
    - ownership (belonging to someone)
      - e.g to Allah belongs 
    - permisibility (allowing for an action)
    
-4. Genitive 'Ala: Often conveys a sense of obligation,
+* 4. Genitive 'Ala: Often conveys a sense of obligation,
+:PROPERTIES:
+:ID:       3167cb87-9e48-499e-8c40-8780f8c497b1
+:END:
    - indicating that the actions described is required or expected
      - fasting has been made obligatory to you
         used the "'ala " to show this

@@ -1,0 +1,51 @@
+:PROPERTIES:
+:ID:       5bf9f60b-6a2d-4558-8bc9-246651c3939a
+:END:
+#+title: Forms of command
+The forms of command are four:
+* 1. The [[id:a89960c3-6006-48e7-bb57-570385e12756][imperative verb]], such as
+:PROPERTIES:
+:ID:       d3629be3-5a3b-4b2b-8e3c-c1e2e4670cde
+:END:
+   "recite [O Muhammed], what has been revealed to you of the book" 29:45
+   - recite, sit
+* 2. The [[id:a89960c3-6006-48e7-bb57-570385e12756][imperative verbal]] [[id:555a5917-a056-4a45-b474-826991512081][noun]]
+:PROPERTIES:
+:ID:       83bbc6e0-bbcd-4fb5-a295-50ae73548c5a
+:END:
+, such as
+   "Come to prayer" (from the adhan)
+   - stop, come
+* 3. The verbal [[id:555a5917-a056-4a45-b474-826991512081][noun]] that is used in place of the [[id:a89960c3-6006-48e7-bb57-570385e12756][imperative verb]]
+:PROPERTIES:
+:ID:       f92998c1-f1aa-4e94-aa5f-5874e543a82c
+:END:
+, such as:
+   "So when you meet those who disbelieve [in battle], strike [their] necks' 47:4
+   - strike the neck, have patients 
+* 4. [[id:2c68166d-d56e-4c7a-b320-515a3e7df4a8][Present tense verb]] joined with the [[id:3168ace7-d627-4c16-8c61-d354691251cd][Lam]] of imperative (لام الأمر).
+:PROPERTIES:
+:ID:       41452bd9-ce6f-42fe-9528-e0a4c7c7cd3f
+:END:
+,such as:
+   "To believe in Allah and his messenger" 58:4
+   - believe in allah and the messenger
+
+* Commands can also be conveyed through means other than the standard forms mentioned above,
+:PROPERTIES:
+:ID:       60367b02-241e-4049-aaf0-e606ec57a63a
+:END:
+- for instance,a command may be indicated by
+** describing it
+:PROPERTIES:
+:ID:       aae597b7-b1f9-4219-acc5-2759ebea483a
+:END:
+   - as fard, wajib, mandub or obedience,
+     - or by praising the performer and
+       - disparaging the one who neglects it.
+** reward/punishment associated
+:PROPERTIES:
+:ID:       41f16c99-d3ab-4026-96da-052b8008f90f
+:END:
+  - with its fulfilment,
+    - ore leaving it may incur punishment.

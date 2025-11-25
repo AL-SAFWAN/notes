@@ -1,0 +1,297 @@
+:PROPERTIES:
+:ID:       09e3ed20-22ad-44aa-8621-28516ea9bbb1
+:END:
+#+title: lesson l8
+
+#+title: Usul al-Fiqh – Lesson 8
+#+subtitle: Usul min ‘ilm al-Usul
+#+date: 2024-12-03
+
+* Lesson information
+** Module and course book
+- Module: Usul al-Fiqh 1
+- Course book: *Usul min ‘ilm al-Usul*
+- Lesson: 8 (Tuesday 3 December 2024)
+
+** Contents of this presentation
+1. Revision of commands
+2. Revision of prohibitions
+3. Other possible rulings for prohibitions
+4. Indicators to adjust the default positions of a command and prohibition
+5. Principles for prohibitions
+6. Exercises, tasks and discussions
+
+* Commands and prohibitions
+
+** Commands (الأمر)
+*** Definition
+A command (amr) is:
+
+- “A statement that includes the request of an action by way of a high authority.”
+
+*** Forms of commandments
+- The imperative verb
+- The imperative verbal noun
+- The verbal noun used in place of the imperative verb
+- Present tense verb joined with the *lām* of imperative
+- Other forms
+
+*** What does a command necessitate?
+1. The default position of all commands is that they necessitate obligation (*wujūb*).
+2. Actions must be carried out at the earliest time.
+3. Fulfilling the commandment once.
+4. The prohibition of the opposite.
+
+*** Other meanings of commandments
+With the presence of an external indicator (*qarīnah*), or via the
+context of a verse, a command could also mean:
+
+- Something recommended
+- Something permissible
+- A threat
+
+** Important principles for commandments in uṣūl al-fiqh
+
+*** Principle 1
+األمر يدل على الوجوب ::
+The command indicates obligation.
+
+*** Principle 2
+األمر يقتضي الفور ::
+The command necessitates immediacy.
+
+*** Principle 3
+األمر المطلق ال يقتضي التكرار ::
+An unrestricted command does not necessitate repetition.
+
+*** Principle 4
+األمر بالشيء نهي عن ضده ::
+Commanding something is a prohibition of its opposite.
+
+*** Principle 5
+األمر بعد الحظر يفيد ما كان عليه ذلك الشيء قبل ورود األمر ::
+A command issued after a prohibition signifies what the matter was
+upon before the command was given.
+
+*** Principle 6
+الخبر بمعنى األمر يدل على الوجوب ::
+An informative report in the sense of a command signifies obligation.
+
+*** Principle 7
+األمر يفيد الوجوب بال قرينة، وبالقرينة يفيد ما تفيد القرينة ::
+A command signifies obligation without a context, and with context it
+signifies what the context indicates.
+
+*** Principle 8
+الوسائل لها أحكام المقاصد ::
+Means take on the rulings of their objectives.
+
+*** Principle 9
+ما ال يتم الواجب إال به فهو واجب ::
+Whatever is necessary to complete an obligation is itself obligatory.
+
+* Prohibitions (النهي)
+
+** Definition
+A prohibition (nahy) is:
+
+- “A statement which includes a request to avoid doing something by
+  way of a high authority.”
+
+** Forms of prohibitions
+- The *lām* of prohibition
+- Other forms
+
+** What does a prohibition necessitate?
+1. The default position of all prohibitions is that they necessitate
+   *taḥrīm* (forbidden).
+2. Invalidity of the action if the prohibition returns to “the very
+   thing itself being prohibited.”
+3. Actions must be avoided right away.
+4. Continuous avoidance of the action.
+5. The command of the opposite.
+
+** Other meanings of prohibitions
+With the presence of an external indicator, or via the context of a
+verse, a prohibition may also mean:
+
+- Dislike
+- Guidance
+
+** Does a prohibition necessitate the invalidity of the action?
+
+النهي :: Prohibition
+
+- ان يكون النهي عائدا إلى أمر خارج ال يتعلق بذات المنهي عنه وال شرطه ::
+  The prohibition returns back to something other than the specific
+  prohibited action or its conditions.
+
+- ان يكون النهي عائدا إلى شرط المنهي عنه ::
+  The prohibition returns back to one of the conditions of the
+  prohibited action.
+
+- ان يكون النهي عائدا ذات المنهي عنه ::
+  The prohibition returns back to the very action itself being
+  prohibited.
+
+** Other possible meanings derived from a prohibition
+ 
+النهي :: Prohibition
+
+- التحريم :: Ḥarām
+The default is Haram
+- المكروه :: Disliked
+makruh
+- drinking while standing is prohibited (an nahar), if this was the only hadith then it would have been haram, but ibm abas saw that he drank standing up, so it meand it not haram but to disklike
+  - its not possible for the prophet to do something haram
+    - in legislation, execpt that Allah will inform us
+      - do that mean the prophet (ﷺ) do makrh,  no
+        since he follow the orders of Allah to show that it's disliked to us
+        people in gereal at the time of the sahaba used to think it was haram, the prophet (ﷺ) stated up to show it's not
+
+        - toching the private is haram, but there are another narration to show that it apart of your body
+          - so it shows that its makruh, going from haram -> makruh 
+- اإلرشاد :: General guidance/advice
+ a father telling his son don't do this, so the child understand it is an addvice
+
+ eg. don't ask exreme question that will make it difficutl for you, e.g when they asked the ruling of hajj
+ 
+  - he hold the had of muadh
+    - he said i'm here la baik
+      - he look to him and said i love you (another narration x3)
+      - and he said by Allah i love you to
+        - the then prophet said the statement of the end of the salah
+          - it came in "say" form
+         - or don't leave these statement execept you "say" alluma ala dikri husni ibadah
+        - it's dislike to leave and and recommended to do (agreed upon)
+          - concus show that
+            - the context of hadith show us
+              - the correct palse can before the taslim or after it
+                
+- التحقير :: Contempt/disgust
+E.g the peole who follow the dunya
+- don't extend your eye, this is a comtempt type prohibtion, they just look for the gold of this world 
+
+** Indicators to adjust the default positions of a command and prohibition 
+1. The Qur’an
+  - state in the quran to give light to it and explain to us that Allah does not want this
+    - for the al-amr
+    . e.g. people who pass away from the poor people
+    - provide for them, with the money of you're inheritance
+      - Allah abrogate this 
+        - shabha explain there nolonger to desreve this 
+        - to mandud or
+          - to keep ties with them, according to imaan shaafi 
+        - mubah
+          - 3 other madhabs
+    - for an nathir 
+      - when a person make something abolitory upon himslef when it not as an oath
+        - in the quran it indicate it as good and a description of the good people something like that need to check
+          - so it goes from haram -> dislike
+            
+2. The statements of the Prophet ﷺ
+  - pray the witr prayer in command before sleeping or fajr, hence it shows wajib
+    - other narration changes this
+      - a man came to the prophet (ﷺ) and asked what is make obligatory of salah
+        - it says the 5 prayer made day and night
+          - and he ask is there naything else upon me
+            - he said no , except if you do it optionally
+              - hence no longer fard -> reccomeded madud
+
+3. The actions of the Prophet ﷺ
+  - wearing the white thobe is more purifying and better, the way it said is obligatory
+    - however in another haidth
+      - he wore two green garment,
+        - it move from obligatory -> mubah
+  - an nathir
+    e.g drinking sanding up     
+4. Commandments and prohibitions in (etiquettes and manners)
+  - differed on this
+  - TODO review - matters of the dunya
+    - e.g al qazaa, cut half ot the hair and leave the other part
+      - leave it all or shave it all
+        - ibm qayyim quotes makrooh and not haram
+    - the daulft posstion etiquettes and manners is makrooh\
+      - eating with the left should be haram
+        - but the vast majority say it's makrooh
+          becasue it comes in the chapter of  etiquettes and manners
+5. When a command/prohibition applies in one situation but not in another
+  - non of you should fast on the friday, excep the day before it or after, but not on the day itse'f
+    - the usul of these type of prohibition
+      - the deafult is dislike but not haram
+        - the external indication is that fact that it came with a situation that allowd it 
+ fast of asurah
+    - fast it the day before and after
+      
+6. Consensus of the scholars of Islam (*ijmāʿ*)
+  - the shabhba they understood it the best
+    iman nawawi here said the prohibition here is al qazaa
+    it's haram but makrooh
+    - 
+
+** Important principles for prohibitions in uṣūl al-fiqh
+
+*** Principle 1
+النهي يدل على التحريم ::
+Prohibitions indicate impermissibility.
+
+*** Principle 2
+األصل في النهي التحريم حتى تأتي قرينة تصرفه إلى الكراهة ::
+The default rule regarding prohibitions is impermissibility unless
+there is evidence that redirects it to dislike.
+- the evidence is 6 types the above we just did
+*** Principle 3
+النهي المطلق للفور والدوام ::
+An absolute prohibition implies immediate and continuous avoidance.
+
+*** Principle 4
+النهي يدل على الفساد ::
+A prohibition necessitates the invalidity of the action.
+*** Principle 5
+ما ال يتم الحرام اال به فهو حرام ::
+Whatever is necessary to complete a prohibition is itself prohibited.
+
+* Exercises
+
+** Exercise 1 – Sūrah al-Ḥujurāt (49:10–12)
+- Verses: Qur’an 49:10–12.
+- Themes:
+  - Brotherhood of the believers.
+  - Prohibition of mockery between groups and between women.
+  - Prohibition of defaming and insulting with nicknames.
+  - Avoiding much suspicion; some suspicion is sin.
+  - Prohibition of spying and backbiting.
+  - Fear of Allah and hope in His mercy.
+
+** Exercise 2 – Sūrah an-Nisā’ (4:36)
+- Verse: Qur’an 4:36.
+- Themes:
+  - Worship Allah alone and associate none with Him.
+  - Excellence towards parents.
+  - Kindness to relatives, orphans and the poor.
+  - Good treatment of the near neighbour and the distant neighbour.
+  - Good treatment of the companion at your side, the wayfarer, and
+    those whom your right hands possess.
+  - Allah does not love those who are proud and boastful.
+
+** Exercise 3 – Sūrah al-An‘ām (6:151–153)
+- Verses: Qur’an 6:151–153.
+- Themes:
+  - List of major prohibitions and commands:
+    - Tawḥīd: do not associate partners with Allah.
+    - Good treatment of parents.
+    - Do not kill children out of poverty; Allah provides for you and them.
+    - Do not approach shameful sins, open or secret.
+    - Do not kill any soul Allah has made sacred, except with right.
+    - Do not approach the orphan’s property except to improve it
+      until maturity.
+    - Give full measure and weight with justice.
+    - Speak justly, even concerning close relatives.
+    - Fulfil the covenant of Allah.
+  - This is the straight path of Allah; follow it and do not follow
+    other paths that separate you from His path.
+
+* Closing
+And may the peace and blessings of Allah be upon His servant and the
+seal of the Prophets, Muhammad, his companions and all those who
+follow his way. Āmīn.

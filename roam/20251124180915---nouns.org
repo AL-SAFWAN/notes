@@ -16,7 +16,10 @@
 
    
    You can think about nouns in terms of how wide or narrow their reference is:
-     1. general nouns
+* 1. general nouns
+:PROPERTIES:
+:ID:       4a58885c-1fdf-4d5c-b43b-1c62186dc575
+:END:
         general concept or classes of object,
         - such as relative nouns that could apply broadly across many instances.
           - examples: “students”, “people”, “books”.
@@ -25,13 +28,19 @@
               - e.g genrality of things in the sea being hala to eat
               - everything will die except Allah
             
-     2. absolute nouns
+* 2. absolute nouns
+:PROPERTIES:
+:ID:       79629175-52b1-4c58-a638-4fc88a02498a
+:END:
         often seen in indefinite (non-specific) forms in affirmative context,
         - these nouns express meaning that are unrestricted or not limited to specific instances
           - e.g. “a slave”, “a believer”, “a book”.
             - express meaning that are not restrict, like free a slave, does he have to be black white male female, no, it is unrestricted
               
-     3. specific nouns
+* 3. specific nouns
+:PROPERTIES:
+:ID:       3a724b3b-4b02-491d-82ae-0f7065041777
+:END:
         Particular entities or items
         - highlighted through defined article or context, making them distinct and identifiable.
           - “the girl”, “that book”, “Zayd”

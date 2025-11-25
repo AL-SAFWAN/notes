@@ -66,7 +66,7 @@
 
 * The manner of deriving from evidences (Chapter 1 of Usul al-Fiqh)
 
-** Overview of topics
+** Overview of topics (in the book)
 - Commandments & prohibitions (al-amr wa an-nahy)
 - General & specific (al-ʿāmm wa al-khāṣṣ)
 - Absolute & restricted (al-muṭlaq wa al-muqayyad)
@@ -75,57 +75,7 @@
 
 * Commands and prohibitions
 
-** Commandments (al-amr)
-
-*** Definition
-- A statement that includes a *request for an action* from a higher authority.
-- e.g. the teacher said take some notes
-  - Allah has given poeple a level of authority
-  - when we ask Allah, this is not a command but a dua, because we are from a lower authority
- 
-*** Forms of commandments (to signify a commanded) 
-- The imperative verb.
-  - recite, sit
-- The imperative verbal noun.
-  - stop, come
-- The verbal noun used in place of the imperative verb.
-  - strike the neck, have patients 
-- The present tense verb joined with the *lām* of imperative (لام الأمر).
-  - believe in allah and the messenger
-    
-- Other forms that carry the meaning of command depending on context.
-  - eg based on the form of the command - wajid, mandud, obdiance
-    
 *** What does a command necessitate (by default)?
-1. The default (aṣl) of all commands is that they necessitate *obligation* (wujūb) of that request.
-   - e.g salah is obligatory, zakat is obligatory
-     - ibn qudamah - the son doesnt listen obligaotry, if he doesn't do it then he will be punished
-
-2. Actions must be carried out at the *earliest possible time*.
-   - race forward to do the good deed and race forward to seek forgiveness
-   - what about for salah, it was shown that the salah can be done in between that time, as the prophet (ﷺ) showed this
-     - eg if you ask you're son, you will expect him to do it straght away
-       - e.g. hajj should be done stright away
-              
-3. Fulfilling the command *once* is sufficient (unless there is evidence for repetition).
-   - ibn qudamah - once is done then you don't have to do it again, but what about salah and wudo, for them you have to keep doing it becasue there are reasons for the actions
-   - eg at every our get me water
-     - e.g when they ask about hajj, why did you ask me know i have to ask Allah
- 
-4. A command implies the *prohibition of the opposite*.
-   - eat from what Allah has made pure for use
-
-*** Other meanings of final commandments (with contextual indicator)
-
-Requied to have with an external indicator (qarīnah) or contextual clue, a command may indicate:
-e.g wajib -> madub
-
-1.  Recommendation (al-istihbāb).
-   - e.g witness buying and selling
-2. Mere permissibility (al-ibāḥah).
-   - 
-3. Threat or warning.
-
 * Exercise – Qur’ān 49:10–12
 
 ** Arabic text (part of the slide)

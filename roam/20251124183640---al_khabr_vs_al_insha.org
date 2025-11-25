@@ -6,6 +6,9 @@ Speech can embody both khabar and insha simultaneously in depedning in its conte
 
 (often from specific benefits or purpose. This duality allows from flexibility in communication, adapting the form of expression to suit the intended outcome or effect within a given context)
 * Example: Verbal Contracts — “I sold and I accepted”
+:PROPERTIES:
+:ID:       6c55e476-deea-4522-8dd6-b62f59054ed7
+:END:
 - As khabar: It describes what the two parties intend or agree to do.
 - As inshā’: It creates the contract itself — the moment these words are spoken, the sale becomes valid and obligations begin.
   
@@ -14,6 +17,9 @@ In verbal contracts, the wording can serve a dual function:
 informing + establishing the ruling.
   
 * Khabar Used With Intent of Insha’
+:PROPERTIES:
+:ID:       de5a9135-1b4d-474a-a275-372470bb9ddf
+:END:
 e.g "The divorced women should remain in waiting for three periods" 2:228
         
 The phrase "they should wait for three periods" is structured as news (khabar), but the intent behind it is a command (insha).
@@ -28,6 +34,9 @@ To emphasise that:
   - why translate it as should, it is because of the ishaa
 
 * Insha’ Used With Intent of Khabar   
+:PROPERTIES:
+:ID:       1be8cbd8-800f-40db-bb2d-17796a7b9c04
+:END:
 "And those who disbelieve say to those who believe, follow our way, and we will carry your sins" 29:12
 
 - The phrase “we will carry your sins” outwardly looks like inshā’ (a persuasive offer / proposal).

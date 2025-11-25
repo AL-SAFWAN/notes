@@ -16,15 +16,24 @@ For example, kataba means “he wrote,” while yaktubu means “he writes.”
 
 
 Arabic Verbs Are Built Around Three Main Tenses:
-1. Past Tense
+* 1. Past Tense
+:PROPERTIES:
+:ID:       b174c2b5-c528-4e9d-960e-8d963240cb3f
+:END:
     Example include verbs like "fahima" (he understood),
      - actions completed
 
-2. Present tense
+* 2. Present tense
+:PROPERTIES:
+:ID:       2c68166d-d56e-4c7a-b320-515a3e7df4a8
+:END:
     such as "yafhamu" (he understands),
     - indicating ongoing or habitual actions
 
-3. Imperative Tense
+* 3. Imperative Tense
+:PROPERTIES:
+:ID:       a89960c3-6006-48e7-bb57-570385e12756
+:END:
     Exemplified by "ifham" (understand!),
      - used for command or request.
         - a command form -> obligation/wajib -> recomdeded -> mubah

@@ -1,0 +1,139 @@
+:PROPERTIES:
+:ID:       ff976ae9-ff32-4cb6-91cf-65f265da8cd9
+:END:
+#+title: lesson 10/11
+
+#+title: Usul al-Fiqh – Lesson 10
+#+subtitle: Usul min ‘ilm al-Usul
+#+date: Sunday 4 January 2025
+#+filetags: usul specific general takhsis
+
+* Lesson 10
+Module: Usul al-Fiqh 1
+
+* Contents
+1. Revision of General Terms
+2. Defining Specific Terms
+3. Types of Specific Terms
+4. Specifying a General Term
+5. al-Takhsis – Signs of Maturity
+6. Two Types of Takhsis
+7. al-Mukhassas al-Muttasil
+8. al-Mukhassas al-Munfasil
+9. Examples & Scenarios
+
+* General & Specific
+
+* General Texts / Terms
+** Definition
+"An all-encompassing word that includes all its individual elements without restriction."
+
+Or:
+"A word that encompasses everything it applies to, according to a single usage, without limitation."
+
+** Ruling
+- It is obligatory to act upon the general wording.
+- No requirement to search for specifying evidence unless present.
+
+** Expressions that indicate Generality
+1. Explicit general terms:
+   - كل، جميع، كافة، قاطبة
+   - “all, every, whole, entire”
+2. أسماء الشرط — Nouns of condition
+3. أسماء الاستفهام — Interrogative pronouns
+4. الأسماء الموصولة — Relative pronouns
+5. نكرة في سياق النفي، الشرط، أو النهي — Indefinite nouns in:
+   - negation
+   - condition
+   - prohibition
+6. المعرف بالإضافة — Definite noun by possession
+7. المعرف بالألف واللام الاستغراقية — Generic noun with ال of total inclusion
+
+** Categories of General Terms
+1. العام الباقي على عمومه — Remains general  
+2. العام المخصوص — General that is specified  
+3. العام المراد به الخصوص — General but intended specific  
+4. العام الوارد على سبب خاص — General wording revealed for a specific reason
+
+* Specific Texts / Terms
+** Definition
+"A word that specifies a general term to restrict it to a person or a certain number."
+
+** Ruling
+- Scholars agree: specific terms definitively indicate their meaning.
+- The legal ruling of a specific referent must be acted upon.
+
+** How Specific Terms Work
+1. Allah commands a specific act of worship.
+2. Allah prohibits a specific act.
+3. Allah specifies a number of times an act is done.
+4. Allah lifts the rule of a general term for:
+   - a group
+   - a person
+   - a number of occurrences
+
+** Examples
+1. Commanding a specific act
+   - {أقيموا الصلاة وآتوا الزكاة واركعوا مع الراكعين} (2:43)
+
+2. Prohibiting a specific act
+   - {ولا تقتلوا النفس التي حرم الله إلا بالحق} (17:33)
+
+3. Specifying number
+   - Feeding *ten* needy (5:89)
+   - Fasting *three* days (2:196)
+   - Zakat: “In every forty sheep, one sheep.”
+
+* At-Takhsis — Specifying a General Text
+** Definition
+"Singling out specific elements from a general term."
+
+** Two Main Types
+1. *Connected* (المتصل – al-Mukhassas al-Muttasil)
+2. *Separate* (المنفصل – al-Mukhassas al-Munfasil)
+
+* al-Mukhassas al-Muttasil — Connected Specifier
+Occurs *within the same sentence or context.*
+
+Includes:
+1. Istithna’ (exception)
+2. Sifah (description/attribute)
+3. Shart (condition)
+
+** 1. Istithna’ – Exception
+Example (Qur’an):
+- {من كفر بالله من بعد إيمانه إلا من أكره...}
+
+Example (Sunnah):
+- “Its trees shall not be cut *except* idhkhir grass.”
+
+** 2. Sifah – Descriptive Attribute
+Example:
+- Marriage to believing slave women (4:25)
+- Zakat on “freely grazing” sheep
+
+** 3. Shart – Condition
+Example:
+- Husband inherits half *if* she has no children (4:12)
+
+* al-Mukhassas al-Munfasil — Separate Specifier
+The restricting evidence comes from *another text*, not the same sentence.
+
+Sources:
+- Qur’an by Qur’an
+- Qur’an by Sunnah
+- Qur’an by Ijmaa’
+- Qur’an by Qiyas
+- Sunnah by Qur’an
+- Sunnah by Sunnah
+- Sunnah by Ijmaa’
+- Sunnah by Qiyas
+
+* Examples & Scenarios
+(From slides)
+
+* Statement of Imam al-Qarafi
+"He who does not study usul al-fiqh is prohibited from issuing fatwas, for he does not know how to distinguish between different concepts, nor how to restrict and specify general directives."
+
+* Closing
+May Allah’s peace and blessings be upon Muhammad ﷺ, his companions, and all who follow his way. Ameen.

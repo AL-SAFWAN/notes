@@ -1,0 +1,108 @@
+:PROPERTIES:
+:ID:       27b7b021-c4a6-4f81-b43d-da27e710f27a
+:END:
+#+title: command wording necessitates (by default)
+* The default (aṣl) of all commands is that they necessitate *obligation* (wujūb) of that request.
+:PROPERTIES:
+:ID:       7c217475-b395-49a8-b542-0e2a57246eb8
+:END:
+- e.g salah is obligatory, zakat is obligatory
+- ibn qudamah - the son doesnt listen obligaotry, if he doesn't do it then he will be punished
+The commands, when not contrained by other factors,entails the obligation of executing what is being commanded and doing so promptly.
+
+For the evidence that it necessitates obligation in the verse:
+"So let those beware who dissent from the Prophet's order, lest fitnah strike them or a painful punishment" 24:63
+
+The significance of this verse is that Allah has warned those who disobey the Prophet (ﷺ) commands to beware of a fitnah, which is a deviation, or face a painful punishment. such a warning implies that the general commands of the Prophet must be obeyed, as neglecting them could lead to fire
+* Actions must be carried out at the *earliest possible time*.
+:PROPERTIES:
+:ID:       a10f7055-a399-4de3-bb3a-a25f1c5cad2d
+:END:
+- race forward to do the good deed and race forward to seek forgiveness
+- what about for salah, it was shown that the salah can be done in between that time, as the prophet (ﷺ) showed this
+- eg if you ask you're son, you will expect him to do it straght away
+- e.g. hajj should be done stright away
+    
+From the evidence that it is to be carried out straight away in the verse:"so race forward in doing good deeds" 2:148,5:28
+
+The things enjoined by the shariah are inherently good, and the command to hasten towards goodness servers as evidence for the obligation to promptly engage in virtuous deed. For instance, the Prophet expressed displeasure when people delayed the sacrifice and shaving of their heads on the Day of Hudaybiyah, a matter he shared with Umm Salamah. Prompt actions reflect a sense of vigilance and righteousness, while delay can lead to complication and the accumulation of unfulfilled duties.
+            
+* Fulfilling the command *once* is sufficient (unless there is evidence for repetition).
+:PROPERTIES:
+:ID:       9cf92c1e-37ab-4f50-9d78-0c4a26ad6aff
+:END:
+- ibn qudamah - once is done then you don't have to do it again, but what about salah and wudo, for them you have to keep doing it becasue there are reasons for the actions
+- eg at every our get me water
+- e.g when they ask about hajj, why did you ask me know i have to ask Allah
+
+And the command can be shifted from an immediate nature to one that can be implemented over time. An example of this is making up the missed days of Ramadan, because even though it is ordered to be done, the evidence indicate that it can be done over a period of time, as narrated by A'ishah:
+
+"When I has to make up the fasting of Ramadan, I would make up for it what I could except in Sha'ban and that due to the Messenger of Allah's station." If delaying it was forbidden, then he wouldn't have allowed Aisha to do it.
+
+Furthermore, a commands can also be carried out over time when what has been commanded cannot be completed expect with it.  So, if an action that has been commanded cannot be completed because of something, then that thing itself becomes commanded in order to fulfil the command. Similarly, if it is recommended, then the thing its by default recommended.
+
+An example of an obligation is covering someone's 'awarah (part of the body that must be covered). if you are prevented from doing so without certain clothes, then buying those clothes also becomes an obligation.
+
+An example of something recommended is wearing perfume on the day of Jum'uah. If it relies on buying perfume to carry it out, then buying the perfume is likewise recommended.
+
+The principle is part of a more genreal principle: the means follow the rulings of the purposes they are being used for. So, the means undertaken to fulfil obligation are themselves obligatory, and similarly, those things that are prohibited render the means unlawful as well.
+ 
+*  A command implies the *prohibition of the opposite*.
+:PROPERTIES:
+:ID:       8fd7f5c3-decf-431a-b7ca-f738e49f0f2b
+:END:
+- eat from what Allah has made pure for use
+
+
+
+
+  
+
+* Other meanings of final commandments (with contextual indicator)
+:PROPERTIES:
+:ID:       ef2f2521-a6c7-4e31-afbc-593bc8ec48b5
+:END:
+
+There are instances where a command, although give, may not be obligatory or demand immediate execution due to the specific evidence.
+In such cases, the command's status shifts from being an obligation to signifying something else, such as. Requied to have with an external indicator (qarīnah) or contextual clue.
+
+
+
+   
+** 1. Recommendation (al-istihbāb).
+:PROPERTIES:
+:ID:       519487db-0c12-4275-8124-a7f73bfb523c
+:END:
+"When you buy and sell have it witnessed" 2:282
+   
+The command to have buying and selling witnessed is considered preferable according to evidence that the Prophet Muhammad (ﷺ) bought a horse from a Bedouin without having it witnessed.
+
+** 2. Mere permissibility (al-ibāḥah).
+:PROPERTIES:
+:ID:       7fdf1506-d9de-4a8e-9e49-f5ab8259b979
+:END:
+
+Al-ibahah (permissible) often arises after a warning or in response to what might initially seem prohibited. An example of this occurring after a prohibition in the verse:
+   "but when you come out of ihram, the [you may] hunt" 5:2
+
+The command to go hunting is one of permissibility because it is mentioned after the warning, as is deduced form the verse:
+"Hunting not being permitted while you are in the state of Ihram"
+
+And an example of when it is reply to what is perceived to be prohibited is the statement of the prophet (ﷺ) "Do it and there is nothing wrong", in reply to the one who asked during the final Hajj about doing the action on the day of Eid in a different order.
+
+a comand after the prohibtion
+- don't play in the garden, then after saying ok you can go to the garden
+  - if he goes or note, is the same things if it was prohibited to go 
+
+** 3. Threat or warning
+:PROPERTIES:
+:ID:       ccdd98ac-02c1-45eb-b40c-07ab8904e61e
+:END:
+As a threat, as in the statement of the Most High:
+
+"Do what you like indeed He is ever-watchful over what you do" (41:40) and "So whoever wishes then let him believe and whoever wished, let him disbelieve. Verily We have prepared for the unjust a fire"
+
+So, the warning is mention after the command is laid down proving that it is a threat.
+
+
+

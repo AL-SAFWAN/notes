@@ -11,13 +11,25 @@ This refers to statement that can inherently be descried as either truthful or u
 
         
 This is because the news regarding what it report fall into three categories
-        
-  1. What cannot be described as lying,
+* The news regarding what it report        
+:PROPERTIES:
+:ID:       a6c413c1-0fcb-42be-9487-61f49a66e01d
+:END:
+** 1. What cannot be described as lying,
+:PROPERTIES:
+:ID:       8f2bd209-a93c-4c06-8971-f52220e3189b
+:END:
      - such as the khabar (information) from reliable source that is confirmed to be true that Allah and his Messenger said
-  2. What cannot be described as honest,
+** 2. What cannot be described as honest,
+:PROPERTIES:
+:ID:       832d4e13-9226-426c-9be5-70c297015804
+:END:
      - such as news that is inherently impossible by legislate or logical standard.
      - The first example is the claim of someone alleging to be a prophet after the messenger of Allah (ﷺ), and the second example involves contradictory phenomena, such as claiming that something is moving and being still at the same time 
-  3. There are statement that can be described as either truthful or untruthful, with varying degree of likelihood.
+** 3. There are statement that can be described as either truthful or untruthful, with varying degree of likelihood.
+:PROPERTIES:
+:ID:       b2cb8506-96e2-419d-a8d8-11f8a1dc66bf
+:END:
      - An example of this is news that an absent person is arriving soon, where the truthfulness may depend on further context or evidence
 
 

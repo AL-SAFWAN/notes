@@ -1,0 +1,156 @@
+:PROPERTIES:
+:ID:       b43cfedf-1cfe-421a-ba26-b5157e008976
+:END:
+#+title: lesson 12 notes 
+#+title: Usul al-Fiqh – Lesson 12: Mutlaq & Muqayyad
+#+date: Tuesday 21 January 2025
+#+filetags: usul mutlaq muqayyad taqyid itlaq
+
+* Lesson 12
+Module: Usul al-Fiqh 1
+Course Book: Usul min ‘ilm al-Usul
+
+* Contents
+1. Revision of General Terms
+2. Revision of Specific Terms
+3. Mutlaq & Muqayyad
+4. Differences between Mutlaq & Aam
+5. Restricting the Mutlaq
+6. Four Cases
+7. Examples & Scenarios
+
+* Mutlaq & Muqayyad – Introduction
+The concepts of **Mutlaq (absolute/unrestricted)** and **Muqayyad (restricted/specified)**  
+are foundational tools in deriving rulings.
+
+They help scholars:
+- analyse different evidences,
+- reconcile unrestricted vs restricted wordings,
+- extract precise legal rulings.
+
+* Definitions
+** Mutlaq (Absolute / Unrestricted)
+Definition:  
+"A word that is neither qualified nor conditioned nor limited, and indicates a reality without restriction."
+
+Example:  
+- أعتق رقبة — *free a slave*  
+  → No type, condition, or description is specified.
+
+** Muqayyad (Restricted)
+Definition:  
+"A word that is qualified, conditioned, or limited, indicating a reality with restriction."
+
+Example:  
+- أعتق رقبة مؤمنة — *free a believing slave*
+
+** When both appear
+Scholars determine:
+- Does the Muqayyad restrict the Mutlaq?
+- Or are they independent because the contexts differ?
+
+This reconciliation preserves precision and consistency in fiqh.
+
+* Restricting the Mutlaq (حمل المطلق على المقيد)
+This explains **when** the Muqayyad restricts the Mutlaq and when it **does not**.
+
+Scholars agree:
+- Sometimes it applies.
+- Sometimes it is invalid.
+- Depends on the hukm (ruling) and sabab (reason).
+
+** Four Scenarios
+
+*** Case 1 — Same Hukm, Same Sabab → Mutlaq becomes restricted
+If both texts share:
+- the same ruling,
+- the same cause,
+
+→ The restricted (muqayyad) qualifies the unrestricted (mutlaq).
+
+Example:  
+Prohibition of *blood*.
+
+Mutlaq:  
+{حُرِّمَت عليكم … والدم} (5:3)
+
+Muqayyad:  
+{أو دماً مسفوحاً} — *spilled/flowing blood* (6:145)
+
+Conclusion:  
+Only *flowing blood* is prohibited.
+
+*** Case 2 — Different Hukm, Different Sabab → Mutlaq remains unrestricted
+If:
+- the rulings differ,
+- the reasons differ,
+
+→ They cannot affect one another.
+
+Example:
+1. Cutting the hand of the thief — different hukm/sabab  
+2. Washing hands for wudu — different hukm/sabab
+
+Therefore:  
+No cross-restriction.
+
+*** Case 3 — Different Hukm, Same Sabab → Mutlaq remains unrestricted
+If:
+- rulings differ,
+- reason is the same,
+
+→ Mutlaq generally remains unrestricted.
+
+Example:
+1. Wudu: wash hands to elbows (restricted)  
+2. Tayammum: wipe hands (unrestricted)
+
+Reason in both: *purification*  
+But rulings differ → no restriction.
+
+*** Case 4 — Same Hukm, Different Sabab → Disagreement; majority restrict
+If:
+- rulings are the same,
+- reasons differ,
+
+→ Majority: the Muqayyad restricts the Mutlaq.
+
+Example:
+1. Zihār expiation — free *a slave* (mutlaq)
+2. Killing expiation — free *a believing slave* (muqayyad)
+
+Majority:  
+The unrestricted becomes restricted unless evidence shows independence.
+
+* Exercises (From the Slides)
+
+** Case 1
+Text 1: List of prohibited marriage relations (Qur’an).  
+Mutlaq regarding **breastfeeding relationships**.
+
+Text 2: Aisha’s report — prohibition occurs after **five known sucklings**.
+
+→ The Mutlaq becomes restricted (same hukm, same sabab).
+
+** Case 2
+Text 1: “The Prophet cursed the women who visit graves.”  
+Text 2: “The Prophet cursed the women who *frequently* visit graves.”
+
+→ Mutlaq becomes restricted to *frequent* visits.
+
+** Case 3
+Text 1: Lower garment below ankles “is in the Fire.”  
+Text 2: Trailing garment out of *arrogance* — Allah will not look at him.
+
+→ Reason differs → majority: mutlaq becomes restricted by arrogance.  
+(Ibn Taymiyyah, Nawawi, many later scholars)
+
+** Case 4
+Text 1: “No marriage except with a guardian.”  
+Text 2: “No marriage except with a responsible guardian.”
+
+→ Mutlaq is restricted by the description “responsible”.
+
+* Closing
+May Allah send peace and blessings upon Muhammad ﷺ, his companions, and those who follow his way. Ameen.
+

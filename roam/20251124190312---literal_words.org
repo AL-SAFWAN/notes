@@ -12,6 +12,9 @@ For example, "lion" refer to the well know large predatory cat.
 Literal (al-ḥaqīqī) meanings fall into *three categories*:
 
 * 1. literal linguistics
+:PROPERTIES:
+:ID:       e82e0140-2511-4021-981c-6f0c4d352351
+:END:
 This is the original, primary meaning of a word in the language.
 - example: "Salah" linguistically means "supplication" or "prayer" in a general sense.
 - Excludes:Meanings that come from:
@@ -20,6 +23,9 @@ This is the original, primary meaning of a word in the language.
   (These can go beyond or differ from the pure language meaning.)
   
 * 2. Literal sharia (legislative/technical) words
+:PROPERTIES:
+:ID:       883d0a41-c590-4c57-b601-28fe15711c4a
+:END:
 These refer to term that have specific meaning as defined by shariah (Islamic law).
 - Example:
   "Salah" in a legal context means the formal ritual prayer with specific actions (takir and taslim) and recitations, not dua.
@@ -29,6 +35,9 @@ These refer to term that have specific meaning as defined by shariah (Islamic la
   - customary meanings
     
 * 3. literal customary words
+:PROPERTIES:
+:ID:       4ab02c38-b502-4833-a5f1-ab5eefdafd7d
+:END:
 these refer to words whose meaning are determined by the customs or social context, that is understood in everyday.
 - Example:
   The word "dabah" may be used in some cultures specifically to mean a four-legged animal, even though this is not its strict language definition.
@@ -38,6 +47,9 @@ these refer to words whose meaning are determined by the customs or social conte
   - legislative definitions
 
 * Importance of distinguishing the three meanings
+:PROPERTIES:
+:ID:       c172a854-2c3c-4522-969b-e6a81bbda2fa
+:END:
 
 Understanding that words have three distinct realities — linguistic, legislative, and customary — provides several benefits:
 
@@ -48,6 +60,9 @@ Understanding that words have three distinct realities — linguistic, legislati
 - This awareness improves clarity, prevents misunderstandings, and supports accurate communication.
 
 * Why this matters in deriving rulings
+:PROPERTIES:
+:ID:       8bd11b85-b30d-402c-97a0-f1b984d43fbb
+:END:
 - If we apply the wrong category (linguistic vs legal vs customary), we may arrive at incorrect rulings.
 - The correct meaning depends on context: how the sentence is constructed, what is being discussed, and the intended domain (law, language, or culture).
 - Allah taught Adam all the words, indicating that meanings, contexts, and categories are deliberate and foundational.
