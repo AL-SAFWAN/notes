@@ -385,108 +385,498 @@ a statement that includes a requests for actions by a higher authority,
 
 ** [[id:5bf9f60b-6a2d-4558-8bc9-246651c3939a][Forms of command]]
 ** What the wording of a [[id:27b7b021-c4a6-4f81-b43d-da27e710f27a][command necessitates]]
+** DONE Important principles for commandments in uṣūl al-fiqh
+*** Principle 1
+األمر يدل على الوجوب ::
+The command indicates obligation.
+
+*** Principle 2
+األمر يقتضي الفور ::
+The command necessitates immediacy.
+
+*** Principle 3
+األمر المطلق ال يقتضي التكرار ::
+An unrestricted command does not necessitate repetition.
+
+*** Principle 4
+األمر بالشيء نهي عن ضده ::
+Commanding something is a prohibition of its opposite.
+
+*** Principle 5
+األمر بعد الحظر يفيد ما كان عليه ذلك الشيء قبل ورود األمر ::
+A command issued after a prohibition signifies what the matter was upon before the command was given.
+
+*** Principle 6
+الخبر بمعنى األمر يدل على الوجوب ::
+An informative report in the sense of a command signifies obligation.
+- the kabir report
+
+*** Principle 7
+األمر يفيد الوجوب بال قرينة، وبالقرينة يفيد ما تفيد القرينة ::
+A command signifies obligation without a context, and with context, it signifies what the context indicates.
+- default position, does it make it something else e.g mubah
+
+*** Principle 8
+الوسائل لها أحكام المقاصد ::
+Means take on the rulings of their objectives.
+
+*** Principle 9
+ما ال يتم الواجب إال به فهو واجب ::
+Whatever is necessary to complete an obligation is itself obligatory.
+
+
 ** [[id:140bb7ab-c7c2-4a39-b0c1-0b3f109c72a1][lesson  notes l6]]
 
-* The Prohibition (an-nahi)
+* DONE The Prohibition (an-nahi)
 :PROPERTIES:
 :ID:       ba153459-1035-4764-8f2e-303a149be4bf
 :END:
+TODO - done notes just ANKI
+- [[id:09e3ed20-22ad-44aa-8621-28516ea9bbb1][lesson l8]] 
+- [[id:6bf72851-0632-43e6-aaa0-9254e3600af7][lessonnotes l7]] 
 
-[[id:6bf72851-0632-43e6-aaa0-9254e3600af7][lessonnotes l7]] below here
-The definition of a prohibition is a statement form a higher authority that includes a request to avoid doing something.
-It typical follows a specific format, using the present tense couple with the "laam" of prohibition such as the statement of the Most High":
-"Do not follow those who deny Our revelation and who do not believe in the Hereafter" 6:150
-
+** Definition
+A statement which includes a request to avoid doing something by way of a high authority.
+- requestion to  stop doing the action 
+- The definition of a prohibition is a statement form a higher authority that includes a request to avoid doing something.
 - excluded
+    These expression convey a request to stop, their form is *that of a command* rather than a *prohibition*.
+
+
   - What is excluded from our definition is the inclusion of "gestures", as it's not typically regarded as a form of prohibition, even if it conveys a similar meaning. Additionally, excluded form out description of "a request to avoid something" is the concept of command, which entail a request to carry out an action rather than to avoid it. Furthermore, excluded from "from a higher authority" are appeals, supplications, or other forms of expression that do not imply prohibition.
 
   - Also excluded form our descriptions of 'a specific format of the presence tense, etc' are expression that indicate a request to abstain from something but are in the form of a command (al-amr), such as "da" (Leave alone), 'utruk'(leave, abandon), and 'kaff leave off, among other.
     
-    While these expression convey a request to stop, their form is that of a command rather than a prohibition. furthermore, prohibition can be conveyed through means other than the normal forms of prohibition, such as when the act is described as haram, severely warned against, distasteful or when the perpetrator is disparaged, or when a punishment is ascribed to it, and so forth.
+
+*** Forms of prohibitions
+- It typical follows a specific format, using the present tense couple with the "laam" of prohibition such as the statement of the Most High":
+  - "Do not follow those who deny Our revelation and who do not believe in the Hereafter" 6:150
+  - The lām alift of prohibition connected to the verb
+    - the verb is to show what not to do
+      - e.g don't come close to the wealth of the orphan
+        - don't come close to zina 
+- Other (contextual forms).
+  - furthermore, prohibition can be conveyed through means other than the normal forms of prohibition,
+    - such as when the act is described as haram, severely warned against,
+    -  distasteful or when the perpetrator is disparaged, or when a punishment is ascribed to it, and so forth.
+    - the ahkam taklifiyah
+      - using the word muharam
+          e.g hurimat aliakum
+        - not halal for you
+        - connect a punishment to an action
+          - e.g. punishment of theose to take the wealth of the orphan
+        - e.g stay away from action
+          - these are like comands
 
 ** What the wording of prohibition necessitates
 :PROPERTIES:
 :ID:       d2a92f4c-5a61-4bc9-998b-05c5bbe80b9b
 :END:
-When left unrestricted,prohibitions necessitates the complete forbiddance of the action in question and render it invalid.
+*** 1. The default position of all prohibitions is that they necessitate taḥrīm
+   (forbidden).
+   - untill it can be proven otherwise
+     - e.g it's haram to murder to the polytheist
+     - if they say it's dislike, then they need ot prove it
+       
+     - *When left unrestricted,prohibitions necessitates the complete forbiddance* of the action in question and render it *invalid*.
 
-This is supported by evidence such as the statement of the Most High:
-"And whatever the Messenger give you then take it, and whatever he forbids you form then abstain from it" 59:7
+     - This is supported by evidence such as the statement of the Most High:
+       - "And whatever the Messenger give you then take it, and whatever he forbids you form then abstain from it" 59:7
 
-So, the command is to cease what he has forbidden us from, necessitating our abstention from it, thus rendering it a prohibited act.
+     - So, the command is to cease what he has forbidden us from, *necessitating our abstention from it*, thus rendering it a prohibited act.
+       - From the evidence that demonstrates the invalidity of certain actions is the saying of the Prophet (ﷺ): "whoever does an action that is not in accordance with our affair , then it is rejected", meaning it is reject if it goes against his teachings.
+*** 2. Actions must be avoided right away.
+   - logically once you have engaged it then you have acted on the prohibtion
+     - hence you need to do it right away
+*** 3. Continuously avoiding the actions.
+   - prohibition need to continuously as appose to the command
+     - because it my harm you in this dunya and the akhira
+     - hence you keep avoiding it until death   
+*** 4. The command of the opposite.
+   - you must do the other stuff against it, the opposite
+     - don't sit, so you should be stand
 
-From the evidence that demonstrates the invalidity of certain actions is the saying of the Prophet (ﷺ): "whoever does an action that is not in accordance with our affair , then it is rejected", meaning it is reject if it goes against his teachings.
+*** 5. Invalidity of the action if the prohibition returns to “the very thing itself being prohibited”.
+       - they differe on this
+         - 30 different view
+    -e.g we was forbad to fast on a certain days, and he the fast on the day of eid, he did something haram, but is it still valid or not?
+     - does a Prohibition nessectates the invalidity of an action
 
-The principle according to the Hanbali school of thought concerning those things that have been forbidden, wheather they are correct or not is as follows:
+ 
+The principle according to the *Hanbali school* of thought concerning those things that have been forbidden, wheather they are *correct or not* is as follows:
 
-1. The prohibition returns back to the very thing itself being prohibited or its conditions, thus making it invalid.
-   
-2. The prohibition returns back to something other than itself or its conditions, therefore not being valid.
+**** * 1. 
+النهي ::
+.  ان يكون النهي عائدا ذات المنهي عنه ::
+  The prohibition returns back to the very action itself being prohibited.
+  - e.g the fasting itself on eid is haram
+    - this is specificlly prohibited
+  - The prohibition returns back to the very thing itself being prohibited or its conditions, thus making it invalid.
+    - An example of the 1. principle in worship is the prohibition on fasting on the two days of Eid.
+    - an Example of the 1. principle in dealing with other people is the prohibition of selling after the second call of prayer for whoever is obligated to observe Friday.
+      - majority agree with 1
+****  2.      
+  (ان يكون النهي عائدا إلى شرط المنهي عنه :)   
+  The prohibition returns back to one of the conditions of the prohibited action.
+  - wearing silk clothes to cover the awnrah
+    - covering the awrah is a condition of the salah
+      - he done something haram by wearing silk, and carried it over on the condition
+      - The prohibition returns back to something other than itself or its conditions, therefore not being valid.
+        - An example of the 2. principle is the prohibition of a man wearing silk. although covering his 'awrah fulfils one of the condition of prayer, if he covers it with a fordden cloth, such as silk, *his prayer is invalid* because of the prohibition *return to the condition required for the prayer to be valid (e.g. the internal condition of the prayer itself)*.
 
-An example of the first principle in worship is the prohibition on fasting on the two days of Eid.
+          - An example of the 2. in transaction is the prohibition on the sale of foetus. Knowledge of what one is buying is a condition for the validity of the transaction. if a foetus is sold, *the transaction is not valid* due to the condition of the prohibition.
+          - accord to imaan ahmed
+          - anyone that does these two codtion (1 and 2) about, the action is invaldiated
+            - disagree with point 2 on the habali madhab, by the majory (+ the sencond option with the hanabli madhab + the author)
+              - they are two separate prohibition and they're not linked
+                - the action itself is valid, but the thing he did is haram and he will be accountable
+                  - this seems to be the correct view
+                  - - the actio is valid
 
-an Example of the first principle in dealing with other people is the prohibition of selling after the second call of prayer for whoever is obligated to observe Friday.
+ 
+****  3. 
+ ان يكون النهي عائدا إلى أمر خارج ال يتعلق بذات المنهي عنه وال شرطه ::
+   The prohibition returns back to something other than the specific prohibited action or its conditions.
+   - majority agreed
+      - if he wear silk hat and socks, his salah is valid
+        - the things that he did is not a condition nor return to the action itself
+          - hence the action is valid
+        
+        - An example of a prohibition return to an *external issue in worship* is wearing of a silk turban by a man. If he prays while wearing a silk turban, it does not invalidate his prayer because the prohibition does not related directly to the prayer or it's condition for acceptance.
 
-An example of the second principle is the prohibition of a man wearing silk. although covering his 'awrah fulfils one of the condition of prayer, if he covers it with a fordden cloth, such as silk, his prayer is invalid because of the prohibition return to the condition required for the prayer to be valid.
+        - An example of a prohibition returning to an *external issue in transactions* is the prohibition of fraud if something is sold fraudulently, that does not invalidate the sale itself.
 
-An example of the second principle in transaction is the prohibition on the sale of foetus. Knowledge of what one is buying is a condition for the validity of the transaction. if a foetus is sold, the transaction is not valid due to the condition of the prohibition.
+** Other meanings of prohibitions
+The default is Haram however, With the presence of an external indicator (qarīnah), or via the context of
+a verse, a prohibition may also mean:
+**** 1. Dislike (makruh)
+- المكروه :: Disliked
+- For instance, the Prophet (ﷺ) advised against using the right hand to touch one's private part while urinating, state, "Do not let any of you touch his private part with his right hand when he urinates."
+  - Scholars suggest that the prohibition her signifies dislike, as the private part is part of the body, and refraining from using the right hand aims to maintain its purity.
+- drinking while standing is prohibited (an nahar), if this was the only hadith then it would have been haram, but ibm abas saw that he drank standing up, so it meand it not haram but to disklike
+  - its not possible for the prophet to do something haram
+    - in legislation, execpt that Allah will inform us
+      - do that mean the prophet (ﷺ) do makrh,  no
+        since he follow the orders of Allah to show that it's disliked to us
+        people in gereal at the time of the sahaba used to think it was haram, the prophet (ﷺ) stated up to show it's not
 
-An example of a prohibition return to an external issue in worship is wearing of a silk turban by a man. If he prays while wearing a silk turban, it does not invalidate his prayer because the prohibition does not related directly to the prayer or it's condition for acceptance.
+        - toching the private is haram, but there are another narration to show that it apart of your body
+          - so it shows that its makruh, going from haram -> makruh 
+**** 2. Guidance
+- اإلرشاد :: General guidance/advice
+- . Another example is the Prophet's instruction to Muadh ibn Jabal, advising him to regularly supplicate after every prayer "O Allah, help me to remember You, give thanks to You, and worship You well",
+  - Although not explicitly obligatory, this guidance highlights the importance of continual remembrance, gratitude and devotion to Allah.
+    
+- a father telling his son don't do this, so the child understand it is an addvice
+  - eg. don't ask exreme question that will make it difficutl for you, e.g when they asked the ruling of hajj
+ 
+    - he hold the had of muadh
+      - he said i'm here la baik
+        - he look to him and said i love you (another narration x3)
+        - and he said by Allah i love you to
+          - the then prophet said the statement of the end of the salah
+            - it came in "say" form
+            - or don't leave these statement execept you "say" alluma ala dikri husni ibadah
+          - it's dislike to leave and and recommended to do (agreed upon)
+            - concus show that
+              - the context of hadith show us
+                - the correct palse can before the taslim or after it
+ 
+**** 3. contempt/disjust
+- التحقير :: Contempt/disgust
+E.g the peole who follow the dunya
+- don't extend your eye, this is a comtempt type prohibtion, they just look for the gold of this world and chase and chase it
 
-An example of a prohibition returning to an external issue in transactions is the prohibition of fraud if something is sold fraudulently, that does not invalidate the sale itself.
-[TODO NOTE AND ANKI]
-[[id:09e3ed20-22ad-44aa-8621-28516ea9bbb1][lesson l8]] below here
-Prohibition can sometimes encompass actions that are disliked or discouraged rather than explicitly forbidden, as evidence by the following instance
+*** Indicators to adjust the default positions of a command and prohibition 
+1. The Qur’an
+   - state in the quran to give light to it and explain to us that Allah does not want this
+     - for the al-amr
+     . e.g. people who pass away from the poor people
+     - provide for them, with the money of you're inheritance
+       - Allah abrogate this 
+         - shabha explain there nolonger to desreve this 
+         - to mandud or
+           - to keep ties with them, according to imaan shaafi 
+         - mubah
+           - 3 other madhabs
+     - for an nathir 
+       - when a person make something abolitory upon himslef when it not as an oath
+         - in the quran it indicate it as good and a description of the good people something like that need to check
+           - so it goes from haram -> dislike
+            
+2. The statements of the Prophet ﷺ
+   - pray the witr prayer in command before sleeping or fajr, hence it shows wajib
+     - other narration changes this
+       - a man came to the prophet (ﷺ) and asked what is make obligatory of salah
+         - it says the 5 prayer made day and night
+           - and he ask is there naything else upon me
+             - he said no , except if you do it optionally
+               - hence no longer fard -> reccomeded madud
 
-1. Dislike: For instance, the Prophet (ﷺ) advised against using the right hand to touch one's private part while urinating, state, "Do not let any of you touch his private part with his right hand when he urinates." Scholars suggest that the prohibition her signifies dislike, as the private part is part of the body, and refraining from using the right hand aims to maintain its purity.
-   
-2. Guidance. Another example is the Prophet's instruction to Muadh ibn Jabal, advising him to regularly supplicate after every prayer "O Allah, help me to remember You, give thanks to You, and worship You well", Although not explicitly obligatory, this guidance highlights the importance of continual remembrance, gratitude and devotion to Allah.
-   
-TODO NOTE AND ANKI
-[[id:266135f3-4e35-4c08-8460-3fa55e673aa8][lesson 9 and 10]] from below here
+3. The actions of the Prophet ﷺ
+   - wearing the white thobe is more purifying and better, the way it said is obligatory
+     - however in another haidth
+       - he wore two green garment,
+         - it move from obligatory -> mubah
+   - an nathir
+     e.g drinking sanding up     
+4. Commandments and prohibitions in (etiquettes and manners)
+   - differed on this
+     - as it's related to the matters of the dunya, so they treat the default a disliked
+       - e.g al qazaa, cut half ot the hair and leave the other part
+         - leave it all or shave it all
+           - ibm qayyim quotes makrooh and not haram
+         - eating with the left should be haram
+           - but the vast majority say it's makrooh
+             becasue it comes in the chapter of  etiquettes and manners
+5. When a command/prohibition applies in one situation but not in another
+   - non of you should fast on the friday, excep the day before it or after, but not on the day itse'f
+     - the usul of these type of prohibition
+       - the deafult is dislike but not haram
+         - the external indication (qiranah) is that fact that it came with a situation that allowed it
+           
+    - antoher example is to fast of asurah
+     - fast it the day before and after
+      
+6. Consensus of the scholars of Islam (*ijmāʿ*)
+   - the shabhba they understood it the best
+   - The prohibiton would have indicated ḥarām by default, but because of consensus/majority practice and context, we interpret it as makrūh 
+     - So ijmāʿ is a qarīnah that changes the level of the ruling.
+
+** mukallaf
+
+*** Definition
+هو: المخاطَب بما اقتضاه خطاب الشرع من الأحكام الشرعية، من الفعل والترك أو التخيير.  
+والمكلَّف بمعنى: الذي توجَّه إليه خطاب الشرع ليفهمه وفق شروط التكليف.
+
+- *Translation*:  
+  “It refers to the one addressed by the command of the Sharī‘ah regarding the legal rulings — whether to act, abstain, or choose.  
+  The *mukallaf* (legally accountable person) is the one to whom the command of the Sharī‘ah is directed for understanding, based on the conditions of accountability.”
+ 
 Who is addressed by the legislation is to implement commands and prohibitions? it is the mukallaf, an adult who has reached puberty and of is sound mind.
 
-That is excluded from the term 'adult' is a child, who is not held to the same level of responsibility for commands and prohibition as an adult. However, a child is instructed to perform acts of worship to instill obedience to Allah and should be deterred form sins to foster habits of restraint.
+*** The Conditions of Takleef (شروط التكليف)
 
-Excluded from the term "sane" is an instance person, who is not held accountable for commands and prohibitions. Nonetheless, they are prevented form actions that may harm other or lead to perversion. Even if they perform an actions commanded, it is not considered valid if they did not intent to comply with the command.
+ - from the term 'adult' is a child, who is not held to the same level of responsibility for commands and prohibition as an adult. However, a child is instructed to perform acts of worship to instill obedience to Allah and should be deterred form sins to foster habits of restraint.
 
-This exemption does not apply to the obligation of zakat and financial rights of a child or insane person. These obligation are contingent on  specific condition, and once those conditions are met, the ruling applies based on the circumstance,  not the individual performing it.
+ - Excluded from the term "sane" is an instance person, who is not held accountable for commands and prohibitions. Nonetheless, they are prevented form actions that may harm other or lead to perversion. Even if they perform an actions commanded, it is not considered valid if they did not intent to comply with the command.
+- The Signs of Maturity
+he meets any one of the sign below: 
+****   - البلوغ :: *Maturity*  
+***** بلوغ سن خمس عشرة سنة قمرية :: Reaching the age of 15 lunar years
+  
+  eg 14 or 14/half, hadith of ibn umar participating in battle, in the battle of khadak he was 15 and not in the battle in badr
+  
+**** الاحتلام :: Release of seminal fluid (wet dream / ejaculation)
+except due to a medication reason
+- the pen has been lifted for a young child untill the seminal fluid
+**** الإنبات :: Growth of pubic hair
+- thick hair that is rquired to be shaved
+  - that which is require to be shaved
+    - prinson of bani qraibah, the book the treaties and show many sign of betrains, they we're then order to be killed, the shahabah look for the ones that had private part
+      - why is this an evidence, since you can't kill a child
+        
+****  الحيض :: Menstruation (for females)
+  - Allah don't accept the salah of mentrauting women exept she wear a khimar
+    - girls don't need to cover hari
+****  الحمل :: Pregnancy (for females)
+  e.g some scholars says it obvious
+  - it could positible that a women might not have mensense
+    - but with the relation of the husband, she becomes mature
+*****  العقل وفهم الخطاب :: *Sanity and the ability to understand speech*  
+- sanity is you understand speech 
+  - the one who is insane is not accountable, even if he's mature
+    - the pen has been lifted for him
+      - the insane person until he has sanity
+        
+***** القدرة على الامتثال :: *The ability to comply (physical/financial capacity)*  
+  - carry out the action that has been acted for you
+    - e.g. can't fast during traveling
+    - needs to be according to the text
+      - no soul should be burden to hardhsip
+***** الاختيار :: *Freedom to choose; not being forced*  
+  - if you are force, you won't be held to accountable since you was force
+    - exception of this is ibadat
+      - e.g hadith of the hajj with the mother and son
+        
+***** العلم بالتكليف :: *Knowledge of the ruling / awareness of accountability*
+  - knowing that Allah will hold you accountable
+    - knowing what is haram and halal
+    - Allah don't punish the people unless he has sent a messenger
+      - hence this is a condition of taklif
+        - masil
+          1. when is this ignroace accept in sharia
+             - the law that are apprent, not abiluigty, e.g 5 prayer and fasting and staying away from zina and can't be denied
+               - if he lives in a islam land
+                 - or kafir but has access to this knowledge
+                   - this person is not excued
+                     - because this is a necessity for him
+                       - hence this knowledge is the obligatory which we should be seeking
+          2. thing that one will not nessary know and will be excused for this
+             - e.g details of buying and sell, the details of riba 
+               - here imaan shafee says not accoutable except the have the ability to learn but not due to lazyness or try to trick allah by saing i don't know so it's okay and everyint is halal
+                 - this perons will be held accoutnable
+                   - but if ther person think is halal becasue he asked someone and trust him
+                     - this is ok
+
+          3. someone became just must or far away form any type of knowledge
+             - he is not accountable liek categorty 1 and 2
+               - e.g living in the amazon forest
+                 - they will have their own test in yamal qiyam
+                   - hadith the people who was insane and did not get islam reason or udnerstand it
+                     - allah will comand them to go to the fire
+                       the one that went - the fire became cool for him
+                       the one the argued - the fire is for him, since they argued with allah then they would have argued with the prophet and messenger
+          4. is a person going to be held account if, he knew about he cammand and probition,  but not the conquence i.e the punishment or reqard
+             1. is the ignroarce a reason to be punished or not
+                - nowing somehting is haram but didn't know the punishment
+                  - is his ignoreance of the punishment or for the act
+                    - did not know the conequcen of carrying out the prohibution 
+             2. he will be punished
+                - e.g maiz, he said my people will kill me and went the to prohet pbuh but he was killed when he went to the prophet pbuh, this shows that you'll still be punished if you didn't know the conciqunce due to the punished of adultry
+                - so it punishment doen't drop even if they didn't know
+
+                  
+**** This exemption does not apply to the obligation of zakat and financial rights of a child or insane person.
+- These obligation are contingent on  specific condition, and once those conditions are met, the ruling applies based on the *circumstance*,  *not the individual performing* it.
+
+                 
+- There is still an obligation for the one who is insane and a child
+  - it will be based on sitation
+    - there gardian will be accountable 
+      - zakat - for the one who is in charge of it
+        - there are connect ot reason, regarless who onwn it
+          - a child damange a car
+            - there a reason for the damage
+              - he will not be sinful, but the garudain must resove it
+                and the child is the reason due to it
+      
+why is islam not a contion in takilify
+- the kafir will be punished for salah and all of the action that allah prohibited
+
+  - even if they prayer, there good deed/action won't be accepted
+    - becasue  islam is a condition for the acceptance of the action, but not a condition for accountablity/ talifiyka 
+
+the insane
+ - for the person who is insane he is not accoutnable for him in the duyah and the akhira
+   - as for ibadah action
+     - allah did not request it or required it
+     - there is not conquece for it in the dunya and akhira
+       - however if he harmed a peron or damaged a proverty or steal
+         - he's not accountable in the dunya
+           - but he and his gardian are requided to fix the problem
+       - even  if he a sane person breaks something in sleep then it counts, because he is still accountable in the dunya
+    
+
+**** for the case whem someone who is close to mature
+    - very close to understand right and wrong
+      - these children should be encoreanged
+        - from the age of 7 and be deciplied till the age of 10
+          - only  iman ahmad say for all action and the rest say only for salah
+            - hadith about direct you're child from 7 and hit them from age of 10 to decipine
+              - you hit them  (i.e you don't harm) someone except that you left something obligatory
+                - reason, becasue it take time to get the habit of salah
+                  - from 7 and more so from 10
+                    - are the action accepted from here and who get the reward
+                      - there a hadith
+                        - saying yes the child has hajj
+                          - it mean the child has the reward of hajj but still needs to preform it
+                            - he still need to do it after
+                              - the women get the reward as well
+                                - let them get used to it so it don't feel miles aware
 
 ** Accountability for Commandments and Prohibitons include Muslim and Non-Muslim
 :PROPERTIES:
 :ID:       7a0243f5-6678-4d9b-a4a7-223738d4aa3f
 :END:
+- Accountability for Commandments and Prohibitons include Muslim and Non-Muslim
+  - Both groups are obligated to obey the commands and refrain from the prohibitions. However the acceptance of deed differs between Muslim and non-Muslim.
+    - None-Muslims have their deed accepted even while they remain in a state of disbelief, as mention in the Qur'an:
+      - "What prevents their expenditures from being accepted form them but that they have disbelieved in Allah and his Messenger" 9:54
+        - Non-Muslims are not required to make up for their past deed if they accept Islam, as indicated in another verse:
+          - "Say to those who have disbelieved [that] if they cease, what has previous occurred will be forgiven for them" 8:38
+            - Additionally, the Prophet Muhammad (ﷺ) informed Amr ibn al-as that "Islam nullifies previous actions." Therefore, a person is only punished if they die in a state of disbelief. This is evident from the quranic verse describing the response of the wrongdoers when question about their deeds.
+              - "What put you into Saqar? They will say, We were not of those who prayed, not did we used to feed the poor, and we used to enter into vain discourse with those who engaged [in it], and we used to deny the Day of recompense until there came to us the certainty" 74:42-47
 
-Both groups are obligated to obey the commands and refrain from the prohibitions. However the acceptance of deed differs between Muslim and non-Muslim. None-Muslims have their deed accepted even while they remain in a state of disbelief, as mention in the Qur'an:
 
-"What prevents their expenditures from being accepted form them but that they have disbelieved in Allah and his Messenger" 9:54
+*** شروط الصحة – Conditions of Validity
+- These are the conditions for the *validity* of an act of worship, transaction, or other legal act.
+- The *mukallaf* must fulfil them for the act to be sound in the sight of Sharī‘ah.
+- If these conditions are not met, the act is *invalid* and will not be accepted.
+  - islam is a condition for valditiy
+    - so theire carity won't be accepted
+      simialar, reacting the age of maturity, the action is accept but not obligaotry
+      - why usool scholars mention this 
+        - e.g kafir should be fasting during ramanadam, so we will faslitating in haram
+          - there are 24 different opions
+            iman ahmed
+            - both are held accoutable
+        - deal with muslim on the deafult position so you don't need to ask. 
 
-Non-Muslims are not required to make up for their past deed if they accept Islam, as indicated in another verse:
-
-"Say to those who have disbelieved [that] if they cease, what has previous occurred will be forgiven for them" 8:38
-
-Additionally, the Prophet Muhammad (ﷺ) informed Amr ibn al-as that "Islam nullifies previous actions." Therefore, a person is only punished if they die in a state of disbelief. This is evident from the quranic verse describing the response of the wrongdoers when question about their deeds.
-
-"What put you into Saqar? They will say, We were not of those who prayed, not did we used to feed the poor, and we used to enter into vain discourse with those who engaged [in it], and we used to deny the Day of recompense until there came to us the certainty" 74:42-47
+*** شروط الوجوب – Conditions of Obligation
+- These are the conditions for an act to *become obligatory* upon the *mukallaf*.
+- When these conditions are fulfilled, the person is required to perform the act.
+- If they are not fulfilled, the act may not yet be obligatory (e.g 7-10yr) (even if performing it would still be valid).
 
 ** Preventions for Accountability
 :PROPERTIES:
 :ID:       f7ed8027-6a6b-4604-b662-2dd996fb7ccf
 :END:
-pg 42 - time 8:48
-(* Preventions / Obstacles to Legal Accountability (موانع التكليف))
+
+Mawani’ al-Taklif are the obstacles to legal accountability in Usul al-Fiqh.
+- These are factors that prevent a person from being held blameworthy, even if they meet a sign of maturity and accountability when these obstilbes are present.
+
+
 There are circumstances that exempt individual from he obligations set by the shariah
 1. Ignorance, forgetfulness, and coercion, The prophet Muhammad (ﷺ) stated: "Allah has forgiven my ummah for its mistakes; what they forget and they are forced to do". This hadith narrated by ibn Majah and al Bayhaqi and is supported by corroborating evidence form the Quran and Sunnah. If a person violates a prohibitions unknowingly, they bear no sin. For example, someone speaking during prayer without knowledge of the prohibition against it. Similarly, if one neglected and obligation without realising it necessity, they are not required to make up for it once the time has passed. An example is when the Prophet (ﷺ) did not instruct a person who prayed incorrectly, lacking tranquillity, to compensate for missed prayer. Instead, he direct them to perform the current prayer correctly.
-2. Forgetfullness refer to the absence of mind regarding something known. If someone unintentionally commits a prohibited act due to forgetfulness, there is no sin upon them. An example is someone eating while fasting because they forgot they were fasting. Similarly, if a duty is forgetten, there is no obligation while in a state of forgetfulness. However, once a remembered, the duty must be fulfilled. This is supported by the saying of the Prophet Muhammed (ﷺ: "Whoever forgets the prayer, let him pray when he remembers" 
+   - e.g saying something in sleep
+     - but if he breaks something in sleep then it counts
+       
+2. Forgetfullness refer to the absence of mind regarding something known. If someone unintentionally commits a prohibited act due to forgetfulness, there is no sin upon them. An example is someone eating while fasting because they forgot they were fasting. Similarly, if a duty is forgetten, there is no obligation while in a state of forgetfulness. However, once a remembered, the duty must be fulfilled. This is supported by the saying of the Prophet Muhammed (ﷺ: "Whoever forgets the prayer, let him pray when he remembers"
+   - he will not be punished for his action
+     - Allah will have mercy for him
+       - eg fasting and breaks his food
+         - his fast is not broken
+           
 3. Coercion entails forcing someone to do something against their will. If someone is compelled to engage in a forbidden act, there is no sin upon them, such as being coerced into acts of disbelieved while maintaining faith in their heart. Similarly, if someone is compelled to neglect an obligation, there is no sin while under coercion, and they must fulfil it once the coercion ceases. For instance, if someone is coerced to miss a prayer until after its allotted time, they must make it up as soon as possible once the coercion ends.
-
+   - being forced
+     - you can't bear, it i.e to the point of commit suicide 
+     - you can bear it, you can still be accountable, just going to prison
+         
+When these are present, a person may not be held responsible for leaving an obligation or committing a prohibition.
 These allowance are based on Allah's forgiveness and mercy concerning His rights. However regarding the rights of others, commitments must be honred unless the involved party choose to overlook them.
+** Important principles for prohibitions in uṣūl al-fiqh
 
-* The General (Al-'Am)
+*** Principle 1
+النهي يدل على التحريم ::
+Prohibitions indicate impermissibility.
+
+*** Principle 2
+األصل في النهي التحريم حتى تأتي قرينة تصرفه إلى الكراهة ::
+The default rule regarding prohibitions is impermissibility unless
+there is evidence that redirects it to dislike.
+- the evidence is 6 types the above we just did
+*** Principle 3
+النهي المطلق للفور والدوام ::
+An absolute prohibition implies immediate and continuous avoidance.
+
+*** Principle 4
+النهي يدل على الفساد ::
+A prohibition necessitates the invalidity of the action.
+*** Principle 5
+ما ال يتم الحرام اال به فهو حرام ::
+Whatever is necessary to complete a prohibition is itself prohibited.
+
+
+
+
+
+* TODO The General (Al-'Am)
 :PROPERTIES:
 :ID:       500a4a34-298d-4b7a-8d3a-1ea674f875ba
 :END:
 9:01
+[[id:266135f3-4e35-4c08-8460-3fa55e673aa8][lesson 9 and 10]] from below here
 
 
 The term Al-'Am linguistically signifies inclusively. Technically, it refers to an all-encompassing word that incorporates all its individual elements without restriction: such as:
@@ -562,228 +952,327 @@ The specificity of this ruling is evident from the Prophet own practice. He woul
  recording 12, start from 14m
 
  
- the term "al-Khas" linguistically denotes the opposite of "general" (Al-'Am). Technically, it refers to a word that is restrict to a particular person or a specific number, such as names of well known individual, demonstrative noun, and numerical values.
+ - the term "al-Khas" linguistically denotes the opposite of "general" (Al-'Am). Technically, it refers to a word that is restrict to a particular person or a specific number, such as names of well known individual, demonstrative noun, and numerical values.
 
- Excluded from the definitions of "restricted" are nay element of characterised by generality.
+   - Excluded from the definitions of "restricted" are nay element of characterised by generality.
 
- The term "Takhsis" linguistically represents the exact opposite of generalisation. Technically, it signifies singling out specific elements form what is general.
+ - The term "Takhsis" linguistically represents the exact opposite of generalisation. Technically, it signifies singling out specific elements form what is general.
 
- An "Al-mukhasis" with an I - is the individual responsible for making things specific or customised (takhsis). This role is typically held by the legislator, and the evidence supporting taksis is also referred to using this term (mukhasis)
- Evidence indicating takhsis can be categorised into two types
- 1. Connecting, referring to what cannot stand independently
- 2. Separate, referring to what can exist independently
+   - An "Al-mukhasis" with an I - is the individual responsible for making things specific or customised (takhsis). This role is typically held by the legislator, and the evidence supporting taksis is also referred to using this term (mukhasis)
+- Evidence indicating takhsis can be categorised into two types
+     - Connecting, referring to what cannot stand independently
+     - Separate, referring to what can exist independently
 
-Therefore, one form of the connected specified, know as "Mukhasis al Mutasil" is the "Al-istithnah (exception)". Linguistically, "Al-istihnah" derives form "thana", which means to bend something with another part of itself, akin to tying a rope. Technically, it involves extracting specific elements from the general using the word "illa"(except) or its equivalent, as seen in the Quranic verse:
 
-"indeed man is in loss except those who believe and do good work, and exhort one another to truth and exhort one another to patience" 103: 2-3
+
+ - Therefore, one form of the connected specified, know as "Mukhasis al Mutasil" is the "Al-istithnah (exception)".
+   - Linguistically, "Al-istihnah" derives form "thana", which means to bend something with another part of itself, akin to tying a rope.
+
+   - Technically, it involves extracting specific elements from the general using the word "illa"(except) or its equivalent, as seen in the Quranic verse:
+
+   - "indeed man is in loss except those who believe and do good work, and exhort one another to truth and exhort one another to patience" 103: 2-3
 
 Excluded from this definition are methods of specifying something with a conditions or any other means beside "illa" or its equivalents.
-** Conditions for Al-istithnah
+
+
+* Conditions for Al-istithnah exception
 :PROPERTIES:
 :ID:       3e501456-6744-433a-b3e4-cd2cdc6936e0
 :END:
+these are masil based on the cosntion
 For the validity of istihnah, certain conditions must be met:
 1. It must be connect to the thing it is excluding, either directly or indirectly
-   - Direct connection occurs when the exception immediate follows the thin it exempts without interuption 
+   
+   - Direct connection occurs when the exception immediate follows the thin it exempts without interuption
+     
    - Indirect connection is assumed when there is a break betwen them cause by something unavoidable, like coughting or sneezing, if the separation is cause by something avoidable, such as pausing or speaking other words, the exceptions is not valid, for example, saying  "My slave are free", pausing, and then adding "except sa'd" would not be valid, and all slaves would be considered free.
-Some scholars argue that exceptions can be valid even with silence or a break in speech if it's part of a single speech act. They cite the hadith of ibn 'Abbas that the Prophet (ﷺ)  said on the day of the Conquest of Mecca, This country has been made sacred by Allah on the day he created the heavens and earth, it thorn are not to be popped up, nor its shrubs uprooted' So Al-Abbas said O messenger of Allah except idhker? He said: except idhker. This interpretation is support by the apprent meaning of the hadith.
+     - e.g if you sqneeze, but if it seen as too long of a puased, then it is not connected, based on the custom
+     
+Some scholars argue that exceptions can be valid even with silence or a break in speech if it's part of a single speech act.
+
+They cite the hadith of ibn 'Abbas that the Prophet (ﷺ)  said on the day of the Conquest of Mecca, This country has been made sacred by Allah on the day he created the heavens and earth, it thorn are not to be popped up, nor its shrubs uprooted' So Al-Abbas said O messenger of Allah except idhker? He said: except idhker. This interpretation is support by the apprent meaning of the hadith.
+- show that its connect to trigger a memeory about the grass
 
 2. The exception should not exceed half of what it is excluding
-If someone say "I owe him ten dirhams except six", this exception is not valid, and the entire ten dirhams are payable. Some argue that this condition is unnecessary, and the exception remains valid even if it exceeds half, but the obligation is limited to the remaining amount (in this case, not more than 4 dirhams). However, if the entire sum is made an exception, it is not valid according to both position. For instance, if someone says "I own him ten expect 10", the entire ten dirhams are payable
 
+If someone say "I owe him ten dirhams except six", this exception is not valid, and the entire ten dirhams are payable. Some argue that this condition is unnecessary, and the exception remains valid even if it exceeds half, but the obligation is limited to the remaining amount (in this case, not more than 4 dirhams). However, if the entire sum is made an exception, it is not valid according to both position. For instance, if someone says "I own him ten expect 10", the entire ten dirhams are payable
+- eg all of you stand up except of all of you
+  - this exception is not valid and the genereal statment is valid
+    - all 4 divorce except for the 4, then all 4 is divorce 
+- if the exception is greater than half
+  - is not valid
+    - all of you 100 stand up excpet the 80 of you
+      - only with description it will be excepted
+
+    
 This condition applies specifically to exception concerning number. However, if the exception pertain to a description, it remains valid even if most or all of the subject is exempted.
 
 For example in the Quran Allah say to Ibless (Satan)
 "Indeed, My servants - no authority will you have over them, except those who follow you of the deviator" 15:42
 
+- here is the example of
+  - if the exception is greater than half
+    - is not valid
+      - all of you 100 stand up excpet the 80 of you
+        - only with description it will be excepted
+  - the majority of the people will go to the fire
+    - excpet the descritpion of the peolpe who believe
+
+
 Even though the follower of Satan outnumber the righteous, the exception still applies. Similarly if someone say "give to eveone in the hose except the wealthy", and it turns out everyone in the house is wealthy, the exception stands, and no one receives anyting.
 
-Secondly, among the connected specified is the "shart" conditions, which in Arabic refers to a mark or sign. Here, it denotes connecting one thing to another, wether it is present or not, using the conditional "An" or one of it equivalents
+masil
+- people who false withness of zina they need to be wiped and can't take their testimonies,
+  - howver it says except those who have repent
+    - so how far back does it go
+      - there are two views on this
+      1. majority - goes back as far as it can go and can be acept
+         - as for lases, this is not broken by the exception agreed upon 
+      2. hanafi
+         - it dones't go all the way back to fasikun
+           - only his tawbah is accepted
+             - not his testimonies
+               - e.g the 3 witnes that went to abu bakrah
+
+               
+Secondly, among the connected specified is the "shart" conditions,
+
+
+
+which in Arabic refers to a mark or sign. Here, it denotes connecting one thing to another, wether it is present or not, using the conditional "An" or one of it equivalents
 
 The conditions is specific, whether it appears early or late in the text. An example of its early appearance is found in Allah's statement regarding the idolaters:
+ - "But if they should, repent, establish prayer, and give zakah, let them go on their way. Indeed Allah is fogiving and merciful" 9:5
+   - *if* they repent
 
-"But if they should, repent, establish prayer, and give zakah, let them go on their way. Indeed Allah is fogiving and merciful" 9:5
+- And an example of when it is delayed in the text is the saying of the Most High:
+- "And those who seek a contract [for eventual emancipation] form among who you right hand possess - then make a contract which them if you know there is within them goodness" 24:33
+  - here again "if"
 
-And an example of when it is delayed in the text is the saying of the Most High:
-"And those who seek a contract [for eventual emancipation] form among who you right hand possess - then make a contract which them if you know there is within them goodness" 24:33
+Thirdly, among the connected specifiers is a description,
+- which involves specifying certain individuals from a general group using an adjective,
+  - substitute (badl), or state (hal).
+    - And example of this is found in the Qur'an verse:
+      - "From those whom your right hand possess of believing slave girls" 4:25
 
-Thirdly, among the connected specifiers is a description, which involves specifying certain individuals from a general group using an adjective, substitute (badl), or state (hal).
+    - The example of substitute in the saying of the Most High:
+      - "And due to Allah from the people is a pilgrimage for the House - for whoever is able to find there to away" 3:97
 
-And example of this is found in the Qur'an verse:
-"From those whom your right hand possess of believing slave girls" 4:25
-
-The example of substitute in the saying of the Most High:
-
-"And due to Allah from the people is a pilgrimage for the House - for whoever is able to find there to away" 3:97
-
-And example of a state (hal) is the saying of the Most High:
-"But whoever kill ad believer intentionally - his recompense is Hell, wherein he will abide eternally, and Allah as become angry with him and has cursed him and has prepared him a great punishment" 4:93
+    - And example of a state (hal) is the saying of the Most High:
+    - "But whoever kill ad believer intentionally - his recompense is Hell, wherein he will abide eternally, and Allah as become angry with him and has cursed him and has prepared him a great punishment" 4:93
 
 ** The sperate Mukhasis
 :PROPERTIES:
 :ID:       4b8e919c-45d4-4ef4-8758-0bc3b1bb314a
 :END:
 
-[[id:b43cfedf-1cfe-421a-ba26-b5157e008976][lesson 12 notes]] (rec 13)
-The separate specifier is independent and consist of three elements: sense, reason and legislation
+The separate specifier is independent and consist of three elements:
+- sense,
+- reason and
+- legislation
 
 An example of specification by sense is found in the quran verse about the wind of 'Ad:
 "Destroy everything by command of its' lord" 46:25
 
-Here, the sense indicate that the wind did not destroy the heaven and the earth, and example of taksis through reason is the saying of the Most High:
+Here, the sense indicate that the wind did not destroy the heaven and the earth, and
+  - general terms that intended specifics words
+    - it didn't break everything i.e the sky
+      - so you sense tell you that it not meant in the genreal terms
+
+
+
+example of taksis through reason is the saying of the Most High:
 "Allah is the Creator of All things" 39:62
 
-The mind indicates that Allah is not created. Some of the scholars hold the view that what is made specific by the sense and intellect is not from the general that is made specific, rather it is from the general which is inteded for being specific, so the intent of the speaker or the addressee is not the specific in the first place, and is a general reality which a specific one (as the saying of the Most High) is intended by.
+- The mind indicates that Allah is not created.
+- Some of the scholars hold the view that what is made specific by the sense and intellect is not from the general that is made specific, rather it is from the general which is inteded for being specific, so the intent of the speaker or the addressee is not the specific in the first place, and is a general reality which a specific one (as the saying of the Most High) is intended by.
+  - general terms that are specific in its term or nature
+  - e.g. coat made out of the sin of pigs
+    - 7 different opions
+      - any type of skin of any that is tann becomes pure
+        - any type here they say, is what we know logiaclly its not going to be pig
+          - form it's general sense
+      - or it becomes pure due to the tanning i.e  the reason is tanning
+  
+As for takhsis of legislation,
+- then the Book and the Sunnah is made specific by each other as well as by Ijma and analogy.
+  
+1. As an example of the
+     - *Quran* making specific other part of the Quran,
+       - note the saying of the Most High: 
+         - "Divorced women remain in waiting for three period" 2:228
+           - the genral we understand it as old, yonger black and white
+       - This is made *specific* by the saying of the Most High
+         - "O  You who have believed, when you marry a believing women and the divorce them before you have touched them, then there is not for you any waiting period to count concerning them"33:49
+           - the exception is made for except fo the one who is carying a child
 
-As for takhsis of legislation, then the Book and the Sunnah is made specific by each other as well as by Ijma and analogy.
+2. For example
+  - of how the *Quran* is made specific by the Sunnah,
+    - take the verse of inheritance, as the saying of the Most High: 
+      - "Allah instruct you concerning your children: for the male what is equal to the share of two femails" 4:11
+    - And the like are made specific by the saying of the Prophet:
+      - "The Muslim must not inherit from the infidel and the infidel must not inherit from the Muslim"
 
-As an example of the Quran making specific other part of the Quran, note the saying of the Most High: 
-"Divorced women remain in waiting for three period" 2:228
+3. For an example of the
+  - *Qur'an* being made specific by consensus,
+    - the saying of the Most High:
+      - "And those who accuse chaste women and then do not produce four witness - lash them with eighty lashes" 24:4...
+    - is made specific by consensus
+      - that the slanderous slave is to be flogged forty time instead,
+        - and like this many of the people of usul give example, although there is some proven disagreement in this,
+          - I have not been able to find a sound example which is free from disagreement.
 
-This is made specific by the saying of the Most High
-"O  You who have believed, when you marry a believing women and the divorce them before you have touched them, then there is not for you any waiting period to count concerning them"33:49
+4. an example of the
+  - *Qur'an* being made specific through analogy
+    - is the saying of the Most High:
+      - "The unmarried women or unmarried man found guilty of sexual intercourse - last each one of them with a hundred lashes" 24:2
+    - This has been made specific by analogy
+      - to fifty lashes for the slave adulterer with the slave girl and this option is most well-known.
+
+      
+5. An example of the
+  - *Sunnah* being made specific by the Qur'an
+    - is the statement of the Prophet (ﷺ).
+      - "I have been commanded to fight the people until they testify that there is no true God but Allah and that Muhammad is the Messenger of Allah..."
+  - This has been made specific by the saying of the Most High:
+    - "Fight those who do not believe in Allah or in the Last Day and who do not consider unlawful what Allah and his Messenger have made unlawful and who do not adopt the religion of truth from those who were given the Scripture - fight until they give the jizyah willingly while they are humbled".
+
+6. An example of the
+  - *Sunnah* making specific something from the Sunnah
+    - is the saying of the Prophet (ﷺ):
+      - "on a land irrigate by rain water or by natural water channels or if the land is wet due to nearby water channels Ushr (i.c one tenth) is compulsory (as zakat)" and on the land irrigated by the well, half an Ushr (i.c one-twentieth) is compulsory (as Zakat on the yield of the land).
+        
+7. I have not been able to find an example from the
+   - Sunnah being made specific by concensus.
+
+8. Lastly an example of the
+  - *Sunnah* being made specific by analogy
+    - is the saying of the prophet (ﷺ):
+      - "The virgin with the virgin is one hundred lashes and banishment for one year"
+  - This has been made specific by analogy
+    -  for the slave man and women it is limited to fifty lashes, this is what is well known.
 
 
 
-
-time 10:13
-pg
-
-7:24am
-For example of how the Quran is made specific by the Sunnah, take the verse of inheritance, as the saying of the Most High: 
-"Allah instruct you concerning your children: for the male what is equal to the share of two femails" 4:11
-
-And the like are made specific by the saying of the Prophet:
-"The Muslim must not inherit from the infidel and the infidel must not inherit from the Muslim"
-
-For an example of the Qur'an being made specific by consensus, the saying of the Most High:
-
-"And those who accuse chaste women and then do not produce four witness - lash them with eighty lashes" 24:4
-...is made specific by consensus that the slanderous slave is to be flogged forty time instead, and like this many of the people of usul give example, although there is some proven disagreement in this, I have not been able to find a sound example which is free from disagreement.
-
-an example of the Qur'an being made specific through analogy is the saying of the Most High:
-"The unmarried women or unmarried man found guilty of sexual intercourse - last each one of them with a hundred lashes" 24:2
-
-This has been made specific by analogy to fifty lashes for the slave adulterer with the slave girl and this option is most well-known.
-An example of the Sunnah being made specific by the Qur'an is the statement of the Prophet (ﷺ).
-"I have been commanded to fight the people until they testify that there is no true God but Allah and that Muhammad is the Messenger of Allah..."
-
-This has been made specific by the saying of the Most High:
-"Fight those who do not believe in Allah or in the Last Day and who do not consider unlawful what Allah and his Messenger have made unlawful and who do not adopt the religion of truth from those who were given the Scripture - fight until they give the jizyah willingly while they are humbled".
-
-An example of the Sunnah making specific something from the Sunnah is the saying of the Prophet (ﷺ):
-"on a land irrigate by rain water or by natural water channels or if the land is wet due to nearby water channels Ushr (i.c one tenth) is compulsory (as zakat)" and on the land irrigated by the well, half an Ushr (i.c one-twentieth) is compulsory (as Zakat on the yield of the land).
-
-I have not been able to find an example from the Sunnah being made specific by concensus.
-
-Lastly an example of the Sunnah being made specific by analogy is the saying of the prophet (ﷺ):
-
-"The virgin with the virgin is one hundred lashes and banishment for one year"
-
-This has been made specific by analogy for the slave man and women it is limited to fifty lashes, this is what is well known.
 * The absolute and restricted
 :PROPERTIES:
 :ID:       644ac976-ff78-4cb8-bb60-34ba0a9b30fc
 :END:
-The definition of Absolute (al-mutlaq): Al-mutlaq linguistically means the opposite of unrestricted, and technically it means: whatever indicates a reality without a restriction as the saying of the Most High.
-"The freeing of a slave before they touch one another " 58:3
+done TODO - notes + org
+[[id:b43cfedf-1cfe-421a-ba26-b5157e008976][lesson 12 notes]] (rec 14)
 
-What is excluded from our words: "Whatever indicates a reality" is the general (al-Am)  because it indicates the generality of something whereas the Absolute indicate the absolute nature of a particular reality. And what is also excluded from our word "restricted" is unrestricted.
+The definition of Absolute (al-mutlaq):
+- Al-mutlaq linguistically means the opposite of unrestricted, and technically it means: whatever indicates a reality without a restriction as the saying of the Most High.
+  - "The freeing of a slave before they touch one another " 58:3
 
-The definition of Restricted (Al-muqayyid ): restricted linguistically means whatever is used to restrain a camel and the like, and technically means: whatever shows the reality of something but with a restriction such as the saying of the Most High:
+- What is excluded from our words:
+  -  "Whatever indicates a reality" is the general (al-Am)  because it indicates the generality of something whereas the Absolute indicate the absolute nature of a particular reality. And what is also excluded from our word "restricted" is unrestricted.
 
-"Freeing a believing slave" 4:92
+The definition of Restricted (Al-muqayyid ):
+- restricted linguistically means whatever is used to restrain a camel and the like, and technically means: whatever shows the reality of something but with a restriction such as the saying of the Most High:
+  - "Freeing a believing slave" 4:92
 
-Acting on Absolute (al-mutlaq): Al-mutlaq (text) must be acted upon in according to it apparent meaning (of absoluteness) until evidence restricts it. This is for the reason that acting on the Qur'an and Sunnah is an obligation and must abide by what is apparent unless other evidence show us otherwise.
+Acting on Absolute (al-mutlaq):
+- Al-mutlaq (text) must be acted upon in according to it apparent meaning (of absoluteness) until evidence restricts it.
+  -  This is for the reason that acting on the Qur'an and Sunnah is an obligation and must abide by what is apparent unless other evidence show us otherwise.
+
+
+
+ - get the restrict and aplly it to the unristricted to it
+   - i stoped here then we move on to the below  for cases
 
 When an absolute text and a restricted on address the same issue, the restricted is applied to the absolute text. However, if they pertain to different matters, both text are followed, with the restriction of one an the absoluteness of the other taken into account.
 
-An example of when the issue of both text is addressing one issue, is the saying of the Most High in expiation of zihar (pronouncing one's wife as the back of his mother intended by it divorce):
+1. An example of when the issue of both text is addressing one issue, is the saying of the Most High in expiation of zihar (pronouncing one's wife as the back of his mother intended by it divorce):
+ - "The freeing of a slave before they touch one another" 58:3
+   - And his saying about the expiation for murder:
+     - "Freeing a believing slave"  4:92
 
-"The freeing of a slave before they touch one another" 58:3
+The ruling remains consistent:
+the freeing of a slave, therefore, we must qualify the absolute nature of the first verse concerting the expiation of zihar by restricting it to the freeing of a believing slave, which aligns s with the restriction specified in the verse regarding the expiation for murder consequently, in both cases, the slave being freed should be a believer.
 
-And his saying about the expiation for murder:
-
-"Freeing a believing slave"  4:92
-
-The ruling remains consistent: the freeing of a slave, therefore, we must qualify the absolute nature of the first verse concerting the expiation of zihar by restricting it to the freeing of a believing slave, which aligns s with the restriction specified in the verse regarding the expiation for murder consequently, in both cases, the slave being freed should be a believer.
-
-An example for when the ruling is for different issues is the saying of the Most High:
-"as for the thief, the male and the female, amputate their hands" 5:38
-
-And his saying in the verse regarding ablution:
-"Wash you're faces and your forarms to the elbows" 5:6
-
-Here although the ruling may seem similar, there is a difference, the first verse mention cutting, while the second mentions washing. Therefore, we do not qualify the first text by the second: the first verse remains absolute, specifying that the cutting should be from the write. Similarly, the second verse remain restricted, indicating that the washing should be done up to and including the elbows.
+2. An example for when the ruling is for different issues is the saying of the Most High:
+  - "as for the thief, the male and the female, amputate their hands" 5:38
+  - And his saying in the verse regarding ablution:
+    - "Wash you're faces and your forarms to the elbows" 5:6
+  - Here although the ruling may seem similar, there is a difference, the first verse mention cutting, while the second mentions washing. Therefore, we do not qualify the first text by the second: the first verse remains absolute, specifying that the cutting should be from the write. Similarly, the second verse remain restricted, indicating that the washing should be done up to and including the elbows.
 
 * The Obscure and The clarifying
 :PROPERTIES:
 :ID:       a8f87fad-dae8-44d0-abfc-7cda34ab0ce6
 :END:
-pg 62 time 807
+
+[[id:afbb0d32-f0c5-4dd1-9a9b-e49537cc2ddc][lesson 13]]
 
 The Definition of  Obscure (Al-mujmal)
-Obscure linguistically denotes something vague or accumulated. Technically, it refer to what cannot be understood without futher specification, clarification of its description or determination of it quantity.
+Obscure linguistically
+denotes something vague or accumulated. Technically, it refer to what cannot be understood without futher specification, clarification of its description or determination of it quantity.
 
 And example of what needs something to specify it is the saying of the Most High:
 "Divorced women remain in waiting for three periods"2:228
 
-The term "al-qar" is ambiguous, encompassing both menstruation and purity. Therefore, clarification is needed from evidence to determine which meaning is intended in given context.
+ - The term "al-qar" is ambiguous, encompassing both menstruation and purity. Therefore, clarification is needed from evidence to determine which meaning is intended in given context.
+   - An example of what needs something else explaining it's description is the saying of the Most High:
+     - "And establish the prayer" 2:43
+       - Indeed establishing the prayer is unknown and needs to be explained.
 
-An example of what needs something else explaining it's description is the saying of the Most High:
-"And establish the prayer" 2:43
-
-Indeed establishing the prayer is unknown and needs to be explained.
-
-An example of what needs something else explaining its amount is the saying of the Most High:
-"And pay Zakat" 2:43
-
-Similarly, the specific amount of Zakat that must be paid is not specified in this verse and require clarification for other source.
+ - An example of what needs something else explaining its amount is the saying of the Most High:
+   - "And pay Zakat" 2:43
+     - Similarly, the specific amount of Zakat that must be paid is not specified in this verse and require clarification for other source.
 
 ** The definition of the Clarifying (Al-mubayyin)
 :PROPERTIES:
 :ID:       a8b41f50-6d29-4c8a-96c9-1af1d134a7db
 :END:
-Linguistically. "Al-mubayyin" refers to clarifies or explainer. Technically, it denotes when the meaning is understood directly for the word itself in its original form or after clarification. For instance, words like "sky", "land", "mountain", "justice", "injustice", "sincerity", and others are self-explanatory and do not require futher clarification. An example for what is understood after clarification is the saying of the Most High:
-        "And establish the prayer and pay the zakat"
+- Linguistically. "Al-mubayyin" refers to clarifies or explainer. Technically, it denotes when the meaning is understood directly for the word itself in its original form or after clarification.
+  - For instance, words like "sky", "land", "mountain", "justice", "injustice", "sincerity", and others are self-explanatory and do not require futher clarification. An example for what is understood after clarification is the saying of the Most High:
+    - "And establish the prayer and pay the zakat"
+      - The establishing the prayer and paying zakah are both unclear, but the legislation has explained them, so both words have become clear after they have been explained
+
+- Acting upon Mujmal (ambiguous) texts:
+- The Mukallaf (responsible individual) must act upon the Mujmal when its explanation becomes clear to him. The prophet (ﷺ) elucidate all aspects of legislation, its principles, and subsidiary matters to his followers. He left behind a clear and unambiguous path for his nation, with its night resembling its day, without leaving any ambiguity unresolved.
+  - The Prophet's explanations were convey either orally, thought his actions or through a combination of both. For instant he orally specified the amount and set the limit of Zakat, such as his statement: "A tenth of whatever is watered by the sky", which clarifies the general directive of the verse
+    - "And pay the Zakat" 2:43
+
+      - An example of him explaining through action is establishing the ritual of Hajj in front of all his followers making clear the generality of the saying forthe Most High:
+        - "And [due] to Allah from the people is a pilgrimage to the House - for whoever is able to find thereto a way" 3:97
+
+- indeed, the Prophet's practical explanation were profound. For instance, his observance of the eclipse prayer according to its prescribed manner served as a practical elucidation of his statement: "if you see any of it then pray". Similarly, his combination of words and prayer, as narrated in the account of the man who prayer incorrectly where he said, "If you go to prayer, complete the ablution properly, then face the Qiblah and say Allah hu Akbar". until the rest of the narration.
+
+- Moreover, his action alone also served as instructive demonstration. For instance, in the narrations of Sahl Ibn Sa'd as Sadi, the prophet (ﷺ) led the prayer from the pulpit, initiating with "Allahu akbar", and the congregation followed suit. Subsequently, then turned to them and elucidated, "I have done this so that you may follow me and learn my prayer"
         
-The establishing the prayer and paying zakah are both unclear, but the legislation has explained them, so both words have become clear after they have been explained
-
-Acting upon Mujmal (ambiguous) texts:
-The Mukallaf (responsible individual) must act upon the Mujmal when its explanation becomes clear to him. The prophet (ﷺ) elucidate all aspects of legislation, its principles, and subsidiary matters to his followers. He left behind a clear and unambiguous path for his nation, with its night resembling its day, without leaving any ambiguity unresolved.
-The Prophet's explanations were convey either orally, thought his actions or through a combination of both. For instant he orally specified the amount and set the limit of Zakat, such as his statement: "A tenth of whatever is watered by the sky", which clarifies the general directive of the verse
-"And pay the Zakat" 2:43
-
-An example of him explaining through action is establishing the ritual of Hajj in front of all his followers making clear the generality of the saying forthe Most High:
-"And [due] to Allah from the people is a pilgrimage to the House - for whoever is able to find thereto a way" 3:97
-
-indeed, the Prophet's practical explanation were profound. For instance, his observance of the eclipse prayer according to its prescribed manner served as a practical elucidation of his statement: "if you see any of it then pray". Similarly, his combination of words and prayer, as narrated in the account of the man who prayer incorrectly where he said, "If you go to prayer, complete the ablution properly, then face the Qiblah and say Allah hu Akbar". until the rest of the narration.
-
-Moreover, his action alone also served as instructive demonstration. For instance, in the narrations of Sahl Ibn Sa'd as Sadi, the prophet (ﷺ) led the prayer from the pulpit, initiating with "Allahu akbar", and the congregation followed suit. Subsequently, then turned to them and elucidated, "I have done this so that you may follow me and learn my prayer"
-
 * The Apparent and The Interpreted
 :PROPERTIES:
 :ID:       14833af3-bb2b-4b81-81bb-ce92ea9f9b32
 :END:
 The definition of Apparent (Ad-Dhahir)
 
-The term "Apparent" (Ad-Dhahir) carries a linguist connotation of clarity and visibility. Technically, it dentoes what it most likely in meaning, although other interpretation are possible. For instance, consider the Prophet's (ﷺ) statement: "Make ablution after (eating) camel meat." Here, the apparent meaning of ablution refers to the prescribed ritual ablution , not merely washing oneself.
+- The term "Apparent" (Ad-Dhahir) carries a linguist connotation of clarity and visibility. Technically, it dentoes what it most likely in meaning, although other interpretation are possible. For instance, consider the Prophet's (ﷺ) statement: "Make ablution after (eating) camel meat." Here, the apparent meaning of ablution refers to the prescribed ritual ablution , not merely washing oneself.
 
-What we exclude from "most likely in meaning" is anything categorised as al-Mujmal because it doesn't independently conveys a specific meaning. Additionally, we exclude from "most likely in meaning" the interpreted, as it would suggest a less accurate view without an external factor. Lastly, what we exclude from "although other interpretations are possible" is the clear text, which conveys only one definitive meaning.
+  - What we exclude from "most likely in meaning" is anything categorised as al-Mujmal because it doesn't independently conveys a specific meaning.
+    - Additionally, we exclude from "most likely in meaning" the interpreted, as it would suggest a less accurate view without an external factor.
+      - Lastly, what we exclude from "although other interpretations are possible" is the clear text, which conveys only one definitive meaning.
 
 Acting upon the Apparent (text)
 
-Acting upon the apparent text is obligatory unless there is evidence that deviates from its apparent meaning. Adopting this approach is more cautions, ensures greater fulfilment of responsibility, and strengthen worship compliance with the legislation.
+- Acting upon the apparent text is obligatory unless there is evidence that deviates from its apparent meaning.
+  -  Adopting this approach is more cautions, ensures greater fulfilment of responsibility, and strengthen worship compliance with the legislation.
 
 The definition of interpreted (Al Mu'awwal)
 
-Al Mu'awwal linguistically comes from the word "al-awal", which means the first or returning. Technically, it refers to when the wording implies the less likely meaning. Therefore, what is excluded from our definition is the text and the Apparent. The text implies only one meaning, while the Apparent suggest the most likely one.
+- Al Mu'awwal
+  - linguistically comes from the word "al-awal", which means the first or returning.
+  - Technically, it refers to when the wording implies the less likely meaning. Therefore, what is excluded from our definition is the text and the Apparent.
+    -  The text implies only one meaning, while the Apparent suggest the most likely one.
 
 And interpretation is of two types: acceptable and rejected
-1. The acceptable (interpretation) is what is indicated by sound evidence: such as the saying of the Most High: "and ask the village (i.e the people of it)". As for the village then it is not possible to ask it directly
-2. The rejected (interpretation) is what one does not have sound evidence (to support it), such as the interpretation of Mu'atilah (deviant sect) regarding the saying of the Most High: "The Most Merciful rose above the throne".
-
-[They changed the meaning of istawa (rose)] to meaning of "istawlah" to conquer, whereas it's correct interpretation is of highness and establishment without asking how or making similitude.
+1. The acceptable (interpretation)
+   - is what is indicated by sound evidence: such as the saying of the Most High: "and ask the village (i.e the people of it)".
+     - As for the village then it is not possible to ask it directly
+2. The rejected (interpretation)
+   - is what one does not have sound evidence (to support it),
+     - such as the interpretation of Mu'atilah (deviant sect) regarding the saying of the Most High: "The Most Merciful rose above the throne".
+     - [They changed the meaning of istawa (rose)] to meaning of "istawlah" to conquer, whereas it's correct interpretation is of highness and establishment without asking how or making similitude.
 
 * Abrogation (An-Naskh)
 :PROPERTIES:
@@ -1029,7 +1518,7 @@ Consensus can be categorised into type types: Qati and Dhanni
 
 Conclusion:
 It's inconceivable for the ummah to unite against clear, authentic, and un-abrogated evidence. Therefore, if a consensus appears to contradict such evidence, further examination is necessary. There may be issues with the authenticity, clarity, abrogation, or underlying disagreement not readily apparent.
-   
+         
 ** Conditions for Consensus
 :PROPERTIES:
 :ID:       9c95ee1b-1a97-4a61-95ec-ebd4c864e358

@@ -1,0 +1,355 @@
+:PROPERTIES:
+:ID:       afbb0d32-f0c5-4dd1-9a9b-e49537cc2ddc
+:END:
+#+title: lesson 13 and rec 15
+
+#+title: The Clarity & Obscurity of Words
+#+subtitle: Usul al-Fiqh – Lesson 13 (Usul min 'ilm al-Usul)
+#+date: 2025-01-28
+
+#+title: Usul al-Fiqh – Lesson 13
+#+subtitle: The Clarity & Obscurity of Words
+#+date: Tuesday 28 January 2025
+#+startup: overview
+
+* Module information
+- *Module*: Usul al-Fiqh 1
+- *Course book*: /Usul min ‘ilm al-Usul/
+- *Lesson*: 13
+- *Topic*: The clarity and obscurity of words
+
+* Contents of this lesson
+1. Revision of the previous lesson
+2. Overview of today’s topic
+3. Definitions, examples and scenarios
+4. Summary
+
+* Introduction – The clarity & obscurity of words
+Legislation is conveyed through words and phrases directed at those who are
+obligated to follow it.
+
+Divine legislation may come through:
+- *Literal revelation*: the Qur’an
+- *Conceptual revelation*: the Sunnah of the Prophet ﷺ
+
+Sometimes these words are:
+- clear in meaning and intent to the listener or reader,
+- and at other times ambiguous or obscure.
+
+This is where *Usul al-Fiqh* becomes critical. It sets principles and
+guidelines to:
+- discern the Legislator’s intent from the text,
+- and determine the rulings that must be implemented.
+
+* Main categorisation – The clear and the obscure
+Words, in terms of clarity or obscurity of their meaning, are divided into two
+main categories:
+
+1. *Words with clear indication*
+   - Do *not* need external clarification to know the intended meaning or how
+     to apply them.
+2. *Words with ambiguous indication*
+   - *Do* need external clarification to know the intended meaning or how to
+     apply them.
+
+In other words, the distinction depends on whether the word itself conveys its
+intended meaning independently, or whether it requires external context.
+
+** Map of the types - the clear and obsecure
+- *Words with clear indication*:
+  - *Nass* (النص)
+    - The meaning is indicated with *absolute clarity*.
+  - *Dhāhir* (الظاهر)
+    - One of the possible meanings is more probable.
+  - *Mu’awwal* (المؤول)
+    - The less probable meaning, taken with evidence.
+
+- *Words with ambiguous indication*:
+  - *Mujmal* (المجمل)
+    - None of the meanings are more probable than the others, but it *can* be
+      clarified.
+  - *Mutashābih* (المتشابه)
+    - None of the meanings are more probable than the others, and it *cannot*
+      be clarified (for us).
+
+* An-Nass –
+lnng- apparent (al kash) and revealed 
+tech- The text of absolute clarity
+** Definition
+/Nass/ is:
+- “That which indicates its meaning with absolute clarity, *leaving no room
+  for any other interpretation*.”
+  - no taweel
+    
+** Examples
+- His saying, the Exalted:
+  - =قُلْ هُوَ ٱللَّهُ أَحَدٌ=  ‏‎(Al-Ikhlāṣ: 1)
+  - “Say, ‘He is Allah, [who is] One.’”
+    - you can't interpret anything else from it other than what is says
+      - 
+- His saying, the Exalted:
+  - =مُّحَمَّدٌ رَّسُولُ ٱللَّهِ=  ‏‎(Al-Fatḥ: 29)
+  - “Muhammad is the Messenger of Allah.”
+
+e.g flog them 80 times in fiqh
+- there nothing else from here,
+
+** Ruling
+- Its meaning must be acted upon with *certainty*.
+- It is *not permissible* to deviate from it, *except* through
+  *abrogation* (naskh).
+
+* Adh-Dhāhir –
+ling - the oppiste of what is inside/hiden, something that is becomes clear/exposed
+tech: The apparent text
+** Definition
+/Dhāhir/ is:
+- “That which has two possible meanings, with *one of them being more
+  apparent*.”
+  - 2 words, 1 meaning of them can be more possible and then other 
+
+** Examples
+- The indication of a *command* (الأمر) for *obligation*, while it can also
+  possibly indicate *recommendation*.
+- The indication of a *prohibition* (النهي) for *prohibition* (taḥrīm), while
+  it can also possibly indicate *dislike* (karāhah).
+
+Examples from the sayings of the Prophet ﷺ:
+- “Pray as you have seen me pray.”  
+  (Agreed upon)
+  - commanded, but connect with other meanings
+    - it possible to have other meaning here
+      - one stick out
+        - this mean adh dhair text
+          - it may suggest recommedn and permissible, even when it comes as a command
+- “Do not sell what you do not have.”  
+  (Narrated by Aḥmad and the authors of the Sunan)
+  - don't sell has 3 possible meaning
+    - if you prohibit the default is prohib unless you have something else 
+- when you have a general term, its is understood as the general term, but there may be many different forms of that general term which may not be apprent.
+  - the scholars say it is wajib to act on the apprent meaning unless you have a valid reason to not to.
+    - e.g what we learned from before in terms of the signs and idication  
+** Ruling
+- It is *obligatory* to act upon the *apparent* meaning.
+- Deviation from it is *not permissible* except through:
+  - a *valid interpretation* (*ta’wīl*),
+  - which is supported by contextual indication or evidence.
+
+* Al-Mu’awwal
+lingist meanign- what is this 
+– The interpreted text
+** Definition
+/Mu’awwal/ is:
+- “A term that carries a *less likely* meaning which is taken *because of
+  supporting evidence*.”
+  - not the more apprent, but less lieky if it supported by evidence
+    
+** Ta’wīl – types of interpretation
+1. *Valid interpretation* (التأويل الصحيح)
+   - Assigning a word to a less obvious meaning *with strong evidence* that
+     necessitates this interpretation.
+   - Example:
+     - Allah says:
+       - In Al-Mā’idah: 3, “blood” is mentioned in a general form.
+       - In Al-An‘ām: 145, the “blood” is specified as *flowing blood*.
+    - A general word could, in principle, include animals of the land, sky, and sea.
+      - Other clear texts show that sea creatures (fish) are permissible, so the general wording cannot be understood to include them.
+        - The same applies to locusts, which are explicitly exempted in other texts.
+          - Therefore, scholars reduce the scope of the general term so that it excludes fish and locusts, keeping the prohibition only for the remaining animals.
+            - This targeted restriction, based on other evidences, is an example of valid interpretation
+
+1. *Invalid interpretation* (التأويل الفاسد)
+   - Assigning a word to a less obvious meaning, supported only by *weak*
+     evidence that is not strong enough to divert it from its apparent
+     meaning.
+   - Example:
+     - The ḥadīth:  
+       “Any woman who marries without the permission of her guardian, her
+       marriage is invalid.”
+       (Narrated by Aḥmad, Abū Dāwūd and al-Tirmidhī)
+     - Some interpreted this as applying *only* to a minor, a slave woman or a
+       freed slave woman, but there is insufficient evidence to restrict it
+       in that way.
+       - all types of women, but they assigned something with no evidence
+         
+** Conditions for *permissible* ta’wīl
+
+when it can be  ta'will made?
+For an interpretation to be valid, the following conditions must be met:
+
+
+1. The word must be *capable* of being interpreted.
+   - the actual word itself 
+2. The ta’wīl must be based on *valid evidence* indicating a shift from the
+   apparent meaning to another meaning.
+   - there must be an evidence in quran and sunnah for this
+     - like the example fo the blood 
+3. The word being interpreted must be able to *bear* the intended meaning,
+   even if it is a less likely possibility.
+   - other words, the Arabic language itself must recognise this as a valid possible meaning of the word.
+     - If the language does not allow this meaning, then the interpretation is invalid, even if someone claims it fits.
+     - Example:Allah says: “Ḥurrimat ʿalaykum al-maytatu…” – “Forbidden to you is al-maytah (dead meat)…”
+       - Some might falsely claim that al-maytah here means “dead human beings,” and then argue that this allows eating humans.
+         - But in Arabic usage (and in the shar‘ī usage of the fuqahā’), al-maytah refers to the carcass of an animal that died without proper slaughter – not human flesh.
+           - Since the word does not bear the meaning of “humans” in this context, such an interpretation is invalid and counted as false ta’wīl (تأويل فاسد).
+4. The one performing ta’wīl must possess sufficient qualifications for
+   *ijtihād* (independent legal reasoning).
+   - the laws and principle
+
+** Ruling on taking the mu’awwal meaning
+1. *With evidence*:
+   - If there is valid evidence (strong proof, argument, or established
+     interpretation from Qur’an, Sunnah, or consensus), it is *permissible*
+     to adopt the mu’awwal meaning.
+     - the evidenc justify it 
+   - The evidence justifies moving from the apparent meaning to the
+     interpreted meaning.
+
+2. *Without evidence*:
+   - If there is *no* valid evidence, it is *not permissible* to adopt the
+     mu’awwal meaning.
+   - In this case, the *original apparent meaning* must be followed.
+   - Otherwise, it becomes an incorrect approach that may lead to
+     misinterpretation or misapplication of the text.
+- these are  rules all above are that will give us the abolute rule and how we should go about them using the rules and regualtion
+  
+* Al-Mujmal –
+ling The obscure / ambiguous text
+** Definition
+/Mujmal/ is:
+- “That which indicates *one of multiple meanings*, with *no preference* for
+  any of them in relation to the context.”
+  
+  - not clear which they indicate so you don't know how to apply it
+    - widom is to test the people to see if they follow them or not
+
+        e.g nikhah
+        after 3 divorce ( you can't come to back it ) 
+        1 mean - marriage with nikkah
+        2 mean - marraige with constumation
+        - in the sunnah we now it mean consumation
+          - e.g. people will say no but in the quran it say this and that and interpreted wrong
+            - so Allah test them to see what they view
+
+              
+** Types of mujmal texts and examples
+1. *The polyseme* (المشترك)
+   - A word that has been assigned in the language to *two different literal
+     meanings*.
+   - Example:
+     - In the verse about waiting periods:  
+       =ثَلَاثَةَ قُرُوءٍ=  
+       The word *qurūʾ* may mean:
+       - *menstrual cycles* (ḥayḍ), or
+       - *periods of purity* (ṭuhr).
+     - Both are valid literal meanings.
+2. *Legal terms* (الألفاظ الشرعية)
+   - Arabic words that, over time, have acquired *specific technical
+     meanings* in Sharīʿah.
+   - Examples: ṣalāh, zakāh, ḥajj, wuḍūʾ, etc.
+     - make wudo (tawadu) when you have the meat of camels
+       - does this wudo means to wash our mouth or to make a wudo
+         - hence 3 of the madhab says you don't need to make wudo
+3. *Actions of the Messenger ﷺ*
+   - At times, an action of the Prophet ﷺ may carry *two possible meanings*.
+   - The action remains ambiguous until evidence clarifies which meaning is
+     intended.
+     - when one break the fast to make kafara for 60 days
+       - so someone broken their fast during ramandan
+         - so does this mean the same hadith applies here
+           - this kafara means relations with ones wife, not brekaing by food or other stuff
+4. *Metaphor* (المجاز)
+   - When a word is no longer taken literally and is *open to multiple
+     figurative senses*.
+   - None of these figurative meanings are to be preferred without evidence.
+   - Example:
+     - The ḥadīth:  
+       “There is no prayer without the opening of the Book.” (Ṣaḥīḥ Muslim)
+       - “Opening of the Book” is figuratively understood as *reciting
+         al-Fātiḥah*.
+
+** Ruling
+- The ruling regarding *mujmal* text is to *wait for external clarification*.
+- It is *not permissible* to act upon any of its possible meanings *without
+  proof*, because:
+  - the word itself does not give clear guidance on the intended meaning,
+  - and it is not permissible to impose obligations without evidence.
+
+* Al-Bayān
+ling– The clarifying text
+** tech Definition
+/Bayān/ is:
+- “The process of removing something from the realm of ambiguity and
+  confusion into the realm of clarity and understanding.”
+ - this the text that is what make the mujmal text clear
+   - grants use understanding
+the mesenger was sent to make it clarifying to us, hence he was sent
+ - so we're able to figure things out from the quran
+   - e.g how the prefrom the ibadah
+   - this was the role of the prophet (ﷺ), the quran has stated and the prophet (ﷺ) to show it/explain it - the forms of clarifaction are below      
+       
+** Ranks / forms of clarification
+what consittues as evidence for the al mujmal terms:
+1. Statements (qawl)
+   - Qur'an and Sunnah
+2. Actions (fiʿl)
+   - action of the prohet (ﷺ) has claried the mujmal
+   - how to preform the Salah
+3. Writings
+   - the writing of the messenger, those poeple who wrote for them
+     it contained the details of inherance and another example had the details of zakat 
+4. Tacit approvals (taqrīr)
+   - eg staying silient
+5. Signs
+   - show signed with his hands
+     - expalin by the comanions 
+6. Indications
+   - a reason for an action to be haram or halal  
+     - the indication of the ruling, why Allah (ﷺ) has done something
+7. Abandonment (ترك)
+   - commanded something, then been abroagate or recoomended after 
+8. Consensus of the Companions
+   - all agreed to the matter
+     - the shahaba explained
+9. Ijtihād
+   - analsing the evdience of the shira
+
+** Delaying clarification (تأخير البيان)
+- It is *obligatory* for the Prophet ﷺ to clarify speech *before the time of
+  need*.
+- Ibn al-Samʿānī reported a *consensus* on the *prohibition* of delaying clarification beyond the time of need.
+  - the prophet (ﷺ) said 2 by 2 to a beduon man (who was in hajar/rush )
+    - another narration of aisha to say he (ﷺ)  prayed to 8
+      - so it's not haram to prayer more than 8   
+
+* Al-Mutashābih –
+ling - The absolutely ambiguous text
+** tech -Definition
+/Mutashābih/ refers to:
+- That which has an unclear meaning, where:
+  - the intended meaning is *not apparent*,
+  - and *Allah alone* knows its true interpretation,
+  - and He has *not revealed* it to any of His creation.
+
+It is used for matters where there is *no hope of knowing* the intended
+meaning for those who find it ambiguous.
+
+** Example
+- The *nature of the attributes of Allah*:
+  - the face of Allah
+    - we believe it, but its realidy we don't know
+      - the shair'a tell us not to ask how
+        - to ask how is bidah, e.ge what imaam malik said
+  - We understand the *essence* of the attribute (e.g. knowledge, power),
+  - but the *specific manner / how* of these attributes remains unknown and
+    ambiguous to us.
+
+** Ruling
+- The ruling concerning mutashābih texts is:
+  - to *believe* in them as *true*,
+  - to have *īmān* in what Allah and His Messenger ﷺ intended by them,
+  - and to *refrain* from pursuing their exact detailed meaning,
+  - because knowing their precise reality is *impossible* for us.
+
+* Closing
+May Allah grant you success in this life and the next. *Āmīn.*

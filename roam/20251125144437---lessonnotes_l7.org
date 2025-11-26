@@ -45,86 +45,13 @@ With the presence of an external indicator (qarīnah), or via the context of a v
 2. Something permissible (mubāḥ).
 3. A threat.
    
-* TODO Important principles for commandments in uṣūl al-fiqh
-*** Principle 1
-األمر يدل على الوجوب ::
-The command indicates obligation.
-
-*** Principle 2
-األمر يقتضي الفور ::
-The command necessitates immediacy.
-
-*** Principle 3
-األمر المطلق ال يقتضي التكرار ::
-An unrestricted command does not necessitate repetition.
-
-*** Principle 4
-األمر بالشيء نهي عن ضده ::
-Commanding something is a prohibition of its opposite.
-
-*** Principle 5
-األمر بعد الحظر يفيد ما كان عليه ذلك الشيء قبل ورود األمر ::
-A command issued after a prohibition signifies what the matter was upon before the command was given.
-
-*** Principle 6
-الخبر بمعنى األمر يدل على الوجوب ::
-An informative report in the sense of a command signifies obligation.
-- the kabir report
-
-*** Principle 7
-األمر يفيد الوجوب بال قرينة، وبالقرينة يفيد ما تفيد القرينة ::
-A command signifies obligation without a context, and with context, it signifies what the context indicates.
-- default position, does it make it something else e.g mubah
-
-*** Principle 8
-الوسائل لها أحكام المقاصد ::
-Means take on the rulings of their objectives.
-
-*** Principle 9
-ما ال يتم الواجب إال به فهو واجب ::
-Whatever is necessary to complete an obligation is itself obligatory.
-
 
 
 * TODO Prohibitions (an-Nahy)
 
-*** Definition
-A statement which includes a request to avoid doing something by way of a high authority.
-- requestion to  stop doing the action 
-
-*** Forms of prohibitions
-- The lām alift of prohibition connected to the verb
-  - the verb is to show what not to do
-    - e.g don't come close to the wealth of the orphan
-      - don't come close to zina 
-- Other (contextual forms).
-  - the ahkam taklifiyah
-    - using the word muharam
-        e.g hurimat aliakum
-      - not halal for you
-      - connect a punishment to an action
-        - e.g. punishment of theose to take the wealth of the orphan
-      - e.g stay away from action
-        - these are like comands
-
           
-*** What does a prohibition necessitate?
-1. The default position of all prohibitions is that they necessitate taḥrīm
-   (forbidden).
-   - untill it can be proiven otherwiae
-     - e.g it's haram to murder to the polytheist
-     - if they say it's dislike, then they need ot prove it
-       
-2. Actions must be avoided right away.
-   - logically once you have engaged it then you have acted on the prohibtion
-     - hence you need to do it right away
-3. Continuously avoiding the actions.
-   - prohibition need to continuously as apose to the command
-     - because it my harm you in this dunya and the akhira
-     - hence you keep avoiding it untill death   
-4. The command of the opposite.
-   - you must do the other stuff against it, the opposite
-     - don't sit, so you should be stand 
+*** What does a prohibition necessitate by defautl?
+
 -----
 1. Invalidity of the action if the prohibition returns to “the very thing itself being prohibited”.
    - we went to the hanbli principle example
@@ -132,52 +59,14 @@ A statement which includes a request to avoid doing something by way of a high a
    - we was forbad to fast on a certain days, and he the fast on the day of eid, he did something haram, but is it still valid or not?
      - does a prohibiton nessiate the invlaidty of an action
 ****** Does a prohibition necessitate the invalidity of the action?
-       - they differe on this
-         - 30 different view
- 
-1.
-النهي ::
 
-- ان يكون النهي عائدا ذات المنهي عنه ::
-  The prohibition returns back to the very action itself being prohibited.
-  - e.g the fasting itself on eid is haram
-    - this is specificlly prohibited 
-
-2.
-- ان يكون النهي عائدا إلى شرط المنهي عنه ::
-  The prohibition returns back to one of the conditions of the prohibited action.
   
-  - wearing silk clothes to cover the awnrah
-    - covering the awrah is a condition of the salah
-      - he done something haram by wearing silk, and carried it over on the condition   
-    - this is not specifically prohibited, but it's connected
 
-accord to imaan ahmed
-anyone that does these two codtion about, the action is invaldiated
-
-majority agree with 1
-
-disagree with point 2 on the habali madhab, by the majory (+ the sencond option with the hanabli madhab + the author)
-- they are two serparete prohibition and they're not linked
-  - the action itself is valid, but the thing he did is haram and he will be accountable
-    - this seems to be the correct view
-    - the actio is valid
-      
-
-
-TODO :1:24:47
-- ان يكون النهي عائدا إلى أمر خارج ال يتعلق بذات المنهي عنه وال شرطه ::
-  The prohibition returns back to something other than the specific prohibited action or its conditions.
-- majority agreed
-  - if he wear silk hat and socks, his salah is valid
-    - the things that he did is not a condition nor return to the action itself
-      - hence the action is valid
 -----
 
 - 
-*** Other meanings of prohibitions
-With the presence of an external indicator (qarīnah), or via the context of
-a verse, a prohibition may also mean:
+*** 
+
 1. Dislike (karāhah).
 2. Guidance (irshād).
 

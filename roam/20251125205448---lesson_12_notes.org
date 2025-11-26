@@ -23,12 +23,9 @@ Course Book: Usul min ‘ilm al-Usul
 The concepts of **Mutlaq (absolute/unrestricted)** and **Muqayyad (restricted/specified)**  
 are foundational tools in deriving rulings.
 
-They help scholars:
-- analyse different evidences,
-- reconcile unrestricted vs restricted wordings,
-- extract precise legal rulings.
-
 * Definitions
+the third chapter of deriving rulings
+
 ** Mutlaq (Absolute / Unrestricted)
 Definition:  
 "A word that is neither qualified nor conditioned nor limited, and indicates a reality without restriction."
@@ -37,21 +34,52 @@ Example:
 - أعتق رقبة — *free a slave*  
   → No type, condition, or description is specified.
 
+  - al insan, all of mankind, from the man kind is the slave
+    - a general element form the general term
+      - hasn't been condition, restricted or qualify to something specific
+
+
 ** Muqayyad (Restricted)
 Definition:  
 "A word that is qualified, conditioned, or limited, indicating a reality with restriction."
 
 Example:  
 - أعتق رقبة مؤمنة — *free a believing slave*
-
+- if say a muslim slave, such as free a believing slave
+  - then it has been conditioned to something
+    
 ** When both appear
 Scholars determine:
 - Does the Muqayyad restrict the Mutlaq?
 - Or are they independent because the contexts differ?
-
 This reconciliation preserves precision and consistency in fiqh.
+They help scholars:
+- analyse different evidences,
+- reconcile unrestricted vs restricted wordings,
+- extract precise legal rulings. can we do this?
 
-* Restricting the Mutlaq (حمل المطلق على المقيد)
+e.g surah baqrah
+The Cow (2:67) 
+
+- And [recall] when Moses said to his people, "Indeed, Allāh commands you to slaughter a cow." They said, "Do you take us in ridicule?" He said, "I seek refuge in Allāh from being among the ignorant."
+  - They said, "Call upon your Lord to make clear to us what it is." [Moses] said, "[Allāh] says, 'It is a cow which is neither old nor virgin, but median between that,' so do what you are commanded."
+    - They said, "Call upon your Lord to show us what is her color." He said, "He says, 'It is a yellow cow, bright in color - pleasing to the observers.'.
+      - They said, "Call upon your Lord to make clear to us what it is. Indeed, [all] cows look alike to us. And indeed we, if Allāh wills, will be guided.
+        - He said, "He says, 'It is a cow neither trained to plow the earth nor to irrigate the field, one free from fault with no spot upon her.'" They said, "Now you have come with the truth." So they slaughtered her, but they could hardly do it."
+
+https://quran.com/2/67
+- the cow is a cow
+  - they could have choosen any cow and they would have fulfilled the camandment
+  - then they asked again
+    - it's been resricted more with color and age 
+- hence if you find it in the quran and sunnah, you follow the example of musa
+  - e.g it haram to drink blood
+    - rear steak - we find some blood
+      - but it has been restricted, the type of blood
+        - the blood which gushes out when you slaughter the animal
+          - we get the 1) mutlaq and apply the 2) muqayyad to it
+            - get the restrict and aplly it to the unristricted to it 
+* Restricting the Mutlaq (حمل المطلق على المقيد) + 4 cases
 This explains **when** the Muqayyad restricts the Mutlaq and when it **does not**.
 
 Scholars agree:
@@ -70,16 +98,34 @@ If both texts share:
 
 Example:  
 Prohibition of *blood*.
+- of consuming the blood
+  - to prevent it from settling one stomach to prevent harm (reason)
+    
+the Prohibition is unriststed
+but it another verse it is restircted
 
 Mutlaq:  
 {حُرِّمَت عليكم … والدم} (5:3)
-
+Prohibition of *blood*.
+- of consuming the blood
+  - to prevent it from settling one stomach to prevent harm (reason)
+    
 Muqayyad:  
 {أو دماً مسفوحاً} — *spilled/flowing blood* (6:145)
 
-Conclusion:  
-Only *flowing blood* is prohibited.
 
+Conclusion:
+they have the same ruling and same hukum 
+→ The restricted (muqayyad) qualifies the unrestricted (mutlaq).
+ - Only *flowing blood* is prohibited.
+andother example, milk mothers
+- was mention in a unrestrict  form
+  - anyone that is feed
+    - it was initally 10 feeds, then to 5 feeds
+ - there both talking about milk and mahram
+   - hence you apply the 5 feed to this ayah
+   - so you overall ruling has resticting
+     - it's basicling like an expalingiton of the ayah from the sunnah  
 *** Case 2 — Different Hukm, Different Sabab → Mutlaq remains unrestricted
 If:
 - the rulings differ,
@@ -88,10 +134,23 @@ If:
 → They cannot affect one another.
 
 Example:
-1. Cutting the hand of the thief — different hukm/sabab  
+1. Cutting the hand of the thief — different hukm/sabab
+   - cuting hand - ruling - let unrestrict
+   - theif - reason
 2. Washing hands for wudu — different hukm/sabab
+   - wudo (washing hand to elbow)  - is restricted
+   - for salah - reason 
 
 Therefore:  
+No cross-restriction.
+in the first there are narration for it
+
+another example
+kill acidence - reason
+fast 2 monst 
+
+expication for breaking oath 
+fast 3 days - unresicted
 No cross-restriction.
 
 *** Case 3 — Different Hukm, Same Sabab → Mutlaq remains unrestricted
@@ -105,9 +164,10 @@ Example:
 1. Wudu: wash hands to elbows (restricted)  
 2. Tayammum: wipe hands (unrestricted)
 
-Reason in both: *purification*  
-But rulings differ → no restriction.
-
+Reason in both: *purification*  (for salah)
+But rulings differ (1 is resitricted and 2 is unrestrict) → hence no restriction is applied.
+e.g the shafee and vast mojority
+- it is not permissble to unrestrict it
 *** Case 4 — Same Hukm, Different Sabab → Disagreement; majority restrict
 If:
 - rulings are the same,
@@ -119,8 +179,23 @@ Example:
 1. Zihār expiation — free *a slave* (mutlaq)
 2. Killing expiation — free *a believing slave* (muqayyad)
 
-Majority:  
+Majority:
+- rulings are the same (to free a slave)
+  - but has been restricted in killing to be a believing slave
 The unrestricted becomes restricted unless evidence shows independence.
+
+- however the reasons differ (zihar vs accident killing),
+
+  - so can we apply the restirct of a "believing" slave to the one who want to go back to his wife
+    - should he free any slave
+      -  if they share the same ruling
+        - then you can and it is olgatory
+          - majority
+    - or a believing slave
+      - hanifa and (other in there riwayah of the imaan of  madhab agree with abu hanifa) 
+        - the reason are differnt so why would we restrict them
+          - response - Allah doesn't make reason for ibadaat like else where
+    - this is a reason for majority for difference in opionion             
 
 * Exercises (From the Slides)
 
@@ -152,5 +227,6 @@ Text 2: “No marriage except with a responsible guardian.”
 → Mutlaq is restricted by the description “responsible”.
 
 * Closing
+
 May Allah send peace and blessings upon Muhammad ﷺ, his companions, and those who follow his way. Ameen.
 

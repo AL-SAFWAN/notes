@@ -38,7 +38,6 @@
 ** The structure of legal rulings
 - The Laws of the Sharī‘ah (الأحكام الشرعية)
 - The Lawgiver – Allah (الحاكم)
-  - The hakim
 - The Law / Ruling (الحكم)
   - the takify and wadiyah 
 - The Judged Matter / Subject of the ruling (المحكوم فيه)
@@ -160,39 +159,16 @@ why is islam not a contion in takilify
     - becasue  islam is a condition for the acceptance of the action, but not a condition for accountablity/ talifiyka 
     
 * Conditions of Validity vs Conditions of Obligation
-** شروط الصحة – Conditions of Validity
-- These are the conditions for the *validity* of an act of worship, transaction, or other legal act.
-- The *mukallaf* must fulfil them for the act to be sound in the sight of Sharī‘ah.
-- If these conditions are not met, the act is *invalid* and will not be accepted.
-  - islam is a condition for valditiy
-    - so theire carity won't be accepted
-      simialar, reacting the age of maturity, the action is accept but not obligaotry
-      - why usool scholars mention this 
-        - e.g kafir should be fasting during ramanadam, so we will faslitating in haram
-          - there are 24 different opions
-            iman ahmed
-            - both are held accoutable
-        - deal with muslim on the deafult position so you don't need to ask. 
-
-** شروط الوجوب – Conditions of Obligation
-- These are the conditions for an act to *become obligatory* upon the *mukallaf*.
-- When these conditions are fulfilled, the person is required to perform the act.
-- If they are not fulfilled, the act may not yet be obligatory (e.g 7-10yr) (even if performing it would still be valid).
-
 * Principle about legislative wording
 - “The default position of words used in a *legislative* context is to carry their *legislative meanings* unless proven otherwise.”
 
 * Preventions / Obstacles to Legal Accountability (موانع التكليف)
-Mawani’ al-Taklif are the obstacles to legal accountability in Usul al-Fiqh.
-- These are factors that prevent a person from being held blameworthy, even if they meet a sign of maturity and accountability when these obstilbes are present.
-
 
 ** Main obstacles
 - الجهل :: *Ignorance* – not knowing the ruling or not having learnt it.
 - النسيان :: *Forgetfulness* – genuinely forgetting the ruling at the time of action.
 - الإكراه :: *Coercion* – being forced to do something under compulsion.
 
-When these are present, a person may not be held responsible for leaving an obligation or committing a prohibition.
 
 * KILL Summary of the Mukallaf – The one held accountable
 - The *mukallaf* is the one who is held accountable for all *commands* and *prohibitions* of the Sharī‘ah.
@@ -204,43 +180,26 @@ When these are present, a person may not be held responsible for leaving an obli
   5. Pregnancy.
 - The main preventions of accountability are:
   1. Ignorance.
-     - e.g saying something in sleep
-       - but if he breaks something in sleep then it counts
   2. Forgetfulness.
-     - he will not be punished for his action
-       - Allah will have mercy for him
-         - eg fasting and breaks his food
-           - his fast is not broken
   3. Coercion.
-     - being forced
-       - you can't bear, it i.e to the point of commit suicide 
-       - you can bear it, you can still be accountable, just going to prison
-         
-- The burden of obeying commands and abstaining from prohibitions is directed at *both Muslims and non-Muslims*.
+     
   
 ----
-the insane
- - for the person who is insane he is not accoutnable for him in the duyah and the akhira
-   - as for ibadah action
-     - allah did not request it or required it
-     - there is not conquece for it in the dunya and akhira
-       - however if he harmed a peron or damaged a proverty or steal
-         - he's not accountable in the dunya
-           - but he and his gardian are requided to fix the problem
-       - even  if he a sane person breaks something in sleep then it counts, because he is still accountable in the dunya
-               
+           
+** Overview of manners of deriving from evidences
   
 * The General and the Specific
-** Overview of manners of deriving from evidences
 - Commandments & Prohibitions (الأمر والنهي)
 - The General & the Specific (العام والخاص)
 - The Absolute & the Restricted (المطلق والمقيد)
 - The Obscure & the Clarifying (المجمل والمبيَّن)
 - The Apparent & the Interpreted (الظاهر والمؤوَّل)
 
-* General Texts / Terms (العام)
+* TODO General Texts / Terms (العام)
 ** Definition
+
 - “An all-encompassing word that includes all its individual elements without restriction.”
+  
 - Or: “A word (or name) that encompasses everything it applies to, in a single usage, without limitation.”
   
   - e.g when you entering a masjid, you can sit down and till you perform 2 rakat, this is said in a general term.
@@ -250,8 +209,7 @@ the insane
     - e.g rain, snow
 
 - the law is general and allowed in different curcumstances
-  - to claim it is haram you need to prove it
-
+  
 
 ** What do general terms necessitate?
 - It is *obligatory* to act according to the general wording.
@@ -262,7 +220,7 @@ the insane
       - he say a general statement so it still  counts even thought he said it as a genral statement  
 
   
-* Expressions that signify generality (Forms of General (Al-'Am))  
+* TODO Expressions that signify generality (Forms of General (Al-'Am))  
 ** 1. Explicitly general words
 ما كان بمادته نصًّا في العموم، وهي: *كل، جميع، كافة، قاطبة*  
 Words whose very form is explicit in generality, such as:
@@ -333,8 +291,7 @@ eg.
   - the men (all of men) are maintainer for their women
     - 
 
-    
-* Categories and types of generality (أقسام العام)
+* TODO Categories and types of generality (أقسام العام)
 
 ** العام الباقي على عمومه
 - *The general that remains in its generality*  
@@ -376,5 +333,6 @@ eg.
     - allah will reaveal aAyat as soon as that incidence will hapne
     - the rulings is based on the words and not based on their specifiec incdience, the laws are taken from the generality of their law 
       
+
 * Closing
 And may the peace and blessings of Allah be upon His servant and the seal of the Prophets, Muhammad, his companions and all those who follow his way. Āmīn.
