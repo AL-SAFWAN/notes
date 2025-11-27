@@ -1,0 +1,221 @@
+:PROPERTIES:
+:ID:       caa2d05c-c6ff-4f74-a297-11acfbc22536
+:END:
+#+title: lesson 17 rec 20
+wrote it as 19, thsi is wrong
+#+title: Usul al-Fiqh – Lesson 17
+#+subtitle: An-Naskh (Abrogation)
+#+date: Saturday 10 May 2025
+#+startup: overview
+
+* Module information
+- *Module*: Usul al-Fiqh 1
+- *Course book*: /Usul min ‘ilm al-Usul/
+- *Lesson*: 17
+- *Topic*: An-Naskh – Abrogation
+
+* Contents of this lesson
+1. Revision
+2. An-Naskh – Abrogation
+3. Where An-Naskh does *not* occur
+4. Pillars & conditions of An-Naskh
+5. Categories of abrogation
+6. Types of abrogation
+7. How to identify An-Naskh
+
+* Recap – The categories of evidences (al-Adillah الأدلّة)
+- *Evidences agreed upon* (أدلة متفق عليها):
+  1. Qur’an (القرآن)
+  2. Sunnah (السنة)
+  3. Ijmā‘ (الإجماع)
+  4. Qiyās (القياس)
+
+- *Disputed evidences* (أدلة مختلف عليها):
+  1. Statements of the Companions (قول الصحابي)
+  2. al-Istiḥsān (الاستحسان)
+  3. al-Maṣlaḥah al-Mursalah (المصلحة المرسلة)
+  4. Shar‘ man qablana – the law of previous nations (شرع من قبلنا)
+
+- Statement of Imām al-Shāfi‘ī:
+  - «وَجْهَةُ العِلْمِ: في الكتاب، أو السنّة، أو الإجماع، أو القياس»
+  - “The foundation of knowledge is: a report from the Book (the Qur’an), or the Sunnah, or consensus (ijmāʿ), or analogy (qiyās).”
+
+* An-Naskh – Abrogation
+** Definition
+- Linguistic root: النَّسخ carries meanings such as:
+  - removal / lifting,
+  - transfer or copying.
+- Technical definition in uṣūl:
+  - *“The removal (or lifting) of a previously established legal ruling by a later revelation.”*
+  - i.e. a shar‘ī ruling that was once in force is superseded by another shar‘ī text that comes after it.
+
+** Key point
+- Naskh is *not* contradiction.
+  - It reflects a *change in legislation* based on divine wisdom.
+  - Each ruling was correct and binding *in its time*; the later ruling simply replaces the earlier one.
+
+* Examples of An-Naskh
+1. **Explicit Qur’anic mention of abrogation**
+   - Allah says (meaning):
+     - “Whatever verse We abrogate or cause to be forgotten, We bring forth one better than it or similar to it…”  
+       (Sūrat al-Baqarah 2:106)
+
+2. **Abrogation of previous divine laws**
+   - The Sharī‘ah of Muḥammad ﷺ abrogates earlier heavenly laws where they differ from it.
+   - For example, certain dietary and Sabbath laws given to Banū Isrā’īl are no longer binding on this Ummah.
+
+3. **Abrogation of the Qiblah**
+   - Initially, the Muslims faced *Bayt al-Maqdis* (Jerusalem) in prayer.
+   - Later, Allah commanded them to face *al-Masjid al-Ḥarām* in Makkah:
+     - “So turn your face toward al-Masjid al-Ḥarām; and wherever you are, turn your faces toward it…”  
+       (Sūrat al-Baqarah 2:144)
+
+4. **Abrogation of the prohibition of visiting graves**
+   - At first, the Prophet ﷺ forbade visiting graves.
+   - Later he said:
+     - “I had prohibited you from visiting graves — now visit them, for they remind you of the Hereafter.”
+   - The earlier prohibition was abrogated; visiting graves is now recommended as a reminder of death and the Hereafter.
+
+* Where abrogation does *not* occur
+Naskh applies to *legislative rulings* (aḥkām fiqhiyyah), not to every type of text.
+
+1. **Matters of ʿAqīdah (belief)**
+   - Beliefs such as:
+     - tawḥīd and the Oneness of Allah,
+     - belief in the Hereafter,
+     - angels, books, messengers, qadar.
+   - These are eternal truths and are *not* subject to abrogation.
+
+2. **Reports and stories of the past**
+   - Historical reports: stories of previous nations, Prophets, Banū Isrā’īl, Fir‘awn, Iblīs, etc.
+   - These are informational (khabar), not commands, so abrogation does not apply.
+
+3. **Universal moral values**
+   - Core ethical values like:
+     - justice, honesty, compassion, trustworthiness.
+   - These are rooted in the fiṭrah and remain constant.
+
+4. **Actions legislated for eternity**
+   - Certain rulings remain until the Day of Judgement, e.g.:
+     - jihād as a means of defending the faith,
+     - the permanent prohibition of marrying the wives of the Prophet ﷺ after him.
+
+* Pillars of abrogation (arkān an-naskh)
+For naskh to exist, three elements are considered:
+
+1. *An-Nāsikh* – the abrogating text or ruling.
+2. *al-Mansūkh* – the abrogated text or ruling.
+3. *al-Mansūkh ʿanhu* – the subject(s) affected by that ruling (those for whom it applied).
+
+** 1. An-Nāsikh – The abrogating text
+- Definition:
+  - The *later* law or text that supersedes a previous ruling.
+- Role:
+  - Represents the *final, current* ruling to be followed.
+- Conditions:
+  - Must be *revealed after* the mansūkh.
+  - Clearly *replaces* or modifies the earlier ruling.
+  - Itself must be a valid shar‘ī proof (Qur’an or Sunnah) and clear in indication.
+  - Its “strength” (in terms of source and indication) must be sufficient to override the earlier ruling.
+- Example:
+  - The command to face the Kaʿbah in Makkah abrogated the earlier command to face *Bayt al-Maqdis*.
+
+** 2. al-Mansūkh – The abrogated text
+- Definition:
+  - The earlier ruling that has been *lifted* by a later text.
+- Role:
+  - Was binding before the nāsikh appeared;
+  - after abrogation it is *no longer acted upon*.
+- Conditions:
+  - Applied *before* the nāsikh was revealed.
+  - After the nāsikh, it is no longer valid to implement it as law.
+  - The fact it is abrogated does *not* mean it was false; rather, the ruling has fulfilled its wisdom and time.
+- Example:
+  - Early concessions and forms of fasting that were modified by later verses in Sūrat al-Baqarah (2:183–185).
+
+** 3. al-Mansūkh ʿanhu – The subject affected
+- Definition:
+  - The person(s) or group for whom the abrogated ruling previously applied.
+- Role:
+  - They move from being bound by the earlier ruling to being bound by the new one.
+- Example:
+  - Early in Islam, Muslims were prohibited from visiting graves; they were the *mansūkh ʿanhu* for that ruling.
+  - After the new command permitting grave visitation, they are no longer sinful for doing so.
+
+* Categories of abrogation (with respect to the text)
+1. **Ruling abrogated, wording remains**
+   - The verse remains in the muṣḥaf and is recited.
+   - However, the legal ruling it once carried is no longer in force.
+
+2. **Wording abrogated, ruling remains**
+   - The specific verse is no longer recited as Qur’an,
+   - but its *legal ruling* continues to be implemented via other evidences.
+
+3. **Both wording and ruling abrogated**
+   - The verse is no longer recited,
+   - and the legal ruling is no longer in force.
+
+* Types of abrogation – with or without replacement
+When Allah abrogates a ruling, it may or may not be replaced by another ruling.
+
+** 1. Abrogation *with replacement*
+a) *Equal replacement*  
+   - Example: change of the qiblah from Jerusalem to Makkah.
+   - The act (facing a direction in prayer) remains, but the object changes.
+
+b) *Lighter replacement*  
+   - Some rulings are replaced with something *easier*, e.g.:
+     - adjustments to the rules of fasting,
+     - changes in the rules of fighting at different stages of the daʿwah.
+
+c) *Stricter replacement*  
+   - Some rulings are replaced with something *more stringent*, e.g.:
+     - the gradual prohibition of alcohol:
+       - from discouragement,
+       - to prohibition near prayer,
+       - to complete and final prohibition.
+
+** 2. Abrogation *without replacement*
+- A ruling is lifted and *no new ruling* comes in its place.
+- Example:
+  - The obligation to give charity before privately consulting the Prophet ﷺ:
+    - Initially required,
+    - then removed with no comparable replacement ruling.
+
+* Ways to recognise abrogation
+1. **Explicit text**
+   - A text clearly states that a *previous ruling has been abrogated*.  
+   - Example: The hadith where the Prophet ﷺ says:
+     - “I had prohibited you from visiting graves – now visit them...”
+   - This directly announces abrogation.
+
+2. **Later text (chronology)**
+   - Knowing that one text came *later* than another,
+   - and the two rulings cannot be reconciled,
+   - shows that the later one abrogates the earlier.
+
+3. **Consensus of the Companions**
+   - The Companions may agree that a certain ruling has been abrogated by another,
+   - even if no explicit wording of abrogation occurs in the text itself.
+
+4. **Abandonment by the Companions**
+   - At times, the Companions stop acting on a hadith or ruling,
+   - without any explicit statement of naskh.
+   - Their *consistent abandonment* while acting on another text can indicate that the first has been superseded.
+
+* Exercise
+- From the examples mentioned:
+  - identify which pillar(s) of naskh are visible in each case,
+  - determine whether the abrogation is with or without replacement,
+  - and reflect on how we know *which* text came later.
+
+* Closing
+- Imām al-Qarāfī said:
+  - “He who does not study uṣūl al-fiqh is prohibited from issuing fatwas,
+    for he does not know how to distinguish between different concepts,
+    nor how to restrict and specify general directives.”
+
+May the peace and blessings of Allah be upon His servant and the seal of the Prophets, Muḥammad,
+his Companions and all those who follow his way. *Āmīn.*
+
+

@@ -1,0 +1,321 @@
+:PROPERTIES:
+:ID:       10956880-d251-464e-9c76-d2f0be3df3d7
+:END:
+#+title: lesson 15 rec 18
+
+#+title: Usul al-Fiqh – Lesson 15
+#+subtitle: The Qur’an – Compilation, Qirā’āt & Types of Rulings
+#+date: Tuesday 22 April 2025
+#+startup: overview
+
+* Module information
+- *Module*: Usul al-Fiqh 1
+- *Course book*: /Usul min ‘ilm al-Usul/
+- *Lesson*: 15
+
+* Contents of this lesson
+1. Brief history of the compilation of the Qur’an
+2. Abū Bakr’s compilation of the Qur’an
+3. ‘Uthmān’s compilation of the Qur’an
+4. *al-Qirā’ah ash-Shādhdhah*
+5. Types of rulings in the Qur’an
+6. Rulings through *qirā’āt*
+
+* Recap – Categories of evidences (al-Adillah الأدلّة)
+- *Evidences agreed upon* (أدلة متفق عليها):
+  1. Qur’an (القرآن)
+  2. Sunnah (السنة)
+  3. Ijmā‘ (الإجماع)
+  4. Qiyās (القياس)
+
+- *Disputed evidences* (أدلة مختلف عليها):
+  1. Statements of the Companions (قول الصحابي)
+  2. al-Istiḥsān (الاستحسان)
+  3. al-Maṣlaḥah al-Mursalah (المصلحة المرسلة)
+  4. Shar‘ man qablana – the law of previous nations (شرع من قبلنا)
+
+- Statement of Imām al-Shāfi‘ī:
+  - «وَجْهَةُ الْعِلْمِ: فِي الْكِتَابِ، أَوِ السُّنَّةِ، أَوِ الْإِجْمَاعِ، أَوِ الْقِيَاسِ»
+  - “The foundation of knowledge is: a report from the Book (Qur’an), or the Sunnah, or consensus, or analogy.”
+
+* Evidence (1) – al-Kitāb: The Qur’an
+** The three main topics related to the Qur’an as a proof
+
+1. *First topic* (المطلب الأول)
+   - Defining the Qur’an.
+   - The compilation and preservation of the Qur’an.
+
+2. *Second topic* (المطلب الثاني)
+   - The authority of the Qur’an and its miraculous nature.
+   - The authoritativeness of *al-qirā’ah ash-shādhdhah* (irregular readings).
+   - The types of *aḥkām* (rulings) in the Qur’an.
+
+3. *Third topic* (المطلب الثالث)
+   - Deriving rulings through the Qur’an.
+
+* Preserving the Qur’an
+A high-level overview of preservation:
+
+1. *Preserving the Qur’an in the heavens*
+   - Written and safeguarded in *al-Lawḥ al-Maḥfūẓ* (the Preserved Tablet).
+
+2. *Preserving the Qur’an on its way to the world*
+   - Revealed by Allāh, conveyed by Jibrīl (ʿalayhi s-salām) to the Prophet ﷺ with precision.
+
+3. *Preserving the Qur’an during the life of the Prophet ﷺ*
+   - Recited, taught and revised with the Companions.
+   - Written down by the scribes of revelation and memorised by many of the Companions.
+
+* Defining al-Qirā’āt (القراءات)
+** Definition
+Arabic definition:
+- «عِلْمٌ يُعْرَفُ بِهِ كَيْفِيَّةُ أَدَاءِ كَلِمَاتِ الْقُرْآنِ، وَوُجُوهُهَا اخْتِلَافًا وَاتِّفَاقًا، مَعَ عَزْوِ كُلِّ وُجْهٍ إِلَى نَاقِلِهِ»
+
+Meaning:
+- A science by which one learns:
+  - the correct manner of pronouncing the words of the Qur’an,
+  - the various accepted ways of reciting them (agreement and variation),
+  - and by which each mode of recitation is attributed to its specific transmitter (qāriʾ and rāwī).
+    
+* al-ʿArḍah al-Ākhīrah (الْعَرْضَةُ الْأَخِيرَةُ) – The Final Presentation
+- Took place:
+  - In the *final year* of the Prophet’s ﷺ life.
+  - During *Ramaḍān*.
+- It was the *last mutual recitation* (mu‘āraḍah) between:
+  - the Prophet ﷺ and the angel Jibrīl (ʿalayhi s-salām).
+- In this review:
+  - Each recited the entire Qur’an to the other *twice* (4 time in total).
+    - in hadith of aisha, and she cried because she knew what it meant
+  - It affirmed the *final, precise form* of the Qur’an in memorisation and arrangement.
+- Importance:
+  - Became the *authoritative reference* for the Companions.
+  - Zayd ibn Thābit (raḍiyallāhu ʿanhu) attended this review and relied on it later when compiling the Qur’an under Abū Bakr and ‘Uthmān.
+    - heard of it 4 times
+      the last sitting the final sitting
+      - to afirm what was afirmed and clear that  
+      - all of it was presevered as it's final form and return to it's orginal harff
+        - after this it was all the same
+          - may shaba had writen it in the order of revevilation
+            - this is because it was still being reveled
+  - Ensured that what the Ummah holds today is exactly what was preserved in the heart of the Prophet ﷺ and affirmed by Jibrīl.
+
+* Abū Bakr’s compilation of the Qur’an
+** Why the Qur’an was compiled in a single codex
+- After the Prophet’s ﷺ passing, preservation of the Qur’an became a pressing issue.
+- Although:
+  - many Companions had memorised the Qur’an,
+  - and portions were already written,
+  - the risk of loss increased due to battles.
+
+- *Key trigger*:
+  - The Battle of Yamāmah:
+    - 500-700 
+      - A large number of *qurrā’* (reciters, memorizers) were martyred.
+        - include salim and other specalist
+      - Raised serious concern about losing parts of the Qur’an if no action was taken.
+
+** Key stages during the caliphate of Abū Bakr (raḍiyallāhu ʿanhu)
+1. *Consultation and ijmā‘ of the Companions*
+   - ‘Umar suggested compiling the Qur’an into one codex.
+     - he came to zayb bin thabit, and then told abu bakr, he said how can i do that, if the prophet (ﷺ) didn't tell me.
+       - he said it would have been easier to move the mountain
+         - and he began to combine from all the differnt source
+   - After initial hesitation, Abū Bakr agreed when he recognised the maslaḥah.
+   - The Companions came to consensus on this project.
+
+2. *Commissioning Zayd ibn Thābit*
+   - Zayd was:
+     - from the scribes of revelation,
+     - a reliable memoriser,
+     - and close to the Prophet ﷺ.
+   - He was appointed to lead the compilation.
+
+3. *Verification and collection*
+   - Strict criteria:
+     - Verses had to be confirmed:
+       - from memorisation,
+       - from written records,
+       - and by *two reliable witnesses*.
+
+4. *Final compilation and storage*
+   - The collected sheets (*ṣuḥuf*) formed a single authenticated manuscript.
+   - It remained with:
+     - Abū Bakr,
+     - then ‘Umar,
+     - then with Ḥafṣah bint ‘Umar (raḍiyallāhu ʿanhum).
+
+* The methodology of Abū Bakr in compiling the Qur’an
+1. *Collection from primary sources*
+   - Every Companion who had received any part of the Qur’an directly from the Prophet ﷺ was summoned.
+     - he was made to sit at the door of the haram
+       - and he was asked them what they have memroise and command them to look if they have written it correctly 
+2. *Cross-verification*
+   - Memorised portions were compared with the written records made during the Prophet’s ﷺ life.
+
+3. *Testimony requirement*
+   - Two trustworthy witnesses were required for each portion:
+     - written in the Prophet’s ﷺ presence, or
+     - confirmed as part of the final review (al-ʿarḍah al-ākhīrah).
+   - Abū Bakr’s instruction:
+     - “Sit at the door of the masjid; if anyone brings you two witnesses for any part of the Book of Allah, then write it down.”
+
+4. *Ordered compilation*
+   - Verses and sūrahs were written:
+     - only after full verification,
+       - after the 3 condtion then he started to write down
+         - hence each ayah is mutawatir 6-70  
+       - in the exact order taught by the Prophet ﷺ.
+
+5. *Outcome*: an authenticated and preserved Qur’anic manuscript.
+   - just before the death of the prphet (ﷺ)
+     - took about 15 month
+he had doubt about the last ayah, because there was only one person who had written it down 
+- quzaib ibn thabit
+  - he was someone who was a witness during a transaction
+    - ( he said you are the messenger of allah why would i need a witness for you so i have witness for you)
+    - then the messenger of Allah said form this day his witness is equal to two witness
+      
+* Key features of Abū Bakr’s compilation
+1. *Meticulous verification*
+   - Only verses recognised *unanimously* as Qur’an and transmitted by *tawātur* were included.
+
+2. *Unified manuscript*
+   - The Qur’an was gathered into a single codex (*muṣḥaf*),
+   - with both verse order and sūrah arrangement preserved.
+
+3. *Conformity with the final review*
+   - The codex matched the *ʿarḍah al-ākhīrah*.
+   - Verses whose recitation had been *abrogated* were excluded.
+
+4. *Inclusion of the seven aḥruf*
+   - The codex allowed for recitation in the seven *aḥruf* (dialectal modes).
+     - only remove the abrogated verse
+
+5. *Unanimous acceptance*
+   - The Companions accepted this compilation as complete and sound,
+   - free from addition or omission.
+
+* ‘Uthmān’s compilation of the Qur’an
+** Historical context
+- During Abū Bakr’s time, the aim was *collection* into one codex.
+- Some Companions still had private manuscripts:
+  - with personal notes, explanations, du‘ā’s, and non-Qur’anic additions beside Qur’anic text.
+
+- As the Muslim lands expanded:
+  - Companions spread to different regions.
+  - People began reciting according to various Companions and aḥruf:
+    - People of Syria: recitation of Ubayy ibn Ka‘b.
+    - People of Iraq: recitation of ‘Abdullāh ibn Mas‘ūd.
+    - Others: recitation of Abū Mūsā al-Ash‘arī.
+  - This led to:
+    - differing pronunciations,
+    - variations in style,
+    - and disputes among people who had not heard directly from the Prophet ﷺ.
+
+** The issue of divergence
+- Differences sometimes escalated into:
+  - accusations of error and even *takfīr* (heresy).
+- Ḥudhayfah ibn al-Yamān:
+  - Witnessed these differences during the campaigns of Armenia and Azerbaijan.
+  - Feared a division like that of Jews and Christians.
+  - Urged ‘Uthmān (raḍiyallāhu ʿanhu) to act.
+
+** ‘Uthmān’s decision and actions
+1. *Standardisation project*
+   - ‘Uthmān requested the ṣuḥuf from Ḥafṣah.
+   - Appointed a committee:
+     - Zayd ibn Thābit, (quraishi)
+     - ‘Abdullāh ibn az-Zubayr, 
+     - Sa‘īd ibn al-‘Āṣ, (quraishi, knew the grammar, a master in it)
+     - ‘Abd ar-Raḥmān ibn al-Ḥārith ibn Hishām.  
+2. *Writing in the dialect of Quraysh*
+   only harf that wasnt abrogated
+   - but write it to accomidate the different the qirat
+   - If the committee differed on wording, they wrote it according to:
+     - the dialect of Quraysh,
+     - as the Qur’an had been revealed in their dialect.
+
+3. *Distribution and removal of variants*
+   - Multiple official *muṣḥafs* were copied.
+   - ‘Uthmān sent these copies to the major regions.
+   - Ordered that other personal codices and variant copies be burnt or destroyed,
+     - to prevent future dispute.
+    
+* The methodology of ‘Uthmān in compiling the Qur’an
+- *Source of compilation*:
+  - The ṣuḥuf compiled under Abū Bakr by Zayd ibn Thābit were used as the master copy.
+
+- *Caliphal oversight*:
+  - ‘Uthmān personally supervised the process and resolved any disagreements.
+
+- *Clarification and consultation*:
+  - The committee consulted ‘Uthmān and other Companions on questions of wording and phrasing.
+
+- *Caution and verification*:
+  - Authentic modes of recitation were carefully included.
+  - They ensured no alteration to Qur’anic content.
+
+- *Script and qirā’āt*:
+  - Muṣḥafs were written:
+    - without diacritical marks or vowel points,
+    - in a way that could accommodate the various accepted qirā’āt.
+
+- *Consistency in dialect*:
+  - Any disagreement in writing a word was resolved:
+    - by adopting the Qurayshī dialect.
+
+- *Result*:
+  - Preservation of the Qur’an in a complete, authentic, unified form.
+  - Prevention of future disputes over divergent readings.
+
+* Categories of rulings in the Qur’an
+1. *Doctrinal rulings* (ʿaqīdah)
+   - Beliefs about:
+     - Allāh,
+     - His angels,
+     - His books,
+     - His messengers,
+     - the Last Day,
+     - and divine decree (al-qadar).
+
+2. *Ethical rulings*
+   - Morals and character traits:
+     - justice, excellence, truthfulness, patience, etc.
+
+3. *Practical rulings* (ʿamaliyyah)
+   1. *Acts of worship* (ʿibādāt):
+      - prayer, fasting, zakāh, ḥajj, etc.
+   2. *Social and civil transactions* (muʿāmalāt):
+      - personal status (marriage, divorce),
+      - civil and commercial dealings (contracts, sales),
+      - criminal law (ḥudūd, qiṣāṣ, taʿzīr),
+      - judicial procedures and court rulings.
+
+* Types of rulings in the Qur’an – level of detail
+1. *Detailed elucidation of certain rulings*
+   - Some areas are explained with great detail and near-completeness, such as:
+     - theological discussions (ʿaqīdah and their evidences),
+     - inheritance laws,
+     - many rulings of family law,
+     - legal punishments (ḥudūd),
+     - expiations (kaffārāt).
+
+2. *General clarification of remaining rulings*
+   - Many rulings are mentioned *generally*, not in exhaustive detail.
+   - The Qur’an lays down:
+     - broad principles and foundations,
+     - without specifying all pillars, conditions, or modalities.
+   - Examples:
+     - Command to pray, give zakāh, fast, and perform ḥajj:
+       - method, number of units, and detailed conditions are explained by the Sunnah.
+     - Civil, international, criminal, constitutional matters:
+       - guided by general principles of justice, consultation, fulfilling trusts, etc.
+
+* Closing counsel – importance of studying Usul al-Fiqh
+- Imām al-Qarāfī said:
+  - “He who does not study *uṣūl al-fiqh* is prohibited from issuing fatwas,
+    for he does not know how to distinguish between different concepts,
+    nor how to restrict and specify general directives.”
+
+* Closing
+And may the peace and blessings of Allah be upon His servant and the seal of the Prophets, Muhammad, his Companions, and all those who follow his way. *Āmīn.*

@@ -1,0 +1,308 @@
+:PROPERTIES:
+:ID:       871b9744-d225-43d8-969c-0ac30389b694
+:END:
+#+title: lesson 16
+rec-19
+#+title: Usul al-Fiqh – Lesson 16
+#+subtitle: The Qur’an – Types of Rulings & Qirā’āt as Evidence
+#+date: Saturday 3 May 2025
+#+startup: overview
+
+* Module information
+- *Module*: Usul al-Fiqh 1
+- *Course book*: /Usul min ‘ilm al-Usul/
+- *Lesson*: 16
+
+* Contents of this lesson
+1. Types of rulings in the Qur’an
+2. The Qur’an’s manner of presenting rulings
+3. The Qur’an’s indication of rulings
+4. The Qirā’āt as a source of evidence
+5. *al-Qirā’ah ash-Shādhah* as a source of evidence
+6. Exercise
+
+* Recap – The categories of evidences (al-Adillah الأدلّة)
+- *Evidences agreed upon* (أدلة متفق عليها):
+  1. Qur’an (القرآن)
+  2. Sunnah (السنة)
+  3. Ijmā‘ (الإجماع)
+  4. Qiyās (القياس)
+
+- *Disputed evidences* (أدلة مختلف عليها):
+  1. قول الصحابي – the statement of a Companion
+  2. الاستحسان – al-Istiḥsān (juristic preference)
+  3. المصلحة المرسلة – al-Maṣlaḥah al-Mursalah (unrestricted public interest)
+  4. شرع من قبلنا – the law of previous nations
+
+- Statement of Imām al-Shāfi‘ī:
+  - «وَجْهَةُ العِلْمِ: في الكتاب، أو السنَّة، أو الإجماع، أو القياس»
+  - “The foundation of knowledge is: a report from the Book, or the Sunnah, or consensus, or analogy.”
+
+* Evidence (1) – al-Kitāb: The Qur’an
+** Three main topics regarding the Qur’an
+1. *First topic*:
+   - Definition of the Qur’an.
+   - Compilation and preservation of the Qur’an.
+
+2. *Second topic*:
+   - The authority and miraculous nature of the Qur’an.
+   - The authoritativeness of *al-qirā’ah ash-shādhah*.
+   - Types of *aḥkām* (rulings) in the Qur’an.
+
+3. *Third topic*:
+   - The method of deriving rulings from the Qur’an.
+
+(This lesson focuses on the types of rulings, their presentation and indication, and the role of Qirā’āt.)
+
+* The categories of rulings in the Qur’an
+** 1. Doctrinal rulings – أحكام اعتقادية
+- Beliefs related to:
+  - Allah,
+  - His angels,
+  - His books,
+  - His messengers,
+  - the Last Day,
+  - and divine decree (al-qadar).
+
+** 2. Ethical rulings – أحكام أخلاقية
+- Morals and character traits a Muslim must adopt:
+  - justice (العدل),
+  - iḥsān (الإحسان),
+  - truthfulness,
+  - patience,
+  - etc.
+
+** 3. Practical rulings – أحكام عملية
+Divided into two broad areas:
+
+1. *Acts of worship* – أحكام العبادات
+   - Rules for:
+     - ṣalāh (prayer),
+     - ṣawm (fasting),
+     - zakāh,
+     - ḥajj,
+     - and other devotional acts.
+
+2. *Social and civil transactions* – أحكام المعاملات
+   - Cover:
+     - personal status (marriage, divorce, inheritance),
+     - financial and commercial dealings (sales, contracts, partnerships),
+     - criminal law (ḥudūd, qiṣāṣ, ta‘zīr),
+     - judicial procedures and court rulings.
+
+* The Qur’an’s manner of presenting rulings
+** 1. Detailed elucidation of certain rulings
+Some areas are explained with extensive detail and near-completeness, for example:
+
+- Doctrinal matters:
+  - many verses clarify belief in Allah, His oneness, attributes, signs, and proofs,
+  - and refute false creeds.
+- Inheritance rules:
+  - portions and shares are laid out with precision.
+- Many family-law issues.
+- Ḥudūd punishments and expiations (kaffārāt).
+
+** 2. General clarification of many other legal rulings
+Other rulings are mentioned in *general* terms without detailed pillars and conditions, such as:
+
+- Commands to:
+  - pray,
+  - give zakāh,
+  - fast Ramaḍān,
+  - perform ḥajj.
+  - The specifics of performance are clarified by the Sunnah.
+- Civil, international, criminal, constitutional and similar matters:
+  - the Qur’an gives broad principles and foundations,
+  - while detailed applications are derived from Sunnah, ijmā‘, qiyās, and ijtihād.
+
+** 3. The Qur’an as foundation for supplementary sources
+- The Qur’an explicitly *refers* to and *authorises* other sources of Sharī‘ah, such as:
+  - the Sunnah,
+  - ijmā‘,
+  - qiyās,
+  - and additional uṣūlī evidences.
+- It does this by:
+  - commanding obedience to the Messenger ﷺ,
+  - praising those who refer disputes to Allah and His Messenger,
+  - and encouraging reflection and reasoning.
+- Thus the Qur’an encompasses all rulings either:
+  - *in detail*,
+  - *in summary*,
+  - or *by reference* to these supplementary sources.
+
+* The Qur’an’s indication of legal rulings
+The *text* of the Qur’an is certain (qaṭ‘iyy al-thubūt) due to tawātur transmission.  
+The *indication* of its verses towards particular rulings, however, can be:
+
+** 1. Definitive indication – قطعي الدلالة
+- A verse is *qaṭ‘iyy al-dalālah* when it can only carry *one* clear meaning with no plausible alternative.
+- Example:
+  - Inheritance shares in Sūrat al-Nisāʾ (4:11–12):
+    - portions for children, spouses, etc., are expressed in unambiguous numerical terms.
+- Rulings based on such verses are *certain* and not open to ijtihād on the level of meaning.
+
+** 2. Probable indication – ظني الدلالة
+- A verse is *ẓanniyy al-dalālah* when:
+  1. Its wording supports more than one possible meaning; or
+  2. There is some ambiguity that allows for differing interpretations.
+- Example:
+  - The word *«قروء»* in:
+    - =وَالْمُطَلَّقَاتُ يَتَرَبَّصْنَ بِأَنفُسِهِنَّ ثَلَاثَةَ قُرُوءٍ= (al-Baqarah 2:228)
+  - *Qurūʾ* can linguistically mean:
+    - menstrual cycles (ḥayḍ),
+    - or periods of purity (ṭuhr).
+- Here the Sunnah and the practice of the Companions clarify which meaning is intended.
+- Rulings derived from such verses involve *ijtihād* and may differ between jurists.
+
+* Defining al-Qirā’āt (القراءات)
+** Definition
+«عِلْمٌ يُعْرَفُ بِهِ كَيْفِيَّةُ أَدَاءِ كَلِمَاتِ الْقُرْآنِ، وَوُجُوهُهَا اخْتِلَافًا وَاتِّفَاقًا، مَعَ عَزْوِ كُلِّ وُجْهٍ إِلَى نَاقِلِهِ»
+
+- A science by which one comes to know:
+  - how the words of the Qur’an are to be recited,
+  - the various accepted modes of recitation (agreement and variation),
+  - and to which reciter (qāriʾ / rāwī) each mode is attributed.
+
+** The role of Qirā’āt in extracting rulings
+- Authentic, divinely-sanctioned Qirā’āt:
+  - highlight the *breadth* of a verse’s meaning,
+  - may *expand*, *specify* or *nuance* its legal implications.
+- By examining multiple Qirā’āt, jurists can:
+  - combine and reconcile different shades of meaning,
+  - strengthen or clarify rulings,
+  - uncover additional dimensions that may not be apparent in a single reading.
+
+* Examples – Qirā’āt and legal rulings
+** Example 1 – Approaching wives during menstruation
+- Verse: =فَاعْتَزِلُوا النِّسَاءَ فِي الْمَحِيضِ وَلَا تَقْرَبُوهُنَّ حَتَّى يَطْهُرْنَ ...= (al-Baqarah 2:222)
+
+- Variant readings of *«حَتَّى يَطْهُرْنَ»*:
+  1. *yaṭhurna* (يَطْهُرْنَ):
+     - read by Nāfiʿ, Abū ʿAmr, Ibn Kathīr, Ibn ʿĀmir, and ʿĀṣim (Ḥafṣ),
+     - indicates the *natural cessation* of bleeding.
+  2. *yatṭahharna* (يَتَطَهَّرْنَ):
+     - read by Ḥamzah, al-Kisāʾī, ʿĀṣim (Abū Bakr), and al-Mufaḍḍal,
+     - implies *ritual purification* by ghusl.
+
+- Combined ruling:
+  - Lawful intimacy returns only when:
+    1. the bleeding has *stopped*; and
+    2. the woman has performed *ghusl*.
+
+** Example 2 – Ruling on the feet in wuḍūʾ
+- Verse: =يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا قُمْتُمْ إِلَى الصَّلَاةِ فَاغْسِلُوا وُجُوهَكُمْ ... وَأَرْجُلَكُمْ إِلَى الْكَعْبَيْنِ= (al-Māʾidah 5:6)
+
+- Variant readings of *«وأرجلكم»*:
+  1. *wa-arjulakum* (وَأَرْجُلَكُمْ) with fatḥah:
+     - read by Nāfiʿ, Ibn ʿĀmir, al-Kisāʾī, etc.,
+     - grammatically linked to *“faghsilū”* → implies *washing* the feet.
+  2. *wa-arjulikum* (وَأَرْجُلِكُمْ) with kasrah:
+     - read by al-Ḥasan, al-Aʿmash and others,
+     - in structure tied to *“wamsaḥū”* → suggests *wiping*.
+
+- Combined understanding:
+  - The Qur’an legislates:
+    - *washing* the feet in normal wuḍūʾ,
+    - *wiping* over leather socks (khuffayn) or in specific circumstances,
+  - and the Qirā’āt help support both aspects.
+
+* Defining al-Qirā’ah ash-Shādhah (القراءة الشاذة)
+** Definition
+«القراءة التي صح سندها ووافقت اللغة العربية ولو بوجه وخالفت المصحف»
+
+- A recitation:
+  - whose chain of transmission is *authentic*,
+  - which conforms to Arabic language (in at least one recognised way),
+  - but *does not conform* to the rasm (consonantal outline) of the ʿUthmānic muṣḥaf.
+
+** Comparison – Mutawātir vs Shādh Qirā’āt
+- *Qirā’ah Mutawātirah*:
+  - Chain: mass-transmitted (tawātur).
+  - Matches: Arabic language.
+  - Agrees with: ʿUthmānic muṣḥaf.
+  - Use in ṣalāh: recitation is *permissible* and valid.
+  - Use in deriving rulings: *authoritative* proof.
+
+- *Qirā’ah Shādhah*:
+  - Chain: sound but *not* mutawātir.
+  - Matches: Arabic language.
+  - Differs from: ʿUthmānic muṣḥaf.
+  - Use in ṣalāh: *not permissible* as Qur’ān.
+  - Use in deriving rulings: *subject of disagreement* among scholars.
+
+* Ruling on using al-Qirā’ah ash-Shādhah as evidence
+** First opinion – Authoritative
+- Attributed to:
+  - Abū Ḥanīfah, Aḥmad, and many of their followers.
+- Reasoning:
+  - These readings are transmitted from the Prophet ﷺ with *sound* chains.
+  - They are either:
+    - part of the aḥruf whose written form was later left, or
+    - Prophetic Sunnah in wording.
+  - In both cases, they represent *revelation* with legal weight.
+- Therefore:
+  - they may be used as *supporting evidence* in deriving rulings.
+
+** Second opinion – Not authoritative
+- Held by:
+  - Imām Mālik, the well-known view of Imām al-Shāfiʿī, and others.
+- Reasoning:
+  - The Companions transmitted them as *Qur’an*, not as Sunnah.
+  - Anything that does not meet the conditions of Qur’ān (mutawātir + agreement with muṣḥaf)
+    - cannot be treated as Qur’ān.
+  - They are likely:
+    - individual *ijtihād* or explanatory readings of some Companions.
+  - The opinion of a Companion, while respected, is *not binding* as proof.
+- Therefore:
+  - such readings are *not* used as independent legal evidence,
+  - though they may still be cited as *explanatory* or *supportive* material.
+
+* Examples – Shādh Qirā’āt and legal effects
+** Example 1 – Expiation for broken oaths
+- Verse: Sūrat al-Māʾidah 5:89  
+  - Mentions feeding, clothing or freeing a slave as expiation,
+  - then: fasting *three days* for the one who cannot afford that.
+
+- ʿAbdullāh ibn Masʿūd’s shādh recitation adds:
+  - «فَصِيَامُ ثَلَاثَةِ أَيَّامٍ مُتَتَابِعَاتٍ»
+  - “…then he must fast *three consecutive days*.”
+
+- Resulting fiqh difference:
+  - Those who accept shādh readings as proof:
+    - require the fasting to be *consecutive*.
+  - Those who do not:
+    - hold that three days of fasting are required,
+    - but not necessarily consecutively, as the standard muṣḥaf reading is silent on continuity.
+
+** Example 2 – Inheritance of maternal siblings
+- Verse: Sūrat al-Nisāʾ 4:12  
+  - =وَإِن كَانَ رَجُلٌ يُورَثُ كَلَالَةً أَوِ امْرَأَةٌ وَلَهُ أَخٌ أَوْ أُخْتٌ فَلِكُلِّ وَاحِدٍ مِّنْهُمَا السُّدُسُ=
+  - Speaks of a man or woman leaving *kalālah* with a brother or sister receiving one-sixth.
+
+- Saʿd ibn Abī Waqqāṣ’s shādh recitation adds:
+  - «وله أخ أو أخت من أم»
+  - “…and he has a brother or sister *from his mother*.”
+
+- Legal effect:
+  - This clarifies that the siblings in this verse are *maternal* half-siblings.
+  - Based on this explanatory reading:
+    - scholars agreed that:
+      - a single maternal sibling receives one-sixth,
+      - multiple maternal siblings share one-third.
+  - Here the shādh recitation *explains and specifies* what is already understood from context and other evidences.
+
+* Exercise
+- Review the examples of Qirā’āt and:
+  - identify which rulings are based on *mutawātir* readings,
+  - which rulings gain *additional detail* from shādh recitations,
+  - and how jurists reconcile them with the ʿUthmānic muṣḥaf.
+
+* Closing – Importance of studying Usul al-Fiqh
+- Imām al-Qarāfī said:
+  - “Whoever does not study uṣūl al-fiqh is prevented from issuing fatwā,
+    because he does not know how to distinguish between different concepts,
+    nor how to restrict and specify general directives.”
+
+* Duʿāʾ
+May the peace and blessings of Allah be upon His servant and the seal of the Prophets, Muḥammad,
+his Companions and all those who follow his way. *Āmīn.*

@@ -1,0 +1,220 @@
+:PROPERTIES:
+:ID:       cee782ef-93d8-489b-a37d-8550b3e8e80c
+:END:
+#+title: lesson 14 rec 17
+
+#+title: Usul al-Fiqh – Lesson 14
+#+subtitle: The Evidences of Islam & The Qur’an
+#+startup: overview
+
+* Module information
+- *Module*: Usul al-Fiqh 1
+- *Course book*: /Usul min ‘ilm al-Usul/
+- *Lesson*: 14
+- *Topic*: The evidences of Islam & the Qur’an
+
+* Contents of this lesson
+1. The Evidences of Islam
+2. Defining evidences
+3. Categories of evidences
+4. Evidence (1) – The Qur’an
+5. Defining the Qur’an
+6. Brief history of the compilation of the Qur’an
+
+* What does Usul al-Fiqh entail?
+*Definition* of /Usul al-Fiqh/:
+
+- A general knowledge of:
+  - the *evidences* of fiqh,
+    - 
+  - the *manner* of deriving rulings from them,
+  - and the *standing* (qualities) of the person who is able to derive rulings.
+
+Illustrated as three pillars:
+
+1. *Evidences of Fiqh* (‫األدلة‬)
+2. *The manner of deriving rulings* – indications of words  
+   (/dalālāt al-alfāẓ/ – ‫دالالت األلفاظ‬)
+3. *The one able to derive rulings* – the mujtahid  
+   (/al-mujtahid/ – ‫املجتهد‬)
+
+* Section 1 – al-Adillah (‫األدلة‬) – The Evidences
+
+** Definition of dalīl (‫دليل‬)
+
+- /Adillah/ (‫األدلة‬) is the plural of /dalīl/.
+- *Linguistically*:  
+  - “That which guides or leads to something” – the guide and one who shows the way.
+- *Technically (in uṣūl)*:  
+  - «ما يمكن التوصل بصحيح النظر فيه إلى مطلوب خبري»
+  - “That through correct analysis of which one can arrive at a sought-after informative conclusion (about belief or a matter of information).”
+- shows the correct evidence
+  - and then how to take the correct ruling from it 
+In short:  
+A dalīl is any shar‘ī proof which, when reflected upon properly, leads to a sound conclusion.
+
+** Categories of evidences (al-Adillah)
+
+Overall structure:
+
+- *Evidences* (‫األدلة‬)
+ 
+  - *Evidences agreed upon* (‫أدلة متفق عليها‬)
+    - this is the foudnation of islam
+    1. The Qur’an (‫القرآن‬)
+    2. The Sunnah (‫السنَّة‬)
+    3. Consensus – /ijmā‘/ (‫اإلجماع‬)
+    4. Analogy – /qiyās/ (‫القياس‬)
+
+  - *Disputed evidences* (‫أدلة مختلف عليها‬)
+    1. Statements of the Companions (‫قول الصحابي‬)
+       - can have a contradiction between shahabah
+    2. Juristic preference – /al-istiḥsān/ (‫االستحسان‬)
+    3. Unrestricted public interest – /al-maṣlaḥah al-mursalah/ (‫املصلحة املرسلة‬)
+    4. The law of previous nations (‫شرع من قبلنا‬)
+
+** Statement of Imām al-Shāfi‘ī
+
+قال الشافعي رحمه هللا:
+«وجهة العلم: في الكتاب، أو السنَّة، أو اإلجماع، أو القياس»
+
+- “The foundation (direction) of knowledge is:  
+  from the Book (Qur’an), or the Sunnah, or consensus (ijmā‘), or analogy (qiyās).”
+
+This summarises the *primary* uṣūlī evidences agreed upon by the scholars.
+
+* Section 2 – al-Kitāb (‫الكتاب‬) – The Qur’an
+
+** Evidence (1) – The Book of Allah
+
+Topics connected to the Qur’an as a source of evidence:
+
+1. *First topic*:
+   - Defining the Qur’an
+   - The compilation & preservation of the Qur’an
+
+2. *Second topic*:
+   - The authority of the Qur’an and its miraculous nature
+   - The authoritativeness of *al-qirā’ah ash-shādhdhah* (irregular readings)
+   - The types of *aḥkām* (rulings) in the Qur’an
+
+3. *Third topic*:
+   - How rulings are *derived* through the Qur’an
+
+(This lesson focuses on the first part: definition and preservation.)
+
+** Defining the Qur’an
+
+Arabic definition:
+
+هو كالم هللا تعالى، املنزل على سيدنا محمد - صلى هللا عليه وسلم - باللفظ العر يب، املنقول إلينا بالتواتر، املكتوب بالمصاحف، املتعبد بتالوته، املبدوء بسورة الفاتحة، املختوم بسورة الناس.
+
+
+Breakdown:
+- It is the *speech of Allah*, Most High.
+  - directly from Allah
+    - this could mean hadith qusi as well 
+- Revealed to *our Prophet Muḥammad* ﷺ.
+- Revealed *in the Arabic wording*.
+  - everythig else is the tranlsation of the quran
+- Transmitted to us by *mass, recurrent narration* (/tawātur/).
+  - hundrends of shahabah
+    - impossibe to something else
+- *Recorded* in the written copies (/maṣāḥif/).S
+- *Reciting it* is an act of worship.
+  - not the same thing for hadith qursi
+    - you won't be reward like the quran
+- It *begins* with Sūrat al-Fātiḥah.
+- It *ends* with Sūrat al-Nās.
+
+** The compilation of the Qur’an
+- nothing has been changed at all
+
+  there is two types of presevation
+Main aims:
+1. *Preserving the Qur’an from corruption*
+   - Protection from alteration, addition, or loss.
+     - from the heaven
+       - before it was revelaed to the prophet (ﷺ)
+         - the pen writed down the quran in lawhu mathoz
+           - only allowing the most pureing greatest angles can come close to it
+             - the kahba of the first heaven, the quran is brought down and reaveald it to the angelsin 
+     - and the earth
+       - form jibreal to the Prophet (ﷺ)
+         - all sytaan and jin was not able to come close to the qur'an
+           - Allah chose the grestest of angles tot he grestest of human
+             - Allah prevent the Prophet (ﷺ) to make any mistake when reciting
+               - The prophet tried to memrorise it, but Allah has assured the prophet we will be the one that will reveal it so don't worry about memorise it
+                 - you won't be able to forget it
+                   - this is a veriul of the prphet (ﷺ)
+                     - During Ramadan Jibreal with revise with the Prophet (ﷺ) 
+2. *Preserving the Qur’an through writing and memorisation*
+   - Written in physical form.
+     - write on anything, leaves and rock
+       and they will recite what they write
+       - and it will be corrected
+     - know as the book
+       - every ayah was writen down
+         - don't write anything from me except the sunnah
+           - then after they wrote down the sunnah when they could differeciate
+   - Preserved in the hearts of the believers (ḥuffāẓ).
+     - he would correct them if they made mistakes
+       - he (ﷺ) would call for shahaba to recited, especically when revilation came
+         - e.g zayb ibn zabit
+           - spacial person
+             - he would write it down straight away
+               - the scribe who wrote the wahyy
+                 - and he would recite it back
+                   - he wrote compiled it when abu bakr asked him to 
+                   - he would arrage the surah when the prophet (ﷺ) ask
+                   - and was practice by many shahbah eg ali ra, uthman, muawiyaa
+     - preserved by acting according it
+       - easy to meemoriese
+     - the book was not compiles during the life of the prophet (ﷺ)
+       - Allah reavel the quran is 7 differnt ahruf (as a rusksa)
+         - to make it easier for the ummah
+           - ahruf is mean
+             - the diffferent dialect of the arab (the majority) 
+               - the qurashi dialect was reveal, the usul
+                 - it mean there are different dialect that Allah has revealed
+                   - e.g tammi, yemen dialect and other
+             - different mode
+               - mode of laws of prohibition
+             - we don't know what it means
+
+               
+*** Aspects of preservation
+usool al-quran
+
+The slides highlight several stages:
+
+1. *Preserving the Qur’an in the heavens*
+   - First preserved in *al-Lawḥ al-Maḥfūẓ* (the Preserved Tablet).
+2. *Preserving the Qur’an on its way to the world*
+   - Revelation via Jibrīl (ʿalayhi s-salām).
+3. *Preserving the Qur’an during the life of Muḥammad ﷺ*
+   - Recited, taught, and reviewed with the Companions.
+4. *Preservation through writing & memorisation*
+   - Written by the Companions (kuttāb al-waḥy).
+   - Memorised by large numbers of ḥuffāẓ in every generation.
+
+(Details of the historical compilation in the periods of Abū Bakr and ʿUthmān, etc., are to be filled in from further study or class notes.)
+
+* The importance of studying Usul al-Fiqh
+
+Imām al-Qarāfī said:
+
+> “He who does not study uṣūl al-fiqh is prohibited from issuing fatwas,  
+> for he does not know how to distinguish between different concepts,  
+> nor how to restrict and specify general directives.”
+
+This shows that:
+- without uṣūl, one cannot:
+  - correctly *understand* evidences,
+  - *differentiate* between similar concepts,
+  - or *limit and specify* general texts.
+- therefore, studying uṣūl is *essential* for anyone involved in iftā’ or advanced study of fiqh.
+
+* Closing
+
+And may the peace and blessings of Allah be upon His servant and the seal of the Prophets, Muḥammad, his Companions, and all those who follow his way. *Āmīn.*
