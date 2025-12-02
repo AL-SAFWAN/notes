@@ -1,0 +1,56 @@
+:PROPERTIES:
+:ID:       4dc1239c-6fbf-4f78-ad98-5a65e9d18081
+:END:
+#+title: lesson 22 rec 25
+
+#+title: Usul al-Fiqh – Lesson 22
+#+subtitle: al-Taʿāruḍ (Conflict of Evidences) & Methods of Resolution
+#+date: Saturday 28 June 2025
+#+startup: overview
+
+* Module information
+- *Module*: Usul al-Fiqh 1
+- *Course book*: /Usul min ʿilm al-Usul/
+- *Lesson*: 22
+
+* Contents of this lesson
+1. Revision
+2. What is al-Taʿāruḍ?
+3. al-Jamʿ (Reconciliation)
+4. an-Naskh (Abrogation)
+5. at-Tarjīḥ (Preference)
+6. at-Tawaqquf (Suspension)
+7. Examples
+
+* The categories of evidences (al-Adillah الأدلّة)
+** Evidences agreed upon (أدلة متفق عليها)
+1. The Qur’an (القرآن)
+2. The Sunnah (السنة)
+3. Consensus – /ijmāʿ/ (الإجماع)
+4. Analogy – /qiyās/ (القياس)
+
+** Disputed evidences (أدلة مختلف عليها)
+1. Statements of the Companions (قول الصحابي)
+2. al-Istihsān (الاستحسان)
+3. al-Maṣlaḥah al-Mursalah (المصلحة المرسلة)
+4. The law of previous nations – /sharʿ man qablana/ (شرع من قبلنا)
+
+** Statement of Imām al-Shāfiʿī
+قال الشافعي: «وجهة العلم: في الكتاب أو السنَّة أو الإجماع أو القياس»
+- “The foundation of knowledge is: a report from the Book (the Qur’an),
+  or the Sunnah, or consensus (ijmāʿ), or analogy (qiyās).”
+
+* Usul al-Fiqh – recap
+** Definition
+- “A general knowledge of:
+  - the *evidences* of fiqh,
+  - the *manner* of deriving rulings from them,
+     - some of them put this at the end of the chapter of the one who takes the ruling
+       - because they are the one who exersice this 
+  - and the *standing* of the one who is able to derive rulings.”
+
+** Three pillars
+1. *Evidences of fiqh* (الأدلة)
+2. *The manner of deriving rulings* – /dalālāt al-alfāẓ/ (دلالات الألفاظ)
+3. *The one able to derive rulings* – /al-mujtahid/ (المجتهد)
+

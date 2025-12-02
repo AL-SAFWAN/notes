@@ -1,0 +1,143 @@
+:PROPERTIES:
+:ID:       e243af70-5ec7-4ead-878a-de680be1ac61
+:END:
+#+title: lesson 18 rec 21
+
+#+title: Usul al-Fiqh – Lesson 18
+#+subtitle: The Sunnah & al-Khabar
+#+date: Sunday 20 May 2025
+#+startup: overview
+
+* Module information
+- *Module*: Usul al-Fiqh 1
+- *Course book*: /Usul min ‘ilm al-Usul/
+- *Lesson*: 18
+
+* Contents of this lesson
+1. The Sunnah
+2. The categories of the Sunnah
+3. The authority (*ḥujjiyyah*) of the Sunnah
+4. The relationship between the Sunnah and the Qur’an
+5. Categories of the Prophet’s ﷺ actions and what they indicate
+6. */al-Khabar/* (reports) and their categories :contentReference[oaicite:0]{index=0}
+
+* The categories of evidences (al-Adillah الأدلّة)
+- *Evidences agreed upon* (أدلة متفق عليها):
+  1. The Qur’an (القرآن)
+  2. The Sunnah (السنة)
+  3. Consensus – /ijmāʿ/ (الإجماع)
+  4. Analogy – /qiyās/ (القياس)
+
+- *Disputed evidences* (أدلة مختلف عليها):
+  1. The shādh recitation (القراءة الشاذة)
+  2. Statements of the Companions (قول الصحابي)
+  3. Juristic preference – /al-istiḥsān/ (الاستحسان)
+  4. Unrestricted public interest – /al-maṣlaḥah al-mursalah/ (المصلحة المرسلة)
+  5. The law of previous nations – /sharʿ man qablana/ (شرع من قبلنا)
+
+- Statement of Imām al-Shāfiʿī:
+  - «وَجْهَةُ العِلْمِ: فِي الْكِتَابِ أَوِ السُّنَّةِ أَوِ الْإِجْمَاعِ أَوِ الْقِيَاسِ»
+  - “The foundation of knowledge is: a report from the Book (the Qur’an),
+    or the Sunnah, or consensus, or analogy.”
+
+* The Sunnah (السنة)
+                
+* Categories of the Prophet’s ﷺ actions
+
+
+* KILL al-Khabar (الخبر) – reports
+** Definition
+- *Linguistically*:  
+  - /khabar/ means “report” or “information”; plural: *akhbār* (أخبار).
+- *Technically*:
+  - “A statement that is, in itself, capable of being either true or false.”
+
+** Types of khabar by attribution
+1. *Marfūʿ* (مرفوع) – attributed to the Prophet ﷺ
+   - Includes:
+     - his explicit statements,
+     - his actions,
+     - his tacit approvals,
+     - or anything linked to his era in a way that indicates it is part of his Sunnah.
+
+2. *Mawqūf* (موقوف) – attributed to a Companion
+   - A report stopping at a *Ṣaḥābī*.
+   - The Companion:
+     - met the Prophet ﷺ as a believer and died upon that belief.
+
+3. *Maqṭūʿ* (مقطوع) – attributed to a Tābiʿī or later
+   - A report traced to a *Successor* (Tābiʿī) or anyone after them.
+   - A Tābiʿī:
+     - met a Companion as a believer in the Prophet ﷺ and died upon that belief.
+
+
+* Categories of khabar with respect to transmission
+** 1. Mutawātir (متواتر) – mass-transmitted
+- Definition:
+  - Narrated by such a *large number* of narrators, at every level of the chain,
+    that it is inconceivable they agreed upon a lie,
+    and it is based on their *direct sensory perception*.
+- Types:
+  1. *Verbal mutawātir* (التواتر اللفظي):
+     - narrators agree on both *wording* and *meaning*.
+     - Example:
+       - ḥadith: “Whoever lies upon me deliberately, let him prepare his seat in the Fire,”
+         narrated by many Companions.
+  2. *Meaning-based mutawātir* (التواتر المعنوي):
+     - narrations differ in wording but agree on a *shared meaning*.
+     - Example:
+       - numerous ḥadiths about wiping over the leather socks (khuffayn).
+
+** 2. Āḥād (آحاد) – solitary reports
+- Definition:
+  - Any report that does *not* reach the level of mutawātir,
+    even if narrated by several people.
+- Note:
+  - The *majority* of aḥādīth fall into this category. :contentReference[oaicite:7]{index=7}
+
+* Classification of reports by authenticity
+Reports (/akhbār/) are also classified in terms of strength:
+
+1. *Ṣaḥīḥ* (صحيح) – authentic
+   - Conditions:
+     1. Narrated by a *trustworthy*, upright narrator.
+     2. Possessing *precise memory* (or reliable written preservation).
+     3. Chain is *connected* back to the Prophet ﷺ.
+     4. Free from *shudhūdh* (irregularity) – it does not contradict stronger evidence.
+     5. Free from *ʿillah* (hidden defects).
+
+2. *Ḥasan* (حسن) – fair / sound
+   - Similar to ṣaḥīḥ but:
+     - the level of precision is *slightly lower*.
+   - Still:
+     - narrators are upright,
+     - chain is connected,
+     - free from serious irregularities or defects.
+   - Some scholars considered ḥasan a *subset* of ṣaḥīḥ.
+
+3. *Ḍaʿīf* (ضعيف) – weak
+   - Any report that *fails* to meet the conditions of ṣaḥīḥ or ḥasan.
+   - Causes of weakness may include:
+     - missing links in the chain,
+     - weak or unknown narrators,
+     - clear contradictions or defects.
+
+** Use of each category in deriving rulings
+- *Ṣaḥīḥ* and *ḥasan* reports:
+  - Accepted as *proof* in deriving legal rulings from the Sunnah.
+- *Ḍaʿīf* reports:
+  - Not valid as *independent* evidence for legislation.
+  - Some scholars allow *limited* use in:
+    - faḍāʾil al-aʿmāl (virtuous deeds),
+    - admonitions and encouragements,
+    - under strict conditions (e.g. not very weak; falls under a general accepted principle).
+:contentReference[oaicite:8]{index=8}
+
+* Closing
+Imām al-Qarāfī said:
+- “He who does not study *uṣul al-fiqh* is prohibited from issuing fatwas,
+  for he does not know how to distinguish between different concepts,
+  nor how to restrict and specify general directives.”
+
+And may the peace and blessings of Allah be upon His servant and the seal of the Prophets,
+Muḥammad, his Companions and all those who follow his way. *Āmīn.*

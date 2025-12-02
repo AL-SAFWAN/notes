@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       caa2d05c-c6ff-4f74-a297-11acfbc22536
+:END:
+#+title: lesson 17 rec 20
+wrote it as 19, thsi is wrong
+#+title: Usul al-Fiqh – Lesson 17
+#+subtitle: An-Naskh (Abrogation)
+#+date: Saturday 10 May 2025
+#+startup: overview
+
+* Module information
+- *Module*: Usul al-Fiqh 1
+- *Course book*: /Usul min ‘ilm al-Usul/
+- *Lesson*: 17
+- *Topic*: An-Naskh – Abrogation
+
+* Contents of this lesson
+1. Revision
+2. An-Naskh – Abrogation
+3. Where An-Naskh does *not* occur
+4. Pillars & conditions of An-Naskh
+5. Categories of abrogation
+6. Types of abrogation
+7. How to identify An-Naskh
+
+* Recap – The categories of evidences (al-Adillah الأدلّة)
+- *Evidences agreed upon* (أدلة متفق عليها):
+  1. Qur’an (القرآن)
+  2. Sunnah (السنة)
+  3. Ijmā‘ (الإجماع)
+  4. Qiyās (القياس)
+
+- *Disputed evidences* (أدلة مختلف عليها):
+  1. Statements of the Companions (قول الصحابي)
+  2. al-Istiḥsān (الاستحسان)
+  3. al-Maṣlaḥah al-Mursalah (المصلحة المرسلة)
+  4. Shar‘ man qablana – the law of previous nations (شرع من قبلنا)
+
+- Statement of Imām al-Shāfi‘ī:
+  - «وَجْهَةُ العِلْمِ: في الكتاب، أو السنّة، أو الإجماع، أو القياس»
+  - “The foundation of knowledge is: a report from the Book (the Qur’an), or the Sunnah, or consensus (ijmāʿ), or analogy (qiyās).”
+

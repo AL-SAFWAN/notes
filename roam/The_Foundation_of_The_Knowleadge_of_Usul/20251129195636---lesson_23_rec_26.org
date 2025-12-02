@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       04cbb1d7-3d84-4159-948d-d08cc58fe063
+:END:
+#+title: lesson 23 rec 26
+
+#+title: Usul al-Fiqh – Lesson 23
+#+subtitle: The Mufti, Ijtihād & Taqlīd
+#+date: Saturday 5 July 2025
+#+startup: overview
+
+- *Module*: Usul al-Fiqh 1
+- *Course book*: /Usul min ‘ilm al-Usul/
+- *Lesson*: 23
+
+Here’s what you will study in today’s lesson in shā’ Allāh:
+1. Revision
+2. Who is a Mufti & a Mustafti
+3. The *shurūṭ* of a fatwa
+4. What is Ijtihād
+5. Who is a Mujtahid
+6. What is Taqlīd & who is a Muqallid
+7. The types of Taqlīd :contentReference[oaicite:0]{index=0}
+
+/A general knowledge of/:
+- the *evidences* of fiqh,
+- the *manner* of deriving rulings from them,
+- and the *standing* of the individual who is able to derive.
+
+/Three pillars/
+1. *Evidences of Fiqh* (األدلة)
+2. *The manner of deriving rulings* – /dalālāt al-alfāẓ/ (دالالت األلفاظ)
+3. *The one able to derive rulings* – /al-mujtahid/ (المجتهد)
+
+    
+* Taqlīd (تقليد) – following qualified opinion

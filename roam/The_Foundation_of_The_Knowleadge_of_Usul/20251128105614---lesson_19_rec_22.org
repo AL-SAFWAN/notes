@@ -1,0 +1,176 @@
+:PROPERTIES:
+:ID:       b8025b7d-9e12-42ea-bd90-116fbaff5f79
+:END:
+#+title: lesson 19 rec 22
+
+#+title: Usul al-Fiqh – Lesson 19
+#+subtitle: Tacit Sunnah & al-Khabar
+#+date: Sunday 31 May 2025
+#+startup: overview
+
+* Module information
+- *Module*: Usul al-Fiqh 1
+- *Course book*: /Usul min ‘ilm al-Usul/
+- *Lesson*: 19
+
+* Contents of this presentation
+Here’s what you will study in today’s lesson in shā’ Allāh:
+1. Revision of the Sunnah
+2. *As-Sunnah at-Taqrīriyyah* – The Tacit Approval
+3. /al-Khabar/
+4. Types of reports based on the one they are attributed to
+5. The Companions
+6. Categories of /khabar/
+7. Authenticity in reports
+8. Modes of narrating reports :contentReference[oaicite:0]{index=0}
+
+* The categories of evidences (al-Adillah الأدلّة)
+** Overview
+- *Evidences (al-adillah)* are divided into:
+
+*** Evidences agreed upon (أدلة متفق عليها)
+1. Qur’an (القرآن)
+2. Sunnah (السنة)
+3. Ijmā‘ (الإجماع)
+4. Qiyās (القياس)
+
+*** Disputed evidences (أدلة مختلف عليها)
+1. The shādh recitation (القراءة الشاذة)
+2. Statements of the Companions (قول الصحابي)
+3. al-Istiḥsān (الاستحسان)
+4. al-Maṣlaḥah al-Mursalah (المصلحة المرسلة)
+5. The law of previous nations – /shar‘ man qablana/ (شرع من قبلنا)
+
+** Statement of Imām al-Shāfiʿī
+قال الشافعي: «وجهة العلم: في الكتاب أو السنَّة أو الإجماع أو القياس»
+- “The foundation of knowledge is: a report from the Book (the Qur’an),
+  or the Sunnah, or consensus (ijmāʿ), or analogy (qiyās).”
+
+* The Sunnah – revision
+** Definition of the Sunnah
+Arabic:
+- =ما صدر عن النبي صلى الله عليه وسلم غير القرآن من قولٍ أو فعلٍ أو تقريرٍ=
+
+Meaning:
+- “Whatever was issued from the Prophet ﷺ other than the Qur’an,
+  in the form of:
+  - a *statement* (qawl),
+  - an *action* (fiʿl),
+  - or a *tacit approval* (taqrīr).” :contentReference[oaicite:1]{index=1}
+
+** Categories of the Sunnah
+- ** (السنة القولية) – Verbal Sunnah
+  - His spoken statements.
+- ** (السنة الفعلية) – Practical Sunnah
+  - His actions.
+    - 5/6 rullings from beofore
+- *as-Sunnah at-Taqrīriyyah* (السنة التقريرية) – Tacit Sunnah
+  - His approvals and silence over actions or statements.
+
+* The Tacit Sunnah – السنة التقريرية
+** Definition
+- The Prophet’s ﷺ *silence* over a statement or action done in his presence
+  (or which he knew of) *without objecting* indicates *permissibility*,
+  unless proven otherwise.
+  - al-Juwaynī said:
+  - “His silence is like his speech; his approval is like his own action.”
+- This is a valid legal proof because:
+  - the Prophet ﷺ was *obligated* to clarify anything that was wrong or impermissible.
+** Types of tacit approval
+*** 1. *Direct tacit approval*
+- mention in his (ﷺ) prensece 
+**** a. *Comprehensive approval*
+   - The Prophet ﷺ clearly witnessed or was told of an act and approved it.
+     - improve the entire action that was improved
+   - *Example*:
+     - A man used to recite Sūrat al-Ikhlāṣ in every rakʿah.
+     - The Prophet ﷺ approved his action. (al-Bukhārī, Muslim)
+       - another exmaple
+         - a shahaba, 2 sunnah of fajr after fajr that he missed
+           - the prophet (ﷺ) stayed sillence on the whole action to show the approval
+             - e.g khalid eating the lizad
+               - the voiced being raised by hearing the sound of the adkar of the shabaha, that how people knew it was finihsed  
+**** b. *Partial approval*
+   - The Prophet ﷺ objected to *some parts* of an act but remained silent about the rest,
+     thus approving what he did not object to.
+   - *Example*:
+     - Young girls were singing on ʿĪd.
+     - The Prophet ﷺ did not object to their singing, but clarified the occasion. (al-Bukhārī, Muslim)
+       - he didn't object that it wasn't from being the tool of sytaan, but for the young girls singing on the day of eid
+
+***  2 *Indirect tacit approval*
+ - An act done during his lifetime that:
+   - he did *not personally witness*,
+   - but which was *not forbidden* by Allah or His Messenger ﷺ,
+     - as Allah would have prohibited for mankind
+       - it's a sunnah of Allah to make it permissible in the shari'a, it is Allah's approval as the prophet (ﷺ) was sent at the time of legislation
+         - hence the default is permissible 
+   - is also considered legally valid.
+     - *Examples*:
+       - The Companions practised *ʿazl* (coitus interruptus)
+         while the Qur’an was being revealed;
+         no prohibition was sent down. (al-Bukhārī, Muslim)
+         - hence it shows the permissiblity 
+       - Eating horse meat:
+         - the Companions did so during his time,
+         - and it was not forbidden. (al-Bukhārī)
+** Legal implications of tacit approval
+- Tacit approval carries the *same ruling* as the act itself:
+  - If the Prophet ﷺ approved an *act of worship*, it is *legislated* (mashrūʿ).
+  - If he approved something as *permissible*, then it is *allowed* (jā’iz).
+    - but it's not something that is encorraged or it would have been in the chatpers of ibadat
+
+** Conditions for valid tacit approval
+1. The Prophet ﷺ must have *known* of the act, by one of:
+   - being physically present,
+   - being *informed* of it,
+   - or the act being *public knowledge* in his time.
+2. The act must be done by a *Muslim*, not by a disbeliever.
+3. There must be *no revealed objection* from Allah or His Messenger ﷺ.
+
+- al-Juwaynī said:
+  - “His silence is like his speech; his approval is like his own action.”
+
+** Attributing al-Khabar – الخبر
+*** Definition of /khabar/
+- *Linguistically*:
+  - /khabar/ (الخبر) means “a report” or “information”.
+  - Plural: *akhbār* (أخبار).
+- *Technically*:
+  - “A statement that is intrinsically capable of being either *true* or *false*.”
+
+*** Types of reports based on attribution
+Reports in ḥadīth literature are categorised according to whom they are attributed:
+
+1. *Marfūʿ* (مرفوع) – Attributed to the Prophet ﷺ
+   - Anything attributed directly or indirectly to the Prophet ﷺ.
+   - *Explicit marfūʿ*: haqiqah
+     - clear statements, actions and approvals of the Prophet ﷺ.
+   - *Implied marfūʿ*: hukman
+     - what is attributed to his Sunnah or era without directly quoting him.
+     - *Example*: Ibn ʿAbbās said,
+       - “The people were commanded to make the last thing they do (in ḥajj) the circumambulation of the House…”
+       - Though he does not quote the Prophet ﷺ, this is treated as marfūʿ.
+         - as what they're doing is only that which the prophet (ﷺ) tought us 
+
+2. *Mawqūf* (موقوف) – Attributed to a Companion
+   - A report that stops at a *Companion* (Ṣaḥābī),
+     without being raised to the Prophet ﷺ.
+   - *Companion* definition:
+     - One who met the Prophet ﷺ as a believer and died upon that belief.
+
+3. *Maqṭūʿ* (مقطوع) – Attributed to a Tābiʿī or later
+   - A report attributed to a *Tābiʿī* (Successor) or anyone after them.
+   - *Tābiʿī* definition:
+     - One who met a Companion while believing in the Prophet ﷺ and died upon that belief. 
+
+
+
+* Closing
+Imām al-Qarāfī said:
+- “He who does not study *uṣūl al-fiqh* is prohibited from issuing fatwas,
+  for he does not know how to distinguish between different concepts,
+  nor how to restrict and specify general directives.”
+
+And may the peace and blessings of Allah be upon His servant and the seal of the Prophets,
+Muḥammad, his Companions and all those who follow his way. *Āmīn.*

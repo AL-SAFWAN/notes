@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID:       b075b05b-551e-4db6-95a9-eb3a5c87cac0
+:END:
+#+title: lesson 20 rec 23
+
+#+title: Usul al-Fiqh – Lesson 20
+#+subtitle: Ijmāʿ – Scholarly Consensus
+#+date: Sunday 3 June 2025
+#+startup: overview
+- *Module*: Usul al-Fiqh 1
+- *Course book*: /Usul min ‘ilm al-Usul/
+- *Lesson*: 20
+
+* The categories of evidences (al-Adillah الأدلّة)
+** Evidences agreed upon (أدلة متفق عليها)
+1. Qur’an (القرآن)
+2. Sunnah (السنة)
+3. Ijmāʿ (الإجماع)
+4. Qiyās (القياس)
+
+** Disputed evidences (أدلة مختلف عليها)
+1. The shādh recitation (القراءة الشاذة)
+2. Statements of the Companions (قول الصحابي)
+3. al-Istihsān (الاستحسان)
+4. al-Maṣlaḥah al-Mursalah (المصلحة المرسلة)
+5. The law of previous nations – /sharʿ man qablana/ (شرع من قبلنا)
+
+** Statement of Imām al-Shāfiʿī
+قال الشافعي: «وجهة العلم: في الكتاب أو السنَّة أو الإجماع أو القياس»
+- “The foundation of knowledge is: a report from the Book (the Qur’an),
+  or the Sunnah, or consensus (ijmāʿ), or analogy (qiyās).”
+
+
+* The Ijmāʿ (Scholarly Consensus)
+:PROPERTIES:
+:ID:       9c95ee1b-1a97-4a61-95ec-ebd4c864e358
+:END:

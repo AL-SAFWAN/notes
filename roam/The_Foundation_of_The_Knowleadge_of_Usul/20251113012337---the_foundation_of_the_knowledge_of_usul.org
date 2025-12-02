@@ -147,7 +147,7 @@ Usul ul Fiqh is a distinguished and vital field of Islamic scholarship, providin
 :END:
 [[id:2dada820-43bc-4ab9-a532-d10230524921][Imam ash-shafi'i]], Muhammad ibn Idris, was the pioneering figure who established Usul ul Fiqh as a distinct discipline with Islamic scholarship. Following his ground breaking work, numerous scholars across generation have build upon his foundation, contributing extensive thought various forms of writing-prose, poetry and both concise and expansive volumes. This prolific scholarly activity have evolved Usul ul Fiqh into well defined and recognised fields, characterised by its unique feature and profound depth.
 
-* DONE Rulings (Al Ahkam)
+* DONE The Rulings (Al Ahkam)
 :PROPERTIES:
 :ID:       df9924a3-636d-47db-82ca-5a00084413cf
 :END:
@@ -290,7 +290,7 @@ In Marriage: Fasid refers to conditions within a marriage that scholars have deb
 *** [[id:ccba4382-2852-4f2c-b19a-745ed393a0e4][notes from l3 of usol]]
 *** [[id:20851726-82b7-41b8-8c06-ae05b52a2205][notes from l4 of usol]]
 
-* DONE todo [anki] Knowledge
+* DONE The Knowledge
 :PROPERTIES:
 :ID:       c152f78d-91bc-483c-8e58-baa2e10417af
 :END:
@@ -357,7 +357,7 @@ can indeed be categorised into two primary types: essential and theoretical.
 
 *** [[id:5a4cde3f-8ff4-4543-9348-2ca1450ca0b0][Essential Knowledge (ad-dorori)]]
 *** [[id:42eea55a-c13e-49f1-89e8-ed72150b055c][Theoretical Knowledge (an-nathari)]]
-* DONE todo [anki] Speech (Al-kalam)
+* DONE The Speech (Al-kalam)
 :PROPERTIES:
 :ID:       c2ddafa5-b672-4853-806d-75c0412632f6
 :END:
@@ -867,8 +867,7 @@ A prohibition necessitates the invalidity of the action.
 ما ال يتم الحرام اال به فهو حرام ::
 Whatever is necessary to complete a prohibition is itself prohibited.
 
-
-* TODO The General (Al-'Am)
+* DONE The General (Al-'Am)
 :PROPERTIES:
 :ID:       500a4a34-298d-4b7a-8d3a-1ea674f875ba
 :END:
@@ -1125,7 +1124,7 @@ When we encounter a general statement stemming form a particular circumstance, w
 
 The specificity of this ruling is evident from the Prophet own practice. He would fast during journey when it wasn't arduous for him, highlighting that he abstain from actions deemed unrighteous.
    
-* TODO The Specific (Al-Khas)
+* DONE The Specific (Al-Khas)
 :PROPERTIES:
 :ID:       411ad8c6-fab6-4478-82a1-87c2831c6200
 :END:
@@ -1456,7 +1455,7 @@ As for takhsis of legislation,
 I have not been able to find an example from the
    - Sunnah being made specific by concensus.
 
-********* 8. Sunnah by Qiyas
+********* DONE 8. Sunnah by Qiyas
 :PROPERTIES:
 :ID:       ca7105a8-cf8c-4f7c-a7c1-3130bb82b07a
 :END:
@@ -1466,7 +1465,7 @@ I have not been able to find an example from the
   - This has been made specific by analogy
     -  for the slave man and women it is limited to fifty lashes, this is what is well known.
 
-* TODO The Absolute (Mutlaq) and Restricted (Muqayyad)
+* DONE The Absolute (Mutlaq) and Restricted (Muqayyad)
 :PROPERTIES:
 :ID:       644ac976-ff78-4cb8-bb60-34ba0a9b30fc
 :END:
@@ -1736,8 +1735,7 @@ When an ~absolute~ (al-mutlaq) text and a /restricted/ (Al-muqayyid) on address
               - in both cases,
                 - the *slave being freed* should be a /believer/.
     
-
-* TODO The Obscure and Clarified
+* DONE The Obscure and Clarified
 :PROPERTIES:
 :ID:       a8f87fad-dae8-44d0-abfc-7cda34ab0ce6
 :END:
@@ -2002,8 +2000,7 @@ meaning for those who find it ambiguous.
     - The Mu'atilah (deviant sect) regarding the saying of the Most High: "The Most Merciful rose above the throne".
     - [They changed the meaning of istawa (rose)] to meaning of "istawlah" to conquer, whereas it's correct interpretation is of highness and establishment without asking how or making similitude.
 
-      
-* TODO The Apparent and The Interpreted
+* DONE The Apparent and The Interpreted
 :PROPERTIES:
 :ID:       4f6b2f30-47ef-4238-859d-4d341808cfd4
 :END:
@@ -2207,137 +2204,390 @@ For an interpretation to be valid, the following conditions must be met:
      misinterpretation or misapplication of the text.
    - these are rules all above are that will give us the absolute rule and how we should go about them using the rules and regulation
  
-
-* STRT Abrogation (An-Naskh)
+* DONE The Abrogation (An-Naskh)
 :PROPERTIES:
 :ID:       36867766-fe81-4772-9d30-7e53470ba2fc
 :END:
 first 3) about quran and evidence
 [[id:cee782ef-93d8-489b-a37d-8550b3e8e80c][lesson 14 rec 17]]
 [[id:10956880-d251-464e-9c76-d2f0be3df3d7][lesson 15 rec 18]]
-[[id:871b9744-d225-43d8-969c-0ac30389b694][lesson 16]] rec 19 
-[[id:caa2d05c-c6ff-4f74-a297-11acfbc22536][lesson 17 rec 20]]
+[[id:871b9744-d225-43d8-969c-0ac30389b694][lesson 16]] rec 19
 
-Abrogations,
-- linguistically,
-  - entail removal or copying.
+done - [[id:caa2d05c-c6ff-4f74-a297-11acfbc22536][lesson 17 rec 20]]
+just need to do the anki below
+
+** Definition
+- Linguistic root: النَّسخ carries meanings such as:
+  - removal / lifting,
+  - transfer or copying.
+- Technical definition in uṣūl:
+  - *“The removal (or lifting) of a previously established legal ruling by a later revelation.”*
+  - i.e. a shar‘ī ruling that was once in force is superseded by another shar‘ī text that comes after it.
 - Technically,
   - it refers to the removal of a legal ruling or its wording, replaced by another evidence from the Qur'an and Sunnah.
     - By "remove a ruling", we mean changing from obligation to permissibility or vice versa.
+    - However, this does not encompass situations like non-implementation due to condition or preventive factors.
+    - For instance, the obligation of Zakah may be lifted due to not meeting the set limit, or the obligation of prayer during menstruation;
+      - these instance are not termed as abrogations.
+    - Regarding "or its wording", it refers to the legal proof within the text because abrogation can involve
+    - either the ruling without the wording or vice versa, or both.
+      - Not included in this definition are evidence from consensus and analogy, as they cannot abrogate.
+** Naskh is *not* contradiction.
+- Naskh is *not* contradiction.
+  - It reflects a *change in legislation* based on divine wisdom.
+  - Each ruling was correct and binding *in its time*; the later ruling simply replaces the earlier one.
+    - the laws have been abrogated by Allah
+      - e.g. the law of adam time,
+        - where the man could marry the sister that is not his from his twin, but from another pair
+ 
+** Indeed, abrogation is intellectually acceptable and legal reality in Shariah.
+*** Intellectually,
+- it aligns with the understanding that Allah possesses absolute power and authority, being the ultimate owner and legislator.
+  - Thus, He may enact laws as He sees befitting, guided by His wisdom and mercy for His servants.
+  - It's reasonable to acknowledge that the possessor orders his possession as He deems appropriate.
+  - His wisdom and mercy necessitate legislation that serves the best interests of His creation in both worldly life and the hereafter
+    - recognising that circumstances and benefits vary over time and places.
+  - Therefore, ruling that is beneficial at one time or state may differ in its applicability or benefit at another time.
+    - Allah, being All-knowing and All-Wise, decree what is most beneficial for His servant based on His perfect knowledge and wisdom.
+*** Occurrence in the Shariah
+the evidence are many, from them:
+1. Explicit Qur’anic mention of abrogation
+   - Allah says (meaning):
+     - “Whatever verse We abrogate or cause to be forgotten, We bring forth one better than it or similar to it…”  
+       (Sūrat al-Baqarah 2:106)
+   - The saying of the Most High:
+     "Now, Allah has lightened [the hardship] for you" 8:66
+     "So now, have relations with them" 2: 187
+        This text was revealed to change the previous ruling.
+2. Abrogation of previous divine laws
+   - The Sharī‘ah of Muḥammad ﷺ abrogates earlier heavenly laws where they differ from it.
+   - For example, certain dietary and Sabbath laws given to Banū Isrā’īl are no longer binding on this Ummah.
 
-However, this does not encompass situations like non-implementation due to condition or preventive factors.
-- For instance, the obligation of Zakah may be lifted due to not meeting the set limit, or the obligation of prayer during menstruation;
-  - these instance are not termed as abrogations.
+3. Abrogation of the Qiblah
+   - Initially, the Muslims faced *Bayt al-Maqdis* (Jerusalem) in prayer.
+   - Later, Allah commanded them to face *al-Masjid al-Ḥarām* in Makkah:
+     - “So turn your face toward al-Masjid al-Ḥarām; and wherever you are, turn your faces toward it…”  
+       (Sūrat al-Baqarah 2:144)
 
-Regarding "or its wording", it refers to the legal proof within the text because abrogation can involve
-- either the ruling without the wording or vice versa, or both.
-  -  Not included in this definition are evidence from consensus and analogy, as they cannot abrogate.
-
-Indeed, abrogation is intellectually acceptable and legal reality in Shariah.
-- Intellectually, it aligns with the understanding that Allah possesses absolute power and authority, being the ultimate owner and legislator.
-  - Thus, He may enact laws as He sees fit, guided by His wisdom and mercy for His servants.
-    - It's reasonable to acknowledge that the possessor orders his possession as He deems appropriate.
-
-- His wisdom and mercy necessitate legislation that serves the best interests of His creation in both worldly life and the hereafter, recognising that circumstances and benefits vary over time and places.
-
-Therefore, ruling that is beneficial at one time or state may differ in its applicability or benefit at another time.
-- Allah, being All-knowing and All-Wise, decree what is most beneficial for His servant based on His perfect knowledge and wisdom.
-
-As for its occurrence in the Shariah then the evidence are many, from them:
-1. The saying of the Most High:
-   "We do not abrogate the verse or cause it to be forgotten except that we bring forth [one] better than it or similar to it" 2:106
-2. The saying of the Most High:
-   "Now, Allah has lightened [the hardship] for you" 8:66
-   "So now, have relations with them" 2: 187
-   This text was revealed to change the previous ruling.
-3. The saying for the Prophet (ﷺ)
-   "I used to forbid you from visiting graves so visit them (from now on)"
-   This text abrogated the prohibition of visiting the graves.
-** What prevents abrogation taking place
+4. Abrogation of the prohibition of visiting graves
+   - The saying for the Prophet (ﷺ)
+       "I used to forbid you from visiting graves so visit them (from now on)"
+       This text abrogated the prohibition of visiting the graves.
+   - At first, the Prophet ﷺ forbade visiting graves.
+   - Later he said:
+     - “I had prohibited you from visiting graves — now visit them, for they remind you of the Hereafter.”
+   - The earlier prohibition was abrogated; visiting graves is now recommended as a reminder of death and the Hereafter.
+        
+** Scope (What naskh doesn't touch) 
 :PROPERTIES:
 :ID:       a23da66c-6026-4bb4-a55e-cbe5c9911c34
 :END:
-Abrogation is prevented from the taking place in the following:
-1. News: Abrogation is prevented from occurring in matters of news because it deals specifically with rulings.
-   - In cases where a ruling is conveyed in the form of news, abrogation can still apply.
-     - An example is found in the Quran, where Allah initially state:
-       - "if there are among you twenty [who are] steadfast, they will overcome two hundred" 8:65
-       - This statement conveys a ruling in the form of news. However, in the very next verse, Allah abrogates this ruling with:
-       - "Now, Allah has lightened [the hardship] for you, and he knows that among you is weakness. So if there are from you one hundred who are steadfast, they will overcome two hundred" 8:66
-       - Here, the initial ruling is replace by a new one, demonstrating the occurrence of abrogation even in matters initially presented as news.
+What prevents abrogation taking place?
+Naskh applies to *legislative rulings* (aḥkām fiqhiyyah), not to every type of text.
 
-2. Indeed, rulings that are universally beneficial, applicable in every time and place,
-   - such as the principle of Tawhid, the fundamental tenets of faith, and moral virtues like honesty, chastity, generosity, and courage, cannot be subject to abrogations.
-     - Similarly, prohibitions against universally recognised evils such as Shrik and Kufr, as well as immoral behaviour like lying, immorality, greed and cowardice, remains constant across all ages and regions.
-       - These laws are established for the welfare of humanity and to prevent harm and corruption.
-         - Therefor, they are immutable and not subjected to abrogation.
+Where abrogation does *not* occur:
+*** 1. Reports and stories of the past
+:PROPERTIES:
+:ID:       7c45207d-46bb-49ec-a2fb-80b9a017f02b
+:END:
+   - Historical reports: stories of previous nations, Prophets, Banū Isrā’īl, Fir‘awn, Iblīs, etc.
+   - These are informational (khabar), not commands, so abrogation does not apply.
+     - In cases where a ruling is conveyed in the form of news, abrogation can still apply (insha as khabar).
+       - An example is found in the Quran, where Allah initially state:
+         - "if there are among you twenty [who are] steadfast, they will overcome two hundred" 8:65
+         - This statement conveys a ruling in the form of news. However, in the very next verse, Allah abrogates this ruling with:
+         - "Now, Allah has lightened [the hardship] for you, and he knows that among you is weakness. So if there are from you one hundred who are steadfast, they will overcome two hundred" 8:66
+         - Here, the initial ruling is replace by a new one, demonstrating the occurrence of abrogation even in matters initially presented as news.
+           
+*** 2. Universal moral values
+:PROPERTIES:
+:ID:       acb01bc6-0a3e-40c7-9e7e-1869c45b65b2
+:END:
+   - Core ethical values like:
+     - justice, honesty, compassion, trustworthiness.
+   - These are rooted in the fiṭrah and remain constant.
+   - Similarly, prohibitions against universally recognised evils such as Shrik and Kufr, as well as immoral behaviour like lying, immorality, greed and cowardice, remains constant across all ages and regions.
+     - These laws are established for the welfare of humanity and to prevent harm and corruption.
+       - Therefor, they are immutable and not subjected to abrogation.
+         
+*** 3. Matters of ʿAqīdah (belief)
+:PROPERTIES:
+:ID:       fa1a8ee9-c14e-410c-ac60-f34c3a348033
+:END:
+   - Beliefs such as:
+     - tawḥīd and the Oneness of Allah,
+     - belief in the Hereafter,
+     - angels, books, messengers, qadar.
+     - These are eternal truths and are *not* subject to abrogation.
+     - Indeed, rulings that are universally beneficial, applicable in every time and place,
+       - such as the principle of Tawhid, the fundamental tenets of faith, and moral virtues like honesty, chastity, generosity, and courage, cannot be subject to abrogations.
+       
+*** 4. Ibadah **Actions legislated for eternity**
+:PROPERTIES:
+:ID:       92fba817-2ab6-4c7b-9139-1f2c56baeb79
+:END:
+   - Certain rulings remain until the Day of Judgement, e.g.:
+     - jihād as a means of defending the faith,
+     - the permanent prohibition of marrying the wives of the Prophet ﷺ after him.
 
-** Conditions of Abrogation
+** pillars of abrogation
+:PROPERTIES:
+:ID:       d92583fa-8b9d-4940-a485-44b2b05becfe
+:END:
+Pillars of Abrogation (arkān an-naskh)
+For naskh to exist, three elements are considered:
+*** 1. An-Nāsikh – The abrogating (text/ruling)
+:PROPERTIES:
+:ID:       c8e9b164-731e-4e15-aa6c-0979740d55a8
+:END:
+- Definition:
+  - The *later/newer* law
+    -  text that supersedes a previous/old ruling.
+- Role:
+  - Represents the *final, current* ruling to be followed.
+- Conditions:
+  - Must be *revealed after* the mansūkh.
+    - the look at the tafsir of the sahabah, and now when the abrogation took placek 
+      - Clearly *replaces* or modifies the earlier ruling.
+      - Itself must be a valid shar‘ī proof (Qur’an or Sunnah) and clear in indication.
+        - it can't be from qiyas or ijma'
+      - Its “strength” (in terms of source and indication) must be sufficient to override the earlier ruling.
+        - the mean the sunnah abrogating the quran, then the sunnah must be proven to be authentic
+          - as the prophet didn't speak for himself
+- Example:
+  - The command to face the Kaʿbah in Makkah abrogated the earlier command to face *Bayt al-Maqdis*.
+
+*** 2. al-Mansūkh – The abrogated (text/ruling)
+:PROPERTIES:
+:ID:       8efeea64-f4d6-41e4-9da4-81a525aa8055
+:END:
+- Definition:
+  - The earlier ruling that has been *lifted* by a later text.
+    - the old rule
+- Role:
+  - Was binding before the nāsikh appeared;
+  - after abrogation it is *no longer acted upon*.
+- Conditions:
+  - Applied *before* the nāsikh was revealed.
+  - After the nāsikh, it is no longer valid to implement it as law.
+  - The fact it is abrogated does *not* mean it was false; rather, the ruling has fulfilled its wisdom and time.
+- Example:
+  - Early concessions and forms of fasting that were modified by later verses in Sūrat al-Baqarah (2:183–185).
+    - they didn't need to fast to make up the fast, but they used to give fidiyah
+  - fast of Ashurah was obligatory before
+
+*** 3. al-Mansūkh ʿanhu – The subject affected 
+:PROPERTIES:
+:ID:       6a7bb508-6942-4f0d-9a6d-84de921eead5
+:END:
+- the subject(s) affected by that ruling (those for whom it applied).
+- Definition:
+  - The *person(s) or group* for whom the abrogated ruling previously applied.
+- Role:
+  - They move from being bound by the *earlier* ruling to being bound by the *new one*.
+- Example:
+  - Early in Islam, Muslims were prohibited from visiting graves;
+    - they were the *mansūkh ʿanhu* for that ruling.
+      - After the new command permitting grave visitation, they are no longer sinful for doing so.
+
+** Conditions for establish Abrogation 
 :PROPERTIES:
 :ID:       dd7eb74b-4d6e-49e2-8860-03ed3de9beff
 :END:
-
-The conditions for abrogation that are required for what can be abrogated include:
-
-1. Incompatibility of Evidence:
-   - Abrogation requires two piece of evidence that cannot be reconciled or combined, as their simultaneous application would render abrogation unnecessary. If compatibility exists, abrogation does not apply.
-     
-   - And an example of knowledge reaching us by way of information from a companion is the statement of A'ishah, who reported that it had been revealed in the Holy Qur'an that then clear breast feeding make the marriage unlawful, the it was abrogated (and substituted) by five breast feedings.
-     
-2. Chronological Sequence:
-   - it is essential to establish that the abrogating text was revealed later than the abrogated one. This knowledge can be obtained from explicit texts, reports from companions, or historical context. For instance, the Prophet's statement about the prohibition of temporary marriage indicates a later revelation, he said, "I authorised you to enjoy women (through temporary marriage), indeed Allah has now forbidden it until the Day of Resurrections."
-   
-   - And an example of knowledge garnered through history occurs in the saying of the Most High : Now Allah has lightened the burden from you. The word 'now' indicates that this ruling is the latter (of whatever preceded it of the same issue). Similarly, if it were stated that the Prophet (ﷺ) gave a ruling for something before the migration, and then gave another ruling after that which opposed the first then the second one would be counted as the abrogating one.
-
-
-3. Validation of the abrogating text.
+what must be true
+*** 1. Incompatibility of Evidence
+:PROPERTIES:
+:ID:       a7ef41a9-c72e-4607-8231-9c4c6b5ca4b8
+:END:
+   - two piece of evidence that cannot be reconciled or combined,
+     - as their simultaneous application would render abrogation unnecessary.
+     - If compatibility exists, abrogation does not apply.
+     - And an example of knowledge reaching us by way of information from a companion is the statement of A'ishah, who reported that it had been revealed in the Holy Qur'an that then clear breast feeding make the marriage unlawful, the it was abrogated (and substituted) by five breast feedings.
+       
+*** 2. Chronological Sequence
+:PROPERTIES:
+:ID:       cd2a45fa-dd13-405e-aa5a-a9fd4099cc0b
+:END:
+   - The abrogating text was revealed later than the abrogated one.
+     - This knowledge can be obtained from explicit texts, reports from companions, or historical context.
+       - For instance,
+         - the Prophet's statement about the prohibition of temporary marriage indicates a later revelation, he said, "I authorised you to enjoy women (through temporary marriage), indeed Allah has now forbidden it until the Day of Resurrections."
+         - Example of knowledge garnered through history occurs in the saying of the Most High: Now Allah has lightened the burden from you.
+           - The word 'now' indicates that this ruling is the latter (of whatever preceded it of the same issue).
+         - Similarly, if it were stated that the Prophet (ﷺ) gave a ruling for something before the migration, and then gave another ruling after that which opposed the first then the second one would be counted as the abrogating one.
+      
+*** 3. The Strength of An-nasikh
+:PROPERTIES:
+:ID:       9bffc525-fa41-4535-85e1-a40035696202
+:END:
    - The majority has stipulated that the abrogating text be stronger than what is abrogating or at least similar, there the mutawatir (the narrations that has multiple narrators) would not be abrogated by narrations that are ahad (narrations that have a single narrator at each level of the chain), even if it is established (as correct narration),
      - what is most correct is that it not be stipulated whether or not the abrogating text be stronger or similar, reason being the purpose of the abrogation is the ruling, and so it should require it to be mutawatir for it to take place.
 
-** Categories of Abrogation
+** Three axes/classification of Abrogation
+:PROPERTIES:
+:ID:       4e82d66d-5202-4b63-9532-3f98a039c74c
+:END:
+same naskh, but
+- we can look at it in terms of the text itself,
+- or what happens to the ruling (substitute or not),
+- or where it’s coming from (Q/S).
+  
+*** by Wording vs Ruling 
 :PROPERTIES:
 :ID:       e3fdc13b-6039-42f0-84fd-598ffc7c262f
 :END:
+- Divisions of Abrogation Based on Ruling and Text  
+- different types of mansukh
 Abrogation is divided into three segments with regards to the abrogated text:
-
-1. When the ruling has been abrogated and the wording has remained, this is frequent in the Qur'an.
+**** 1. Ruling abrogated, wording remains
+:PROPERTIES:
+:ID:       56af0379-2fb3-432f-b57c-d1485b8dfffa
+:END:
+   - The verse remains in the muṣḥaf and is recited.
+     - we able to get reward for reciting it
+       - we can see the widoms and benifit between from between the text
+         - there are only between 24-26
+           ayah
+   - However, the legal ruling it once carried is no longer in force.
+     1. When the ruling has been abrogated and the wording has remained, this is frequent in the Qur'an.
    - An example of which are the two verse of patience:
      - "if there are among you twenty who are steadfast, they will overcome two hundred" 8:65
        
    - Its ruling abrogated by the saying of the Most High:
      - "New, Allah has lightened the hardship for you, and he knows that among you is weakness. So if there are from you one hundred who are steadfast, they will overcome two hundred. And if there are among you a thousand, they will overcome two thousand by the permission of Allah. And Allah is with the steadfast." 8:66
 
-   - And the wisdom of abrogating the ruling and not the verse is to allow the reward of reciting it to remain, and a reminder to the Muslims of the wisdom behind the abrogation.
-
-2. When the wording has been abrogated but the ruling remains,
+     - And the wisdom of abrogating the ruling and not the verse is to allow the reward of reciting it to remain, and a reminder to the Muslims of the wisdom behind the abrogation.
+**** 2. Wording abrogated, ruling remains
+:PROPERTIES:
+:ID:       9dfe65a3-7464-49a6-b65c-f334703db1a9
+:END:
+   - The specific verse is no longer recited as Qur’an,
+     - to test if they follow the sunnah 
+   - but its *legal ruling* continues to be implemented via other evidences.
+     1. When the wording has been abrogated but the ruling remains,
    - such as the verse of stoning.
      - Indeed it has been established in Bukhari and Muslim from the narration of ibn Abass and Umar bin Al Khattab said:
        - "The verse of stoning was amongst the other verse that Allah revealed in the Qur'an so we read it and understood it properly and the Prophet (ﷺ) stoned and we stoned after him, but I fear after a the passing of time people will come to say:"
          
          - "By Allah we do not find the verse of atoning in the Book of Allah! So they will become misguided by leaving an obligation that Allah has revealed, even though stoning is in the Book of Allah, a right upon those that commit fornication/ adultery from the chaste men and women, and if the evidence is established, the women is pregnant or if there is an acknowledgement".
 
-       - The wisdom of abrogating the wording but not the ruling is to text the Ummah to see if they will act upon something that is not in the Qur'an and fulfilling their belief in what Allah has revealed the exact opposite of the state of the Jews that tried to hide the verse of stoning in the Torah.
+         - The wisdom of abrogating the wording but not the ruling is to text the Ummah to see if they will act upon something that is not in the Qur'an and fulfilling their belief in what Allah has revealed the exact opposite of the state of the Jews that tried to hide the verse of stoning in the Torah.
+**** 3. Both wording and ruling abrogated
+:PROPERTIES:
+:ID:       d1630e12-d200-4aa5-9cc3-b5b0adc14b48
+:END:
+   - The verse is no longer recited,
+   - and the legal ruling is no longer in force.
+   - What has been abrogated both in wording and ruling:
+     - such as the abrogation of the ten breast feedings as in the previous narration of A'ishah
+       
+*** by Replacement vs No replacement
+:PROPERTIES:
+:ID:       8c90b027-e136-4db7-be12-0df83362dd6d
+:END:
+When Allah abrogates a ruling, it may or may not be replaced by another ruling.
+**** 1. Abrogation *with replacement*
+:PROPERTIES:
+:ID:       ffe4cbbf-ac66-4cb8-8986-ac2b6b86ef93
+:END:
+***** a) *Equal replacement*  
+:PROPERTIES:
+:ID:       7bb3a8ff-4be1-4644-8948-851ba76d9db5
+:END:
+   - Example: change of the qiblah from Jerusalem to Makkah.
+   - The act (facing a direction in prayer) remains, but the object changes.
 
-3. What has been abrogated both in wording and ruling:
-   -  such as the abrogation of the ten breast feedings as in the previous narration of A'ishah
+***** b) *Lighter replacement*  
+:PROPERTIES:
+:ID:       aa708430-6323-4137-a7cd-b1a42edfd1e9
+:END:
+   - Some rulings are replaced with something *easier*, e.g.:
+     - adjustments to the rules of fasting,
+       - able to have marital relations during the night of Ramadan
+     - changes in the rules of fighting at different stages of the daʿwah. e.g. 2 vs 10 for fleeing
 
-** The Abrogating Text
+***** c) *Stricter replacement*  
+:PROPERTIES:
+:ID:       e40d13ac-e9d3-45d0-aa27-6cf323e45508
+:END:
+   - Some rulings are replaced with something *more stringent*, e.g.:
+     - the gradual prohibition of alcohol:
+       - from discouragement,
+       - to prohibition near prayer,
+       - to complete and final prohibition.
+
+**** 2. Abrogation *without replacement*
+:PROPERTIES:
+:ID:       a6de3850-2493-4a3d-a3b1-a6b25ea753b3
+:END:
+- A ruling is lifted and *no new ruling* comes in its place.
+- Example:
+  - The obligation to give charity before privately consulting the Prophet ﷺ:
+    - Initially required,
+    - then removed with no comparable replacement ruling.
+
+*** By Source 
 :PROPERTIES:
 :ID:       4ec88b96-937a-4312-adca-5e64fce5c982
 :END:
-Abrogation is divided into four categories with regards to the abrogating text
-
+Abrogation Classified by source
+-Abrogation is divided into four categories
+- with regards to the abrogating text (quran or sunnah) and it's rulings
+  - by quran or sunnah
+    
 Abrogation of the:
-1. Qur'an by Qur'an
+**** 1. Qur'an by Qur'an
+:PROPERTIES:
+:ID:       511ed3e3-9b16-4bd2-90af-59af8b8edc1d
+:END:
    - like the verse of patience (mentions above)
-2. Qur'an by the Sunnah
+**** 2. Qur'an by the Sunnah
    - I have not found a proper example for this.
-3. Sunnah by Qur'an:
+**** 3. Sunnah by Qur'an:
+:PROPERTIES:
+:ID:       24a53430-c8b2-40b5-9c52-8296f80a45c7
+:END:
    - an example of which is the abrogation of facing the Sacred House in Jerusalem which was established by the sunnah, to facing the ka'bah which was in turn established by the saying of the Most High:
      - "So turn your face toward al-masjid al-haram. And wherever you believers are, turn your face toward it in prayer"
-4. Sunnah by Sunnah,
+**** 4. Sunnah by Sunnah,
+:PROPERTIES:
+:ID:       1e26a7a5-26a9-4998-b131-ca5d1eafe324
+:END:
    - and example of which is the saying of the Prophet:
-     - "I had forbidden you from the drinking (and preparation of) Nabidh in the vessels made out of leather, but (now) you may drink in all vessel, butt do not  drink intoxicants"
+     - "I had forbidden you from the drinking (and preparation of) Nabidh in the vessels made out of leather, but (now) you may drink in all vessel, but do not  drink intoxicants"
+
+** Ways to recognise abrogation
+- These tools are only used *after* attempting reconciliation (al-jamʿ) and preference (tarjīḥ).
+*** 1. Explicit text
+:PROPERTIES:
+:ID:       0ccd041c-5d20-4741-a4c5-0c8dd742b122
+:END:
+   - A text clearly states that a *previous ruling has been abrogated*.  
+   - Example: The hadith where the Prophet ﷺ says:
+     - “I had *previously* prohibited you from visiting graves – now visit them...”
+   - This directly announces abrogation.
+
+*** 2. Later text (chronology)
+:PROPERTIES:
+:ID:       45cc75ab-1840-4ad1-b508-fb57bcd897a9
+:END:
+   - Knowing that one text came *later* than another,
+   - and the two rulings cannot be reconciled,
+   - shows that the later one abrogates the earlier.
+     - e.g the wuld say from the last thing that the prophet (ﷺ) said
+       - or the time frame of who started narrated
+
+*** 3. Consensus of the Companions
+   - The Companions may agree that a certain ruling has been abrogated by another,
+   - even if no explicit wording of abrogation occurs in the text itself.
+
+*** 4. Abandonment by the Companions
+   - At times, the Companions stop acting on a hadith or ruling,
+   - without any explicit statement of naskh.
+   - Their *consistent abandonment* while acting on another text can indicate that the first has been superseded.
+     - they didn't do it, because it no longer a continued law,
+       - e.g killing the theift when he's stealing after 4 times 
+
 ** The Wisdom of Abrogation
 :PROPERTIES:
 :ID:       a8b7f352-abc9-4f6c-b609-a7304a6cb059
@@ -2345,185 +2595,1083 @@ Abrogation of the:
 There are many wisdom for Abrogation; from them:
 1. Taking into account the interest of people by legislating what is best for them in their religious and worldly affairs
 2. Gradually developing the legislation until it reaches perfection
+   - for the shahabah, vs the people who have come after.
 3. Testing the mukllafeen, their readiness to accept the transition from one rule to another and being content with it
 4. Testing the mukallafin to see if they give thanks for when the abrogation make things lighter for them, to see if they are patient when the abrogating text is harder for them.
-* Al-Akhbar
+   
+* DONE The Sunnah
 :PROPERTIES:
-:ID:       6f074b07-242a-4cd9-9a80-de2f080f37d1
+:ID:       3bf70f12-ff6a-4813-9096-b28b50132a4f
 :END:
+** Definition
+- linguistically it means a path way
+- Arabic wording (standard usūl definition):
+  - «مَا صَدَرَ عَنِ النَّبِيِّ ﷺ غَيْرَ الْقُرْآنِ مِنْ قَوْلٍ أَوْ فِعْلٍ أَوْ تَقْرِيرٍ»
+- Meaning:
+  - “Whatever was issued from the Prophet ﷺ other than the Qur’an,
+    in the form of:
+    - a *statement*,
+    - an *action*,
+    - or a *tacit approval*.”
+in other fields
+ - amongst
+   - the usooli
+    - everything related things that they can derve off 
+   - hadith
+     + add his description
+ - the scholar of fiqh
+   - taklify,  musthab
+ - aqeedah
+   - the belief
+ 
+** Categories of the Sunnah
+:PROPERTIES:
+:ID:       bc87b1d4-c066-43ec-b264-c26fa11567ef
+:END:
+The Sunnah is commonly divided into three types:
+*** 1. Verbal Sunnah
+:PROPERTIES:
+:ID:       48379585-bf10-4e37-ae0a-30955f812c3f
+:END:
+ - as-Sunnah al-Qawliyyah (السنة القولية)
+   - The spoken statements of the Prophet ﷺ.
+     - Example: legal rulings, prohibitions, commands, explanations.
 
-The Definition Al-Akhbar
-- linguistically
-  - means news.
-- But what is intended here is:
-  - that which is attributed to the Prophet (ﷺ) speech, actions, tacit approval or description.
+*** 2. Practical Sunnah 
+:PROPERTIES:
+:ID:       e8099601-339c-485b-89c9-eb8f776da400
+:END:
+- as-Sunnah al-Fiʿliyyah (السنة الفعلية)
+  - The actions of the Prophet ﷺ that have been transmitted.
+    - Example: the way he prayed, performed ḥajj, conducted transactions.
 
-we've previously mentioned about the fulling of the Prophet (ﷺ) speech.
+*** 3. Tacit Sunnah
+:PROPERTIES:
+:ID:       987781b2-8d18-45b6-81b7-e08782a2ad00
+:END:
+   - as-Sunnah at-Taqrīriyyah (السنة التقريرية)
+     - Situations where:
+       - something was done in his presence (or during his time),
+       - he knew of it,
+       - and he *approved* of it (by silence or explicit approval).
+     - His lack of objection indicates permissibility or acceptability. 
 
+
+[[id:e243af70-5ec7-4ead-878a-de680be1ac61][lesson 18 rec 21]]
+
+** The authority (ḥujjiyyah) of the Sunnah
+*** Meaning of ḥujjiyyah
+- The Sunnah is a *proof* indicating the ruling of Allah.
+- Through it we gain:
+  - *certain* or *strongly probable* knowledge of rulings.
+  - *manifestation*, *clarification* and *guidance*. 
+- Once a ruling is established by authentic Sunnah
+  - it becomes *obligatory* to act upon it.
+  - Because it conveys Allah’s rule, it *necessitates implementation*.
+
+*** The Sunnah as a foundational source
+- The Sunnah is the *second fundamental source* of legislation after the Qur’an.
+- Its proof of  authority is established by:
+  1. Evidences from the Qur’an.
+  2. Evidences from the Sunnah itself.
+  3. Consensus of the Companions.
+  4. Logical Evidences in the Clarification of Worship
+     - Rational necessity - we cannot know how to implement many acts of worship without it. 
+
+** The relationship between The Sunnah for the Quran
+:PROPERTIES:
+:ID:       c27749d8-4c6e-4a80-a6f1-70c6603452aa
+:END:
+The Sunnah interacts with the Qur’an in *three main ways* (per Imām al-Shāfiʿī in al-Risalah):
+*** 1. Clarifier 
+:PROPERTIES:
+:ID:       06d3bc0f-5943-47fc-919d-94e3123407f3
+:END:
+   (السنة المبيِّنة للقرآن)
+   *Sunnah as a clarifier of the Qur’an*
+   - Clarifies or explains what is general, brief or ambiguous in the Qur’an:
+     - explaining *how* to pray, fast, give zakāh, perform ḥajj;
+     - specifying general verses;
+     - restricting or expanding applications.
+
+*** 2. Reinforcer  
+:PROPERTIES:
+:ID:       958d80ff-aecf-47f4-91b6-65448ddd67be
+:END:
+   (السنة المؤكِّدة لكلام القرآن)
+   *Sunnah as a reinforcer of the Qur’an*
+   - Repeats and confirms rulings already found in the Qur’an,
+     without adding new legal content.
+   - Example: exhortations to honesty, justice, kindness already emphasised in the Qur’an.
+
+*** 3. Independent 
+:PROPERTIES:
+:ID:       124ff1cd-bf47-403f-8f01-431d8de2c293
+:END:
+   (السنة الزائدة على ما في القرآن)
+   Sunnah as an independent legislator 
+   - Establishes rulings not explicitly mentioned in the Qur’an, *without*
+     contradicting it.
+   - These fill areas where the Qur’an is silent, such as some commercial details or penal rulings.
+   - As the Sunnah is also from Allah
+     - a Source and Evidence of the Shari'a
+ 
+** Categories of the Prophet’s ﷺ actions
+:PROPERTIES:
+:ID:       033ca81a-13a2-401e-8fb8-d979d5ffa7f8
+:END:
 Types of Actions of the Prophet (ﷺ)
 The actions of the Prophet Muhammed (ﷺ) can be classified into different categories
-1. Natural Disposition.
-   - These are actions that are apart of his innate human nature, such as eating, drinking and sleeping. While they do not inherently constitute rulings, they may be commanded or prohibited based on specific reason or sought-after descriptions, like eating with the right hand.
-   
-2. Habitual Actions.
-   - These are actions performed by the Prophet based on his personal habits, such as his choice of clothing. While the actions themselves may be permissible, they may be recommended or discouraged for other based on additional factors.
-   
-3. Exclusive Actions.
-   - These are actions performed uniquely by the Prophet that are specific to him alone, such as continuous fasting for days without interruption or marrying women without a guardian. Exclusivity is not assumed for other individual unless there is evidence to support it, as the norm is to follow the Prophet's example.
 
-4. Worship Actions.
-   - These are actions performed by the Prophet in worship to Allah, which were obligatory for him until he received divine  orders to proclaim their obligation. Afterwards, they come recommended for him and the community based on the most correct opinion, that is because of the fact that if he did something, it indicate that it has basis in the Shariah, so the norm is that there is no punishment for leaving the actions, as it is legislated without any punishment for leaving it, and this is the reality of mandub (recommended)
 
-     An example of that is the narration of A'isha when she was asked what the Prophet began with when he entered his house? she said "With the siwak", there is nothing in the siwak whilst entering the house except an action, so it is mandub
+The actions of the Prophet ﷺ differ in nature and purpose.
+Usūl scholars classify them to understand their legal implications:
 
-     Another example is the Prophet wiping his beard by passing his finger through from behind his beard to the front in a combing motion during wudo. This action is not considered a part of washing the face; and it is only an action so it reaches the level of mandub
-
-5. Clarifying Ambiguities:
-   - The Prophet's actions often served to elucidate ambiguous text from the Quran and Sunnah, initially obligatory for him until clarification was received, these actions helped clarify the rulings for both him and his followers. If the clarified ruling is obligatory, the action becomes obligatory; if recommended, it becomes recommended for both the Prophet and his follower.
-
-An example of an obligation is the obligatory action of the prayer that the Prophet (ﷺ) did, thereby removing the ambiguity of the saying of the Most High:
- - "And establish the prayer" 2:43
-   - And example of mandub:
-     - His praying of two units behind the station of Ibrahim after completing the tawaf enacting the saying of the Most High:
-       - "And take the station of Ibrahim as a place of prayer" 2:125
-         - By going toward the station of Ibrahim, while reading the verse, and offering two rak'ahs as a Sunnah
-         - The approval of the Prophet Muhammad (ﷺ) serves as evidence of the permissibility of a particular action or statement in the manner it was approved by him. This applies whether it pertain to speech or action.
-           - For instance, his approval of a statement is exemplified by an incident where the questioned a slaved girl about the whereabout of Allah, and upon her repsonce that he "above the sky" he approved of her answer.
-           - Similarly, his approval of certain actions is demonstrated in various instance. For example, when the Prophet (ﷺ) learned that a companion regularly recited Surah al-Iklas in every rak'ah of his prayer out of love for its description of Allah's mercy, the Prophet (ﷺ) praised him and conveyed Allah's love for him.
-           - Another illustration is his approval of Abyssinians playing in the mosque to draw them closer to Islam.
- Action that occurred during his lifetime but of which he was not aware cannot be directly attributed to him. However, they serve as evidence of Allah's approval, as highlighted by the practice of 'Azl (coitus interruptus) during the revelation of the Qur'an.
-  - The companions cited this as evidence of it permissibility reason that if it were prohibited, the Qur'an would have explicitly addressed it.
-    - The fact that reprehensible actions attempted to be concealed by hypocrites were exposed and condemned by Allah further underscore that his silence on certain matter signifies their permissibility.
-      - This indicate that actions or statement approved by Allah, even if not explicitly addressed in revelation, are deemed permissible.
-
-** The categories of news in light of who they are attributed to
+*** 1. *Actions of human nature*  
 :PROPERTIES:
-:ID:       5d3263c0-2d68-4316-b5c7-52232f8ce500
+:ID:       8c07ad3e-d728-4ac6-aa5a-b552c01774bc
+:END:
+   (الأفعال الجِبلِّيَّة)
+   - Ordinary human behaviours:
+     - eating, drinking, sleeping positions, everyday habits.
+   - The default ruling:
+     - *permitted*; not necessarily recommended or obligatory.
+       
+   - Natural Disposition.
+     - These are actions that are apart of his innate human nature, such as eating, drinking and sleeping.
+       - While they do not inherently constitute rulings (default), 
+         - they may be commanded or prohibited based on specific reason or sought-after descriptions, like eating with the right hand.
+*** 2. *Actions conforming to the customs of his people*  
+:PROPERTIES:
+:ID:       1d8b7e91-dc9d-4f18-b71b-7895764e719a
+:END:
+   (أفعاله الموافِقة لعادات قومه)
+   - Cultural norms of 7th-century Arabia:
+     - styles of clothing, modes of riding, local foods, etc.
+       - (e.g you can follow you're own culture or your society that it dones't contradict the sunnah)
+   - Indication:
+     - these generally show *permissibility*,
+     - not that the specific custom is required for all Muslims.
+       
+   - Habitual Actions.
+     - These are actions performed by the Prophet based on his personal habits, such as his choice of clothing.
+       While the actions
+       - themselves may be permissible,
+         - they may be recommended or
+           - discouraged for other based on additional factors.
+*** 3. *Purely legislative (devotional) actions*  
+:PROPERTIES:
+:ID:       20b33dbb-5938-4fe2-bbd6-0f715e497097
+:END:
+   (أفعاله التعبديّة الامتثاليّة)
+   - Acts done explicitly as *ʿibādah* and compliance with Allah’s commands:
+     - manner of ṣalāh, zakāh distribution, rites of ḥajj, etc.
+   - These are strong indicators of:
+     - *obligation* or *recommendation*, depending on other evidence.
+       
+   - Worship Actions.
+     - These are actions performed by the Prophet in worship to Allah,
+       - which were obligatory for him until he received divine orders to proclaim their obligation.
+         - Afterwards, they come recommended for him and the community based on the most correct opinion, that is because of the fact that if he did something, it indicate that it has basis in the Shariah,
+           - so the norm is that there is no punishment for leaving the actions, as it is legislated without any punishment for leaving it, and this is the reality of mandub (recommended)
+
+       An example of that is the narration of A'isha when she was asked what the Prophet began with when he entered his house? she said "With the siwak", there is nothing in the siwak whilst entering the house except an action, so it is mandub
+
+       Another example is the Prophet wiping his beard by passing his finger through from behind his beard to the front in a combing motion during wudo. This action is not considered a part of washing the face; and it is only an action so it reaches the level of mandub
+*** 4. *Actions exclusive to him*  
+:PROPERTIES:
+:ID:       1a959c6e-0d77-4a23-9a40-5688b6ee7e1b
+:END:
+   (أفعاله التي هي من خصائصه النبويّة)
+   - Rulings that apply only to the Prophet ﷺ:
+     - extra night prayer,
+     - permissibility of marrying more than four wives, etc.
+     - or prohibited for the Prophet (ﷺ) only 
+   - These are *not* general proofs for the Ummah.
+     - how they can figure this out
+       - indication in the Quran and Sunnah
+         - e.g the specific fasting
+   - Exclusive Actions.
+     - These are actions performed uniquely by the Prophet that are specific to him alone, such as continuous fasting for days without interruption or marrying women without a guardian. Exclusivity is not assumed for other individual unless there is evidence to support it, as the norm is to follow the Prophet's example.
+*** 5. *Actions done for the purpose of clarification*  
+:PROPERTIES:
+:ID:       55b26b61-b2f3-4dfc-9816-3c72948de3e7
+:END:
+   (أفعاله التي جاءت للبيان)
+   - Performed specifically to explain Qur’anic commands:
+     - “Pray as you have seen me pray”; his ḥajj demonstrating “take from me your rites”.
+   - These have the ruling of the *clarified command*:
+     - if the original command is obligatory, the clarifying action becomes a model for obligation.
+   - Clarifying Ambiguities:
+     - The Prophet's actions often served to elucidate ambiguous text from the Quran and Sunnah, initially obligatory for him until clarification was received, these actions helped clarify the rulings for both him and his followers. If the clarified ruling is obligatory, the action becomes obligatory; if recommended, it becomes recommended for both the Prophet and his follower.
+*** 6. *Actions with no explicit legal indication*  
+:PROPERTIES:
+:ID:       9168c06a-80d3-411f-94c5-45ec1ab6022b
+:END:
+   (أفعاله المجرّدة عن القرائن)
+   - Actions without any accompanying command, prohibition or explanation.
+   - Scholars discuss:
+     - whether they indicate
+       - recommendation or
+         They derive it from the reason
+         - for example of itikaf
+           - reason is to get closer to Allah
+       - simple permissibility,
+         - often leaning to *permissibility* unless another proof shows otherwise.
+           - e.g resting before the continue the Salah
+             - but the scholars they differ if the reason to the resetting it self is the recommenced
+               - e.g example of ibn umar
+                 - copies the prophet (ﷺ) exactly
+                   - used to bend down where the tree branch used to be
+                     - The scholars infers on this saying that you will get reward out of imaan of this types of action (to express his love for the messenger of (ﷺ)), but not for the action in itself
+                       - e.g imaan shafee (ﷺ) said it you should rest between in it's legal sense  
+** The Tacit Sunnah
+:PROPERTIES:
+:ID:       b866c027-6b19-497a-9339-fa39d4f959df
+:END:
+*** Definition
+- The Prophet’s ﷺ *silence* over a statement or action done in his presence
+  (or which he knew of) *without objecting* indicates *permissibility*,
+  unless proven otherwise.
+  - al-Juwaynī said:
+  - “His silence is like his speech; his approval is like his own action.”
+- This is a valid legal proof because:
+  - the Prophet ﷺ was *obligated* to clarify anything that was wrong or impermissible.
+*** Types of tacit approval
+:PROPERTIES:
+:ID:       01b78f13-7b1c-4742-8713-8d4e3528855a
+:END:
+**** 1 *Direct tacit approval*
+:PROPERTIES:
+:ID:       1788f21f-2114-4551-abef-993c9170b34f
+:END:
+- mention in his (ﷺ) prensece
+
+The approval of the Prophet Muhammad (ﷺ) serves as evidence of the permissibility of a particular action or statement in the manner it was approved by him.
+
+This applies whether it pertain to speech or action.
+- For instance, his approval of a statement is exemplified by an incident where the questioned a slaved girl about the whereabout of Allah, and upon her repsonce that he "above the sky" he approved of her answer.
+- Similarly, his approval of certain actions is demonstrated in various instance. For example, when the Prophet (ﷺ) learned that a companion regularly recited Surah al-Iklas in every rak'ah of his prayer out of love for its description of Allah's mercy, the Prophet (ﷺ) praised him and conveyed Allah's love for him.
+     - Another illustration is his approval of Abyssinians playing in the mosque to draw them closer to Islam.
+  
+***** a. *Comprehensive approval*
+:PROPERTIES:
+:ID:       6f869805-013a-406c-ba98-212eddce99f1
+:END:
+   - The Prophet ﷺ clearly witnessed or was told of an act and approved it.
+     - improve the entire action that was improved
+   - *Example*:
+     - A man used to recite Sūrat al-Ikhlāṣ in every rakʿah.
+     - The Prophet ﷺ approved his action. (al-Bukhārī, Muslim)
+       - another exmaple
+         - a shahaba, 2 sunnah of fajr after fajr that he missed
+           - the prophet (ﷺ) stayed sillence on the whole action to show the approval
+             - e.g khalid eating the lizad
+               - the voiced being raised by hearing the sound of the adkar of the shabaha, that how people knew it was finihsed  
+***** b. *Partial approval*
+:PROPERTIES:
+:ID:       37339609-b485-40c8-bc8a-aa0aebc801cf
+:END:
+   - The Prophet ﷺ objected to *some parts* of an act but remained silent about the rest,
+     thus approving what he did not object to.
+   - *Example*:
+     - Young girls were singing on ʿĪd.
+     - The Prophet ﷺ did not object to their singing, but clarified the occasion. (al-Bukhārī, Muslim)
+       - he didn't object that it wasn't from being the tool of sytaan, but for the young girls singing on the day of eid
+
+**** 2 *Indirect tacit approval*
+:PROPERTIES:
+:ID:       839b9aa3-674d-4b32-9a21-7824b0e4e04a
 :END:
 
-News is divided into three categories with regards to who they are attributed to: Marfu', Mawquf and Maqtu'.
+Action that occurred during his lifetime but of which he was not aware cannot be directly attributed to him.
+- However, they serve as evidence of Allah's approval, as highlighted by the practice of 'Azl (coitus interruptus) during the revelation of the Qur'an.
+- The companions cited this as evidence of it permissibility reason that if it were prohibited, the Qur'an would have explicitly addressed it.
+  - The fact that reprehensible actions attempted to be concealed by hypocrites were exposed and condemned by Allah further underscore that his silence on certain matter signifies their permissibility.
+    - This indicate that actions or statement approved by Allah, even if not explicitly addressed in revelation, are deemed permissible.
 
-1. Marfu': What is attributed to the prophet (ﷺ) in actual terms or through a judgement (he passed) .
-   
-   As for marfu in actual terms, it is the words of the Prophet (ﷺ), his actions and tacit approvals.
-   
-   And marfu' through judgement is what is attributed to his Sunnah, or his reign or the like and whatever shows that he had no direct contact with, such as the saying of a companion: We have been commanded or forbidden etc, as in the words of ibn Abbas "The people were commanded to make the last they do before leaving Makkah: tawaf of the Ka'bah, except for menstruating women" And the words of Umm Atiyah: we were forbidden to follow the funerals procession..
-   
-2. Mawquf: What is attributed to a companion but not proven to be from the Prophet himself, then the most correct opinion is this can be used as an evidence except in the case where it contradicts a text (Qur'an and Sunnah) in which case we go by the text, or that it contradicts the statement of another companion, then the most correct opinion is taken of the two. A companion is whoever met the Prophet, believed in him and died upon that.
 
-3. Maqtu': What is attributed to a Tabi'i and anyone after him.
-   The Tabi'is is whoever met a companion as a believer and died upon that.
 
-** Categories of news with regards ot its chians (of narrations)
+ - An act done during his lifetime that:
+   - he did *not personally witness*,
+   - but which was *not forbidden* by Allah or His Messenger ﷺ,
+     - as Allah would have prohibited for mankind
+       - it's a sunnah of Allah to make it permissible in the shari'a, it is Allah's approval as the prophet (ﷺ) was sent at the time of legislation
+         - hence the default is permissible 
+   - is also considered legally valid.
+     - *Examples*:
+       - The Companions practised *ʿazl* (coitus interruptus)
+         while the Qur’an was being revealed;
+         no prohibition was sent down. (al-Bukhārī, Muslim)
+         - hence it shows the permissiblity 
+       - Eating horse meat:
+         - the Companions did so during his time,
+         - and it was not forbidden. (al-Bukhārī)
+*** Legal implications of tacit approval
 :PROPERTIES:
-:ID:       010a1de9-0749-4d7d-add5-21a568ffc8d6
+:ID:       cfafe1fa-9f11-4a98-b46e-efeb1c7436db
 :END:
+- Tacit approval carries the *same ruling* as the act itself:
+  - If the Prophet ﷺ approved an *act of worship*, it is *legislated* (mashrūʿ).
+  - If he approved something as *permissible*, then it is *allowed* (jā’iz).
+    - but it's not something that is encorraged or it would have been in the chatpers of ibadat
 
-News can be divided into Mutawatir and Ahad with regards to it chains of narrations:
+*** Conditions for valid tacit approval
+:PROPERTIES:
+:ID:       12afb602-4a05-490c-bbb6-1b4495b9750c
+:END:
+1. The Prophet ﷺ must have *known* of the act, by one of:
+   - being physically present,
+   - being *informed* of it,
+   - or the act being *public knowledge* in his time.
+2. The act must be done by a *Muslim*, not by a disbeliever.
+3. There must be *no revealed objection* from Allah or His Messenger ﷺ.
 
-1. Mutawatir: definition: News narrated by many people, making it virtually impossible for them to have conspired to lie.
+- al-Juwaynī said:
+  - “His silence is like his speech; his approval is like his own action.”
+** Reports 
+:PROPERTIES:
+:ID:       e86745d9-59e0-41d4-ae62-b046534de77d
+:END:
+- Attributing reports
+*** Definition of /khabar/
+- *Linguistically*:
+  - /khabar/ (الخبر) means “a report” or “information”.
+  - Plural: *akhbār* (أخبار). "reports"
+- *Technically*:
+  - “A statement that is intrinsically capable of being either *true* or *false*.”
+
+*** Types of reports by Attribution
+:PROPERTIES:
+:ID:       b01e4888-efd6-4ad9-ae4d-059831de7cf7
+:END:
+Reports in ḥadīth literature are categorised according to whom they are attributed:
+
+[[id:b8025b7d-9e12-42ea-bd90-116fbaff5f79][lesson 19 rec 22]]
+**** 1. *Marfūʿ* (مرفوع) – Attributed to the Prophet ﷺ
+:PROPERTIES:
+:ID:       a1aa918e-09ab-4bca-87c8-3e979a065f68
+:END:
+   - Anything attributed directly or indirectly to the Prophet ﷺ.
+   - *Explicit marfūʿ*: haqiqah
+     - clear statements, actions and approvals of the Prophet ﷺ.
+   - *Implied marfūʿ*: hukman
+     - what is attributed to his Sunnah or era without directly quoting him.
+     - *Example*: Ibn ʿAbbās said,
+       - “The people were commanded to make the last thing they do (in ḥajj) the circumambulation of the House…”
+       - Though he does not quote the Prophet ﷺ, this is treated as marfūʿ.
+         - as what they're doing is only that which the prophet (ﷺ) tought us 
+     - Marfu': What is attributed to the prophet (ﷺ) in actual terms or through a judgement (he passed) .
    
-   Example: The Prophet Muhammad (ﷺ) statement: "Whoever deliberately lie about me, let him take his place in the Fire".
+       As for marfu in actual terms, it is the words of the Prophet (ﷺ), his actions and tacit approvals.
    
-2. Ahad: definition: news with a lesser number of narrators compared to Mutawatir.
-   Further divided into:
-   a. Sahih (Authentic): Narrated by an upright individual with precise recollection, featuring a connected chain of narration without anomalies or hidden defect.
-   b. Hasan (Good): Narrated by a generally pious individual with reasonable precision and a connected chain of narration, free of anomalies or hidden defect. It may be elevated to Sahih status if supported by numerous chains of narrations, knows a "Sahih due to others".
-   c. Da'if (Weak): narrations that do not meet the conditions of Sahih or Hasan. However, if supported by multiple chians of narration, it may be elevated to Hasan status know as "Hasan due to others".
+       And marfu' through judgement is what is attributed to his Sunnah, or his reign or the like and whatever shows that he had no direct contact with, such as the saying of a companion: We have been commanded or forbidden etc, as in the words of ibn Abbas "The people were commanded to make the last they do before leaving Makkah: tawaf of the Ka'bah, except for menstruating women" And the words of Umm Atiyah: we were forbidden to follow the funerals procession..
+**** 2. *Mawqūf* (موقوف) – Attributed to a Companion
+:PROPERTIES:
+:ID:       0a61751d-5e94-43dc-ac8e-411aa9866265
+:END:
+   - A report that stops at a *Companion* (Ṣaḥābī),
+     without being raised to the Prophet ﷺ.
+   - *Companion* definition:
+     - One who met the Prophet ﷺ as a believer and died upon that belief.
+   - Mawquf:What is attributed to a companion but not proven to be from the Prophet himself, then the most correct opinion is this can be used as an evidence except in the case where it contradicts a text (Qur'an and Sunnah) in which case we go by the text, or that it contradicts the statement of another companion, then the most correct opinion is taken of the two. A companion is whoever met the Prophet, believed in him and died upon that.
+**** 3. *Maqṭūʿ* (مقطوع) – Attributed to a Tābiʿī or later
+:PROPERTIES:
+:ID:       e518c680-310e-4647-9099-c54b4bc23b03
+:END:
+   - A report attributed to a *Tābiʿī* (Successor) or anyone after them.
+   - *Tābiʿī* definition:
+     - One who met a Companion while believing in the Prophet ﷺ and died upon that belief. 
+   - Maqtu': What is attributed to a Tabi'i and anyone after him.
+           The Tabi'is is whoever met a companion as a believer and died upon that.
 
-Status as Evidence
-- All categories except Da'if are considered evidences.
-- Da'if narrations are not considered evidence, but may be mentioned as supporting evidence for establishing matters sourced form authentic means. 
+*** The views of the Companions and their evidentiary weight
+:PROPERTIES:
+:ID:       f94b9f55-7d55-4134-8be7-ebbe26954aca
+:END:
+**** Definition of a Companion
+:PROPERTIES:
+:ID:       5583a52c-16d5-4a2d-b237-cfbd58b45b04
+:END:
+- A *Companion (ṣaḥābī)* is:
+  - one who met the Prophet ﷺ while believing in him
+  - and died upon that belief.
+- ahulul hadith
+  - don't need to be an adult
+- *Tābiʿī* definition:
+  - One who met a Companion while believing in the Prophet ﷺ and died upon that belief. 
+**** Status of a Companion’s statement
+:PROPERTIES:
+:ID:       09d4a71d-7a3d-486b-982f-300bf025cefb
+:END:
+The statement of a Companion either:
+  1. *Carries the ruling of being marfūʿ*, or
+  2. *Does not* carry the ruling of being marfūʿ.
+  3. that are matters of verdicts
 
-** Modes of Narrating Hadith
+***** When the Companion’s statement is *not* treated as marfūʿ and becomes well-known,
+:PROPERTIES:
+:ID:       f3393110-68c4-49ad-a0ce-01c19f84e475
+:END:
+  it falls into three cases:
+
+***** *Affirmed by other Companions*
+:PROPERTIES:
+:ID:       3f09e074-15a9-4ae5-9546-822fe6447196
+:END:
+  - If other Companions *confirm* it:
+    - this is *ijmāʿ* (consensus),
+    - and is an authoritative proof by unanimous agreement.
+
+***** *Widespread with no objection* (tacit approval of sahabah)
+:PROPERTIES:
+:ID:       ebab4e01-7a0d-4c7a-9660-a33bb668abe2
+:END:
+  - If a Companion’s statement becomes widespread
+    and *none* of the Companions object:
+    - this is also an authoritative proof.
+
+***** *Disagreement among Companions*
+:PROPERTIES:
+:ID:       f0c0da2b-9581-48c7-97e9-7cc296cd5018
+:END:
+  - If some Companions *disagree* with it:
+    - this leads to three important principles:
+      - Agreed upon (4 madhab)
+        - this is a disputed evidence
+          - not an evidence of itself, but allows us to understand the different presepective
+            - ahlul bidah - use this as an evidence
+****** Principle 1 – A Companion’s statement is not proof against another Companion
+:PROPERTIES:
+:ID:       921383c0-2220-40bd-bf24-b3ce4bbbb01c
+:END:
+- al-Shinqīṭī said:
+  - “The statement of a Companion which is not marfūʿ is not binding upon another mujtahid from among the Companions, by unanimous agreement.(ahdulu sunnah)”
+****** Principle 2 – We do not go beyond the statements of the Companions
+:PROPERTIES:
+:ID:       7dd157d1-efb9-403a-b76b-766309a43be0
+:END:
+- We restrict ourselves to what has come from them
+  and do not invent positions that clearly contradict their collective path.
+  - if they had 2 differenct, then we can't introduce 3 difference
+    - it is scoped to that
+      - if you add more then you have claimed a truth that they havn't 
+        
+****** Principle 3 – We weigh their statements in light of supporting evidence
+:PROPERTIES:
+:ID:       072c7f63-324a-4231-857c-2a92c9a138c5
+:END:
+- Taqī al-Dīn Ibn Taymiyyah said in *Majmūʿ al-Fatāwā* (20/14):
+  - “If the Companions differ on a matter, the point of reference is to return it to Allah and His Messenger.
+    The statement of one Companion is not considered a binding proof in the face of opposition from another Companion, by agreement of the scholars.”
+    - e.g maymunah being married in the state of ihram to the prophet (ﷺ),  and then the companions disagree
+      - we look at the narration
+        - from other narrations we know marrying in ihram is haram
+        - the one who witness it and narraited that they got married out of ihram is the one who is telling the story and knows it better
+          - hence this would be when the viewed is prefered
+
+*** Types of report by chain
+:PROPERTIES:
+:ID:       92a9f9fa-ae44-4df6-ba17-5e6dc375e51e
+:END:
+**** 1. Mutawātir (متواتر) – Mass-transmitted report
+:PROPERTIES:
+:ID:       bf78622f-0cb0-4661-b70f-673fa5e88fec
+:END:
+- *Definition*:
+  - A report narrated by such a *large number* of people
+    that their collusion upon a lie is inconceivable,
+    and which they attribute to *sensory perception* (seen and heard).
+    - not just the sahabah, but every person in the chain till the point it's writeen
+*****  *Types of mutawātir*:
+:PROPERTIES:
+:ID:       04d59f3c-5893-43aa-9f5f-ec95f9373469
+:END:
+****** 1. *Verbal mutawātir (lafẓī)* – التواتر اللفظي
+:PROPERTIES:
+:ID:       94439e50-69cb-4460-9e64-9c9faa58d49e
+:END:
+     - Narrators agree on exact *wording* and *meaning*.
+     - *Example*:
+       - The ḥadīth:
+         - “Whoever lies upon me deliberately, let him prepare his seat in the Fire.”
+         - narrated by more than 60 Companions.
+
+****** 2. *Meaning-based mutawātir (maʿnawī)* – التواتر المعنوي
+:PROPERTIES:
+:ID:       94b66638-1ea2-42a5-9a8d-a3371beb4446
+:END:
+     - Narrations differ in wording but agree on a *shared meaning* (paraphased)
+     - *Example*:
+       - Numerous ḥadīths about wiping over the leather socks (khuffayn):
+         - the wording varies,
+         - but the ruling of wiping over them in wuḍūʾ is unanimously conveyed. :contentReference[oaicite:4]{index=4}
+
+**** 2. Āḥād (آحاد) – Solitary report
+:PROPERTIES:
+:ID:       19ad1382-6a4c-4494-a0e0-76567d752f72
+:END:
+- *Definition*:
+  - A report narrated by one or more individuals,
+    but which *does not reach* the level of mutawātir.
+    - at any of the level 
+- Note:
+  - The *majority* of ḥadīths fall under this category.
+  - people would make things up like I heard the prohet (ﷺ) say that if you buy watermelon you'll go to jannah in the markets. 
+
+*** Authenticity of reports
+:PROPERTIES:
+:ID:       8ba6547f-c8a6-4de4-b740-cbb132e0f072
+:END:
+**** Classification based on authenticity
+:PROPERTIES:
+:ID:       1832c2a1-7990-47c1-9141-4b749952ed33
+:END:
+Scholars classify /khabar/ into three primary categories:
+***** 1. *Ṣaḥīḥ* (صحيح) – Authentic report
+:PROPERTIES:
+:ID:       cd613f5f-cc95-4ad7-92e3-7eab32b9949a
+:END:
+   - A ḥadīth is ṣaḥīḥ when:
+     1. It is narrated by an *upright* person (ʿadl),
+        - adalah - the conditions of the quality of a person to narrate 
+     2. who possesses *precise memory* (or reliable writing),
+     3. with a *connected chain* back to the Prophet ﷺ,
+        - a proven connected chain
+          - they have the bio of each narrators, knowing if they been in the area or not
+     4. and is free from:
+        - *shudhūdh* (shazz) (irregularity – contradiction of stronger evidence),
+     5. and *ʿillah* (hidden defects).
+
+***** 2. *Ḥasan* (حسن) – Fair / sound report
+:PROPERTIES:
+:ID:       3b436d76-bcb4-4163-a903-c0a2c80f16ab
+:END:
+   - Scholars differed over its exact definition,
+     and some regarded it as a subset of ṣaḥīḥ.
+   - A clear definition:
+     - “A report transmitted by an upright person with *lesser precision*,
+       having a connected chain,
+       and free from irregularities or defects.”
+   - The key difference from ṣaḥīḥ is the *degree of precision*.
+
+***** 3. *Ḍaʿīf* (ضعيف) – Weak report 
+:PROPERTIES:
+:ID:       81ec4e54-6ec0-4445-b262-25a838cffbfa
+:END:
+   - Any report that does *not* fulfil the conditions of ṣaḥīḥ or ḥasan.
+   - Causes of weakness may include:
+     - missing links in the chain,
+     - weak or unknown narrators,
+     - clear contradictions or defects.
+       
+**** Using each category as evidence
+:PROPERTIES:
+:ID:       b96c6505-0b04-4c74-871e-5ed7eaa87477
+:END:
+- *Ṣaḥīḥ* and *ḥasan*:
+  - may be used as *proofs* in deriving legal rulings from the Sunnah.
+- *Ḍaʿīf*:
+  - is *not valid* as an independent evidence for legislation,
+  - though it may be cited in:
+    - *faḍāʾil al-aʿmāl* (virtuous deeds),
+    - admonitions and encouragements,
+    - under specific scholarly conditions.
+*** Modes of Narrations 
 :PROPERTIES:
 :ID:       996c9e60-e1cc-4535-8575-4628de5ee16f
 :END:
-Tahammul
+**** Tahammul
+:PROPERTIES:
+:ID:       39deb3c6-4899-4f57-9c7d-5cfc026cf9c9
+:END:
 Definition: Taking the narration from other.
 Example: When a student listens to their teacher's narration.
 
-Ada'
+**** Ada'
+:PROPERTIES:
+:ID:       d6c46335-3908-4c4c-97bf-ec4c4a9342f9
+:END:
 Definition: Propagating the narration to others.
 Example: When a student narrates what they've learned from their teacher to another person
 
 Formats of Ada'
-1. Hadathani (He narrated to me): Used when the narrator's sheikh read the narration to them
-2. Akhbaran (He informed me): Used when the narrator's sheikh either reads the narration to them or the narrator reads to their sheikh
-3. Akbarani Ijazah or Ajaza I (He informed me with permission): Used when the narrator received permission (Ijazah) form their sheikh to narrate, even if they didn't read the narration.
-4. Anana (From): used when the narrator narrates using the word "An" (from). The chain is considered connected unless the narrator is known for "Tadlis" (concealment), in which case it is not considered connected unless explicitly stated by the narrator.
+***** 1. Hadathani (He narrated to me):
+:PROPERTIES:
+:ID:       7725d2eb-d639-464d-b7cc-b14c6a0dcd02
+:END:
+   -  Used when the narrator's sheikh read the narration to them
+***** 2. Akhbaran (He informed me):
+:PROPERTIES:
+:ID:       a8f09b10-917a-490e-a346-ea23afc3caf9
+:END:
+   -  Used when the narrator's sheikh either reads the narration to them or the narrator reads to their sheikh
+***** 3. Akbarani Ijazah or Ajaza I (He informed me with permission):
+:PROPERTIES:
+:ID:       2263cfde-a894-4d81-ad9b-61bcc83ae83a
+:END:
+   -  Used when the narrator received permission (Ijazah) form their sheikh to narrate, even if they didn't read the narration.
+***** 4. Anana (From):
+:PROPERTIES:
+:ID:       85167070-9435-427f-bed5-19cefaf463cb
+:END:
+   -  used when the narrator narrates using the word "An" (from). The chain is considered connected unless the narrator is known for "Tadlis" (concealment), in which case it is not considered connected unless explicitly stated by the narrator.
    
 Additional Notes
 There are many types of hadith narrating in the field of Hadith science, but the above example cover the essential modes of narrating.
-** Consensus (Al-Ijama')
+             
+* DONE The Consensus (Al-Ijama')
 :PROPERTIES:
 :ID:       56486d53-3c26-4e73-a045-9702e8ca804b
 :END:
-Definition:
-Linguistically: Determination and agreement.
-Technical: Agreement between the "Mujtahidin" ( Scholars capable of independent reasoning) of this ummah after the Prophet (ﷺ) on an Islamic ruling.
+[[id:b075b05b-551e-4db6-95a9-eb3a5c87cac0][lesson 20 rec 23]]
+ Ijmāʿ is the *third* of the adillah agreed upon, after the Qur’an and Sunnah.
+** Defining Ijmāʿ
+Linguistically:
+- Determination and agreement.
+*** Arabic definition
+«اِتِّفَاقُ مُجْتَهِدِي أُمَّةِ الإِسْلَامِ فِي عَصْرٍ مِنَ العُصُورِ عَلَى حُكْمٍ شَرْعِيٍّ بَعْدَ وَفَاةِ النَّبِيِّ ﷺ»
+
+** Meaning
+- “The agreement of the *qualified jurists* (mujtahidīn) of the *Islamic Ummah*
+  in a particular era on a *Sharīʿah legal ruling* after the death of the Prophet
+  ﷺ”
+
+Technical:
+- Agreement between the "Mujtahidin" ( Scholars capable of independent reasoning) of this ummah after the Prophet (ﷺ) on an Islamic ruling.
 
 Exclusion:
-Disagreement: Even disagreement form one scholar nullifies consensus.
-Mujtahidin: Excludes common pepole and blind followers.
-This Ummah: Exclude consensus of other nations.
-After the Prophet: Excludes agreement during the Prophet's time, as evidence is derived from his Sunnah.
-Islamic Rulings: Excludes agreement on intellectual or habitual matters.
+- Disagreement:
+   Even disagreement form one scholar nullifies consensus.
+- Mujtahidin:
+   Excludes common pepole and blind followers.
+- This Ummah:
+   Exclude consensus of other nations.
+- After the Prophet:
+   Excludes agreement during the Prophet's time, as evidence is derived from his Sunnah.
+- Islamic Rulings:
+   Excludes agreement on intellectual or habitual matters.
 
-Proofs Of Evidence:
-1. Quranic Verse 2:143: "And thus we have made you a just community that you will be witnesses over the people"
-2. Quranic Verse 4:59: "And if you disagree over anything, refer it to Allah and the Messenger"
-3. Hadith: "My ummah will not unite upon misguidance"
-4. So we say: The Consensus of the ummah on something is either true, and can be false. If it is true then it is an evidence, and if it is false, then how can this ummah, that is the most honourable of nation to Allah since the time of the Prophet (ﷺ) until the coming of the last hour, unite upon something false that Allah is not please with? This is from the greatest impossibilities.
+Key components explained:
+- *Agreement (ittifāq)*
+  - A *total*, unanimous consensus with no dissent.
+  - Even a *single* known dissenter prevents ijmāʿ.
 
-** Types of Consensus
+- *Qualified jurists (al-mujtahidūn)*
+  - Those capable of ijtihād:
+    - experts in Qur’an, Sunnah, Arabic, and Usul al-Fiqh.
+  - Laypeople and non-mujtahids are excluded.
+
+- *Islamic Ummah*
+  - Jurists from *within* the Muslim community.
+  - Not the general public or non-Muslims.
+
+- *Particular era*
+  - Scholars of the *same historical period*.
+  - They must be aware of each other’s positions.
+
+- *Sharīʿah legal ruling*
+  - Concerns matters of ḥalāl, ḥarām, wājib, etc.
+  - Does *not* include purely worldly sciences or language itself.
+
+- *After the Prophet’s ﷺ death*
+  - Ijmāʿ only occurs after revelation ends.
+  - During his lifetime, his ruling overrides the need for consensus.
+        
+** The evidence for Ijmāʿ
 :PROPERTIES:
-:ID:       abe27d11-808b-4754-983e-0a2dbe0e7417
+:ID:       00e00c73-2a86-4a84-b9bc-70925078425b
 :END:
-Consensus can be categorised into type types: Qati and Dhanni
+*** 1. Qur’anic evidences
+:PROPERTIES:
+:ID:       8c3a3957-b39e-430c-bbea-83550c0f4698
+:END:
+1. =﴿وَكَذَٰلِكَ جَعَلْنَاكُمْ أُمَّةً وَسَطًا لِتَكُونُوا شُهَدَاءَ عَلَى النَّاسِ وَيَكُونَ الرَّسُولُ عَلَيْكُمْ شَهِيدًا﴾=
+   - “And thus We made you a balanced nation so that you may be witnesses over
+     mankind and the Messenger may be a witness over you.”  
+   (al-Baqarah 2:143)
+   - how can you be a witness over mankind
+     - by conensus
 
-1. Qati (Definitive):
-   It is known to have occurred in the Ummah without any doubt.
-   Example include consensus on the necessity of the five daily prayer and the prohibition of adultery.
-   Denying this type of consensus is tantamount ot disbelief, as it is unquestionably considered evidence.
-2. Dhanni' (Presumptive):
-   This type requires thorough reseach to ascertain.
-   Scholars differ on its actual possibility of being proven.
-   The most correct view, according to Sheikh al-Islam ibn Taymiyah, as mentioned in Al-Aqwwdah Al-Qastiyah, is that consensus is what was enjoined by the salaf (early generation of Muslim), as after them, difference emerged and the ummah spread.
+2. =﴿وَمَن يُشَاقِقِ الرَّسُولَ مِن بَعْدِ مَا تَبَيَّنَ لَهُ الْهُدَىٰ وَيَتَّبِعْ غَيْرَ سَبِيلِ الْمُؤْمِنِينَ نُوَلِّهِ مَا تَوَلَّىٰ وَنُصْلِهِ جَهَنَّمَ وَسَاءَتْ مَصِيرًا﴾=
+   - “Whoever opposes the Messenger after guidance has become clear to him and
+     follows a path other than that of the believers – We will turn him to what
+     he has turned to and burn him in Hell – and what an evil destination.”
+     (al-Nisāʾ 4:115)
+     - they choose the path other than the believers, i.e going against of the consensus
 
-Conclusion:
-It's inconceivable for the ummah to unite against clear, authentic, and un-abrogated evidence. Therefore, if a consensus appears to contradict such evidence, further examination is necessary. There may be issues with the authenticity, clarity, abrogation, or underlying disagreement not readily apparent.
-         
+3. =﴿فَإِن تَنَازَعْتُمْ فِي شَيْءٍ فَرُدُّوهُ إِلَى اللَّهِ وَالرَّسُولِ﴾=
+   - “If you disagree over anything, then refer it back to Allah and the
+     Messenger.”(al-Nisāʾ 4:59)
+     - if they agreed  with everything then you wouldn't need to go back to the quran and sunnah
+
+*** 2. Prophetic evidences
+:PROPERTIES:
+:ID:       2f2c0925-9317-449b-ba20-cbd197191217
+:END:
+1. The Prophet ﷺ said:
+   - «لَا تَزَالُ طَائِفَةٌ مِنْ أُمَّتِي ظَاهِرِينَ عَلَى الْحَقِّ، لَا يَضُرُّهُمْ مَنْ خَذَلَهُمْ، حَتَّى يَأْتِيَ أَمْرُ اللَّهِ وَهُمْ عَلَى ذَلِكَ»
+   - “A group from my Ummah will continue to remain manifest upon the truth.
+     Those who abandon them will not harm them, until the command of Allah
+     comes and they are upon that.”
+     - the groups is general terms
+       - and the specific here is the mujtahid
+
+2. He ﷺ said:
+   - «سَأَلْتُ رَبِّي أَلَّا يَجْمَعَ أُمَّتِي عَلَى ضَلَالَةٍ فَأَعْطَانِيهَا»
+   - “I asked my Lord that my Ummah not be united upon misguidance, and He
+     granted that to me.”
+
+   And:
+   - «إِنَّ يَدَ اللَّهِ مَعَ الْجَمَاعَةِ، فَمَن شَذَّ شَذَّ فِي النَّارِ، فَاتَّبِعُوا السَّوَادَ الأَعْظَم»
+   - “Indeed, the Hand of Allah is with the congregation; whoever separates
+     himself is separated in the Fire. So follow the great majority.”
+   hence
+   - when ever they unite, this is the evidence
+     - ijma'a came according to the way of quran and sunnah, and there can't be any other interprention
+3.  Hadith: "My ummah will not unite upon misguidance"
+       
+So we say: The Consensus of the ummah on something is either true, and can be false. If it is true then it is an evidence, and if it is false, then how can this ummah, that is the most honourable of nation to Allah since the time of the Prophet (ﷺ) until the coming of the last hour, unite upon something false that Allah is not please with? This is from the greatest impossibilities.
+
+** Importance of Ijmāʿ
+:PROPERTIES:
+:ID:       1d05a6e6-a3b6-4cfc-8544-2b92db8e8247
+:END:
+ijma can't be broken. 
+
+1. *Preserves the foundations of Islam*
+   - Denying ijmāʿ undermines core aspects of religion.
+   - The unity of the Ummah relies on recognised points of agreement.
+     - the majority of Islam is agreed upon
+
+2. *Safeguards the religion from deviation*
+   - Blocks innovations and heresies from infiltrating core beliefs and
+     practices.
+   - Shows that despite differences, the Ummah has wide shared ground.
+
+3. *Inspires confidence & strengthens unity*
+   - Knowing where there is consensus reassures believers.
+   - Counters the idea that Muslims “differ about everything”.
+
+4. *A unique honour for this Ummah*
+   - Our Prophet ﷺ was sent to *all* of humanity.
+   - Prior nations were confined to specific Prophets and communities.
+
+5. *Implies the presence of Sharīʿah evidence*
+   - Valid ijmāʿ *must* rest on sound proof, even if not always explicit.
+   - Scholars do not agree on whims.
+
+6. *Reinforces Sharīʿah rulings*
+   - Ijmāʿ confirms rulings established by Qur’an and Sunnah.
+   - The sources *converge* in affirming the truth.
+
+7. *Clarifies fixed vs flexible areas*
+   - Distinguishes:
+     - fixed, agreed principles,
+     - from legitimate areas of ijtihād.
+   - Protects the Ummah from unnecessary dispute.
+
+** The pillars of Ijmāʿ (arkān al-ijmāʿ)
+:PROPERTIES:
+:ID:       2be5b3a4-ff9b-46b2-b67b-8c4dc98518a6
+:END:
+Ijmāʿ has *two essential pillars*:
+
+*** 1. *The consensus-builders (al-mujmiʿūn)*
+:PROPERTIES:
+:ID:       3b25457c-0096-4db4-ab4c-491b54051a7d
+:END:
+   - Every qualified mujtahid whose legal opinion is accepted:
+     - the people of authority and resolution (*ahl al-ḥall wa al-ʿaqd*).
+
+*** 2. *The consensus itself (naṣṣ al-ijmāʿ)*
+:PROPERTIES:
+:ID:       3f4e76c3-2e65-46a3-a3d8-eb07273a94fd
+:END:
+   - The *actual* occurrence of agreement.
+   - This can be of two types:
+**** 1. *Binding agreement*: 
+:PROPERTIES:
+:ID:       0e836e7d-4514-4241-ba54-1732c4269c56
+:END:
+        - scholars express words or initiate actions that clearly indicate agreement.
+**** 2. *Permissive agreement*: 
+:PROPERTIES:
+:ID:       89adf08f-ab9c-4816-8e9e-9d75933255ff
+:END:
+        - some speak or act,
+        - others are silent after the matter has reached them.
+          
+** Qaṭʿī & Ẓannī Ijmāʿ (by strength)
+:PROPERTIES:
+:ID:       1b3d5560-18be-46d0-8cfd-8edd2bec6555
+:END:
+- It's inconceivable for the ummah to unite against clear, authentic, and un-abrogated evidence. Therefore, if a consensus appears to contradict such evidence, further examination is necessary.
+- There may be issues with the authenticity, clarity, abrogation, or underlying disagreement not readily apparent.
+ 
+Classification in terms of evidential strength:
+*** 1. *Definitive (qaṭʿī) ijmāʿ*
+:PROPERTIES:
+:ID:       65974883-12db-45d2-8d01-d71498e45bf7
+:END:
+   - Two conditions:
+     1. Scholars explicitly state the ruling.
+     2. It reaches us by *definitive*, mass-transmitted (mutawātir) reporting.
+   - Such ijmāʿ yields certain knowledge and is not open to ijtihād.
+     - is it prohibited to go against
+       - the strongest level of agreement
+   - It is known to have occurred in the Ummah without any doubt.
+     - Example include consensus on the necessity of the five daily prayer and the prohibition of adultery.
+     - Denying this type of consensus is tantamount ot disbelief, as it is unquestionably considered evidence.
+*** 2. *Probabilistic (ẓannī) ijmāʿ*
+:PROPERTIES:
+:ID:       cc9b3e25-9233-4c5a-89a8-97573c13d5e4
+:END:
+   - When *either* condition is missing:
+     - the wording is not fully explicit, *or*
+     - the transmission is not at the level of tawātur.
+       - Still weighty, but its proof is ẓannī rather than qaṭʿī.
+       - This type requires thorough research to ascertain.
+         - Scholars differ on its actual possibility of being proven.
+           - The most correct view, according to Sheikh al-Islam ibn Taymiyah, as mentioned in Al-Aqwwdah Al-Qastiyah, is that consensus is what was enjoined by the salaf (early generation of Muslim), as after them, difference emerged and the ummah spread.
+** The types of Ijmāʿ (anwāʿ al-ijmāʿ) 
+:PROPERTIES:
+:ID:       f932a026-6d26-4f64-9d0c-59213a2ac49c
+:END:
+*** Explicit consensus – al-Ijmāʿ aṣ-Ṣarīḥ
+:PROPERTIES:
+:ID:       e72f02cb-38fd-43cd-9c64-19a2eeef5f33
+:END:
+**** Definition
+- The *clear, explicit* agreement of the mujtahids of an era on a specific
+  Sharīʿah issue, where *each* of them expresses their view openly:
+  - through explicit statements,
+  - or actions that clearly show agreement,
+  - or a mixture of both.
+
+**** When is explicit ijmāʿ established?
+:PROPERTIES:
+:ID:       7c4b6283-64d0-4c00-80b1-c0c409ee37bd
+:END:
+- *Explicit declaration*:
+  - All qualified mujtahids openly state or write their agreement.
+- *Clear evidence*:
+  - Authentic, accessible records show that consensus was reached.
+- *No disputes or divergences*:
+  - No recorded objection from any qualified scholar of that era.
+- *Specificity*:
+  - The matter is clearly defined and agreed without ambiguity.
+
+**** Examples of explicit ijmāʿ
+:PROPERTIES:
+:ID:       59a6c956-90cb-4bda-b908-327be8fa1674
+:END:
+1. Obligation of the five daily prayers.
+2. Prohibition of theft.
+3. Prohibition of alcohol.
+
+*** Tacit consensus – al-Ijmāʿ as-Sukūtī
+:PROPERTIES:
+:ID:       e9af9837-99fa-4ec2-b1d1-cf5a42072554
+:END:
+**** Definition
+:PROPERTIES:
+:ID:       31053434-73fd-4fbc-92a4-8f287ebdedcd
+:END:
+- A situation where some mujtahids express a ruling on a *legal obligation*
+  (ḥukm taklīfī), and:
+  - it becomes public and well-known among other scholars,
+  - who then remain *silent* – neither opposing nor explicitly endorsing.
+    - exclude
+      - when the person fears to spread the view, so staying silent out of fear not agreement
+
+**** Key conditions
+:PROPERTIES:
+:ID:       2f616eef-9553-4966-a4e6-16d11fa4d9f9
+:END:
+1. The issue concerns a *legal* ruling (taklīfī).
+2. It becomes *widely known* among scholars of the time.
+3. There is *no sign of disapproval* or explicit endorsement from those silent.
+4. Enough time passes for reflection and examination.
+5. Occurs *before* madhhabs become rigidly entrenched.
+- mujtahid - know what their silence will imply, e.g Imaan Ahmed didn't stay silent
+  - therefore a silence along side with justice and no fear
+    
+*** Implicit consensus – al-Ijmāʿ aḍ-Ḍimnī
+:PROPERTIES:
+:ID:       7b7020e0-6f22-4613-9639-97d13fb12c74
+:END:
+**** Definition
+:PROPERTIES:
+:ID:       d8eee1e1-5888-4c70-b0c8-f6afa2c3fac0
+:END:
+- Inferred when the scholars of an era differ over *two or more recognised
+  views*, to the extent that:
+  - anything *outside* these views is understood to be invalid,
+  - by their collective silence regarding any other option.
+  - the matter is scoped to it's opinion of the sahabah
+    - everything can be traces back to the sahabah
+      - and they're consensus is upon guidance
+
+**** On introducing a third opinion
+:PROPERTIES:
+:ID:       285a50c0-c7bb-4f01-b441-0a65899efcbd
+:END:
+- Generally:
+  - introducing a *new* opinion beyond established views is prohibited,
+  - as it risks undermining the consensus implied by their restriction to the
+    existing positions.
+- However:
+  - some scholars allow a third opinion if:
+    - it does *not* contradict or nullify the existing views,
+    - instead it *harmonises* with them and complements the agreed framework.
+    - e.g touching the private part
+      - hanfi - i don't break wudo , maliki, shafee, hanbali - breaks wudo
+        - currently, it don't break wudo if you don't touch it with desires, but breaks it if you do
+          - they're merging it 
+          
+** Cases pertaining to Ijmāʿ
+:PROPERTIES:
+:ID:       a05fbdc9-8360-4724-a6ce-dcbecd4978fb
+:END:
+*** Conditions regarding *who* can form ijmāʿ
+:PROPERTIES:
+:ID:       969e4f78-8ec0-4141-abe8-2396c5a075a1
+:END:
+1. Those whose ijmāʿ counts must be:
+   - from the people of *ijtihād* (qualified jurists).
+     - the jurist who is the master of all science 
+2. They must be:
+   - upright in character and integrity (ʿadālah).
+     - staying away from haram in the open
+       - and fulfil the norms 
+3. They must not be:
+   - adherents of *heretical innovations* that amount to disbelief
+     (*bidʿah mukaffirah*).
+     - e.g graver prayer
+4. Valid ijmāʿ requires:
+   - the agreement of *all* qualified mujtahids of that era.
+     - if one differ, then it's not a ijma'
+       - and it will be a thing from difference
+         - the truth may even be with the minority
+
+*** Conditions regarding *what* ijmāʿ is about
+:PROPERTIES:
+:ID:       c75f755e-4f74-4127-b8bf-d0cab8d3fef6
+:END:
+1. The subject of consensus (al-mujmaʿ ʿalayh) must:
+   - pertain to religion:
+     - a Sharʿī legal ruling (ḥukm),
+     - or a tenet of ʿaqīdah.
+2. There must be:
+   - *no prior disagreement* established on the matter.
+3. A valid ijmāʿ must rest on:
+   - an *established foundation* (mustanad) of Sharīʿah evidence.
+4. Ijmāʿ is established by:
+   - the *actual agreement* of mujtahids in a particular era,
+   - and does *not* require that the entire generation pass away first.
+     - if was by generation by generation, then it will be difficult in the sense of different generation interacting with each other, as now a range has been added as oppose to a specific time it was made.
+       
+** The ruling on contravening Ijmāʿ
+- Opposing *definitive* ijmāʿ is considered:
+  - a *grave* deviation,
+  - and in matters of clear belief or practice may reach the level of *kufr*.
+- At minimum:
+  - it is a *major sin* and a serious breach of Sharīʿah methodology.
+- The believer is therefore obliged to:
+  - *identify* matters of ijmāʿ,
+  - avoid positions that clearly contradict them,
+  - and confine ijtihād to areas where difference is recognised.
+    
+disagreement
+- Imaan malik
+  - only the consensus of the people of madina
+    - it not logical they would make something up especially from the first 3 generation
+      
 ** Conditions for Consensus
 :PROPERTIES:
-:ID:       9c95ee1b-1a97-4a61-95ec-ebd4c864e358
+:ID:       e2baa02f-cdd1-4e31-9075-599bfeebb9a4
 :END:
-The conditions for consensus are as follows:
-1. Authenticity of the Route: Consensus must be proven via an authentic route, either well-known among scholars or conveyed from trustworthy source who are well-read.
-2. Absence of Firmly-based Disagreement: Consensus cannot be preceded by a firmly-based disagreement. If there was such a disagreement, consensus cannot be claimed, as statements are not nullified simply because their proponents have passed away.
-
-So, consensus cannot remove former dispute, rather it deters disputes from taking place at all, and this is the most correct opinion due to the strength of its objections; it has also been said: that is not stipulated, so it is correct that people in the second era gathered upon one of the statements of the previous generations then they would be an evidence for those that come after them.
+consensus cannot remove former dispute, rather it deters disputes from taking place at all, and this is the most correct opinion due to the strength of its objections;
+it has also been said: that is not stipulated, so it is correct that people in the second era gathered upon one of the statements of the previous generations then they would be an evidence for those that come after them.
 
 According to the majority opinion, it is not necessary for the era of those achieving consensus to end for subsequent consensus to be valid. Once agreement is reach, it hold irrespective of the passing of the era. Those who agreed cannot later object, as consensus is considered established from the moment of agreement.
 
-When Mujtahideen make statements or perform actions that become well-known among scholars of Ijithad, and they do not object despite having the ability to do so, it is considered consensus by some. Others argue it may be evidence but not consensus. Still, another view suggests it is neither evidence nor consensus. The closest to the truth is deemed to be when those with the ability to object pass away without doing so, indicating implicit agreement thought silence.
+When Mujtahideen make statements or perform actions that become well-known among scholars of Ijithad, and they do not object despite having the ability to do so, it is considered consensus by some. Others argue it may be evidence but not consensus. Still, another view suggests it is neither evidence nor consensus. The closest to the truth is deemed to be when those with the ability to object pass away without doing so, indicating implicit agreement thought silence.        
 
-* Analogy (Al-Qiyas)
+
+The conditions for consensus are as follows:
+*** 1. Authenticity of the Route
+:PROPERTIES:
+:ID:       c442710a-34f4-4313-a0f6-a04e8661a10c
+:END:
+   - Consensus must be proven via an authentic route, either well-known among scholars or conveyed from trustworthy source who are well-read.
+*** 2. Absence of Firmly-based Disagreement
+:PROPERTIES:
+:ID:       6f8ab3d8-c92f-4d33-954f-a6759623aa30
+:END:
+   - Consensus cannot be preceded by a firmly-based disagreement.
+   - If there was such a disagreement, consensus cannot be claimed, as statements are not nullified simply because their proponents have passed away.
+
+* DONE The Analogy (Al-Qiyas)
 :PROPERTIES:
 :ID:       47565ee6-391e-4a93-829b-d01701a7c2da
 :END:
-Definition: linguistically, "qiyas" means appreciation and equality. Technically, it means drawing a similarity between a subsidiary issue and a core issue in a ruling that pertains to a common element between them.
+[[id:ab7d46a4-0276-4d51-85da-7d70021bfb8d][lesson 21 rec 24a]]
+** Definition of al-Qiyās (القياس)
+:PROPERTIES:
+:ID:       0e986553-faa2-43c5-ba0b-7d9b25cac544
+:END:
+*** Arabic definition
+«تسويةُ فرعٍ بأصلٍ في حكمٍ لِعِلَّةٍ جامعةٍ بينهما»
 
-- Subsidiary Issues (Al-Far'): The subject to which the analogy is applied.
-- Core issues (Al-'Asl): The subject from which the analogy is drawn.
-- Ruling (Al-Hukm): Refers to what the evidence necessitates in terms of obligation, prohibition, correctness, or incorrectness.
-- Common Elements: Refers to the meaning with which the reason for the ruling of the primary issue is made.
+Or:
+«هو إلحاقُ فرعٍ بأصلٍ في حكمٍ شرعيٍّ لعلّةٍ مشتركةٍ بينهما»
 
-  There four pillars constitutes analogy, which is a legal source of evidence used to establish legal ruling.
+*** Meaning
+- “Drawing a similarity between a *subsidiary (new)* issue and a *core
+  (original)* issue in a ruling, due to a *common legal reason* between
+  them.”
 
-  What demonstrates that it's to be considered as a legal source of evidence is the Qur'an and Sunnah and the saying of the Companions.
+- In other words:
+  - We *extend* the ruling of the *aṣl* (original case) to the *farʿ* (new
+    case),
+  - because they *share the same ʿillah* (effective cause).
+    
+- Definition: linguistically, "qiyas" means appreciation and equality. Technically, it means drawing a similarity between a subsidiary issue and a core issue in a ruling that pertains to a common element between them.
 
-  Evidence from the Quran: 
+  - Subsidiary Issues (Al-Far'): The subject to which the analogy is applied.
+  - Core issues (Al-'Asl): The subject from which the analogy is drawn.
+  - Ruling (Al-Hukm): Refers to what the evidence necessitates in terms of obligation, prohibition, correctness, or incorrectness.
+  - Common Elements: Refers to the meaning with which the reason for the ruling of the primary issue is made.
+
+    There four pillars constitutes analogy, which is a legal source of evidence used to establish legal ruling.
+
+    What demonstrates that it's to be considered as a legal source of evidence is the Qur'an and Sunnah and the saying of the Companions.
+
+** Evidences for al-Qiyās
+:PROPERTIES:
+:ID:       b19ffb47-19ca-428b-a341-71f9e4fc1b36
+:END:
+*** 1. Evidences from the Qur’an
+:PROPERTIES:
+:ID:       f7db2844-e97a-4964-b783-f456586584d9
+:END:
+- Allah says:
+  - =فَاعْتَبِرُوا يَا أُولِي الْأَبْصَارِ=  ‏‎(al-Ḥashr 59:2)
+  - “So take admonition (lesson), O people of insight.”
+
+- *al-iʿtibār* (consideration) here:
+  - linguistically involves *moving* from one thing to another.
+    - i.e to compare, to apply one things to another
+  - In qiyās:
+    - moving a *ruling* from the original case to the new case.
+  - This indicates that such *analogical consideration* is *commanded*.
+    - why this ayah came down
+  - context of the ayah - reason
+    - Banū al-Naḍīr broke their covenant with the Prophet ﷺ by plotting treachery and seeking support from the enemies, leading to their expulsion.
+      - Allah is telling the Companions of the Prophet (ﷺ)  don’t just witness what happened to Banū al-Naḍīr, take a clear lesson from it about the fate of those who betray the Messenger (ﷺ) and rely on worldly power
+Evidence from the Quran: 
   1. The saying of the Most High:
      "It is Allah who has sent down the Book in truth adn also the balance" 42:17
 
@@ -2534,8 +3682,27 @@ Definition: linguistically, "qiyas" means appreciation and equality. Technically
     "And it is Allah who sends the winds, and they stir the clouds, and we drive them to a dead land and give life thereby to the earth after its lifelessness. Thus is the resurrections" 35:9
    
     Allah's likening of the returning of creation to its beginning and the revival of the dead to the revival of the earth demonstrates analogy.
-    
- Evidence from the Sannah
+*** 2. Evidences from the Sunnah
+:PROPERTIES:
+:ID:       6536631a-59fb-4300-b7b5-23722caa83af
+:END:
+- Ḥadīth of the woman whose mother died owing a vow of ḥajj:
+  - The Prophet ﷺ said:
+    - “Yes, perform ḥajj on her behalf. Don’t you think that if your mother
+      owed a debt, would you not pay it off? So pay off the debt owed to
+      Allah, for Allah is more deserving of being paid off.”
+  - He compares:
+    - *debt to Allah* ↔ *debt to a human* → analogical reasoning.
+
+- Ḥadīth of ʿUmar (raḍiyallāhu ʿanhu) who kissed his wife while fasting:
+  - The Prophet ﷺ asked:
+    - “What do you think if you rinsed your mouth with water while fasting?”
+  - When ʿUmar replied that there is no harm,
+    - the Prophet ﷺ said: “Then what is the problem?”
+  - He guided him by *analogy* between:
+    - kissing ↔ rinsing the mouth (both not breaking the fast in themselves).
+
+Evidence from the Sannah
  1. The saying of the Prophet (ﷺ) to the women who asked him about making up the fast to her mother after she had died: "What do you think if your mother was in debt and you settled it for her would that then not be lifted form her? she said: Yes So he said Then fast for your mother".
 
     The Prophet's response to a woman about fasting for her deceased mother, likening it to settling her debts.
@@ -2544,7 +3711,31 @@ Definition: linguistically, "qiyas" means appreciation and equality. Technically
    
    The Prophet (ﷺ) response to a man about the colour of his newborn child, drawing an analogy to genetics.
 
-Statements of the Scholars:
+*** 3. Evidences from the Ṣaḥābah (the strongest evidence)
+:PROPERTIES:
+:ID:       657a457d-d45a-466b-8993-4fadaa2a4443
+:END:
+- In the famous letter of ʿUmar b. al-Khaṭṭāb to Abū Mūsā al-Ashʿarī about
+  judging, he wrote:
+  - “Understand what is made clear to you in the Book and the Sunnah.
+    As for what is not in the Book or Sunnah, then *make qiyās* of the
+    matters you have and know the similar examples…”
+- Scholars:
+  - accepted this letter and acted upon it,
+  - and the Companions *collectively used qiyās* in cases where there was no
+    explicit text.
+  - those who have quoted the ijam of sahabah of using qiyas
+    - Ibn al-Qāṣṣār - Mālikī
+    - Abū Yaʿlā  - Hanbali
+    - Ibn al-ʿArabī - Maliki
+    - ibn qurtibi - Maliki
+    - ibn qayyim  - Hanbali 
+- example of shahaba using qiyas
+  - when abu bakr was appointed for Iman for salah, before the pass of the prophet (ﷺ)
+    - Ali applied to abu bakr just like he was appoint for salah to lead the Ummah
+      - the sahaba made ijma on the reason
+        
+*** Statements of the Scholars
 Umar bin Al Khattab letter to Abu Musa al Ash-ari emphasices the use of analogy in understanding matter not explicitly addressed in the Quran and Sunnah.
 
 He said "As for understanding properly what comes to you, from these issues that are not in the Quran nor in the Sunnah, the make analogy of the affairs that are with you and know the examples, then rely on what you hold to be most beloved to Allah, and the most resembling of the truth".
@@ -2555,10 +3746,103 @@ Al-Muzani has mentioned that the scholars from the era of the Companions to his 
 
 (Analogy is considered a valid legal source because it involved considering similarities between different situations to derive rulings)
 
-** Conditions of Analogy
+** The pillars of al-Qiyās (أركان القياس)
+:PROPERTIES:
+:ID:       23d1ce9c-03a0-4635-abb4-dd411cb77961
+:END:
+The classical four pillars:
+1. *al-Aṣl* (الأصل) – The core/ *original case*
+   - The original case established in the texts (or ijmāʿ),
+     - whose ruling will be extended.
+2. *al-Farʿ* (الفرع) – The subsidiary/ *new case*
+   - The new case requiring a ruling.
+3. *al-ʿIllah* (العلة) – The effective cause / *legal reason*
+   - The shared quality/attribute (waṣf) between aṣl and farʿ
+     - the reason why it hukm (ruling) has been established
+     - that *justifies* transferring the ruling.
+
+4. *al-Ḥukm* (الحكم) – The ruling
+   - The ruling of the aṣl which is carried over to the farʿ.
+
+*** Example – wine & drugs
+Aṣl: wine (khamr)
+  - Ruling: *ḥarām* to consume.
+  - ʿIllah: intoxication.
+    
+Farʿ: modern intoxicating drugs.
+ʿIllah: they share the same ʿillah (intoxication),
+Al-Ḥukm: All intoxicants are *prohibited*.
+
+** Conditions related to each pillar
+:PROPERTIES:
+:ID:       99c36134-feeb-497f-a281-fae93d062c6e
+:END:
+*** The Aṣl – The Core Issue
+:PROPERTIES:
+:ID:       2c62b990-8f12-4b6d-87bd-c788cf010972
+:END:
+The aṣl must:
+
+1. Have a *known ʿillah* – /maʿqūl al-maʿnā/ (possible to extract it a reason) 
+   - The ruling’s reasoning is understandable and not purely taʿabbudī.
+
+2. Have a ruling that is *firm and un-abrogated* (محكماً)
+   - No later text has cancelled or changed it.
+
+3. Have its ruling *established* by:
+   - Qur’anic or Sunnah text, or
+   - ijmāʿ. (حكم ثابت بنص أو إجماع)
+
+*** The Farʿ – The New Issue
+:PROPERTIES:
+:ID:       8e69d772-1c05-4957-a11c-13aa50ce2f26
+:END:
+The farʿ must:
+
+1. Not be contradicted by a *specific text* or ijma:
+   - If there is a direct nasṣ about it,
+     - we follow that, and *no qiyās* is used against explicit text.
+   - Otherwise the qiyās is *fāsid al-iʿtibār* (invalid).
+
+2. Share the *same ʿillah* with the aṣl:
+   - /wujūd al-jāmiʿ/ – the unifying attribute must exist in the farʿ too.
+
+3. Take the *same ruling* as the aṣl:
+   - Once the ʿillah is verified in the farʿ,
+     - the ruling follows the aṣl:
+     - “its ruling is like that of the original” (حكمه كالأصل).
+
+*** The ʿIllah – The Legal Reason
+:PROPERTIES:
+:ID:       ac18e953-dae3-4e64-9cbb-226977659b8a
+:END:
+The ʿillah should:
+
+1. Be *clear and evident* (waṣf ẓāhir):
+   - not hidden or extremely subtle.
+   - the problem is tied to its external apparent characteristic 
+     - eg alcohol -> intoxicant 
+
+2. Be *consistent and measurable* (inḍibāṭ):
+   - it applies across persons, times and places
+   - and is not something wildly fluctuating.
+
+3. Be a *suitable attribute* (al-waṣf al-munāsib):
+   - it has a proper, reasonable link to the ruling,
+   - and serves the *objective of the Lawgiver* (maqsid).
+
+4. Be *transitive* (mutaʿaddī):
+   - able to *transfer* to other cases beyond the original,
+     - so it's not explicit to the problem, but can be transferable
+       - not something restricted only to that one instance.
+
+*** Conditions of Analogy
 :PROPERTIES:
 :ID:       9adb04ae-adaf-46e9-a240-84ab59a7b49e
 :END:
+ - note - after finished the pillar of qiyas + it exampl
+   - started Conditions related to each pillar
+
 These conditions ensure the validity and correctness of analogy
 
 1. Non-contradiction
@@ -2571,7 +3855,7 @@ These conditions ensure the validity and correctness of analogy
 
    For instance, if someone claims that usury occurs in corn based on an analogy with rice, and then extends this analogy to claim that usury also occurs in rice based on analogy with corn, it is flawed. Instead, the analogy should be rooted in an established primary issue, such as usury in rice being analogised with ususry in corn. (This approach ensures a more sound and valid analogical reasoning).
 
- 3. Understating the Cause.
+ 3. Understating the Cause. 
     Analogy requires an understanding of the cause behind the ruling of a primary issue, enabling comparison with subsidiary issue. If the primary issue's rationale is solely an act of worship to Allah, analogising it is inappropriate.
 
     For instance, claiming that ostrich meant breaks wudu based on an analogy with camel meat due to the similarity is flawed. This analogy fails because the primary ruling's reason, wudu nullification, is not based on a common factor but rather an act of worship. Therefore, analogising such issues based on worship realted ruling is not valid.
@@ -2590,21 +3874,223 @@ These conditions ensure the validity and correctness of analogy
 :PROPERTIES:
 :ID:       6868dad8-0874-4fae-a918-f76a0c3d09a6
 :END:
-Analogy is divided into clear and hidden:
+ Analogy is divided into clear and hidden:
+
+  
 1. Clear Analogy
-   - clear analogy is characterised by having its cause established through a text, consensus, or a maqtu'(a statement that stops at a companion), where the difference between the primary and secondary source is negated.
+   - includes 
+     - *Taḥqīq al-Manāṭ* (تحقيق المناط) – Verficating the cause
+     - *Tanqīḥ al-Manāṭ* (تنقيح المناط) – Refining the cause
+   - clear analogy is characterised by having its cause established through a text, consensus, or a maqtu'(a statement that stops at a companion),
+     - where the difference between the primary and secondary source is negated.
+       - the strongest type
    - an example of clear analogy based on a text is the prohibition of using dry unclean blood for purification after relieving oneself with the prohibition of using dry dung. This analogy is supported by a text where Ibn Mas'ood brought two stones and dry dung to the Prophet (ﷺ), who discarded the dung, declaring it impure.
-   - Another example based on consensus in the Prophet (ﷺ) forbidding an angry judge from passing judgement. Analogy with someone suffering from constipation, due to both being preoccupied and having confused thoughts, is a clear analogy supported by concensus.
-   - Maqtu' analogies, such as the prohibition of squandering the wealth of orphans on unnecessary clothing, analogised with squandering it on food, also fall under clear analogies due to the negation of any difference between the primary and secondary rulings.
+     - Another example based on consensus in the Prophet (ﷺ) forbidding an angry judge from passing judgement. Analogy with someone suffering from constipation, due to both being preoccupied and having confused thoughts, is a clear analogy supported by concensus.
+     - Maqtu' analogies, such as the prohibition of squandering the wealth of orphans on unnecessary clothing, analogised with squandering it on food, also fall under clear analogies due to the negation of any difference between the primary and secondary rulings.
 2. The Hidden Analogy
+   - includes
+     - *Takhṛīj al-Manāṭ* (تخريج المناط) – Extracting the cause
    - Hidden analogy involves deducing its cause through careful analysis, but without clearly negating the difference between the primary and secondary issues.
-   - An example is the analogy between Ashnan(a type of plant) and wheat is the prohibition of usury in all measurements. While the cause is measuring hasn't been established by text or consensus, and the difference between wheat and Ashnan hasn't been clearly negated, it's permissible to distinguish between them by highlighting that wheat is consumed while Ashnan is not.
+   - An example is the analogy between Ashnan (a type of plant) and wheat is the prohibition of usury in all measurements. While the cause is measuring hasn't been established by text or consensus, and the difference between wheat and Ashnan hasn't been clearly negated, it's permissible to distinguish between them by highlighting that wheat is consumed while Ashnan is not.
+ 
+** Ijtihād in determining the manāṭ (منَاط الحكم)
+:PROPERTIES:
+:ID:       19fc8b14-5c1b-4189-ac6d-13ea7484fba7
+:END:
+
+
+“Ijtihād in the manāṭ” means:
+ - *how* we identify and apply the ʿillah in real cases.
+how do they act by qiyas, abstracing and applying 
+The usul scholars divided it into three:
+*** 1. Taḥqīq al-Manāṭ – Verifying of the cause
+:PROPERTIES:
+:ID:       87786e2d-cc4b-45fc-b35f-e09632374d9d
+:END:
+1. *Taḥqīq al-Manāṭ*  Verficating the cause
+*Definition*:
+- Verifying that a *known* ʿillah exists in a *particular new case*,
+  so that the ruling of the aṣl can be applied.
+
+*Forms*:
+1. As a *ʿillah*:
+   - The ʿillah is established by text or ijmāʿ;
+   - the mujtahid checks whether it is present in this farʿ
+     (e.g. does this drink intoxicate?).
+
+2. As a *legal principle*:
+   - Applying a general principle (e.g. “no harming and no reciprocating harm”)
+   - to concrete situations to see what counts as “harm”.
+     - e.g all types of gambling is haram
+       - does this count as gambling
+
+3. As a *general term*:
+   - Confirming what falls under a general term in the text,
+   - e.g. whether *“khamr”* includes all intoxicants → extended to drugs.
+
+*Purpose*:
+- To ensure we are *really* dealing with a case where the ʿillah is present.
+
+*** 2. Tanqīḥ al-Manāṭ – Refinement of the cause
+:PROPERTIES:
+:ID:       1bf0b74a-cba4-4dc9-aac4-6b1c0758ab60
+:END:
+1. *Tanqīḥ al-Manāṭ* (تنقيح المناط) – Refining the cause
+*Definition*:
+- Removing *irrelevant descriptive details* in a text,
+  to isolate the *true effective cause*.
+
+*Example*:
+- A Bedouin breaks his fast in Ramaḍān by intercourse and seeks expiation.
+- The ḥadīth mentions:
+  - that he was a Bedouin,
+  - his emotional state,
+    - hitting his chest
+      - pulling his hair
+  - his wife, etc.
+    
+- The jurist *removes* these side details and keeps:
+  - *breaking the fast in Ramaḍān through intercourse* as the ʿillah for kaffārah.
+
+*Purpose*:
+- To keep legal reasoning focused on the *valid cause*,
+- not on narrative or emotional elements.
+
+*** 3. Takhṛīj al-Manāṭ – Extraction of the cause
+:PROPERTIES:
+:ID:       32452668-4dd6-4afa-a1a7-7936ab3ff9a1
+:END:
+
+   
+*Definition*:
+- Deducing the ʿillah (effective cause) of a ruling where:
+  - the *ruling* is clear but fixed by text or ijmāʿ,
+  - but the ʿillah itself is not stated or clearly implied by text.
+    - the privous 2 the illa was mention in the text
+      - so the illah needs to be decuded here 
+*Example*:
+- Ḥadīth:
+  - “Gold for gold, silver for silver, wheat for wheat, barley for barley,
+    dates for dates, salt for salt — like for like.”
+- Ruling:
+  - prohibition of unequal exchange / riba in these items.
+- The jurist must *extract* the ʿillah:
+  - weight? edibility? value? being a “medium of exchange”?
+- This is done using recognised usul methods of ʿillah deduction.
+
+*Purpose*:
+- To uncover the legal cause so that the ruling can be *extended* by qiyās.
+  
+**** Masālik al-ʿIllah – Paths to identifying the cause
+:PROPERTIES:
+:ID:       32e0feb6-b8c4-41ed-8107-554b26c25d66
+:END:
+Masālik al-ʿillah are the *recognised methods* for discovering the ʿillah:
+
+1. *al-Naṣṣ* (النص) – Textual indication
+2. *al-Ijmāʿ* (الإجماع) – Consensus
+3. *al-Istinbāṭ* (الاستنباط) – Inference
+   
+*Example*:
+- In new financial forms (e.g. online currency),
+  - jurists look at why *riba* is prohibited in gold and silver,
+  - and may infer that the ʿillah is “thamaniyyah” (being a standard of value),
+  - then apply that to modern currency.
+
+
+***** 1. Naṣṣ – Textual evidence
+:PROPERTIES:
+:ID:       5afec47b-c728-4c81-8d91-64aa527e986a
+:END:
+- The text *explicitly* states the ʿillah.
+
+*Example*:
+- “For indeed it is *rijs* (impure)” regarding carrion.
+  - Impurity is mentioned as the *reason* for prohibition.
+    - e.g the cat roam around, 
+    -  e.g animals that have died, reason is because it is impure
+      
+***** 2. Ijmāʿ – Consensus
+:PROPERTIES:
+:ID:       1159dfd6-9202-417e-9072-87a054cbbbe4
+:END:
+- The ʿillah is known through the *agreement of scholars*, even if no single text states it plainly.
+
+*Example*:
+- The Ummah’s scholars agree that:
+  - *intoxication* is the ʿillah for the prohibition of wine.
+    - also what intoxicant in large is not allowed in large amont
+
+***** 3. Istinbāṭ – Inference
+:PROPERTIES:
+:ID:       4bc7099a-3638-41d7-9b00-fb5bdd71a4ef
+:END:
+- When no explicit or ijmāʿ-based ʿillah is available or direct text,
+  the jurist *infers* the ʿillah using:
+  - context,
+  - patterns,
+  - objectives of Sharīʿah,
+  - and analogies.
+
+****** Textual indicators (adilla lafẓiyyah) of ʿIllah
+:PROPERTIES:
+:ID:       7f6cafc0-e67a-4183-8f59-62c5f15949c0
+:END:
+Legal texts often contain *clues* that a ʿillah is present:
+******* 1. Explicit indicators (صريحة)
+:PROPERTIES:
+:ID:       0edae483-aeb7-42fd-9c34-0830dd5af871
+:END:
+- Direct, clear causal particles, such as:
+  - *kay* (كي) – “so that / in order to”
+  - *li-ajl / li-ajli* (لأجل / لأجلِ) – “on account of / due to”
+  - *bi-sabab / min ajl* (بسبب / من أجل) – “because of / due to”
+
+These show:
+- a strong, explicit link between cause and ruling.
+
+******* 2. Apparent indicators (ظاهرة)
+:PROPERTIES:
+:ID:       9d0ed155-7d46-400a-96b6-040520a79e3a
+:END:
+- Common syntactic patterns of *taʿlīl* (causation), e.g.:
+  - *Lām al-taʿlīl* (لام التعليل) – the “lām of causation” attached to a verb or noun,
+    indicating purpose/reason:
+    - e.g. “*li-kay* …” “*li-* such and such”.
+    - e.g the dog of the sliva, the laam is what shoes this
+
+******* 3. Implied indicators (إيمائية / تنبيهية)
+:PROPERTIES:
+:ID:       60f2b01a-c672-4f8d-a668-2387937e7f27
+:END:
+- Subtle hints:
+  - order of phrases,
+  - contrast,
+  - attaching a description to a ruling.
+
+Some indicators can give:
+- *definitive* knowledge of the ʿillah,
+- others are *ẓannī* and require additional context.
+  - e.g. cut the hand of the theft, the reason is not there,
+    - but the context in the ayah and faa is the applied to the people who meets the description for it 
+All of them:
+- assist the mujtahid in *finding a valid ʿillah* for qiyās.
+  
 ** Analogy of Similarities
 :PROPERTIES:
 :ID:       0d4e4e84-5cfb-438a-91d7-5f111d2ddca9
 :END:
+
 'Qiyas ash-Shibh' (the analogy of likeness) involves a secondary matter positioned between two different primary matters due to its similarities with both. The secondary matter is aligned with the primary matter it shares the most commonalities with. For example, consider the analogy of a slave: is he owned like property, akin to a free person, or is he not owned resembling an animal?
 
+- based on unclear illah
+  - look at what the sitation resembelse
+- e.g a person who is born with two genders
+  - what to do?
+    - they have to see which sign of the person is increases
+      - to show which signs lean to a specific gender
+        - hence this will drive the inherance, but it we're still waiting then you'll need to delay the inhertiance
+      
 Upon examining these two primary issues, one involving a free person and the other an animal, we find that the status of a slave oscillates between the two. In terms of intellectual capcity, accountability, marital freedom, and other aspect related to personhood, the slave resembles a free person. However, regarding aspects such as being bought and sold, use as collateral, disposed of, etc, the slave resembles an animal in financial dealings.
 
 This type of analogy is considered weak because there isn't suitable common cause between them other than the slave resembling an animal in most financial dealings, despite the dispute presented by another primary ruling.
@@ -2619,68 +4105,249 @@ An example of this type of analogy is found in the saying of the Prophet Muhamma
 
 In this example, the Prophet affirmed the opposite rulings for the secondary issue, which is engaging in lawful intercourse, compared the primary ruling, which pertains to engaging in intercourse in a forbidden manner. This affirmation is based on the presence of the opposing cause; engaging in the act lawfully leads to rewards, whereas engaging in it unlawfully results in punishment.
 
-* Contradiction (at-ta'arud)
+* DONE The Contradiction (at-ta'arud)
 :PROPERTIES:
 :ID:       d7374500-3e8e-4308-ad97-e47a61ad44a4
 :END:
-The definition: At-ta'arud linguistically refers to the opposition or preventions of one thing by another. Technically, it denotes a situation in Islamic jurisprudence where two piece of evidence conflict or oppose each other.
+[[id:4dc1239c-6fbf-4f78-ad98-5a65e9d18081][lesson 22 rec 25]]
+al-Taʿāruḍ (التعارض) – Conflict of evidences & Methods of Resolution
+- some of them put this at the end of the chapter of the one who takes the ruling
+  - because they are the one who exersice this 
+** Definition of al-Taʿāruḍ
+linguistically refers to the opposition or preventions of one thing by another.
+- means opposition
 
-And the contradiction has four parts.
+Arabic:
+- «تقابلُ الدليلين على سبيل الممانعة.»
 
-Part A) Contradiction between two general evidence can result in four cases:
-1. Combination:
-    if the two conflicting evidence can be reconciled in a way that they don't contradict each other, then they should be combined. An example of this is reconciling the verse where Allah says to the Prophet Muhammad (ﷺ) "And indeed [O Muhammad], you guide to a straight path" 42:52 with "You [O Muhammad] do not guide whom you love" 28:56. Here, the first verse refers to guidance as directing to the right path, which the Prophet doe, while the second verse refers to the ability to act upon guidance, which is in Allah's hand alone.
-2. Abrogation:
-    If reconciliations is not possible, the later evidence may abrogate the earlier one if the historical context is known. For instance the verse allowing the option between fasting and feeding the needy, "And whoever volunteers excess - it is better for him. But to fast is best for you, if you only knew" 2:184 was abrogated by the verse specifying the obligation to fast during Ramadan, "So whoever sights [the new moon of] the month, let him fast it; and whoever is ill or on a journey - then an equal number of other days" 2:185 
-3. Preferable Opinion:
-    if the historical context is unknown, the most probable opinion should be followed if one exists. For example, the Prophet's statement that one who touches their private part should perform ablution contradicts his statement that it is part of oneself. The former opinion is preferred due to it cautiousness, freqency in narrations, authenticity, and direct attribution to the prophet (ﷺ).
-4. No Preferred Opinion:
-    If there is no preferable opinion, neither should be acted upon, though no sound example can be found for this scenario.
+Meaning:
+- “The opposition of two evidences such that each prevents the other
+  from taking effect.”
+  - prevent the ruling that is found in each sides
+  - Ibn al-Najjār رحمه الله adds:
+    - This occurs when:
+      - one proof indicates *permissibility* and the other indicates *prohibition*;
+      - the proof for permissibility blocks the ruling of prohibition,
+      - and the proof for prohibition blocks the ruling of permissibility.
+- Each stands opposed to the other, counteracting and preventing it.
 
-Part B) Contradiction between two specific text also presents four scenarios
-1. Reconciliation
-    If both text can be harmonised without conflict, then reconciliation is necessary. For instance, the narration of Jabir stating that the Prophet (ﷺ)  prayer Zuhr on the Day of Sacrifice in Makkah, and the narrations of Ibn Umar indicating that the Prophet (ﷺ)  prayer Zuhr in Mina, are reconciled by considering that the prophet prayer in both locations with his companions.
-2. Abrogation
-   If reconciliation is not possible, and the history of text is known, the second text abrogate the first.
-   An example is the Quranic verse regarding the Prophet's wives, where the second verse abrogates the permissibility of additional marriage mentioned in the first verse.
-   An example for that is the saying of the Most High:
-   "O Prophet, indeed we have made lawful to you your wives to whom you have given their due compensation and those your right hand possesses from what Allah has returned to you [of captives] and the daughters of your paternal uncles and the daughters of you paternal aunt" 33:50
-   And His saying:
-   "Not lawful to you [O Muhammad], are [any additional] women after [this] nor [is it] for you to exchange them for [other] wives, even if their beauty were to please you" 33:52
-3. Preference
-   If no abrogation is found, then the more preferred test should be followed if one is identifiable.
-   Example: The narration of Maymunah, that the Prophet (ﷺ) married her while he was not in the state of ihram, and the narrations of Ibn Abbas, that the Prophet (ﷺ) married her while being in the state of ihram.
-   The most correct opinion is the first because Maymunah is the person telling the story so she is more aware of what happened. Her narration is supported by the other narration of Abu Rafi that the Prophet (ﷺ) married her while he was not in the state of ihram and he said I was the messenger between them.  
-4. Stalemate
-   If neither text can be preferred over the other, then both should be disregarded. However such scenario doesn't exist.
+** Methods when Taʿāruḍ occurs
+:PROPERTIES:
+:ID:       422f800d-ef67-4409-9b00-85455f862e44
+:END:
 
-Part C) When a contradiction arises between a specific text and a general text, the specific text restricts the general text. For example, the Prophet (ﷺ) statement regarding Zakat being a tenth of what the sky water is made specific by his statement that anything less than five aswaq is not zakat, thus, zakat is only obligatory for produce reaching or exceeding five aqsaq. 
+What should you do?
+When two evidences appear to conflict, the usul framework is:
 
-Part D) When one text is more genreal in one aspect and mor specific in another aspect compare to another text, there are three cases
+- *Taʿāruḍ* → four possible paths:
+  1. *Jamʿ* (الجمع) – Reconciliation ⤵
+     2. *Naskh* (النسخ) – Abrogation  ⤵
+        3. *Tarjīḥ* (الترجيح) – Preference  ⤵
+           4. *Tawaqquf* (التوقف) – Suspension
 
-1. Specification of Generality
-   If one text makes specific the general of the other, the more specific text is followed. For instance, the quranic verse specifying the waiting period for widows is made specific by the verse specifying the waiting period for pregnant women.
-   
-   Example: The saying of the Most High:
-   "And those who are taken in death among you and leave wives behind-they [the wives,shall] wait four months and ten [days]"
+*** al-Jamʿ (الجمع) – Reconciliation
+:PROPERTIES:
+:ID:       a6c23b78-0e45-4129-b814-14fd10c795bd
+:END:
+**** Definition
+Arabic:
+- «إظهارُ عدمِ التَّضادِّ بين الدليلينِ المتضادَّينِ في الظاهر بتأويلِ كلٍّ منهما أو بتأويلِ أحدِهما.»
 
-   and the saying:
-   "and for those who are pregnant, their term is until they give birth" 65:4
-   The first verse is specific about its mention of widows but general when it comes to pregnant women. The second verse is specific about pregnant women but general about widows so the proof shows that the generality of the first one is made specific by the second one. Subiya Al-Aslamiah gave birth after her husband died by a few nights, and the Prophet (ﷺ)  allowed her to get married, based on this the iddah for the pregnant women is when she gives birth whether she is a widow or otherwise 
-   
-2. Preference
-   If neither text specifies the generality of the other, the more preferred view is followed. For example, the saying of the Propeht (ﷺ)  "If one of you enter the mosque let him not sit down until he prayer two rak'ah" and his saying "There is no prayer after Fajr until the sun rises and no prayer after Asr until the sun goes down."
-   The first is specific regarding the two rak'ah that are prayed before siting down in the masjid, but general about time. The second is specific about the time but genreal about the type of prayer, which includes the tahiyahtul masjid and other than that, but the most preferred opinion is  to make specific the generality of thee second with the firs , so it is permissible to pray tahiyahtul Masjid during the times that are prohibited for general prayers to be prayed therein.
-   We prefer this opinion because making specific the generality of the second has been confirmed for other prayer beside the tahiyahtul masjid such as making up the missed obligatory prayers, or praying again in congregation, so the generality has a weak position.
-   
-3. Silent Adherence
-   If there is no evidence or method to specify the genereal meaning of conflicting text, both text are followed in the aspect where they do not conflict, while remaining silent on the conflict aspect.
+Meaning:
+- “Jamʿ means *demonstrating* that there is *no real contradiction*
+  between two pieces of evidence that appear, outwardly, to conflict —
+  interpreting both or either of them in a way that removes the apparent contradiction.”
+  - combining the evidences so they don't negate eachother  
+**** Types of Jamʿ
+:PROPERTIES:
+:ID:       a8b95c00-d54f-4b86-8325-1df508b6e7cf
+:END:
+***** 1. *Interpreting both together*
+:PROPERTIES:
+:ID:       76a9cd83-d89a-481c-89af-1014ee5ce23c
+:END:
+   - Each text is applied to a *different circumstance* or condition.
+   - Both texts remain operative, each in its proper context.
 
-However, it is not possible for there to be a contradiction between text of the same issue in a way that they cannot be reconciled, or that one of them is abrogating the other, or that one cannot be given preference over the other because the text do not contradict each other. The messenger (ﷺ) has made things perfectly clear and propagated (the message) so, it may be that the Mujtahid fell short in his understanding of the text, and Allah knows best.
-   
-(It's important to note that contradictions betwen text on the same issues are not inherent, and they can often be reconciled, abrogated, or one can be given preference over the other. If contradictions seem irreconcilable, it indicates a limitation in the understanding of the texts rather than an actual contradiction.)      
+***** 2. *Interpreting only one of them*
+:PROPERTIES:
+:ID:       a79ac043-1858-4eb7-8233-67365bf471d7
+:END:
+   - One text is kept on its apparent meaning, the other interpreted.
+   - This includes:
+     - restricting a *general* text with a *specific* one,
+     - restricting an *absolute* (muṭlaq) text with a *qualified* (muqayyad) one.
 
-** The order between the Evidence
+**** Example – Testimony
+- Ḥadīth 1:
+  - “Shall I not tell you who are the best of witnesses?
+    The one who brings forward his testimony before being asked for it.”
+    (Muslim, from Zayd ibn Khālid)
+- Ḥadīth 2:
+  - “There will come after you people who will betray trusts and will not be trustworthy; they will bear witness without being asked.”  
+    (Agreed upon, from ʿImrān ibn Ḥuṣayn)
+
+- Task:
+  - Reconcile by:
+    - applying each to a *different situation* (e.g. where rights will be lost
+      vs. where people seek status),
+    - or by understanding one as *praiseworthy initiative* and
+       - the other as *blameworthy, self-serving testimony*.
+         - where the problem has already been resolved.
+
+*** an-Naskh (النسخ) – Abrogation
+:PROPERTIES:
+:ID:       e37ea53f-2fcd-4f73-8e82-9c870cc25535
+:END:
+**** Definition
+Arabic:
+- «رفعُ الحكمِ الثابتِ بخطابٍ متقدِّمٍ بخطابٍ متأخِّر.»
+
+Meaning:
+- “The lifting of a legal ruling established by an earlier revelation,
+  through a later revelation.”
+
+**** Explanation
+- Naskh clarifies that:
+  - a ruling proven by a valid proof (Qur’an or Sunnah)
+  - is *no longer to be acted upon*,
+  - because a later text has replaced or removed it.
+- It is therefore one of the legitimate methods to resolve *apparent*
+  contradictions between texts.
+
+**** Evidence for Naskh
+Qur’anic verse:
+- =﴿مَا نَنسَخْ مِنْ آيَةٍ أَوْ نُنسِهَا نَأْتِ بِخَيْرٍ مِّنْهَا أَوْ مِثْلِهَا﴾= (البقرة: ١٠٦)
+- “Whatever verse We abrogate or cause to be forgotten,
+  We bring forth one *better* than it or *similar* to it.” (al-Baqarah 2:106)
+
+**** Example
+Qur’anic verse:
+- =﴿كُتِبَ عَلَيْكُمْ إِذَا حَضَرَ أَحَدَكُمُ الْمَوْتُ إِن تَرَكَ خَيْرًا الْوَصِيَّةُ لِلْوَالِدَيْنِ وَالْأَقْرَبِينَ﴾=
+- “Prescribed for you when death approaches any of you… that he make a bequest
+  for parents and near relatives.” (al-Baqarah 2:180)
+
+Abrogated by the ḥadīth:
+- “There is no bequest for an heir.”  
+  – Narrated by Aḥmad and the authors of the Sunan except al-Nasā’ī.
+
+*** at-Tarjīḥ (الترجيح) – Preference
+**** Definition
+Arabic:
+- «تقويةُ إحدى الأمارتين على الأخرى.»
+
+Meaning:
+- “Giving greater weight to one of two conflicting indications over the other.”
+
+**** Conditions for Tarjīḥ
+:PROPERTIES:
+:ID:       ebe3208e-676e-4fa2-8fe0-676f99cb4fbf
+:END:
+***** 1. *Between proofs only*
+:PROPERTIES:
+:ID:       2fe39534-4c0b-47bb-be01-6b4c3ec030e1
+:END:
+   - Tarjīḥ applies to *conflicting proofs*,
+   - not to courtroom evidences (bayyināt) or mere claims.
+***** 2. *Real conflict required*
+:PROPERTIES:
+:ID:       361ce495-03cf-4317-ac2c-6495997f9187
+:END:
+   - There must be a genuine *apparent contradiction* between the proofs.
+***** 3. *Reconciliation first*
+   - If reconciliation (jamʿ) is possible, it takes *priority* over tarjīḥ.
+***** 4. *Chronology unknown*
+   - If we *know* which text is later, then naskh applies instead:
+     - the later text abrogates the earlier.
+***** 5. *Valid basis of preference*
+   - Preference is based on *recognised factors*, such as:
+     - strength of chain, clarity of wording, agreement with Qur’an, etc.
+   - Not on arbitrary choice.
+**** Ruling on Tarjīḥ
+:PROPERTIES:
+:ID:       359b9e1d-d0ff-4964-85e8-e4dc3d002706
+:END:
+- If two texts appear to conflict, the mujtahid must:
+  1. First attempt *reconciliation* (jamʿ).
+  2. If reconciliation fails and naskh does not apply, then seek *tarjīḥ*.
+- The scholars agree:
+  - it is *obligatory* to act on the *stronger* proof when conflict arises.
+**** Evidence for Tarjīḥ
+1. Qur’an:
+   - =﴿وَاتَّبِعُوا أَحْسَنَ مَا أُنزِلَ إِلَيْكُم مِّن رَّبِّكُمْ﴾=
+   - “Follow the *best* of what has been revealed to you from your Lord.”
+     - the best is the method of tarjih
+       - most likely vs less likely
+   - Indicates seeking the strongest, most complete evidence.
+
+2. Consensus of the Companions:
+   - The Companions and early jurists acted upon the *stronger* of
+     conflicting proofs.
+   - al-Ṭūfī noted:
+     - “This is obligatory; the Companions practised *tarjīḥ*…”
+       - they always tried to come to a conclustion 
+**** Aspects of Preference (Tarjīḥ)
+:PROPERTIES:
+:ID:       e9ded321-a546-4525-9729-cdc22abedeaf
+:END:
+can be in way of text and akhal.
+
+Scholars divide text aspects of tarjīḥ into three main areas:
+
+1. Preference based on the *chain* of transmission (isnād)
+2. Preference based on the *text* (matn)
+3. Preference based on *external* factors
+
+***** 1. Chain of transmission (isnād)
+:PROPERTIES:
+:ID:       1f8b1e70-7182-4a38-8e05-a83e645d59d7
+:END:
+- *More* narrators → generally a *stronger* report.
+- Narrator known for *fiqh* and understanding → preferred.
+- Narrator with *direct involvement* in the *event* → preferred.
+  - i.e they're narrating from they're own example
+- A narration toward the end vs a narration in the beginning 
+- Stronger *memory and accuracy* → preferred.
+- *Musnad* (fully connected) report → preferred over *mursal* (missing the Companion).
+  - example of maymunnah vs ibn abbas
+    
+***** 2. Text (matn)
+:PROPERTIES:
+:ID:       6f08940a-7894-488e-b2a7-5324f46d1829
+:END:
+- Specific text (*khāṣṣ*) restricts a general text (*ʿāmm*).
+- An *unqualified general* (not later specified) can be stronger than a
+  general that has many exceptions.
+- Fewer exceptions → preferred.
+- A general text *not tied* to a specific cause is stronger than one linked
+  only to a particular incident.
+- *Explicit* wording (naṣṣ) is preferred over merely *apparent* wording (ẓāhir).
+- An *affirming* report is often preferred over a *negating* report.
+- What implies *prohibition* is usually taken more cautiously than what implies
+  mere *permission*.
+
+***** 3. External factors
+:PROPERTIES:
+:ID:       c3af8d0f-4b13-4d6b-b601-a8c715d24882
+:END:
+- Agreement with the *Qur’an* → preferred.
+  - imaan shafee, it's more easier to the heart
+- *Verbal* statement preferred over mere *action*.
+- The *majority practice* of scholars → preferred.
+- Alignment with *qiyās* → preferred.
+- The narrator’s *own explanation* of their report → considered and may be
+  preferred.
+
+***** Bottom line
+:PROPERTIES:
+:ID:       63b2ebca-73fa-4004-be2d-7bb1fcf9ea7c
+:END:
+- The mujtahid must weigh:
+  - isnād,
+  - matn,
+  - and external factors,
+- to choose the *strongest* evidence and act upon it.
+****** The order between the Evidence
 :PROPERTIES:
 :ID:       efffbbf3-bb0b-4043-a65e-eb1e9fb60afe
 :END:
@@ -2706,104 +4373,567 @@ From Analogy:
 
 By adhering to this order, scholars ensure a systematic approach to deriving rulings from Islamic source, maintaining coherence and consistency in jurisprudence. 
 
-* The Mufti and The Mustafti
+*** at-Tawaqquf (التوقف) – Suspension
+:PROPERTIES:
+:ID:       931e5f87-8f59-4b0b-af5c-da319b22a375
+:END:
+**** Definition
+Arabic:
+- «هو الكفُّ عن الترجيح والعمل عند تعارض الأدلة وعدم ظهور مُرجِّحٍ بيِّن، مع انتظار ظهور دليلٍ يُزيل التعارض أو يُرجِّح أحد الطرفين.»
+
+Meaning:
+- “Tawaqquf means to suspend judgement and refrain from preferring or acting
+  when proofs appear to conflict and no clear preference is evident — while
+  continuing to seek further evidence that removes the conflict or clarifies
+  which side is stronger.”
+
+**** Scholarly positions on Tawaqquf
+***** 1. *Obligation of suspension*
+:PROPERTIES:
+:ID:       7167d9c8-946e-4877-89d6-f10664a684f7
+:END:
+   - Others said:
+     - the jurist must *suspend judgement* (tawaqquf)
+       when unable to resolve the conflict.
+       - they're showing a level of piety because they don't want to make a mistake
+         - and save himself to give a verdict
+
+***** 2. *Free choice*
+:PROPERTIES:
+:ID:       c2d9c0ff-2ffc-414b-884b-20e9e6affab3
+:END:
+   - Some scholars held that (minor group):
+     - when unable to resolve a conflict,
+     - the mujtahid may *choose freely* which proof to act upon.
+       - a small few of scholars say that difference just expand the rulings and there is no wrong anwser
+         - but this is rejected by the majority
+
+***** 3. *Act on the stricter view*
+:PROPERTIES:
+:ID:       1b960c6d-bf01-43cb-970e-0f09682b910e
+:END:
+   - Some argued:
+     - the jurist should act on the *stricter* view,
+     - because truth is weighty and *caution* is safer.
+       - saving one self from making a mistakes
+
+***** 4. *Act on the easier view*
+:PROPERTIES:
+:ID:       f989614b-3028-4ccb-b8e2-bb6d437994e4
+:END:
+   - Others said:
+     - he should act on the *easier* view,
+     - citing the ḥadīth:
+       - “Make things easy, and do not make them difficult.”
+         (Agreed upon, from Anas and Abū Mūsā)
+The last two is based on ijtihad
+- for example ibn abbas, gave different views on those who acced what happen when you kill somone
+**** As for the layperson (ʿāmmi)
+- A layperson who cannot weigh proofs:
+  - must ask a scholar he trusts in knowledge and piety, as Allah says:
+    - =﴿فَاسْأَلُوا أَهْلَ الذِّكْرِ إِن كُنتُمْ لَا تَعْلَمُونَ﴾=
+    - “So ask the people of knowledge if you do not know.” (al-Naḥl 16:43)
+      - the view of his teacher 
+
+** Contradiction with The General and Specific   
+:PROPERTIES:
+:ID:       e5ffb1a5-8f5c-419f-ad22-6c6ba80b47f6
+:END:
+And the contradiction has four parts.
+*** 1. two general evidence 
+:PROPERTIES:
+:ID:       5a8aa19b-39f3-4af4-ba3c-2429208b1be8
+:END:
+Contradiction between two general evidence can result in four cases:
+1. Combination:
+    if the two conflicting evidence can be reconciled in a way that they don't contradict each other, then they should be combined. An example of this is reconciling the verse where Allah says to the Prophet Muhammad (ﷺ) "And indeed [O Muhammad], you guide to a straight path" 42:52 with "You [O Muhammad] do not guide whom you love" 28:56. Here, the first verse refers to guidance as directing to the right path, which the Prophet doe, while the second verse refers to the ability to act upon guidance, which is in Allah's hand alone.
+2. Abrogation:
+    If reconciliations is not possible, the later evidence may abrogate the earlier one if the historical context is known. For instance the verse allowing the option between fasting and feeding the needy, "And whoever volunteers excess - it is better for him. But to fast is best for you, if you only knew" 2:184 was abrogated by the verse specifying the obligation to fast during Ramadan, "So whoever sights [the new moon of] the month, let him fast it; and whoever is ill or on a journey - then an equal number of other days" 2:185 
+3. Preferable Opinion:
+    if the historical context is unknown, the most probable opinion should be followed if one exists. For example, the Prophet's statement that one who touches their private part should perform ablution contradicts his statement that it is part of oneself. The former opinion is preferred due to it cautiousness, freqency in narrations, authenticity, and direct attribution to the prophet (ﷺ).
+4. No Preferred Opinion:
+    If there is no preferable opinion, neither should be acted upon, though no sound example can be found for this scenario.
+
+*** 2. two specific text 
+:PROPERTIES:
+:ID:       d63f8812-625f-4d5c-9b47-795865649673
+:END:
+Contradiction between two specific text also presents four scenarios
+1. Reconciliation
+    If both text can be harmonised without conflict, then reconciliation is necessary. For instance, the narration of Jabir stating that the Prophet (ﷺ)  prayer Zuhr on the Day of Sacrifice in Makkah, and the narrations of Ibn Umar indicating that the Prophet (ﷺ)  prayer Zuhr in Mina, are reconciled by considering that the prophet prayer in both locations with his companions.
+2. Abrogation
+   If reconciliation is not possible, and the history of text is known, the second text abrogate the first.
+   An example is the Quranic verse regarding the Prophet's wives, where the second verse abrogates the permissibility of additional marriage mentioned in the first verse.
+   An example for that is the saying of the Most High:
+   "O Prophet, indeed we have made lawful to you your wives to whom you have given their due compensation and those your right hand possesses from what Allah has returned to you [of captives] and the daughters of your paternal uncles and the daughters of you paternal aunt" 33:50
+   And His saying:
+   "Not lawful to you [O Muhammad], are [any additional] women after [this] nor [is it] for you to exchange them for [other] wives, even if their beauty were to please you" 33:52
+3. Preference
+   If no abrogation is found, then the more preferred test should be followed if one is identifiable.
+   Example: The narration of Maymunah, that the Prophet (ﷺ) married her while he was not in the state of ihram, and the narrations of Ibn Abbas, that the Prophet (ﷺ) married her while being in the state of ihram.
+   The most correct opinion is the first because Maymunah is the person telling the story so she is more aware of what happened. Her narration is supported by the other narration of Abu Rafi that the Prophet (ﷺ) married her while he was not in the state of ihram and he said I was the messenger between them.  
+4. Stalemate
+   If neither text can be preferred over the other, then both should be disregarded. However such scenario doesn't exist.
+
+*** 3. specific text and a general text, the specific text restricts the general text.
+:PROPERTIES:
+:ID:       f67c6d49-9f58-4b6a-adc4-b2f1244a05ed
+:END:
+When a contradiction arises between a specific text and a general text, the specific text restricts the general text.
+
+
+- For example, the Prophet (ﷺ) statement regarding Zakat being a tenth of what the sky water is made specific by his statement that anything less than five aswaq is not zakat, thus, zakat is only obligatory for produce reaching or exceeding five aqsaq. 
+
+*** 4. text is genreal in one aspect and specific in another, compare to another text
+:PROPERTIES:
+:ID:       e40a2520-a255-4300-baa1-7e87b1e91e73
+:END:
+
+When one text is more genreal in one aspect and more specific in another aspect compare to another text, there are three cases
+1. Specification of Generality
+   If one text makes specific the general of the other, the more specific text is followed. For instance, the quranic verse specifying the waiting period for widows is made specific by the verse specifying the waiting period for pregnant women.
+   
+   Example: The saying of the Most High:
+   "And those who are taken in death among you and leave wives behind-they [the wives,shall] wait four months and ten [days]"
+
+   and the saying:
+   "and for those who are pregnant, their term is until they give birth" 65:4
+   The first verse is specific about its mention of widows but general when it comes to pregnant women. The second verse is specific about pregnant women but general about widows so the proof shows that the generality of the first one is made specific by the second one. Subiya Al-Aslamiah gave birth after her husband died by a few nights, and the Prophet (ﷺ)  allowed her to get married, based on this the iddah for the pregnant women is when she gives birth whether she is a widow or otherwise 
+   
+2. Preference
+   If neither text specifies the generality of the other, the more preferred view is followed. For example, the saying of the Propeht (ﷺ)  "If one of you enter the mosque let him not sit down until he prayer two rak'ah" and his saying "There is no prayer after Fajr until the sun rises and no prayer after Asr until the sun goes down."
+   The first is specific regarding the two rak'ah that are prayed before siting down in the masjid, but general about time. The second is specific about the time but genreal about the type of prayer, which includes the tahiyahtul masjid and other than that, but the most preferred opinion is  to make specific the generality of thee second with the firs , so it is permissible to pray tahiyahtul Masjid during the times that are prohibited for general prayers to be prayed therein.
+   We prefer this opinion because making specific the generality of the second has been confirmed for other prayer beside the tahiyahtul masjid such as making up the missed obligatory prayers, or praying again in congregation, so the generality has a weak position.
+   
+3. Silent Adherence
+   If there is no evidence or method to specify the genereal meaning of conflicting text, both text are followed in the aspect where they do not conflict, while remaining silent on the conflict aspect.
+
+
+-  Important point
+However, it is not possible for there to be a contradiction between text of the same issue in a way that they cannot be reconciled, or that one of them is abrogating the other, or that one cannot be given preference over the other because the text do not contradict each other. The messenger (ﷺ) has made things perfectly clear and propagated (the message) so, it may be that the Mujtahid fell short in his understanding of the text, and Allah knows best.
+   
+(It's important to note that contradictions betwen text on the same issues are not inherent, and they can often be reconciled, abrogated, or one can be given preference over the other. If contradictions seem irreconcilable, it indicates a limitation in the understanding of the texts rather than an actual contradiction.)      
+
+* DONE The Mufti and The Mustafti
 :PROPERTIES:
 :ID:       5fe1016c-4678-437b-bd45-0aed866877f2
 :END:
-The Mufti is the one who has knowledge of the legal rulings.
-The Mustafti is a questioner that ask for a legal ruling
-
+[[id:04cbb1d7-3d84-4159-948d-d08cc58fe063][lesson 23 rec 26]]
+** Definitions
+- *al-Muftī* (المفتي):
+  - The one who informs of a legal (Shar‘ī) ruling.
+    - The Mufti is the one who has knowledge of the legal rulings.
+- *al-Mustaftī* (المستفتي):
+  - The one who inquires and asks about a legal (Shar‘ī) ruling.
+  - The Mustafti is a questioner that ask for a legal ruling
 ** The Conditions of Fatwa
 :PROPERTIES:
 :ID:       67eb7258-3b37-4114-9720-18fe764731bc
 :END:
 The requirements for the permissibility of a fatwa, which, if they are not met then the correct fatwa will not be obtained:
 
-1. Certainty of Knowledge: The Mufti must have certain or a strong conviction of the legal ruling regarding the matter at hand. If there is doubt or uncertainty, the Mufti should refrain from issuing a fatwa.
-2. Understanding the Question Fully: The Mufti must fully comprehend the question asked by the Mustafti in order to provide an accurate judgement. If the question is unclear or ambiguous, the Mufti should seek clarification or provide futher details in the answer
+*** 1. Certainty of Knowledge
+:PROPERTIES:
+:ID:       e69193f8-f423-44e3-9b67-ecb3831c70d0
+:END:
+    The Mufti must have certain or a strong conviction of the legal ruling regarding the matter at hand. If there is doubt or uncertainty, the Mufti should refrain from issuing a fatwa.
+   - The mufti must know the ruling with certainty or strong likelihood.
+     - because he is speaking on behalf of Allah
+       - this is yaqeen  zhaan type of knowledge
+     - If he does *not* reach this level, he must refrain from issuing a fatwa.
+       - [[id:c3382935-f014-40ac-9afc-4d0d53ca6b5c][say I don’t know]]
+
+*** 2. Complete Understanding:
+:PROPERTIES:
+:ID:       f0995955-3c24-4e51-be7e-53e56fd06362
+:END:
+   
+   The Mufti must fully comprehend the question asked by the Mustafti in order to provide an accurate judgement. If the question is unclear or ambiguous, the Mufti should seek clarification or provide futher details in the answer
    
    So if someone dies and leaves behind a daughter, a brother and an uncle. Ask about the brothe was he from the mother or not? Or make the distinction in the answer. So if he was form the mother then there is nothing for him in inheritance and the remainder after what belongs to the daughter is for the uncle, and if he is from another mother, then the whats left after the daughter takes whats hers, is for him.
-3. Calm State of Mind:  The mufti should be in a calm and compose state of mind when issuing a fatwa. Fatwas should not be given impulsively or in a state of anger, preoccupation, or boredom. Instead, the Mufti should take the time to carefully consider the issue and apply legal evidence appropriately.
+
+   - He must fully grasp the question and its details,
+   - because judgement depends on clear understanding of the situation.
+     - e.g in ihertance, each brother have a difference share, so why type of borhter and why are they asking this question, is giving the veridict give him harm or benifit in where he lives
+   
+*** 3. Calm State of Mind:
+:PROPERTIES:
+:ID:       7e04b9d7-ec10-43f2-810b-e02ea6c97b57
+:END:
+The mufti should be in a calm and compose state of mind when issuing a fatwa. Fatwas should not be given impulsively or in a state of anger, preoccupation, or boredom. Instead, the Mufti should take the time to carefully consider the issue and apply legal evidence appropriately.
+- He should not issue a fatwa while:
+  - angry,
+  - overwhelmed by grief,
+  - exhausted,
+  - or in other states that cloud judgement.
+
 ** Conditions for Fatwa
 :PROPERTIES:
 :ID:       c37eda46-ae7d-42df-a335-e0a8e57d5e23
 :END:
-The conditions for issuing a fatwa are crucial for ensuring the validity and appropriateness of the legal ruling. Here are the specified conditions:
-1. Occurrence of the Incident: The incident or matter in questions must have actually taken place. If there is no occurrence of the incident, then issuing a fatwa is not obligatory. However, if the question is asked for the purpose of seeking knowledge, it is obligatory to answer truthfully whenever it is asked, regardless of the circumstance. 
-2. Intentions of the Questioner: It is necessary that the intention of the questioner are not malicious or aimed at causing discord among scholars or seeking an excuse for Wrongdoing. If the questioner's intuitions are found to be harmful or hishonest, then it is not obligatory to provide a fatwa.
-3. Avoidance of Harm: if issuing a fatwa would lead to greater harm or negative consequence, it is imperative to withhold from issuing a ruling. In such cases, avoiding the greater harm takes precedence over issuing a fatwa.
+The conditions for issuing a fatwa are crucial for ensuring the validity and appropriateness of the legal ruling.
 
-(Adhering to these condition ensures that fatwas are issued responsibly and in accordance with Islamic principles, safeguarding the integrity of the fatwa process and promoting justice and well-being in society)
+Adhering to these condition ensures that fatwas are issued responsibly and in accordance with Islamic principles, safeguarding the integrity of the fatwa process and promoting justice and well-being in society
+
+
+Here are the specified conditions:
+
+*** 1. Occurrence of the Incident
+:PROPERTIES:
+:ID:       f6cf322b-586b-4658-aaa1-4dac316999d7
+:END:
+The incident or matter in questions must have actually taken place. If there is no occurrence of the incident, then issuing a fatwa is not obligatory. However, if the question is asked for the purpose of seeking knowledge, it is obligatory to answer truthfully whenever it is asked, regardless of the circumstance.
+- except when the question is asked purely to seek knowledge.
+   
+*** 2. Intentions of the Questioner
+:PROPERTIES:
+:ID:       14b9c2ce-e494-49d2-bdd5-0fa9c096480c
+:END:
+It is necessary that the intention of the questioner are not malicious or aimed at causing discord among scholars or seeking an excuse for Wrongdoing. If the questioner's intuitions are found to be harmful or hishonest, then it is not obligatory to provide a fatwa.
+- The questioner must *not* be seeking:
+  - mischief,
+  - argumentation,
+  - or merely hunting for loopholes.  
+*** 3. Avoidance of Harm 
+:PROPERTIES:
+:ID:       b837f073-d98b-4173-b37e-0808ff424e28
+:END:
+if issuing a fatwa would lead to greater harm or negative consequence, it is imperative to withhold from issuing a ruling. In such cases, avoiding the greater harm takes precedence over issuing a fatwa.
+- Issuing the fatwa must *not cause greater harm* than withholding it:
+  - the mufti chooses the *lesser of two harms*.
+
 ** What the questioner is obliged to do
 :PROPERTIES:
 :ID:       cb999388-d971-477e-b080-b73452e4a12f
 :END:
-The obligation of the questioner is seeking a fatwa are essential for ensuring the integrity and effectiveness of the fatwa process. Here are the two requirements for the questioners:
+The obligation of the questioner is seeking a fatwa are essential for ensuring the integrity and effectiveness of the fatwa process.
 
-1. Seeking the Truth and Acting Upon It: The questioner must seek the truth through his questioning and be willing to act upon the fatwa provided. This means that the questioner should not have ulterior motives or seek a specific fatwa that aligns with their desires. Instead, they should genuinely seek guidance in accordance with Islamic principles and be prepared to follow the guidance provided.
-2. Selecting an Appropriate Mufti: The questioner should choose a mufti whom they believe to be knowledgeable and pious, capable of providing a reliable fatwa. It is important to select a mufti who is well-versed in Islamic jurisprudence and possesses sound religious knowledge. Selecting the most knowledgeable and pious mufti available is considered obligatory by some scholars, highlighting the importance of choosing the right individual to seek guidance from.
+By adhering to these obligation, the questioner contributes to the integrity and effectiveness of the fatwa process, ensuring that they receive sound guidance in matters of religious significance.
 
- (By adhering to these obligation, the questioner contributes to the integrity and effectiveness of the fatwa process, ensuring that they receive sound guidance in matters of religious significance)
-* Al Ijtihad
+Here are the two requirements for the questioners:
+
+*** 1. Seeking the Truth and Acting Upon It:
+:PROPERTIES:
+:ID:       882aa1ec-f3e3-4554-a30d-6af9ac02ab42
+:END:
+The questioner must seek the truth through his questioning and be willing to act upon the fatwa provided. This means that the questioner should not have ulterior motives or seek a specific fatwa that aligns with their desires. Instead, they should genuinely seek guidance in accordance with Islamic principles and be prepared to follow the guidance provided.
+- Ask with sincerity,
+  - seeking Allah's pleasure
+  - not to find loopholes or to embarrass the mufti.
+    - the question can benifit others
+      - e.g hadith jibreal   
+*** 2. Selecting an Appropriate Mufti:
+:PROPERTIES:
+:ID:       1b69ef88-dff7-4ef4-b2e4-baafe6f1b2a2
+:END:
+The questioner should choose a mufti whom they believe to be knowledgeable and pious, capable of providing a reliable fatwa. It is important to select a mufti who is well-versed in Islamic jurisprudence and possesses sound religious knowledge. Selecting the most knowledgeable and pious mufti available is considered obligatory by some scholars, highlighting the importance of choosing the right individual to seek guidance from.
+- Only ask one who is known – or strongly believed – to be fit to give fatwas.
+*** 3. *Describe honestly*
+:PROPERTIES:
+:ID:       99d42952-322d-4f2c-a97a-255df9a78148
+:END:
+   - Give a clear and truthful description of the situation.
+   - Do not conceal details that affect the ruling.
+*** 4. *Understand the answer*
+:PROPERTIES:
+:ID:       8f9d7842-51db-48fb-bcbc-879944ee4be7
+:END:
+   - Pay attention and do not leave until the answer is fully understood.
+
+* DONE Al Ijtihad
 :PROPERTIES:
 :ID:       0aaa5bde-6955-44b2-ac08-6ac3ed15f329
 :END:
-Linguistically: exerting full effort to comprehend a complex matter
-Technically: To make an effort to understand a legal ruling
-The Mujtahid: The individual who dedicates themselves to the endeavour, striving to expert their utmost effort in understanding and deriving legal rulings in accordance with Islamic jurisprudence.
-
-Ijthad is a crucial concept in Islamic jurisprudence, requiring specific conditions to be met by the Muijtahid, or the individual exerting effort to understand legal rulings. Here are the conditions of Ijtihad:
-1. Knowledge of Legal Evidence: The mujtahid must possess a deep understanding of the legal evidences relevant to the issue at hand, including Quranic verse and relevant narrations
-2. Expertise in Hadith Science: It is essential for the Mujtahid to be knowledgeable about the authenticity and weaknesses of hadith, including understanding the chains of narrations and assessing the reliability of narrators.
-3. Understanding of Abrogation and Consensus: The Mujtahid should be familiar with the concept of abrogation in Islamic La, as well as instance of concensus among scholars, to ensure that their rulings do not contradict established principles
-4. Awareness of Legal Terminology: Knowledge of legal terminology and principle of Islamic jurisprudence is necessary for the Mujtahid to interpret text accurately. This includes understanding terms like 'Am (general), Khas (specific), Mutlaq (absolute), Muqayyid (restricted), Mujmal (ambiguous), Mubayyin (clear), among others
-5. Ability to Derive Rulings: The Mujtahid must possess the capability to derive legal rulings form the available evidence, applying sound reasoning and methodology in their analysis.
-Ijtihad can be categorised based on the scope of the issue being addressed, whether it pertains to a specific chapter of Islamic law or particular legal problem. By meeting these conditions, the Mujtahid is able to engage in the process of Ijtihad effectively, contributing to the development and application of Islamic jurisprudence.
-
-** What is necessary for the Mujtahid
+** Definition
+- *Linguistically*:
+  - Exerting effort and capacity.
+- *Technically*:
+  - Exerting one’s utmost effort to derive a Sharī‘ah ruling by deduction,
+    by one who is qualified for that task.
+Linguistically:
+- exerting full effort to comprehend a complex matter
+Technically:
+- To make an effort to understand a legal ruling
+  
+** Three pillars of Ijtihād
 :PROPERTIES:
-:ID:       726d1ca4-ef49-4731-a3b4-942e7e46c849
+:ID:       8faa3562-1fdf-43dd-9103-91da66a270f9
 :END:
-The Mustahid is required to exert diligent effort in seeking the truth. If he arrives at a correct ruling, her earns two rewards: one for his effort and another for reaching the truth. However, if he make an error despite this sincere efforts, he still receives a reward, and his mistake is forgiven. As the Prophet Muhammad (ﷺ) said "When a judge give a ruling and he tries his best (to find the truth) then he gets it receives he has two rewards, and if he judges and gets it wrong then he has only one reward"
+*** 1. *The Mujtahid* – the qualified jurist.
+:PROPERTIES:
+:ID:       dad1f434-0d50-4d9f-b7c8-cbc20283f749
+:END:
+   - absoulute mujtahid
+     - qualified in all science
+       - specific mjutahid
+         - in a specific topic
+           - talibul ilm
+             - specific matter
+*** 2. *The subject matter* – the new issue needing a ruling.
+:PROPERTIES:
+:ID:       b8ff36b9-b121-4d59-a918-098723e52166
+:END:
+*** 3. *The process* – the exertion of effort and reasoning to reach a ruling.
+:PROPERTIES:
+:ID:       073f0cab-b6b8-49f7-87fd-adb7bb2cfb78
+:END:
+ 
+The Mujtahid:
+- The individual who dedicates themselves to the endeavour, striving to expert their utmost effort in understanding and deriving legal rulings in accordance with Islamic jurisprudence.
+** Key conditions for Ijtihād
+:PROPERTIES:
+:ID:       613673e1-0642-433d-bb5a-34d9784a48d4
+:END:
+Ijthad is a crucial concept in Islamic jurisprudence,
 
+Ijtihad can be categorised based on the scope of the issue being addressed, whether it pertains to a specific chapter of Islamic law or particular legal problem. By meeting these conditions, the Mujtahid is able to engage in the process of Ijtihad effectively, contributing to the development and application of Islamic jurisprudence.
+- requiring specific conditions to be met by the Muijtahid, or the individual exerting effort to understand legal rulings.
+  
+The mujtahid must before ijithad:
+*** 1. Be:
+:PROPERTIES:
+:ID:       37ef8303-27ae-4533-b09b-b39b201a0d58
+:END:
+   - Muslim,
+   - sane (akl),
+   - mature (bāligh).
+*** 2. Know all:
+:PROPERTIES:
+:ID:       31c80afc-9d9b-4384-85ac-7b144994d2a4
+:END:
+   - the clear verses of the Qur’ān,
+   - authentic ḥadīths related to rulings (aḥkām),
+     - The mujtahid must possess a deep understanding of the legal evidences relevant to the issue at hand, including Quranic verse and relevant narrations
+   - the abrogating and abrogated texts (nāsikh / mansūkh),
+     - The Mujtahid should be familiar with the concept of abrogation in Islamic Law, as well as instance of concensus among scholars, to ensure that their rulings do not contradict established principles
+   - established consensus (ijmā‘).
+*** 3. Master:
+:PROPERTIES:
+:ID:       7c97d5cf-acd6-436e-ac88-84575f4f8579
+:END:
+   - the tools of legal reasoning:
+     - *qiyās* (analogy),
+     - *istiṣḥāb* (presumption of continuity),
+     - *istiṣlāḥ* / *maṣlaḥah* (public interest),
+     - ‘urf (custom).
+*** 4. Have:
+:PROPERTIES:
+:ID:       914fa9e3-7b00-4971-88c8-8ef97daf5bf8
+:END:
+   - strong grounding in Arabic language and its usages in terms of it's rulings,
+   - knowledge of the hierarchy and interaction of proofs.
+     - Knowledge of legal terminology and principle of Islamic jurisprudence is necessary for the Mujtahid to interpret text accurately. This includes understanding terms like 'Am (general), Khas (specific), Mutlaq (absolute), Muqayyid (restricted), Mujmal (ambiguous), Mubayyin (clear), among others
+   - It is essential for the Mujtahid to be knowledgeable about the authenticity and weaknesses of hadith, including understanding the chains of narrations and assessing the reliability of narrators.   
+   
+*** 5. Possess:
+:PROPERTIES:
+:ID:       9c4ec0c3-0675-4a00-9cb6-1495f84cfba5
+:END:
+   - skill in reconciling evidences when they appear to conflict.
+     - The Mujtahid must possess the capability to derive legal rulings form the available evidence, applying sound reasoning and methodology in their analysis.
+*** 6. Finally Be:
+:PROPERTIES:
+:ID:       7f99a77c-cb2c-4780-94d1-d8c065b7b46b
+:END:
+   - upright in character,
+     - doing voluntary action
+       - stay away from the prohibited
+   - known for integrity and trustworthiness.
+
+** One correct view or many? Declaring mujtahid correct
+:PROPERTIES:
+:ID:       d3901ff8-c89e-4aaa-9343-aa4cc79495fc
+:END:
+in fiqh there will always be clean or unclear matters:
+*** In *clear, definitive* matters:
+:PROPERTIES:
+:ID:       939a8b07-35de-4f55-a008-4e6a3b4c6bfb
+:END:
+  - Truth is *one*; there are not multiple “truths”.
+*** In *speculative* (ẓannī) matters:
+:PROPERTIES:
+:ID:       2e19c95d-4f1a-47ba-a19b-15f8e0979805
+:END:
+  - There is still only *one* correct ruling with Allah.
+  - However:
+    - the mujtahid who strives and is correct has *two rewards*,
+    - the one who strives and errs has *one reward* and is not sinful.
+      - only if he used the correct tools and it's correct applications
+        - such as those who applied it with greek philosophy 
+*Evidence*:
+- The Prophet ﷺ said:
+  - “When the judge exerts effort and is correct, he has two rewards;
+    and when he exerts effort and is mistaken, he has one reward.”
+
+*Practice of the Companions*:
+- They admitted error,
+- debated evidences,
+- and this implies there is one correct view, even though the mistaken mujtahid is rewarded.
+
+*Consensus*:
+- There is ijmā‘ that:
+  - a sincere mistake in ijtihād is *rewarded* and not a sin.
+
+*What is necessary for the Mujtahid*: 
 If a ruling remains unclear to him, it is permissible for him to refrain from issuing a judgement and instead resort to blind following due to the necessity of the situation.
 
-* Blind Following (Taqlid)
+* DONE Blind Following (Taqlid)
 :PROPERTIES:
 :ID:       59787e0b-cca2-480b-8944-9858f2aed358
 :END:
-Linguistically: refers to encircling or encompassing something like a rope around the neck.
-Technically: it means to follow the statements of someone whose words are not considered evidence.
-
+- the follower is called mukalid
+** Definition of Taqlīd
+- *Linguistically*:
+  - “Placing a collar around the neck.”
+  - refers to encircling or encompassing something like a rope around the neck.
+- *Technically*:
+  - Accepting another person’s opinion *without* knowing its supporting evidence.
+  - it means to follow the statements of someone whose words are not considered evidence.
+    
 It's important to note that when we say "Whose statements are not evidence", we are excluding following the Prophet (ﷺ), following the concensus of scholars, and the following the statement of the Companions. Following these sources is not considered taqlid because they are considered evidence in themselves. 
 
 However the term taqlid is sometime used figuratively and more broadly to include following these source for the sake of clarity and inclusiveness
 
-** Situations of Taqlid
+** Who may do Taqlīd?
 :PROPERTIES:
-:ID:       c38175a8-5e1b-4308-89a0-a24ffe860613
+:ID:       d03ee5b3-11b8-4384-a1c1-140c8be7524c
 :END:
-Taqlid can occur in two main situations:
+*** 1. *Layperson (al-ʿāmī)*
+:PROPERTIES:
+:ID:       5de843f5-5082-4645-9b6d-8a8afe96a306
+:END:
+   - *Must* ask scholars and follow qualified opinions.
+   - Cannot perform independent ijtihād.
 
-For the Common Person: When an individual lack the ability to determine legal rulings independently, they are obligated to engage in blind following. This obligation arises from the Quranic injunction:
-"Ask the people of the Reminder if you do not know" 16:43
-In this case, the individual should follow the most knowledgeable and pious scholar available to them. If multiple scholars are of equal standing, the individual may choose any of them.
+*** 2. *Partial student of knowledge*
+:PROPERTIES:
+:ID:       ec5b8d26-9636-4748-8d03-a15b51c62ea5
+:END:
+   - May do taqlīd when unable to research fully.
+   - Should continue learning and gradually rely less on pure taqlīd.
+     - they should follow the evidence that they believe is correct depeding on how much they learn and understand
+       - it is not a matter of the dunya but for the akhirah, to please Allah, to follow the truth. 
+       - it's not binding on all matters
+         - e.g following imaan abu hanifa in all matters
+       - The one who leave a statement for another scholar, has not left the madhab for his own view, but have left the madhab for the scholars view.
+         - there will be a view that is rewarded with 1 and there is another view that will be rewarded for 2
+           - he has sought the 2
+             - after he has understood the matter
 
-From the Mujtahid: Even a qualified scholars may sometimes encounter a situation requiring an immediate responce, without the opportunity to research the matter thoroughly. In such instances, the scholar may engage in blind following temporarily. some scholars have suggested that blind following should not extend to matters of belief, as certainty is required in matters of faith.
+*** 3. *Mujtahid*
+:PROPERTIES:
+:ID:       c662795a-2a14-4689-b5b5-b4cd8eed504f
+:END:
+   - May *not* imitate others if he has reached a probable conclusion
+     based on his own ijtihād.
+   - Exception:
+     - if time is too short,
+     - or evidence is unclear,
+     - he may temporarily follow another’s view while investigating.
 
-However, the more widely accepted view is that this is not a condition, as the Quranic directive to seek guidance from knowledgeable individuals applies universally. The verse "Ask the people of the Reminder if you do not know" 16:43 is general and encompasses all aspects of religious knowledge, including matters of belief. If a person is unable to arrive at the truth through their own efforts, they are obligated to resort to blind following, as Allah commands believer
-"Fear Allah as much as you are able" 64:16
+*** Rulings of Taqlid
+:PROPERTIES:
+:ID:       d0c9c683-c315-4703-be0f-47568660f3a8
+:END:
+The /rulings/ on Taqlīd – three types
+**** 1. *Forbidden Taqlīd*
+:PROPERTIES:
+:ID:       6feb660d-45c3-4366-9e3a-bfb42bdb50f2
+:END:
+   - when a *clear, authentic text* contradicts someones opinion.
+     - This is agreed upon by the Salaf and the scholars.
+   - Example:
+     - When a Sunnah is textually proven,
+       it must override inherited custom or blind following.
+       - given that he had understood why
+         - Mohamed al-shaybani - he changed a third of his view after imaan abu hanifa
+         - ibn rushd - show why the reason of every single of khilaf
+**** 2. *Blameworthy Taqlīd*
+:PROPERTIES:
+:ID:       823315c9-81fe-46b9-a23e-9bf34af87e7d
+:END:
+   - someone while *having the ability* to research the evidence. e.g student of knowledge or mujtahid
+   - One is commanded to:
+     - “Fear Allah as much as you are able.”
+   - So a capable person must do what is within his capacity
+     to seek the proof.
 
-** Types of Taqlid
+**** 3. *Permissible/obligation Taqlīd*
+:PROPERTIES:
+:ID:       b5b89ae7-5830-4a20-a5c5-facf2a84a48d
+:END:
+   - For the incapable (layperson),
+     - not able to get evidence
+   - or the student with genuine limits in time, tools or training.
+   - Principle:
+     - “No soul is burdened beyond its capacity.”
+       
+** Axis of Taliq
+:PROPERTIES:
+:ID:       e4dd7963-b64b-456c-94e2-dbb46953b667
+:END:
+bind following can happening in:
+*** By Subject 
+:PROPERTIES:
+:ID:       ad07bdfb-8fc4-4d3f-b587-52cbe6ff473f
+:END:
+**** 1. *Taqlīd in core beliefs (uṣūl / ʿaqīdah)*
+:PROPERTIES:
+:ID:       c56aab42-4a96-4353-a951-493dbdb696c0
+:END:
+   - Strongly disliked or forbidden.
+   - Every Muslim must establish basic beliefs
+     (e.g. the Oneness of Allah, Prophethood of Muḥammad ﷺ)
+     with *personal conviction* and understanding.
+   - some scholars have suggested that blind following should not extend to matters of belief, as certainty is required in matters of faith.
+     - However, the more widely accepted view is that this is not a condition,
+       - as the Quranic directive to seek guidance from knowledgeable individuals applies universally.
+       - The verse "Ask the people of the Reminder if you do not know" 16:43
+       - is general and encompasses all aspects of religious knowledge, including matters of belief.
+         - If a person is unable to arrive at the truth through their own efforts, they are obligated to resort to blind following, as Allah commands believer
+           - "Fear Allah as much as you are able" 64:16
+             - in today matter, people should be educated in the evidence to protect themselves from doubt
+**** 2. *Taqlīd in branches (furūʿ / practical fiqh)*
+:PROPERTIES:
+:ID:       29dd0cd4-949f-468b-b079-cce43fab2554
+:END:
+- *Permissible* for the non-expert (al-ʿāmī).
+  - For the Common Person:
+    - When an individual lack the ability to determine legal rulings independently, they are obligated to engage in blind following.
+    - In this case, the individual should follow the most knowledgeable and pious scholar available to them. If multiple scholars are of equal standing, the individual may choose any of them.
+  - From the Mujtahid:
+    - Even a qualified scholars may sometimes encounter a situation requiring an immediate responce, without the opportunity to research the matter thoroughly. In such instances, the scholar may engage in blind following temporarily.
+  
+- Supported by:
+  - Qur’ān:
+    - =فَاسْأَلُوا أَهْلَ الذِّكْرِ إِن كُنتُمْ لَا تَعْلَمُونَ=
+    - =“So ask the people of knowledge if you do not know.”= (al-Naḥl 16:43)
+  - Sunnah:
+    - The Companions answered people’s questions about rulings
+      without always presenting the proofs to them.
+
+*** By General and Specific Matters
 :PROPERTIES:
 :ID:       c53938ca-ad18-46b0-94fe-4b4a4bf9f7b9
 :END:
 Blind following can be categorised into two types: general and specific
-1. General Blind Following: in this type, an individual adheres to a particular school of thought and follows its rulings and decisions in all matters of religions. Scholars have differed in their opinions regarding the obligation or permissibility of general blind follwing. Some argue that it is obligatory due to the lack of ability for independent reasoning (Ijtihad) among latter generations Other contend that it is forbidden as it involves following someone other than the Prophet (ﷺ) without restriction.
+**** 1. General Blind Following:
+:PROPERTIES:
+:ID:       832124bc-7c2e-49da-b6bb-ae3f13e2bcc5
+:END:
+ - in this type, an individual adheres to a particular school of thought and follows its rulings and decisions in all matters of religions.
+     - Scholars have differed in their opinions regarding the obligation or permissibility of general blind follwing.
+       - Some argue that it is obligatory due to the lack of ability for independent reasoning (Ijtihad) among latter generations Other contend that it is forbidden as it involves following someone other than the Prophet (ﷺ) without restriction.
 
-   Shaykh al-Islam ibn Taymiyyah said: "The statement that it is obligatory to obey someone other than the Prophet (ﷺ) in all commands and prohibitions, is against the consensus, and its permissibility is what it is." And he said: "Whoever adheres to a particular school of though then he opposes it not out of blind following another scholar that has given him a fatwa, not using a evidence that necessitates that or without a legal excuse which he requires a solution for what he has done then he is a follower of his desires, a doer of something forbidden without a legal excuses this is evil; as someonething becomes clear to him which gives preference to one saying over another either by detailed evidence if he know them and understand them, or he see one of two men more knowledgeable than the other and more pious in what he say so he can return from one saying to another the like of this is permissible rather obligatory and Iman Ahmad has written about this"
+        Shaykh al-Islam ibn Taymiyyah said:
+        "The statement that it is obligatory to obey someone other than the Prophet (ﷺ) in all commands and prohibitions, is against the consensus, and its permissibility is what it is." And he said: "Whoever adheres to a particular school of though then he opposes it not out of blind following another scholar that has given him a fatwa, not using a evidence that necessitates that or without a legal excuse which he requires a solution for what he has done then he is a follower of his desires, a doer of something forbidden without a legal excuses this is evil; as some one thing becomes clear to him which gives preference to one saying over another either by detailed evidence if he know them and understand them, or he see one of two men more knowledgeable than the other and more pious in what he say so he can return from one saying to another the like of this is permissible rather obligatory and Iman Ahmad has written about this"
    
-2. Specific Blind Following. In this type an individual only follows the ruling of a particular scholar or school of though in a specific case. This is permissible if the person is unable to arrive at the truth thought their own Ijtihad, either due to genuine inability or because doing so would entail significant hardship.
+**** 2. Specific Blind Following.
+:PROPERTIES:
+:ID:       caccc7ee-4bf5-4c2c-bdd6-625716286167
+:END:
+   - In this type an individual only follows the ruling of a particular scholar or school of though in a specific case.
+     -  This is permissible if the person is unable to arrive at the truth thought their own Ijtihad, either due to genuine inability or because doing so would entail significant hardship.
 
 ** Blind following of Fatwas
 :PROPERTIES:
@@ -2813,7 +4943,10 @@ Allah says:
 "Ask the people of the Remembrance if you do not know" 16:43
 
 And the people of the Reminder are the scholars, and the blind follower are not from the people of knowledge who are followed, rather they are followers of others.
-Abu 'Umar bin Abdul-barr and other said: "The people are unanimously agreed that the blind follower is not of the scholars, and that knowledge is to know the truth with its evidence." ibn al Qayim said "This is as Abu Umar said: the people do not disagree that knowledge is obtained from the evidence, as for without the evidence then this is blind following" then ibn al Qayim mentioned the permissibility of the fatwa through blind following according to three sayings:
+
+Abu 'Umar bin Abdul-barr and other said: "The people are unanimously agreed that the blind follower is not of the scholars, and that knowledge is to know the truth with its evidence."
+
+ibn al Qayim said "This is as Abu Umar said: the people do not disagree that knowledge is obtained from the evidence, as for without the evidence then this is blind following" then ibn al Qayim mentioned the permissibility of the fatwa through blind following according to three sayings:
 
 1. it is impermissible to issue fatwas through blind following, as it lack true knowledge, a sentiment shared by most companions and the majority of the Shafi'yah
 2. it is permissible for an individual to follow a fatwa thorough blind following for himself, but it is impermissible to blindly follow others'fatwas intended for themselves
@@ -2827,3 +4960,4 @@ Indeed, He is the Most Generous, and blessing sand peace be upon our Prophet Muh
 
 
 
+        
