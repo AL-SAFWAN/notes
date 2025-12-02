@@ -9,7 +9,7 @@
 :ID:       fb34778c-3042-401c-bf93-63bdc7cd2233
 :END:
 ** [[id:a1f78754-b39b-4352-8be8-c64ba84b48d9][Bismillah Ar-Rahman Ar-Rahim]]
-** Know, [[id:60ded593-dc31-4d75-8459-48a69bc7d9d5][may Allah have mercy on you]], that we are obligated to learn ~four matters~
+** DONE Know, [[id:60ded593-dc31-4d75-8459-48a69bc7d9d5][may Allah have mercy on you]], that we are obligated to learn ~four matters~
 ~:PROPERTIES:
 :ID:       68f75a58-8f2f-4f70-9405-569fde62d59e
 :END:
@@ -58,7 +58,7 @@ So know, [O Muḥammad], that there is no deity except Allāh and ask forgivenes
 https://quran.com/47/19    
 #+end_quote
         
-** Know, may Allah have mercy on you, It is obligatory upon every Muslim male and female to learn and act upon the following ~three things~ 
+** DONE Know, may Allah have mercy on you, It is obligatory upon every Muslim male and female to learn and act upon the following ~three things~ 
 :PROPERTIES:
 :ID:       6228d6d5-8a25-43ef-b6fd-ae9740e6c490
 :END:
@@ -66,7 +66,7 @@ https://quran.com/47/19
 
 *** 2. [[id:e1954837-3126-4204-8ed9-d58b22c6109d][Allah is not pleased with anyone being mixed into worship with him - neither the angles brought close nor a prophet that was sent]]
 
-*** 3. [[id:2ea5952e-b0cf-4bf1-8187-a671e5f35b90][Whoever obeys the Messenger (i.e Muhammad phub) and singles Allah out (in Worship), it is not permissible for him to take allies those who oppose Allah and His messenger, not even if they are close relatives]]
+*** DONE 3. [[id:2ea5952e-b0cf-4bf1-8187-a671e5f35b90][Whoever obeys the Messenger (i.e Muhammad phub) and singles Allah out (in Worship), it is not permissible for him to take allies those who oppose Allah and His messenger, not even if they are close relatives]]
 
 ** Know, may Allah grant you the ability to obey Him, that Al-Hanifiyaah, the religion of Ibrahim, is that you worship Allah alone, making the religion sincerely (i.e solely) for him. This is what Allah ordered all of mankind to do, and this is the purpose for which he created them,
 :PROPERTIES:
@@ -99,13 +99,13 @@ So if it is said to you:
     1. Religion 
     2. Lord 
     3. Prophet Muhammed peace and blessing be upon him
- 
+ [[id:9892a603-3085-440c-a111-32793e8c6c8c][thalath lesson 3]]
 * The First Fundamental Principle (Allah) :chapter:
 :PROPERTIES:
 :ID:       d6d88560-1172-4c06-8b88-cbdf2ed6f3d6
 :END:
 
-So, if it is said: Who is your Load? 
+** So, if it is said: Who is your Load? 
 
 Then say: My Load is Allah, the One who nurtured me and nurtured all of creation through his favors. And He is the One whom I worship, there being to me no (false) deity worshipped that is equal to him. 
 
@@ -124,8 +124,8 @@ The proof for this is in Allah’s statement:
 
 The word ‘Aalam refers to everything apart from Allah, and I am part that creation.
 
-so If it is said to you: How did you come to know of your Lord? 
 
+** so If it is said to you: *How did you come to know of your Lord?* 
 Then say: By ways of his Signs and His creation. And among his signs are the night and the day, and the sun and the moon. And among His creations are the seven levels of heaven and the seven levels of earth, as well as whoever and whatever lies in them and between them. 
 
 The proof for this is Allah’s statement: 
@@ -154,7 +154,7 @@ And His statement
 > https://quran.com/7/54
 > 
 
-The word Rabb (Lord) means One who worshipped. 
+** The word Rabb (Lord) means One who worshipped. 
 
 The proof for this is in Allah’s saying 
 
@@ -181,9 +181,9 @@ Ibn Katheer, may Allah have mercy on him said
 > “The creator of these things is the One who truly deserve to be worshiped”
 > 
 
-The type of worship that Allah commanded, such as Islam, Eman and Ishan, which includes 
+** The type of worship that Allah commanded, such as Islam, Eman and Ishan, which includes 
 
-1. Supplication - Du’a 
+*** 1. Supplication - Du’a 
     
     It is stated in a hadeeth 
     
@@ -202,7 +202,7 @@ The type of worship that Allah commanded, such as Islam, Eman and Ishan, which i
     > 
     > https://quran.com/40/60
     > 
-2. Fear - Khwaf
+*** 2. Fear - Khwaf
     
     the proof for this is Allah’s Saying 
     
@@ -216,7 +216,7 @@ The type of worship that Allah commanded, such as Islam, Eman and Ishan, which i
     > 
     > https://quran.com/3/175
     > 
-3. Hope - Rajaa’
+*** 3. Hope - Rajaa’
     
     the proof for this is Allah’s Saying 
     
@@ -230,7 +230,7 @@ The type of worship that Allah commanded, such as Islam, Eman and Ishan, which i
     > 
     > https://quran.com/18/110
     > 
-4. Reliance - Tawakkul 
+*** 4. Reliance - Tawakkul 
     
     the proof for this is Allah’s Saying 
     
@@ -257,7 +257,7 @@ The type of worship that Allah commanded, such as Islam, Eman and Ishan, which i
     > 
     > https://quran.com/65/3
     > 
-5. Longing - Raghbah 
+*** 5. Longing - Raghbah 
     
     the proof for this is Allah’s Saying 
     
@@ -271,7 +271,7 @@ The type of worship that Allah commanded, such as Islam, Eman and Ishan, which i
     > 
     > https://quran.com/21/90
     > 
-6. Dreading - Rahbah 
+*** 6. Dreading - Rahbah 
     
     the proof for this is Allah’s Saying 
     
@@ -285,7 +285,7 @@ The type of worship that Allah commanded, such as Islam, Eman and Ishan, which i
     > 
     > https://quran.com/21/90
     > 
-7. Submissiveness - Khushoo’ 
+*** 7. Submissiveness - Khushoo’ 
     
     the proof for this is Allah’s Saying 
     
@@ -299,7 +299,7 @@ The type of worship that Allah commanded, such as Islam, Eman and Ishan, which i
     > 
     > https://quran.com/21/90
     > 
-8. Awe - Khashayah
+*** 8. Awe - Khashayah
     
     the proof for this is Allah’s Saying 
     
@@ -313,7 +313,7 @@ The type of worship that Allah commanded, such as Islam, Eman and Ishan, which i
     > 
     > https://quran.com/2/150
     > 
-9. Repentance - Inaabah 
+*** 9. Repentance - Inaabah 
     
     the proof for this is Allah’s Saying 
     
@@ -327,7 +327,7 @@ The type of worship that Allah commanded, such as Islam, Eman and Ishan, which i
     > 
     > https://quran.com/39/54
     > 
-10. Seeking Assistance - Istil’aanah 
+*** 10. Seeking Assistance - Istil’aanah 
     
     It is stated in a hadeeth 
     
@@ -346,7 +346,7 @@ The type of worship that Allah commanded, such as Islam, Eman and Ishan, which i
     > 
     > https://quran.com/1/5
     > 
-11. Seeking Refuge - istil’aadah 
+*** 11. Seeking Refuge - istil’aadah 
     
     the proof for this is Allah’s Saying 
     
@@ -373,7 +373,7 @@ The type of worship that Allah commanded, such as Islam, Eman and Ishan, which i
     > 
     > https://quran.com/114/1
     > 
-12. Asking for Help - istighathah 
+*** 12. Asking for Help - istighathah 
     
     the proof for this is Allah’s Saying 
     
@@ -387,7 +387,7 @@ The type of worship that Allah commanded, such as Islam, Eman and Ishan, which i
     > 
     > https://quran.com/8/9
     > 
-13. Offering Sacrifices - Dhabah
+*** 13. Offering Sacrifices - Dhabah
     
     It is stated in a hadeeth 
     
@@ -415,7 +415,7 @@ The type of worship that Allah commanded, such as Islam, Eman and Ishan, which i
     > 
     > https://quran.com/6/163
     > 
-14. Making Oaths - Nadhar 
+*** 14. Making Oaths - Nadhar 
     
     the proof for this is Allah’s Saying 
     
@@ -430,7 +430,7 @@ The type of worship that Allah commanded, such as Islam, Eman and Ishan, which i
     > https://quran.com/76/7
     > 
 
-And all the other types of worship that Allah commanded - all of these belong to Allah, alone. 
+** And all the other types of worship that Allah commanded - all of these belong to Allah, alone. 
 
 The proof of this is Allah’s saying: 
 
@@ -445,7 +445,7 @@ The proof of this is Allah’s saying:
 > https://quran.com/72/18
 > 
 
-So whoever direct any part of these (act of worship) to other than Allah, then he is a polytheist, disbeliever. 
+** So whoever direct any part of these (act of worship) to other than Allah, then he is a polytheist, disbeliever. 
 
 The proof of this is Allah’s saying:
 
