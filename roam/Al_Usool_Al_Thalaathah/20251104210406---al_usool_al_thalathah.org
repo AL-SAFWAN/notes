@@ -4,7 +4,7 @@
 #+title: Al-Usool Al-Thalathah
 #+filetags: :book:
 
-* Obligatory Knowledge :chapter:
+* Obligatory Knowledge 
 :PROPERTIES:
 :ID:       fb34778c-3042-401c-bf93-63bdc7cd2233
 :END:
@@ -80,7 +80,7 @@ Allah says:
   https://quran.com/51/56
  #+end_quote
 - The meaning of “to worship Me”, is “to single Me out (in worship)”
-
+  
 *** The greatest thing that Allah commanded is [[id:1fc686ac-3a3f-4ba4-b006-b3f85944c586][Tawheed]], which means: singling Allah out in worship. And the Greatest thing that Allah warned against is Shirk, which is supplication to others Along with Allah. 
 :PROPERTIES:
 :ID:       e6bfad67-bc92-43a3-9737-b7507c660ad7
@@ -100,7 +100,7 @@ So if it is said to you:
     2. Lord 
     3. Prophet Muhammed peace and blessing be upon him
  [[id:9892a603-3085-440c-a111-32793e8c6c8c][thalath lesson 3]]
-* The First Fundamental Principle (Allah) :chapter:
+* The First Fundamental Principle (Allah) 
 :PROPERTIES:
 :ID:       d6d88560-1172-4c06-8b88-cbdf2ed6f3d6
 :END:
@@ -181,6 +181,7 @@ Ibn Katheer, may Allah have mercy on him said
 > “The creator of these things is the One who truly deserve to be worshiped”
 > 
 
+[[id:00d59959-8db0-48f2-8426-33d95c14be39][thalath lesson 4]]
 ** The type of worship that Allah commanded, such as Islam, Eman and Ishan, which includes 
 
 *** 1. Supplication - Du’a 
@@ -434,12 +435,12 @@ Ibn Katheer, may Allah have mercy on him said
 
 The proof of this is Allah’s saying: 
 
-> The Jinn (72:18)
+> [[id:d3a58b0a-7ac7-4d5f-a4dc-1c4b801756e8][The Jinn (72:18)]]
 > 
 > 
 > وَأَنَّ ٱلْمَسَـٰجِدَ لِلَّهِ فَلَا تَدْعُوا۟ مَعَ ٱللَّهِ أَحَدًۭا ١٨
 > 
-> And [He revealed] that the masjids are for Allāh, so do not invoke with Allāh anyone.
+> And [He revealed] that the [[id:b5dbcceb-32e6-4c2b-bd0f-730176a6e136][masjids]] are for Allāh, so do not invoke with Allāh anyone.
 > — Saheeh International
 > 
 > https://quran.com/72/18
@@ -460,233 +461,233 @@ The proof of this is Allah’s saying:
 > https://quran.com/23/117
 > 
 
-* The Second Fundamental Principle (Religion) :chapter:
+* The Second Fundamental Principle (Religion) 
 :PROPERTIES:
 :ID:       557a966f-2c8b-4aab-8aec-66e36cadb872
 :END:
+[[id:595e91a0-14f7-43a1-a646-4b0c5c8e1523][thalath lesson 5]]
+** Knowing the Religion of Islam, based on evidences.
 
-Knowing the Religion of Islam, based on evidences. This (i.e Islam) means submitting to Allah by way of Tawheed, surrendering one’s (full/complete) obedience to him, and absolving oneself from Shirk and it’s people. 
+This (i.e Islam) means submitting to Allah by way of Tawheed, surrendering one’s (full/complete) obedience to him, and absolving oneself from Shirk and it’s people.
 
 This can be divided into three levels: 
 
-1. Islam
-    
-    The pillars of Islam are 5:
-    
-    1. The testimony that there is no deity that has the right to be worshipped except Allah, and that Muhammad is the Messenger of Allah 
+*** 1. Islam
+The pillars of Islam are 5:
+**** 1. Shahada
+The testimony that there is no deity that has the right to be worshipped except Allah, and that Muhammad is the Messenger of Allah
         
-        The proof of this is Allah’s statement 
+       The proof of this is Allah’s statement 
         
-        > Family of Imran (3:18)
-        > 
-        > 
-        > شَهِدَ ٱللَّهُ أَنَّهُۥ لَآ إِلَـٰهَ إِلَّا هُوَ وَٱلْمَلَـٰٓئِكَةُ وَأُو۟لُوا۟ ٱلْعِلْمِ قَآئِمًۢا بِٱلْقِسْطِ ۚ لَآ إِلَـٰهَ إِلَّا هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ ١٨
-        > 
-        > Allāh witnesses that there is no deity except Him, and [so do] the angels and those of knowledge - [that He is] maintaining [creation] in justice. There is no deity except Him, the Exalted in Might, the Wise.
-        > — Saheeh International
-        > 
-        > https://quran.com/3/18
-        > 
+       > Family of Imran (3:18)
+       > 
+       > 
+       > شَهِدَ ٱللَّهُ أَنَّهُۥ لَآ إِلَـٰهَ إِلَّا هُوَ وَٱلْمَلَـٰٓئِكَةُ وَأُو۟لُوا۟ ٱلْعِلْمِ قَآئِمًۢا بِٱلْقِسْطِ ۚ لَآ إِلَـٰهَ إِلَّا هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ ١٨
+       > 
+       > Allāh witnesses that there is no deity except Him, and [so do] the angels and those of knowledge - [that He is] maintaining [creation] in justice. There is no deity except Him, the Exalted in Might, the Wise.
+       > — Saheeh International
+       > 
+       > https://quran.com/3/18
+       > 
         
-        This means that: there is no one that has the right to be worshipped except Allah, alone. All ilaaha negates everything that is worshiped besides Allah, while IllaaAllah affirms the worship of only Allah, free from any partners being mixed in with his worship, just as there is no partners mixed in with his dominion.  
+       This means that: there is no one that has the right to be worshipped except Allah, alone. All ilaaha negates everything that is worshiped besides Allah, while IllaaAllah affirms the worship of only Allah, free from any partners being mixed in with his worship, just as there is no partners mixed in with his dominion.  
         
-        > The Ornaments of Gold
-        > 
-        > 
-        > وَإِذْ قَالَ إِبْرَٰهِيمُ لِأَبِيهِ وَقَوْمِهِۦٓ إِنَّنِى بَرَآءٌۭ مِّمَّا تَعْبُدُونَ ٢٦
-        > 
-        > And [mention, O Muḥammad], when Abraham said to his father and his people, "Indeed, I am disassociated from that which you worship
-        > — Saheeh International
-        > 
-        > إِلَّا ٱلَّذِى فَطَرَنِى فَإِنَّهُۥ سَيَهْدِينِ ٢٧
-        > 
-        > Except for He who created me; and indeed, He will guide me."
-        > — Saheeh International
-        > 
-        > وَجَعَلَهَا كَلِمَةًۢ بَاقِيَةًۭ فِى عَقِبِهِۦ لَعَلَّهُمْ يَرْجِعُونَ ٢٨
-        > 
-        > And he made it a word remaining among his descendants that they might return [to it].
-        > — Saheeh International
-        > 
-        > https://quran.com/43/28
-        > 
+       > The Ornaments of Gold
+       > 
+       > 
+       > وَإِذْ قَالَ إِبْرَٰهِيمُ لِأَبِيهِ وَقَوْمِهِۦٓ إِنَّنِى بَرَآءٌۭ مِّمَّا تَعْبُدُونَ ٢٦
+       > 
+       > And [mention, O Muḥammad], when Abraham said to his father and his people, "Indeed, I am disassociated from that which you worship
+       > — Saheeh International
+       > 
+       > إِلَّا ٱلَّذِى فَطَرَنِى فَإِنَّهُۥ سَيَهْدِينِ ٢٧
+       > 
+       > Except for He who created me; and indeed, He will guide me."
+       > — Saheeh International
+       > 
+       > وَجَعَلَهَا كَلِمَةًۢ بَاقِيَةًۭ فِى عَقِبِهِۦ لَعَلَّهُمْ يَرْجِعُونَ ٢٨
+       > 
+       > And he made it a word remaining among his descendants that they might return [to it].
+       > — Saheeh International
+       > 
+       > https://quran.com/43/28
+       > 
         
-        And Allah saying
+       And Allah saying
         
-        > Family of Imran (3:64)
-        > 
-        > 
-        > قُلْ يَـٰٓأَهْلَ ٱلْكِتَـٰبِ تَعَالَوْا۟ إِلَىٰ كَلِمَةٍۢ سَوَآءٍۭ بَيْنَنَا وَبَيْنَكُمْ أَلَّا نَعْبُدَ إِلَّا ٱللَّهَ وَلَا نُشْرِكَ بِهِۦ شَيْـًۭٔا وَلَا يَتَّخِذَ بَعْضُنَا بَعْضًا أَرْبَابًۭا مِّن دُونِ ٱللَّهِ ۚ فَإِن تَوَلَّوْا۟ فَقُولُوا۟ ٱشْهَدُوا۟ بِأَنَّا مُسْلِمُونَ ٦٤
-        > 
-        > Say, "O People of the Scripture, come to a word that is equitable between us and you - that we will not worship except Allāh and not associate anything with Him and not take one another as lords instead of Allāh." But if they turn away, then say, "Bear witness that we are Muslims [submitting to Him]."
-        > — Saheeh International
-        > 
-        > https://quran.com/3/64
-        > 
+       > Family of Imran (3:64)
+       > 
+       > 
+       > قُلْ يَـٰٓأَهْلَ ٱلْكِتَـٰبِ تَعَالَوْا۟ إِلَىٰ كَلِمَةٍۢ سَوَآءٍۭ بَيْنَنَا وَبَيْنَكُمْ أَلَّا نَعْبُدَ إِلَّا ٱللَّهَ وَلَا نُشْرِكَ بِهِۦ شَيْـًۭٔا وَلَا يَتَّخِذَ بَعْضُنَا بَعْضًا أَرْبَابًۭا مِّن دُونِ ٱللَّهِ ۚ فَإِن تَوَلَّوْا۟ فَقُولُوا۟ ٱشْهَدُوا۟ بِأَنَّا مُسْلِمُونَ ٦٤
+       > 
+       > Say, "O People of the Scripture, come to a word that is equitable between us and you - that we will not worship except Allāh and not associate anything with Him and not take one another as lords instead of Allāh." But if they turn away, then say, "Bear witness that we are Muslims [submitting to Him]."
+       > — Saheeh International
+       > 
+       > https://quran.com/3/64
+       > 
         
-        The proof for testifying that Muhammad is the messenger of Allah is his saying.
+       The proof for testifying that Muhammad is the messenger of Allah is his saying.
         
-        > The Repentance (9:128)
-        > 
-        > 
-        > لَقَدْ جَآءَكُمْ رَسُولٌۭ مِّنْ أَنفُسِكُمْ عَزِيزٌ عَلَيْهِ مَا عَنِتُّمْ حَرِيصٌ عَلَيْكُم بِٱلْمُؤْمِنِينَ رَءُوفٌۭ رَّحِيمٌۭ ١٢٨
-        > 
-        > There has certainly come to you a Messenger from among yourselves. Grievous to him is what you suffer; [he is] concerned over you [i.e., your guidance] and to the believers is kind and merciful.
-        > — Saheeh International
-        > 
-        > https://quran.com/9/128
-        > 
+       > The Repentance (9:128)
+       > 
+       > 
+       > لَقَدْ جَآءَكُمْ رَسُولٌۭ مِّنْ أَنفُسِكُمْ عَزِيزٌ عَلَيْهِ مَا عَنِتُّمْ حَرِيصٌ عَلَيْكُم بِٱلْمُؤْمِنِينَ رَءُوفٌۭ رَّحِيمٌۭ ١٢٨
+       > 
+       > There has certainly come to you a Messenger from among yourselves. Grievous to him is what you suffer; [he is] concerned over you [i.e., your guidance] and to the believers is kind and merciful.
+       > — Saheeh International
+       > 
+       > https://quran.com/9/128
+       > 
         
-        The meaning that Muhammed peace and blessing be upon him is the massager of Allah is: Obeying him in what he has commanded, believing him in what he has informed us of, avoiding what he forbade and warned against, and not worshipping Allah except by what he peace be blessing be upon him has prescribed us. 
+       The meaning that Muhammed peace and blessing be upon him is the massager of Allah is: Obeying him in what he has commanded, believing him in what he has informed us of, avoiding what he forbade and warned against, and not worshipping Allah except by what he peace be blessing be upon him has prescribed us. 
+**** 2. Salah
+Establishing the Prayer
+       The from is Allah’s saying 
         
-    2. Establishing the Prayer 
+       > The Clear Proof (98:5)
+       > 
+       > 
+       > وَمَآ أُمِرُوٓا۟ إِلَّا لِيَعْبُدُوا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ حُنَفَآءَ وَيُقِيمُوا۟ ٱلصَّلَوٰةَ وَيُؤْتُوا۟ ٱلزَّكَوٰةَ ۚ وَذَٰلِكَ دِينُ ٱلْقَيِّمَةِ ٥
+       > 
+       > And they were not commanded except to worship Allāh, [being] sincere to Him in religion, inclining to truth, and to establish prayer and to give zakāh. And that is the correct religion.
+       > — Saheeh International
+       > 
+       > https://quran.com/98/5
+       > 
+**** 3. Zakat 
+        Giving the Zakat
+       The from is Allah’s saying 
         
-        The from is Allah’s saying 
+       > The Clear Proof (98:5)
+       > 
+       > 
+       > وَمَآ أُمِرُوٓا۟ إِلَّا لِيَعْبُدُوا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ حُنَفَآءَ وَيُقِيمُوا۟ ٱلصَّلَوٰةَ وَيُؤْتُوا۟ ٱلزَّكَوٰةَ ۚ وَذَٰلِكَ دِينُ ٱلْقَيِّمَةِ ٥
+       > 
+       > And they were not commanded except to worship Allāh, [being] sincere to Him in religion, inclining to truth, and to establish prayer and to give zakāh. And that is the correct religion.
+       > — Saheeh International
+       > 
+       > https://quran.com/98/5
+       > 
+**** 4. Fasting in Ramadan 
         
-        > The Clear Proof (98:5)
-        > 
-        > 
-        > وَمَآ أُمِرُوٓا۟ إِلَّا لِيَعْبُدُوا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ حُنَفَآءَ وَيُقِيمُوا۟ ٱلصَّلَوٰةَ وَيُؤْتُوا۟ ٱلزَّكَوٰةَ ۚ وَذَٰلِكَ دِينُ ٱلْقَيِّمَةِ ٥
-        > 
-        > And they were not commanded except to worship Allāh, [being] sincere to Him in religion, inclining to truth, and to establish prayer and to give zakāh. And that is the correct religion.
-        > — Saheeh International
-        > 
-        > https://quran.com/98/5
-        > 
-    3. Giving the Zakat 
+       The from is Allah’s saying 
         
-        The from is Allah’s saying 
+       > The Cow (2:183)
+       > 
+       > 
+       > يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُتِبَ عَلَيْكُمُ ٱلصِّيَامُ كَمَا كُتِبَ عَلَى ٱلَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ ١٨٣
+       > 
+       > O you who have believed, decreed upon you is fasting as it was decreed upon those before you that you may become righteous -
+       > — Saheeh International
+       > 
+       > https://quran.com/2/183
+       > 
+**** 5. Haj 
+        Performing Haj to the scared house of Allah
+       The from is Allah’s saying 
         
-        > The Clear Proof (98:5)
-        > 
-        > 
-        > وَمَآ أُمِرُوٓا۟ إِلَّا لِيَعْبُدُوا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ حُنَفَآءَ وَيُقِيمُوا۟ ٱلصَّلَوٰةَ وَيُؤْتُوا۟ ٱلزَّكَوٰةَ ۚ وَذَٰلِكَ دِينُ ٱلْقَيِّمَةِ ٥
-        > 
-        > And they were not commanded except to worship Allāh, [being] sincere to Him in religion, inclining to truth, and to establish prayer and to give zakāh. And that is the correct religion.
-        > — Saheeh International
-        > 
-        > https://quran.com/98/5
-        > 
-    4. Fasting in Ramadan 
-        
-        The from is Allah’s saying 
-        
-        > The Cow (2:183)
-        > 
-        > 
-        > يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُتِبَ عَلَيْكُمُ ٱلصِّيَامُ كَمَا كُتِبَ عَلَى ٱلَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ ١٨٣
-        > 
-        > O you who have believed, decreed upon you is fasting as it was decreed upon those before you that you may become righteous -
-        > — Saheeh International
-        > 
-        > https://quran.com/2/183
-        > 
-    5. Performing Haj to the scared house of Allah 
-        
-        The from is Allah’s saying 
-        
-        > Family of Imran (3:97)
-        > 
-        > 
-        > فِيهِ ءَايَـٰتٌۢ بَيِّنَـٰتٌۭ مَّقَامُ إِبْرَٰهِيمَ ۖ وَمَن دَخَلَهُۥ كَانَ ءَامِنًۭا ۗ وَلِلَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَاعَ إِلَيْهِ سَبِيلًۭا ۚ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ عَنِ ٱلْعَـٰلَمِينَ ٩٧
-        > 
-        > In it are clear signs [such as] the standing place of Abraham. And whoever enters it [i.e., the Ḥaram] shall be safe. And [due] to Allāh from the people is a pilgrimage to the House - for whoever is able to find thereto a way. But whoever disbelieves [i.e., refuses] - then indeed, Allāh is free from need of the worlds.
-        > — Saheeh International
-        > 
-        > https://quran.com/3/97
-        > 
-    
-2. Eman 
-    
+       > Family of Imran (3:97)
+       > 
+       > 
+       > فِيهِ ءَايَـٰتٌۢ بَيِّنَـٰتٌۭ مَّقَامُ إِبْرَٰهِيمَ ۖ وَمَن دَخَلَهُۥ كَانَ ءَامِنًۭا ۗ وَلِلَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَاعَ إِلَيْهِ سَبِيلًۭا ۚ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ عَنِ ٱلْعَـٰلَمِينَ ٩٧
+       > 
+       > In it are clear signs [such as] the standing place of Abraham. And whoever enters it [i.e., the Ḥaram] shall be safe. And [due] to Allāh from the people is a pilgrimage to the House - for whoever is able to find thereto a way. But whoever disbelieves [i.e., refuses] - then indeed, Allāh is free from need of the worlds.
+       > — Saheeh International
+       > 
+       > https://quran.com/3/97
+       >         
+*** 2. Eman 
+    [[id:6fe4d2f5-79f3-4c0e-a633-93fb791e837c][thalatha lesson 6]] 
     It consists of more than 70 branches. The heist of them is saying Laa ilaaaha IllaaAllah and the lowest of the is moving a harmful object from the road. Hayaa (modesty) is a branch of from Eman. 
     
     it’s pillars are 6: 
     
-    1.  That you believe in Allah 
+**** 1. That you believe in Allah 
         
-         The proof of this is in Allah saying: 
+       The proof of this is in Allah saying: 
         
-        > The Cow (2:177)
-        > 
-        > 
-        > ۞ لَّيْسَ ٱلْبِرَّ أَن تُوَلُّوا۟ وُجُوهَكُمْ قِبَلَ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَلَـٰكِنَّ ٱلْبِرَّ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَٱلْمَلَـٰٓئِكَةِ وَٱلْكِتَـٰبِ وَٱلنَّبِيِّـۧنَ وَءَاتَى ٱلْمَالَ عَلَىٰ حُبِّهِۦ ذَوِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينَ وَٱبْنَ ٱلسَّبِيلِ وَٱلسَّآئِلِينَ وَفِى ٱلرِّقَابِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَٱلْمُوفُونَ بِعَهْدِهِمْ إِذَا عَـٰهَدُوا۟ ۖ وَٱلصَّـٰبِرِينَ فِى ٱلْبَأْسَآءِ وَٱلضَّرَّآءِ وَحِينَ ٱلْبَأْسِ ۗ أُو۟لَـٰٓئِكَ ٱلَّذِينَ صَدَقُوا۟ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُتَّقُونَ ١٧٧
-        > 
-        > Righteousness is not that you turn your faces toward the east or the west, but [true] righteousness is [in] one who believes in Allāh, the Last Day, the angels, the Book, and the prophets and gives wealth, in spite of love for it, to relatives, orphans, the needy, the traveler, those who ask [for help], and for freeing slaves; [and who] establishes prayer and gives zakāh; [those who] fulfill their promise when they promise; and [those who] are patient in poverty and hardship and during battle. Those are the ones who have been true, and it is those who are the righteous.
-        > — Saheeh International
-        > 
-        > https://quran.com/2/177
-        > 
-    2. His Angles 
+      > The Cow (2:177)
+      > 
+      > 
+      > ۞ لَّيْسَ ٱلْبِرَّ أَن تُوَلُّوا۟ وُجُوهَكُمْ قِبَلَ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَلَـٰكِنَّ ٱلْبِرَّ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَٱلْمَلَـٰٓئِكَةِ وَٱلْكِتَـٰبِ وَٱلنَّبِيِّـۧنَ وَءَاتَى ٱلْمَالَ عَلَىٰ حُبِّهِۦ ذَوِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينَ وَٱبْنَ ٱلسَّبِيلِ وَٱلسَّآئِلِينَ وَفِى ٱلرِّقَابِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَٱلْمُوفُونَ بِعَهْدِهِمْ إِذَا عَـٰهَدُوا۟ ۖ وَٱلصَّـٰبِرِينَ فِى ٱلْبَأْسَآءِ وَٱلضَّرَّآءِ وَحِينَ ٱلْبَأْسِ ۗ أُو۟لَـٰٓئِكَ ٱلَّذِينَ صَدَقُوا۟ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُتَّقُونَ ١٧٧
+      > 
+      > Righteousness is not that you turn your faces toward the east or the west, but [true] righteousness is [in] one who believes in Allāh, the Last Day, the angels, the Book, and the prophets and gives wealth, in spite of love for it, to relatives, orphans, the needy, the traveler, those who ask [for help], and for freeing slaves; [and who] establishes prayer and gives zakāh; [those who] fulfill their promise when they promise; and [those who] are patient in poverty and hardship and during battle. Those are the ones who have been true, and it is those who are the righteous.
+      > — Saheeh International
+      > 
+      > https://quran.com/2/177
+      >
+
+**** 2. His Angles 
         
-         The proof of this is in Allah saying: 
+        The proof of this is in Allah saying: 
         
-        > The Cow (2:177)
-        > 
-        > 
-        > ۞ لَّيْسَ ٱلْبِرَّ أَن تُوَلُّوا۟ وُجُوهَكُمْ قِبَلَ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَلَـٰكِنَّ ٱلْبِرَّ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَٱلْمَلَـٰٓئِكَةِ وَٱلْكِتَـٰبِ وَٱلنَّبِيِّـۧنَ وَءَاتَى ٱلْمَالَ عَلَىٰ حُبِّهِۦ ذَوِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينَ وَٱبْنَ ٱلسَّبِيلِ وَٱلسَّآئِلِينَ وَفِى ٱلرِّقَابِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَٱلْمُوفُونَ بِعَهْدِهِمْ إِذَا عَـٰهَدُوا۟ ۖ وَٱلصَّـٰبِرِينَ فِى ٱلْبَأْسَآءِ وَٱلضَّرَّآءِ وَحِينَ ٱلْبَأْسِ ۗ أُو۟لَـٰٓئِكَ ٱلَّذِينَ صَدَقُوا۟ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُتَّقُونَ ١٧٧
-        > 
-        > Righteousness is not that you turn your faces toward the east or the west, but [true] righteousness is [in] one who believes in Allāh, the Last Day, the angels, the Book, and the prophets and gives wealth, in spite of love for it, to relatives, orphans, the needy, the traveler, those who ask [for help], and for freeing slaves; [and who] establishes prayer and gives zakāh; [those who] fulfill their promise when they promise; and [those who] are patient in poverty and hardship and during battle. Those are the ones who have been true, and it is those who are the righteous.
-        > — Saheeh International
-        > 
-        > https://quran.com/2/177
-        > 
-    3. His books 
+       > The Cow (2:177)
+       > 
+       > 
+       > ۞ لَّيْسَ ٱلْبِرَّ أَن تُوَلُّوا۟ وُجُوهَكُمْ قِبَلَ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَلَـٰكِنَّ ٱلْبِرَّ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَٱلْمَلَـٰٓئِكَةِ وَٱلْكِتَـٰبِ وَٱلنَّبِيِّـۧنَ وَءَاتَى ٱلْمَالَ عَلَىٰ حُبِّهِۦ ذَوِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينَ وَٱبْنَ ٱلسَّبِيلِ وَٱلسَّآئِلِينَ وَفِى ٱلرِّقَابِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَٱلْمُوفُونَ بِعَهْدِهِمْ إِذَا عَـٰهَدُوا۟ ۖ وَٱلصَّـٰبِرِينَ فِى ٱلْبَأْسَآءِ وَٱلضَّرَّآءِ وَحِينَ ٱلْبَأْسِ ۗ أُو۟لَـٰٓئِكَ ٱلَّذِينَ صَدَقُوا۟ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُتَّقُونَ ١٧٧
+       > 
+       > Righteousness is not that you turn your faces toward the east or the west, but [true] righteousness is [in] one who believes in Allāh, the Last Day, the angels, the Book, and the prophets and gives wealth, in spite of love for it, to relatives, orphans, the needy, the traveler, those who ask [for help], and for freeing slaves; [and who] establishes prayer and gives zakāh; [those who] fulfill their promise when they promise; and [those who] are patient in poverty and hardship and during battle. Those are the ones who have been true, and it is those who are the righteous.
+       > — Saheeh International
+       > 
+       > https://quran.com/2/177
+       > 
+**** 3. His books 
         
-         The proof of this is in Allah saying: 
+        The proof of this is in Allah saying: 
         
-        > The Cow (2:177)
-        > 
-        > 
-        > ۞ لَّيْسَ ٱلْبِرَّ أَن تُوَلُّوا۟ وُجُوهَكُمْ قِبَلَ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَلَـٰكِنَّ ٱلْبِرَّ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَٱلْمَلَـٰٓئِكَةِ وَٱلْكِتَـٰبِ وَٱلنَّبِيِّـۧنَ وَءَاتَى ٱلْمَالَ عَلَىٰ حُبِّهِۦ ذَوِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينَ وَٱبْنَ ٱلسَّبِيلِ وَٱلسَّآئِلِينَ وَفِى ٱلرِّقَابِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَٱلْمُوفُونَ بِعَهْدِهِمْ إِذَا عَـٰهَدُوا۟ ۖ وَٱلصَّـٰبِرِينَ فِى ٱلْبَأْسَآءِ وَٱلضَّرَّآءِ وَحِينَ ٱلْبَأْسِ ۗ أُو۟لَـٰٓئِكَ ٱلَّذِينَ صَدَقُوا۟ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُتَّقُونَ ١٧٧
-        > 
-        > Righteousness is not that you turn your faces toward the east or the west, but [true] righteousness is [in] one who believes in Allāh, the Last Day, the angels, the Book, and the prophets and gives wealth, in spite of love for it, to relatives, orphans, the needy, the traveler, those who ask [for help], and for freeing slaves; [and who] establishes prayer and gives zakāh; [those who] fulfill their promise when they promise; and [those who] are patient in poverty and hardship and during battle. Those are the ones who have been true, and it is those who are the righteous.
-        > — Saheeh International
-        > 
-        > https://quran.com/2/177
-        > 
-    4. His Messengers 
+       > The Cow (2:177)
+       > 
+       > 
+       > ۞ لَّيْسَ ٱلْبِرَّ أَن تُوَلُّوا۟ وُجُوهَكُمْ قِبَلَ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَلَـٰكِنَّ ٱلْبِرَّ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَٱلْمَلَـٰٓئِكَةِ وَٱلْكِتَـٰبِ وَٱلنَّبِيِّـۧنَ وَءَاتَى ٱلْمَالَ عَلَىٰ حُبِّهِۦ ذَوِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينَ وَٱبْنَ ٱلسَّبِيلِ وَٱلسَّآئِلِينَ وَفِى ٱلرِّقَابِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَٱلْمُوفُونَ بِعَهْدِهِمْ إِذَا عَـٰهَدُوا۟ ۖ وَٱلصَّـٰبِرِينَ فِى ٱلْبَأْسَآءِ وَٱلضَّرَّآءِ وَحِينَ ٱلْبَأْسِ ۗ أُو۟لَـٰٓئِكَ ٱلَّذِينَ صَدَقُوا۟ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُتَّقُونَ ١٧٧
+       > 
+       > Righteousness is not that you turn your faces toward the east or the west, but [true] righteousness is [in] one who believes in Allāh, the Last Day, the angels, the Book, and the prophets and gives wealth, in spite of love for it, to relatives, orphans, the needy, the traveler, those who ask [for help], and for freeing slaves; [and who] establishes prayer and gives zakāh; [those who] fulfill their promise when they promise; and [those who] are patient in poverty and hardship and during battle. Those are the ones who have been true, and it is those who are the righteous.
+       > — Saheeh International
+       > 
+       > https://quran.com/2/177
+       > 
+**** 4. His Messengers 
         
-         The proof of this is in Allah saying: 
+        The proof of this is in Allah saying: 
         
-        > The Cow (2:177)
-        > 
-        > 
-        > ۞ لَّيْسَ ٱلْبِرَّ أَن تُوَلُّوا۟ وُجُوهَكُمْ قِبَلَ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَلَـٰكِنَّ ٱلْبِرَّ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَٱلْمَلَـٰٓئِكَةِ وَٱلْكِتَـٰبِ وَٱلنَّبِيِّـۧنَ وَءَاتَى ٱلْمَالَ عَلَىٰ حُبِّهِۦ ذَوِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينَ وَٱبْنَ ٱلسَّبِيلِ وَٱلسَّآئِلِينَ وَفِى ٱلرِّقَابِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَٱلْمُوفُونَ بِعَهْدِهِمْ إِذَا عَـٰهَدُوا۟ ۖ وَٱلصَّـٰبِرِينَ فِى ٱلْبَأْسَآءِ وَٱلضَّرَّآءِ وَحِينَ ٱلْبَأْسِ ۗ أُو۟لَـٰٓئِكَ ٱلَّذِينَ صَدَقُوا۟ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُتَّقُونَ ١٧٧
-        > 
-        > Righteousness is not that you turn your faces toward the east or the west, but [true] righteousness is [in] one who believes in Allāh, the Last Day, the angels, the Book, and the prophets and gives wealth, in spite of love for it, to relatives, orphans, the needy, the traveler, those who ask [for help], and for freeing slaves; [and who] establishes prayer and gives zakāh; [those who] fulfill their promise when they promise; and [those who] are patient in poverty and hardship and during battle. Those are the ones who have been true, and it is those who are the righteous.
-        > — Saheeh International
-        > 
-        > https://quran.com/2/177
-        > 
-    5. The last day 
+       > The Cow (2:177)
+       > 
+       > 
+       > ۞ لَّيْسَ ٱلْبِرَّ أَن تُوَلُّوا۟ وُجُوهَكُمْ قِبَلَ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَلَـٰكِنَّ ٱلْبِرَّ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَٱلْمَلَـٰٓئِكَةِ وَٱلْكِتَـٰبِ وَٱلنَّبِيِّـۧنَ وَءَاتَى ٱلْمَالَ عَلَىٰ حُبِّهِۦ ذَوِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينَ وَٱبْنَ ٱلسَّبِيلِ وَٱلسَّآئِلِينَ وَفِى ٱلرِّقَابِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَٱلْمُوفُونَ بِعَهْدِهِمْ إِذَا عَـٰهَدُوا۟ ۖ وَٱلصَّـٰبِرِينَ فِى ٱلْبَأْسَآءِ وَٱلضَّرَّآءِ وَحِينَ ٱلْبَأْسِ ۗ أُو۟لَـٰٓئِكَ ٱلَّذِينَ صَدَقُوا۟ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُتَّقُونَ ١٧٧
+       > 
+       > Righteousness is not that you turn your faces toward the east or the west, but [true] righteousness is [in] one who believes in Allāh, the Last Day, the angels, the Book, and the prophets and gives wealth, in spite of love for it, to relatives, orphans, the needy, the traveler, those who ask [for help], and for freeing slaves; [and who] establishes prayer and gives zakāh; [those who] fulfill their promise when they promise; and [those who] are patient in poverty and hardship and during battle. Those are the ones who have been true, and it is those who are the righteous.
+       > — Saheeh International
+       > 
+       > https://quran.com/2/177
+       > 
+**** 5. The last day 
         
-         The proof of this is in Allah saying: 
+        The proof of this is in Allah saying: 
         
-        > The Cow (2:177)
-        > 
-        > 
-        > ۞ لَّيْسَ ٱلْبِرَّ أَن تُوَلُّوا۟ وُجُوهَكُمْ قِبَلَ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَلَـٰكِنَّ ٱلْبِرَّ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَٱلْمَلَـٰٓئِكَةِ وَٱلْكِتَـٰبِ وَٱلنَّبِيِّـۧنَ وَءَاتَى ٱلْمَالَ عَلَىٰ حُبِّهِۦ ذَوِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينَ وَٱبْنَ ٱلسَّبِيلِ وَٱلسَّآئِلِينَ وَفِى ٱلرِّقَابِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَٱلْمُوفُونَ بِعَهْدِهِمْ إِذَا عَـٰهَدُوا۟ ۖ وَٱلصَّـٰبِرِينَ فِى ٱلْبَأْسَآءِ وَٱلضَّرَّآءِ وَحِينَ ٱلْبَأْسِ ۗ أُو۟لَـٰٓئِكَ ٱلَّذِينَ صَدَقُوا۟ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُتَّقُونَ ١٧٧
-        > 
-        > Righteousness is not that you turn your faces toward the east or the west, but [true] righteousness is [in] one who believes in Allāh, the Last Day, the angels, the Book, and the prophets and gives wealth, in spite of love for it, to relatives, orphans, the needy, the traveler, those who ask [for help], and for freeing slaves; [and who] establishes prayer and gives zakāh; [those who] fulfill their promise when they promise; and [those who] are patient in poverty and hardship and during battle. Those are the ones who have been true, and it is those who are the righteous.
-        > — Saheeh International
-        > 
-        > https://quran.com/2/177
-        > 
-    6. Al-Qadar - divine pre-decree, the good of it and the bad of it. 
+       > The Cow (2:177)
+       > 
+       > 
+       > ۞ لَّيْسَ ٱلْبِرَّ أَن تُوَلُّوا۟ وُجُوهَكُمْ قِبَلَ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَلَـٰكِنَّ ٱلْبِرَّ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَٱلْمَلَـٰٓئِكَةِ وَٱلْكِتَـٰبِ وَٱلنَّبِيِّـۧنَ وَءَاتَى ٱلْمَالَ عَلَىٰ حُبِّهِۦ ذَوِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينَ وَٱبْنَ ٱلسَّبِيلِ وَٱلسَّآئِلِينَ وَفِى ٱلرِّقَابِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَٱلْمُوفُونَ بِعَهْدِهِمْ إِذَا عَـٰهَدُوا۟ ۖ وَٱلصَّـٰبِرِينَ فِى ٱلْبَأْسَآءِ وَٱلضَّرَّآءِ وَحِينَ ٱلْبَأْسِ ۗ أُو۟لَـٰٓئِكَ ٱلَّذِينَ صَدَقُوا۟ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُتَّقُونَ ١٧٧
+       > 
+       > Righteousness is not that you turn your faces toward the east or the west, but [true] righteousness is [in] one who believes in Allāh, the Last Day, the angels, the Book, and the prophets and gives wealth, in spite of love for it, to relatives, orphans, the needy, the traveler, those who ask [for help], and for freeing slaves; [and who] establishes prayer and gives zakāh; [those who] fulfill their promise when they promise; and [those who] are patient in poverty and hardship and during battle. Those are the ones who have been true, and it is those who are the righteous.
+       > — Saheeh International
+       > 
+       > https://quran.com/2/177
+       > 
+**** 6. Al-Qadar - divine pre-decree, the good of it and the bad of it. 
         
-         The proof of this is in Allah saying: 
+        The proof of this is in Allah saying: 
         
-        > The Moon (54:49)
-        > 
-        > 
-        > إِنَّا كُلَّ شَىْءٍ خَلَقْنَـٰهُ بِقَدَرٍۢ ٤٩
-        > 
-        > Indeed, all things We created with predestination.
-        > — Saheeh International
-        > 
-        > https://quran.com/54/49
-        > 
-3. Ihasan 
+       > The Moon (54:49)
+       > 
+       > 
+       > إِنَّا كُلَّ شَىْءٍ خَلَقْنَـٰهُ بِقَدَرٍۢ ٤٩
+       > 
+       > Indeed, all things We created with predestination.
+       > — Saheeh International
+       > 
+       > https://quran.com/54/49
+       > 
+*** 3. Ihasan 
     
     it is one pillar, which means to worship Allah as if you see Him, but even if don’t see him, he indeed sees you 
     
@@ -768,7 +769,7 @@ This can be divided into three levels:
     > https://sunnah.com/riyadussalihin:60
     > 
 
-* The Third Fundamental Principle (Prophet Muhammed peace and blessing of Allah be on him ) :chapter:
+* The Third Fundamental Principle (Prophet Muhammed peace and blessing of Allah be on him ) 
 :PROPERTIES:
 :ID:       38010b6e-562c-46d3-99f1-52aada213041
 :END:
