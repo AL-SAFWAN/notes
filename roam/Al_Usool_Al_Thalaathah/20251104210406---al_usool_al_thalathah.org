@@ -4,12 +4,12 @@
 #+title: Al-Usool Al-Thalathah
 #+filetags: :book:
 
-* Obligatory Knowledge 
+* Introduction
 :PROPERTIES:
 :ID:       fb34778c-3042-401c-bf93-63bdc7cd2233
 :END:
 ** [[id:a1f78754-b39b-4352-8be8-c64ba84b48d9][Bismillah Ar-Rahman Ar-Rahim]]
-** DONE Know, [[id:60ded593-dc31-4d75-8459-48a69bc7d9d5][may Allah have mercy on you]], that we are obligated to learn ~four matters~
+** Know, [[id:60ded593-dc31-4d75-8459-48a69bc7d9d5][may Allah have mercy on you]], that we are obligated to learn ~four matters~
 ~:PROPERTIES:
 :ID:       68f75a58-8f2f-4f70-9405-569fde62d59e
 :END:
@@ -58,7 +58,7 @@ So know, [O Muḥammad], that there is no deity except Allāh and ask forgivenes
 https://quran.com/47/19    
 #+end_quote
         
-** DONE Know, may Allah have mercy on you, It is obligatory upon every Muslim male and female to learn and act upon the following ~three things~ 
+** Know, may Allah have mercy on you, It is obligatory upon every Muslim male and female to learn and act upon the following ~three things~ 
 :PROPERTIES:
 :ID:       6228d6d5-8a25-43ef-b6fd-ae9740e6c490
 :END:
@@ -66,9 +66,9 @@ https://quran.com/47/19
 
 *** 2. [[id:e1954837-3126-4204-8ed9-d58b22c6109d][Allah is not pleased with anyone being mixed into worship with him - neither the angles brought close nor a prophet that was sent]]
 
-*** DONE 3. [[id:2ea5952e-b0cf-4bf1-8187-a671e5f35b90][Whoever obeys the Messenger (i.e Muhammad phub) and singles Allah out (in Worship), it is not permissible for him to take allies those who oppose Allah and His messenger, not even if they are close relatives]]
+*** 3. [[id:2ea5952e-b0cf-4bf1-8187-a671e5f35b90][Whoever obeys the Messenger (i.e Muhammad phub) and singles Allah out (in Worship), it is not permissible for him to take allies those who oppose Allah and His messenger, not even if they are close relatives]]
 
-** Know, may Allah grant you the ability to obey Him, that Al-Hanifiyaah, the religion of Ibrahim, is that you worship Allah alone, making the religion sincerely (i.e solely) for him. This is what Allah ordered all of mankind to do, and this is the purpose for which he created them,
+** Know, may Allah grant you the ability to obey Him, that [[id:89e34b50-4e62-4ca8-b157-838093e53e41][Al-Hanifiyaah]], the religion of [[id:a759644b-f863-4d85-abd2-578b41f5cd71][Ibrahim]], is that you worship Allah alone, making the religion sincerely (i.e solely) for him. This is what Allah ordered all of mankind to do, and this is the purpose for which he created them,
 :PROPERTIES:
 :ID:       f3c323c2-a5f2-44ad-933a-e2093038c752
 :END:
@@ -80,8 +80,13 @@ Allah says:
   https://quran.com/51/56
  #+end_quote
 - The meaning of “to worship Me”, is “to single Me out (in worship)”
-  
-*** The greatest thing that Allah commanded is [[id:1fc686ac-3a3f-4ba4-b006-b3f85944c586][Tawheed]], which means: singling Allah out in worship. And the Greatest thing that Allah warned against is Shirk, which is supplication to others Along with Allah. 
+*** ya‘budun
+:PROPERTIES:
+:ID:       b505f82c-81f5-4f63-9992-c4d430cb0a17
+:END:
+- /ya‘budun/ means /yuwaḥḥidun/: to single out Allah alone and direct worship to Him and none other than Him; this was in the tafsir of Ibn ‘Abbas
+
+*** The greatest thing that Allah commanded is [[id:1fc686ac-3a3f-4ba4-b006-b3f85944c586][Tawheed]], which means: singling Allah out in worship. And the Greatest thing that Allah warned against is [[id:6ae139d3-7ea9-44e0-accc-93acdea368e2][Shirk]], which is supplication to others Along with Allah. 
 :PROPERTIES:
 :ID:       e6bfad67-bc92-43a3-9737-b7507c660ad7
 :END:
@@ -99,675 +104,1783 @@ So if it is said to you:
     1. Religion 
     2. Lord 
     3. Prophet Muhammed peace and blessing be upon him
- [[id:9892a603-3085-440c-a111-32793e8c6c8c][thalath lesson 3]]
+       
 * The First Fundamental Principle (Allah) 
 :PROPERTIES:
 :ID:       d6d88560-1172-4c06-8b88-cbdf2ed6f3d6
 :END:
-
 ** So, if it is said: Who is your Load? 
-
-Then say: My Load is Allah, the One who nurtured me and nurtured all of creation through his favors. And He is the One whom I worship, there being to me no (false) deity worshipped that is equal to him. 
+:PROPERTIES:
+:ID:       a1230e55-9dbb-41d3-bb8a-4523588bc548
+:END:
+Then say:
+- My Load is Allah,
+- the One who nurtured me and nurtured all of creation through his favors.
+- And He is the One whom I worship, there being to me no (false) deity worshipped that is equal to him. 
 
 The proof for this is in Allah’s statement: 
-
-> The Opener (1:2)
-> 
-> 
-> ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ ٢
-> 
-> [All] praise is [due] to Allāh, Lord of the worlds -
-> — Saheeh International
-> 
-> https://quran.com/1/2
-> 
+ #+begin_quote
+  [[id:897521ae-eb4d-41f8-80f2-f6a071769318][The Opener (1:2)]]
+  All praise is for Allah—Lord of all worlds,
+  https://quran.com/1/2
+ #+end_quote
 
 The word ‘Aalam refers to everything apart from Allah, and I am part that creation.
 
-
 ** so If it is said to you: *How did you come to know of your Lord?* 
-Then say: By ways of his Signs and His creation. And among his signs are the night and the day, and the sun and the moon. And among His creations are the seven levels of heaven and the seven levels of earth, as well as whoever and whatever lies in them and between them. 
+:PROPERTIES:
+:ID:       cbb75180-91cc-4911-911f-c71379c86baf
+:END:
+Then say:
+- By ways of his Signs and His creation.
+- And among his signs are the night and the day, and the sun and the moon.
+- And among His creations are the seven levels of heaven and the seven levels of earth, as well as whoever and whatever lies in them and between them. 
 
 The proof for this is Allah’s statement: 
-
-> Explained in Detail (41:37)
-> 
-> 
-> وَمِنْ ءَايَـٰتِهِ ٱلَّيْلُ وَٱلنَّهَارُ وَٱلشَّمْسُ وَٱلْقَمَرُ ۚ لَا تَسْجُدُوا۟ لِلشَّمْسِ وَلَا لِلْقَمَرِ وَٱسْجُدُوا۟ لِلَّهِ ٱلَّذِى خَلَقَهُنَّ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ ٣٧
-> 
-> And of His signs are the night and day and the sun and moon. Do not prostrate to the sun or to the moon, but prostrate to Allāh, who created them, if it should be Him that you worship.
-> — Saheeh International
-> 
-> https://quran.com/41/37
-> 
-
+  #+begin_quote
+   [[id:8c8933f6-9090-4071-b74b-a5f16f43add0][Explained in Detail (41:37)]]
+   And of His signs are the night and day and the sun and moon. Do not prostrate to the sun or to the moon, but prostrate to Allāh, who created them, if it should be Him that you worship.
+   https://quran.com/41/37
+  #+end_quote
 And His statement 
-
-> The Heights (7:54)
-> 
-> 
-> إِنَّ رَبَّكُمُ ٱللَّهُ ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍۢ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ يُغْشِى ٱلَّيْلَ ٱلنَّهَارَ يَطْلُبُهُۥ حَثِيثًۭا وَٱلشَّمْسَ وَٱلْقَمَرَ وَٱلنُّجُومَ مُسَخَّرَٰتٍۭ بِأَمْرِهِۦٓ ۗ أَلَا لَهُ ٱلْخَلْقُ وَٱلْأَمْرُ ۗ تَبَارَكَ ٱللَّهُ رَبُّ ٱلْعَـٰلَمِينَ ٥٤
-> 
-> Indeed, your Lord is Allāh, who created the heavens and earth in six days and then established Himself above the Throne. He covers the night with the day, [another night] chasing it rapidly; and [He created] the sun, the moon, and the stars, subjected by His command. Unquestionably, to Him belongs the Creation and the Command; blessed is Allāh, Lord of the worlds.
-> — Saheeh International
-> 
-> https://quran.com/7/54
-> 
+ #+begin_quote
+  [[id:9862d7b2-432a-4958-8587-cc9cda4af214][The Heights (7:54)]]
+  Indeed, your Lord is Allāh, who created the heavens and earth in six days and then established Himself above the Throne. He covers the night with the day, [another night] chasing it rapidly; and [He created] the sun, the moon, and the stars, subjected by His command. Unquestionably, to Him belongs the Creation and the Command; blessed is Allāh, Lord of the worlds.
+  https://quran.com/7/54
+  
+ #+end_quote
 
 ** The word Rabb (Lord) means One who worshipped. 
-
+:PROPERTIES:
+:ID:       9708afc9-526a-425a-8048-42485fbbe6ef
+:END:
 The proof for this is in Allah’s saying 
+ #+begin_quote
+  [[id:e9481bdd-802e-4b28-86ac-29e029fc8cce][The Cow (2:21)]]
+  O mankind, worship your Lord, who created you and those before you, that you may become righteous -
+ #+end_quote
+ #+begin_quote
+  [[id:59fcd299-48ef-4b85-8600-ae529c88acd5][The Cow (2:22)]]
+  [He] who made for you the earth a bed [spread out] and the sky a ceiling and sent down from the sky, rain and brought forth thereby fruits as provision for you. So do not attribute to Allāh equals while you know [that there is nothing similar to Him].
+ #+end_quote
 
-> The Cow (2:21)
-> 
-> 
-> يَـٰٓأَيُّهَا ٱلنَّاسُ ٱعْبُدُوا۟ رَبَّكُمُ ٱلَّذِى خَلَقَكُمْ وَٱلَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ ٢١
-> 
-> O mankind, worship your Lord, who created you and those before you, that you may become righteous -
-> — Saheeh International
-> 
-> The Cow (2:22)
-> 
-> ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَرْضَ فِرَٰشًۭا وَٱلسَّمَآءَ بِنَآءًۭ وَأَنزَلَ مِنَ ٱلسَّمَآءِ مَآءًۭ فَأَخْرَجَ بِهِۦ مِنَ ٱلثَّمَرَٰتِ رِزْقًۭا لَّكُمْ ۖ فَلَا تَجْعَلُوا۟ لِلَّهِ أَندَادًۭا وَأَنتُمْ تَعْلَمُونَ ٢٢
-> 
-> [He] who made for you the earth a bed [spread out] and the sky a ceiling and sent down from the sky, rain and brought forth thereby fruits as provision for you. So do not attribute to Allāh equals while you know [that there is nothing similar to Him].
-> — Saheeh International
-> 
-> [https://quran.com/2](https://quran.com/2/22)
-> 
+ Ibn Katheer, may Allah have mercy on him said
+  #+begin_quote
+   “The creator of these things is the One who truly deserve to be worshiped”
+  #+end_quote
+ 
+** The type of [[id:b614a0f4-be89-404f-82a2-993a7edf2eda][worship]] that Allah commanded, such as Islam, Eman and Ishan, which includes 
+:PROPERTIES:
+:ID:       52da4fe6-4a63-456d-a8a1-ca4370875c01
+:END:
+*** What is worship
 
-Ibn Katheer, may Allah have mercy on him said
+**** Linguistic definition
+- to lower and humble oneself to the greater Being with humility, to submit to a greater Being.
 
-> “The creator of these things is the One who truly deserve to be worshiped”
-> 
+**** Technical definition
+- a comprehensive word that encompasses everything that Allah loves and that which He is pleased with
+  - from the statements and actions
+    - the apparent of them and the hidden of them
 
-[[id:00d59959-8db0-48f2-8426-33d95c14be39][thalath lesson 4]]
-** The type of worship that Allah commanded, such as Islam, Eman and Ishan, which includes 
+***** Apparent and hidden acts of worship
+- the apparent is the statement of the tongue and the outward actions
+  - prayer, doing Hajj
+- the hidden is what the heart testifies to
+  - belief in Allah, the Last Day, the Prophet (ﷺ)
+    - hope, love and fear
+
 
 *** 1. Supplication - Du’a 
+:PROPERTIES:
+:ID:       6e10548e-b7e4-4334-b9f7-8b1116e05f0e
+:END:
     
-    It is stated in a hadeeth 
+It is stated in a hadeeth 
     
-    > “The supplication is the core of worship” (Tirmidi)
-    > 
-    
-    the proof for this is Allah’s Saying 
-    
-    > The Forgiver (40:60)
-    > 
-    > 
-    > وَقَالَ رَبُّكُمُ ٱدْعُونِىٓ أَسْتَجِبْ لَكُمْ ۚ إِنَّ ٱلَّذِينَ يَسْتَكْبِرُونَ عَنْ عِبَادَتِى سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ ٦٠
-    > 
-    > And your Lord says, "Call upon Me; I will respond to you." Indeed, those who disdain My worship will enter Hell [rendered] contemptible.
-    > — Saheeh International
-    > 
-    > https://quran.com/40/60
-    > 
+“The supplication is the core of worship” (Tirmidi)
+             
+the proof for this is Allah’s Saying
+
+      #+begin_quote
+       [[id:7215d04d-e44f-45f3-ba2a-c4ec51f77a50][The Forgiver (40:60)]]
+       
+       And your Lord says, "Call upon Me; I will respond to you." Indeed, those who disdain My worship will enter Hell [rendered] contemptible.
+       
+      #+end_quote
+ - du‘ā’ is to ask
+  - e.g. “O Allah, grant me wealth” vs asking someone “give me wealth”
+
+**** there are 3 conditions to ask the creation
+  - if there is not any of these conditions, then it is disbelief
+
+***** Condition 1: He is alive
+:PROPERTIES:
+:ID:       8fda0f38-be81-408c-a40c-f85c8fe8708b
+:END:
+- what you are asking must be from someone who is alive
+  - e.g. asking at a grave
+    - whoever worshipped Muhammad (ﷺ), he has passed away; and whoever worships Allah, He is alive and never dies
+    - they went to ‘Umar to ask for du‘ā’ for rain
+      - in the du‘ā’ he said: we used to ask the Prophet (ﷺ) to ask for rain, but now we are going through the uncle of the Prophet
+    - a Bedouin came to the Prophet (ﷺ) asking for rain when his crops died
+    - they asked the Messenger of Allah (ﷺ) because his du‘ā’ is the strongest and his ‘ibādah is the strongest
+    - why didn’t ‘Umar ask the Prophet (ﷺ) after he had passed away? Because it is to show that it is shirk
+      - so they turned to his uncle for him to ask Allah
+
+  - why did the people ask the idols?
+    - they knew the idols could not help them
+      - ‘Umar used to laugh
+        - because they used to worship dates and eat them when they were hungry
+    - they believed that the spirit of the righteous people would go into the idol, so they could direct their worship to the spirit
+      - they are dead; they will not hear your request
+        - if they can hear, for argument’s sake, then they will not be able to respond to you
+          - on the Day of Judgement the people you worshipped will disassociate from you
+          - ask Allah directly; make your entire religion only for Allah
+
+***** Condition 2: He is present
+:PROPERTIES:
+:ID:       b7d2f47a-4fe6-4463-aca6-59b466155503
+:END:
+- he is present
+  - e.g. on the phone
+    - if he is not present, then how is he going to hear you?
+      - is he all-hearing or seeing?
+        - can he understand all the languages?
+          - how can Allah make someone a rival of Himself?
+
+***** Condition 3: He has the ability
+:PROPERTIES:
+:ID:       08456a95-ae9d-4c9c-ae8f-5b73c125239c
+:END:
+- he has the ability
+  - e.g. asking someone: can you please give me the highest rank of Jannah; can you make it rain; can you resurrect him from the dead?
+    - the Prophet (ﷺ) is not physically alive, but alive in the barzakh
+      - if the Prophet (ﷺ) was alive like the way we are alive, then it would be disbelief to keep the Prophet (ﷺ) there and obligatory to remove him from the grave
+    - everything that we were allowed to do with the Prophet (ﷺ) when he was alive we cannot do when he is dead
+      - e.g. asking Allah to forgive you (through his du‘ā’ when he was alive)
+        - so how can something be īmān when he was alive then be kufr when he passed away?
+          - how did the Sahābah throw dirt to bury the Prophet (ﷺ)? Because this was from īmān
+          - the ruling of when someone is alive and when he is dead is not the same
+          - the Prophet (ﷺ) is a human being, and he is the greatest of beings, but he is not Allah.
+
 *** 2. Fear - Khwaf
-    
+:PROPERTIES:
+:ID:       9c7c9c13-c865-4ff4-b2c3-422c212c1283
+:END:
     the proof for this is Allah’s Saying 
     
-    > Family of Imran (3:175)
-    > 
-    > 
-    > إِنَّمَا ذَٰلِكُمُ ٱلشَّيْطَـٰنُ يُخَوِّفُ أَوْلِيَآءَهُۥ فَلَا تَخَافُوهُمْ وَخَافُونِ إِن كُنتُم مُّؤْمِنِينَ ١٧٥
-    > 
-    > That is only Satan who frightens [you] of his supporters. So fear them not, but fear Me, if you are [indeed] believers.
-    > — Saheeh International
-    > 
-    > https://quran.com/3/175
-    > 
+     Family of Imran (3:175)
+     
+     
+     إِنَّمَا ذَٰلِكُمُ ٱلشَّيْطَـٰنُ يُخَوِّفُ أَوْلِيَآءَهُۥ فَلَا تَخَافُوهُمْ وَخَافُونِ إِن كُنتُم مُّؤْمِنِينَ ١٧٥
+     
+     That is only Satan who frightens [you] of his supporters. So fear them not, but fear Me, if you are [indeed] believers.
+     — Saheeh International
+     
+     https://quran.com/3/175
+ - not every act of fear is the same
+
+**** Permissible fear
+:PROPERTIES:
+:ID:       279172ba-7bd1-4187-8ec7-2316658f074e
+:END:
+- natural fear
+  - e.g. a lion, or a gun to your head
+    - you are not accountable for this
+
+**** Prohibited fear (but not shirk)
+:PROPERTIES:
+:ID:       c337c292-0d82-4061-8598-b2089c66364a
+:END:
+- does not take you out of the fold of Islam
+  - scared of praying in public
+    - shaving the beard out of fear of the creation
+      - they left an obligation
+        - they are sinful for this
+
+**** Fear that is shirk
+:PROPERTIES:
+:ID:       8433571c-836c-41f9-831a-5891f49c8668
+:END:
+- when someone can do only what Allah can do
+  - fearing the saint or jinn
+    - that they will do something to you in the grave
+      - we should not fear them like the way we fear that Allah will harm us
+        - they will say things like: “how can you disrespect our sayyid, he will come to you when you are dead trying to make you commit shirk”
+          - this is the fear where you fear something like you should fear Allah; these are the rights of Allah
+            - this is the fear of submission
+              - they will leave the fold of Islam like this
 *** 3. Hope - Rajaa’
     
     the proof for this is Allah’s Saying 
     
-    > The Cave (18:110)
-    > 
-    > 
-    > قُلْ إِنَّمَآ أَنَا۠ بَشَرٌۭ مِّثْلُكُمْ يُوحَىٰٓ إِلَىَّ أَنَّمَآ إِلَـٰهُكُمْ إِلَـٰهٌۭ وَٰحِدٌۭ ۖ فَمَن كَانَ يَرْجُوا۟ لِقَآءَ رَبِّهِۦ فَلْيَعْمَلْ عَمَلًۭا صَـٰلِحًۭا وَلَا يُشْرِكْ بِعِبَادَةِ رَبِّهِۦٓ أَحَدًۢا ١١٠
-    > 
-    > Say, "I am only a man like you, to whom has been revealed that your god is one God. So whoever would hope for the meeting with his Lord - let him do righteous work and not associate in the worship of his Lord anyone."
-    > — Saheeh International
-    > 
-    > https://quran.com/18/110
-    > 
+     The Cave (18:110)
+     
+     
+     قُلْ إِنَّمَآ أَنَا۠ بَشَرٌۭ مِّثْلُكُمْ يُوحَىٰٓ إِلَىَّ أَنَّمَآ إِلَـٰهُكُمْ إِلَـٰهٌۭ وَٰحِدٌۭ ۖ فَمَن كَانَ يَرْجُوا۟ لِقَآءَ رَبِّهِۦ فَلْيَعْمَلْ عَمَلًۭا صَـٰلِحًۭا وَلَا يُشْرِكْ بِعِبَادَةِ رَبِّهِۦٓ أَحَدًۢا ١١٠
+     
+     Say, "I am only a man like you, to whom has been revealed that your god is one God. So whoever would hope for the meeting with his Lord - let him do righteous work and not associate in the worship of his Lord anyone."
+     — Saheeh International
+     
+     https://quran.com/18/110
+
+ - what type of hope?
+  - hoping for something that only Allah can deliver
+    - e.g. forgiveness of the sin
+      - the Sharī‘ah has come to regulate our actions of our hearts, limbs and tongues
+      - hadith: correct them for the small actions, even if they are small
+      - a man put his hand up with two fingers; the Prophet (ﷺ) said: “no, (raise) one finger”
+      - Ibn ‘Abbās: “if it was not for the dog, the thieves would have come into our house”
+        - the Prophet (ﷺ) classed this as the lesser shirk
+          - the Prophet (ﷺ): “if it was not for Allah, then that…”
+
 *** 4. Reliance - Tawakkul 
+:PROPERTIES:
+:ID:       7d1b0ff5-d370-4b05-b72d-3237b281128d
+:END:
     
     the proof for this is Allah’s Saying 
     
-    > The Table Spread (5:23)
-    > 
-    > 
-    > قَالَ رَجُلَانِ مِنَ ٱلَّذِينَ يَخَافُونَ أَنْعَمَ ٱللَّهُ عَلَيْهِمَا ٱدْخُلُوا۟ عَلَيْهِمُ ٱلْبَابَ فَإِذَا دَخَلْتُمُوهُ فَإِنَّكُمْ غَـٰلِبُونَ ۚ وَعَلَى ٱللَّهِ فَتَوَكَّلُوٓا۟ إِن كُنتُم مُّؤْمِنِينَ ٢٣
-    > 
-    > Said two men from those who feared [to disobey] upon whom Allāh had bestowed favor, "Enter upon them through the gate, for when you have entered it, you will be predominant. And upon Allāh rely, if you should be believers."
-    > — Saheeh International
-    > 
-    > https://quran.com/5/23
-    > 
+     The Table Spread (5:23)
+     
+     
+     قَالَ رَجُلَانِ مِنَ ٱلَّذِينَ يَخَافُونَ أَنْعَمَ ٱللَّهُ عَلَيْهِمَا ٱدْخُلُوا۟ عَلَيْهِمُ ٱلْبَابَ فَإِذَا دَخَلْتُمُوهُ فَإِنَّكُمْ غَـٰلِبُونَ ۚ وَعَلَى ٱللَّهِ فَتَوَكَّلُوٓا۟ إِن كُنتُم مُّؤْمِنِينَ ٢٣
+     
+     Said two men from those who feared [to disobey] upon whom Allāh had bestowed favor, "Enter upon them through the gate, for when you have entered it, you will be predominant. And upon Allāh rely, if you should be believers."
+     — Saheeh International
+     
+     https://quran.com/5/23
+     
     
     And His saying 
     
-    > The Divorce (65:3)
-    > 
-    > 
-    > وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ ۚ وَمَن يَتَوَكَّلْ عَلَى ٱللَّهِ فَهُوَ حَسْبُهُۥٓ ۚ إِنَّ ٱللَّهَ بَـٰلِغُ أَمْرِهِۦ ۚ قَدْ جَعَلَ ٱللَّهُ لِكُلِّ شَىْءٍۢ قَدْرًۭا ٣
-    > 
-    > And will provide for him from where he does not expect. And whoever relies upon Allāh - then He is sufficient for him. Indeed, Allāh will accomplish His purpose. Allāh has already set for everything a [decreed] extent.
-    > — Saheeh International
-    > 
-    > https://quran.com/65/3
-    > 
+     The Divorce (65:3)
+     
+     
+     وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ ۚ وَمَن يَتَوَكَّلْ عَلَى ٱللَّهِ فَهُوَ حَسْبُهُۥٓ ۚ إِنَّ ٱللَّهَ بَـٰلِغُ أَمْرِهِۦ ۚ قَدْ جَعَلَ ٱللَّهُ لِكُلِّ شَىْءٍۢ قَدْرًۭا ٣
+     
+     And will provide for him from where he does not expect. And whoever relies upon Allāh - then He is sufficient for him. Indeed, Allāh will accomplish His purpose. Allāh has already set for everything a [decreed] extent.
+     — Saheeh International
+     
+     https://quran.com/65/3
+ 
+- relying only upon Allah if you are a true believer
+  - whoever relies on Allah, Allah is sufficient for him
+
+**** Taking the Means
+:PROPERTIES:
+:ID:       7873cae6-052b-40d4-8da0-a61a2a84358f
+:END:
+- to take the necessary means and leave the rest to Allah
+  - not taking the means is not the correct reliance
+    - and not the Sunnah
+    - and will make the person look foolish
+  - reliance means to take the means, and it is encouraged in Islam
+    - the medication is the means and the cure is from Allah (who relieves)
+    - when Mūsā stood in front of the sea, he had to strike the sea with his staff
+      - Allah taught the meaning of tawakkul
+    - Maryam had to shake the palm tree
+      - to take the means
+    - Ayyūb
+      - struck the earth with his foot to get the spring to come out
+
+- hence the meaning is: “I am going to do whatever I can”
+  - it becomes shirk when you rely on something else only for what Allah can do, and more, other than Allah
+    - this is what the Quraysh did
+      - thinking the stone can accept their du‘ā’
+
 *** 5. Longing - Raghbah 
-    
+- when you have a great hope for something
     the proof for this is Allah’s Saying 
     
-    > The Prophets (21:90)
-    > 
-    > 
-    > فَٱسْتَجَبْنَا لَهُۥ وَوَهَبْنَا لَهُۥ يَحْيَىٰ وَأَصْلَحْنَا لَهُۥ زَوْجَهُۥٓ ۚ إِنَّهُمْ كَانُوا۟ يُسَـٰرِعُونَ فِى ٱلْخَيْرَٰتِ وَيَدْعُونَنَا رَغَبًۭا وَرَهَبًۭا ۖ وَكَانُوا۟ لَنَا خَـٰشِعِينَ ٩٠
-    > 
-    > So We responded to him, and We gave to him John, and amended for him his wife. Indeed, they used to hasten to good deeds and supplicate Us in hope and fear, and they were to Us humbly submissive.
-    > — Saheeh International
-    > 
-    > https://quran.com/21/90
-    > 
+     The Prophets (21:90)
+     
+     
+     فَٱسْتَجَبْنَا لَهُۥ وَوَهَبْنَا لَهُۥ يَحْيَىٰ وَأَصْلَحْنَا لَهُۥ زَوْجَهُۥٓ ۚ إِنَّهُمْ كَانُوا۟ يُسَـٰرِعُونَ فِى ٱلْخَيْرَٰتِ وَيَدْعُونَنَا رَغَبًۭا وَرَهَبًۭا ۖ وَكَانُوا۟ لَنَا خَـٰشِعِينَ ٩٠
+     
+     So We responded to him, and We gave to him John, and amended for him his wife. Indeed, they used to hasten to good deeds and supplicate Us in hope and fear, and they were to Us humbly submissive.
+     — Saheeh International
+     
+     https://quran.com/21/90
+     
 *** 6. Dreading - Rahbah 
+- doing something out of fear
     
     the proof for this is Allah’s Saying 
     
-    > The Prophets (21:90)
-    > 
-    > 
-    > فَٱسْتَجَبْنَا لَهُۥ وَوَهَبْنَا لَهُۥ يَحْيَىٰ وَأَصْلَحْنَا لَهُۥ زَوْجَهُۥٓ ۚ إِنَّهُمْ كَانُوا۟ يُسَـٰرِعُونَ فِى ٱلْخَيْرَٰتِ وَيَدْعُونَنَا رَغَبًۭا وَرَهَبًۭا ۖ وَكَانُوا۟ لَنَا خَـٰشِعِينَ ٩٠
-    > 
-    > So We responded to him, and We gave to him John, and amended for him his wife. Indeed, they used to hasten to good deeds and supplicate Us in hope and fear, and they were to Us humbly submissive.
-    > — Saheeh International
-    > 
-    > https://quran.com/21/90
-    > 
+     The Prophets (21:90)
+     
+     
+     فَٱسْتَجَبْنَا لَهُۥ وَوَهَبْنَا لَهُۥ يَحْيَىٰ وَأَصْلَحْنَا لَهُۥ زَوْجَهُۥٓ ۚ إِنَّهُمْ كَانُوا۟ يُسَـٰرِعُونَ فِى ٱلْخَيْرَٰتِ وَيَدْعُونَنَا رَغَبًۭا وَرَهَبًۭا ۖ وَكَانُوا۟ لَنَا خَـٰشِعِينَ ٩٠
+     
+     So We responded to him, and We gave to him John, and amended for him his wife. Indeed, they used to hasten to good deeds and supplicate Us in hope and fear, and they were to Us humbly submissive.
+     — Saheeh International
+     
+     https://quran.com/21/90
+     
 *** 7. Submissiveness - Khushoo’ 
-    
+ - to do something in a state of submission
+  - no one should humbly submit themselves except to Allah
+    - this is the right of Allah
+      - His right is to be magnified more than anything
+        - you will not find any other religion that will give His rights of perfection except in Islam
+          - the Islam that the Prophet (ﷺ) came with
+
+   
     the proof for this is Allah’s Saying 
     
-    > The Prophets (21:90)
-    > 
-    > 
-    > فَٱسْتَجَبْنَا لَهُۥ وَوَهَبْنَا لَهُۥ يَحْيَىٰ وَأَصْلَحْنَا لَهُۥ زَوْجَهُۥٓ ۚ إِنَّهُمْ كَانُوا۟ يُسَـٰرِعُونَ فِى ٱلْخَيْرَٰتِ وَيَدْعُونَنَا رَغَبًۭا وَرَهَبًۭا ۖ وَكَانُوا۟ لَنَا خَـٰشِعِينَ ٩٠
-    > 
-    > So We responded to him, and We gave to him John, and amended for him his wife. Indeed, they used to hasten to good deeds and supplicate Us in hope (His reward) and fear (His punishment), and they were to Us humbly submissive.
-    > — Saheeh International
-    > 
-    > https://quran.com/21/90
-    > 
+     The Prophets (21:90)
+     
+     
+     فَٱسْتَجَبْنَا لَهُۥ وَوَهَبْنَا لَهُۥ يَحْيَىٰ وَأَصْلَحْنَا لَهُۥ زَوْجَهُۥٓ ۚ إِنَّهُمْ كَانُوا۟ يُسَـٰرِعُونَ فِى ٱلْخَيْرَٰتِ وَيَدْعُونَنَا رَغَبًۭا وَرَهَبًۭا ۖ وَكَانُوا۟ لَنَا خَـٰشِعِينَ ٩٠
+     
+     So We responded to him, and We gave to him John, and amended for him his wife. Indeed, they used to hasten to good deeds and supplicate Us in hope (His reward) and fear (His punishment), and they were to Us humbly submissive.
+     — Saheeh International
+     
+     https://quran.com/21/90
+     
 *** 8. Awe - Khashayah
-    
     the proof for this is Allah’s Saying 
     
-    > The Cow (2:150)
-    > 
-    > 
-    > وَمِنْ حَيْثُ خَرَجْتَ فَوَلِّ وَجْهَكَ شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ ۚ وَحَيْثُ مَا كُنتُمْ فَوَلُّوا۟ وُجُوهَكُمْ شَطْرَهُۥ لِئَلَّا يَكُونَ لِلنَّاسِ عَلَيْكُمْ حُجَّةٌ إِلَّا ٱلَّذِينَ ظَلَمُوا۟ مِنْهُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِى وَلِأُتِمَّ نِعْمَتِى عَلَيْكُمْ وَلَعَلَّكُمْ تَهْتَدُونَ ١٥٠
-    > 
-    > And from wherever you go out [for prayer], turn your face toward al-Masjid al-Ḥarām. And wherever you [believers] may be, turn your faces toward it in order that the people will not have any argument against you, except for those of them who commit wrong; so fear them not but fear Me. And [it is] so I may complete My favor upon you and that you may be guided,
-    > — Saheeh International
-    > 
-    > https://quran.com/2/150
-    > 
+     The Cow (2:150)
+     
+     
+     وَمِنْ حَيْثُ خَرَجْتَ فَوَلِّ وَجْهَكَ شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ ۚ وَحَيْثُ مَا كُنتُمْ فَوَلُّوا۟ وُجُوهَكُمْ شَطْرَهُۥ لِئَلَّا يَكُونَ لِلنَّاسِ عَلَيْكُمْ حُجَّةٌ إِلَّا ٱلَّذِينَ ظَلَمُوا۟ مِنْهُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِى وَلِأُتِمَّ نِعْمَتِى عَلَيْكُمْ وَلَعَلَّكُمْ تَهْتَدُونَ ١٥٠
+     
+     And from wherever you go out [for prayer], turn your face toward al-Masjid al-Ḥarām. And wherever you [believers] may be, turn your faces toward it in order that the people will not have any argument against you, except for those of them who commit wrong; so fear them not but fear Me. And [it is] so I may complete My favor upon you and that you may be guided,
+     — Saheeh International
+     
+     https://quran.com/2/150
+ - /khawf/ is general fear
+  - /khashyah/ is the fear that is built upon knowledge
+    - Ibn ‘Abbās (40 hadith of Nawawi)
+      - the Prophet (ﷺ) taught some words:
+        - “guard Allah and He will guard you”
+          - if you seek help
+            - seek it from Allah
+              - if everyone was to get together to try to harm you, they will not be able to do anything
+                - the pen has been lifted and the scroll is dried
+                  - what does this do in the heart of the child?
+                    - they magnify Allah
 *** 9. Repentance - Inaabah 
-    
+- to return our hearts back to Allah
+  - the regret that comes to the heart after a sin
+  - we can apologise to people and this is not the same
+    - this is the regret from not going into the Hellfire
+      - to turn toward Allah
+         - to turn back to Him and turn fully to Him
+
+
     the proof for this is Allah’s Saying 
     
-    > The Troops (39:54)
-    > 
-    > 
-    > وَأَنِيبُوٓا۟ إِلَىٰ رَبِّكُمْ وَأَسْلِمُوا۟ لَهُۥ مِن قَبْلِ أَن يَأْتِيَكُمُ ٱلْعَذَابُ ثُمَّ لَا تُنصَرُونَ ٥٤
-    > 
-    > And return [in repentance] to your Lord and submit to Him before the punishment comes upon you; then you will not be helped.
-    > — Saheeh International
-    > 
-    > https://quran.com/39/54
-    > 
+     The Troops (39:54)
+     
+     
+     وَأَنِيبُوٓا۟ إِلَىٰ رَبِّكُمْ وَأَسْلِمُوا۟ لَهُۥ مِن قَبْلِ أَن يَأْتِيَكُمُ ٱلْعَذَابُ ثُمَّ لَا تُنصَرُونَ ٥٤
+     
+     And return [in repentance] to your Lord and submit to Him before the punishment comes upon you; then you will not be helped.
+     — Saheeh International
+     
+     https://quran.com/39/54
+     
 *** 10. Seeking Assistance - Istil’aanah 
-    
+ - if you ask for help, only ask Allah (hadith)
+   - Ibn al-Qayyim: there is a chapter that summarises the Qur’an – Sūrah al-Fātiḥah
+     - and there is a verse that summarises this sūrah: “You alone we worship and You alone we ask for help”
+       - this summarises the entire Qur’an
+ - asking for help is worship
+ - and Allah has specified this after (mentioning worship)
+
+   
     It is stated in a hadeeth 
     
-    > “When you ask for assistance then seek assistance in Allah” (Ahmad)
-    > 
+     “When you ask for assistance then seek assistance in Allah” (Ahmad)
+     
     
     the proof for this is Allah’s Saying 
     
-    > The Opener (1:5)
-    > 
-    > 
-    > إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ٥
-    > 
-    > It is You we worship and You we ask for help.
-    > — Saheeh International
-    > 
-    > https://quran.com/1/5
-    > 
+     The Opener (1:5)
+     
+     
+     إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ٥
+     
+     It is You we worship and You we ask for help.
+     — Saheeh International
+     
+     https://quran.com/1/5
+     
 *** 11. Seeking Refuge - istil’aadah 
-    
+ - to seek protection that you may be protected
+  - e.g. from Shayṭān
+
+   
     the proof for this is Allah’s Saying 
     
-    > The Daybreak (113:1)
-    > 
-    > 
-    > قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ ١
-    > 
-    > Say, "I seek refuge in the Lord of daybreak
-    > — Saheeh International
-    > 
-    > https://quran.com/113/1
-    > 
+     The Daybreak (113:1)
+     
+     
+     قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ ١
+     
+     Say, "I seek refuge in the Lord of daybreak
+     — Saheeh International
+     
+     https://quran.com/113/1
+     
     
     And 
     
-    > Mankind (114:1)
-    > 
-    > 
-    > قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ ١
-    > 
-    > Say, "I seek refuge in the Lord of mankind,
-    > — Saheeh International
-    > 
-    > https://quran.com/114/1
-    > 
+     Mankind (114:1)
+     
+     
+     قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ ١
+     
+     Say, "I seek refuge in the Lord of mankind,
+     — Saheeh International
+     
+     https://quran.com/114/1
+     
 *** 12. Asking for Help - istighathah 
-    
+- to remove the calamity that you are going through
+  
     the proof for this is Allah’s Saying 
     
-    > The Spoils of War (8:9)
-    > 
-    > 
-    > إِذْ تَسْتَغِيثُونَ رَبَّكُمْ فَٱسْتَجَابَ لَكُمْ أَنِّى مُمِدُّكُم بِأَلْفٍۢ مِّنَ ٱلْمَلَـٰٓئِكَةِ مُرْدِفِينَ ٩
-    > 
-    > [Remember] when you were asking help of your Lord, and He answered you, "Indeed, I will reinforce you with a thousand from the angels, following one another."
-    > — Saheeh International
-    > 
-    > https://quran.com/8/9
-    > 
+     The Spoils of War (8:9)
+     
+     
+     إِذْ تَسْتَغِيثُونَ رَبَّكُمْ فَٱسْتَجَابَ لَكُمْ أَنِّى مُمِدُّكُم بِأَلْفٍۢ مِّنَ ٱلْمَلَـٰٓئِكَةِ مُرْدِفِينَ ٩
+     
+     [Remember] when you were asking help of your Lord, and He answered you, "Indeed, I will reinforce you with a thousand from the angels, following one another."
+     — Saheeh International
+     
+     https://quran.com/8/9
+     
 *** 13. Offering Sacrifices - Dhabah
-    
-    It is stated in a hadeeth 
-    
-    > “May Allah curse the one who offers a sacrifice to other than Allah” (Muslim)
-    > 
+It is stated in a hadeeth 
+“May Allah curse the one who offers a sacrifice to other than Allah” (Muslim)
+
+- the spilling of blood is an act of ‘ibādah
+  - if it was done for other than Allah then it will be shirk
+    - hence do not eat that over which the name of Allah has not been mentioned
+      - the curse of Allah is upon this person
+        - the hadith states that he is distant from the mercy of Allah
+
+   
     
     the proof for this is Allah’s Saying 
     
-    > The Cattle (6:162)
-    > 
-    > 
-    > قُلْ إِنَّ صَلَاتِى وَنُسُكِى وَمَحْيَاىَ وَمَمَاتِى لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ ١٦٢
-    > 
-    > Say, "Indeed, my prayer, my rites of sacrifice, my living and my dying are for Allāh, Lord of the worlds.
-    > — Saheeh International
-    > 
-    > https://quran.com/6/162
-    > 
-    > The Cattle (6:163)
-    > 
-    > لَا شَرِيكَ لَهُۥ ۖ وَبِذَٰلِكَ أُمِرْتُ وَأَنَا۠ أَوَّلُ ٱلْمُسْلِمِينَ ١٦٣
-    > 
-    > No partner has He. And this I have been commanded, and I am the first [among you] of the Muslims."
-    > — Saheeh International
-    > 
-    > https://quran.com/6/163
-    > 
+     The Cattle (6:162)
+     
+     
+     قُلْ إِنَّ صَلَاتِى وَنُسُكِى وَمَحْيَاىَ وَمَمَاتِى لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ ١٦٢
+     
+     Say, "Indeed, my prayer, my rites of sacrifice, my living and my dying are for Allāh, Lord of the worlds.
+     — Saheeh International
+     
+     https://quran.com/6/162
+     
+     The Cattle (6:163)
+     
+     لَا شَرِيكَ لَهُۥ ۖ وَبِذَٰلِكَ أُمِرْتُ وَأَنَا۠ أَوَّلُ ٱلْمُسْلِمِينَ ١٦٣
+     
+     No partner has He. And this I have been commanded, and I am the first [among you] of the Muslims."
+     — Saheeh International
+     
+     https://quran.com/6/163
+     
 *** 14. Making Oaths - Nadhar 
-    
+- to obligate something for yourself for a greater Being
+  - e.g. “I’m going to make fasting for myself fard for Allah”
+    - The act of making the vow is disliked,
+      - Once made, fulfilling it is obligatory (if it’s an act of obedience).
+      - Vowing to other than Allāh:
+        - This is shirk and absolutely haram, because nadhr is worship and directing it to other than Allāh is shirk. 
+
+  
     the proof for this is Allah’s Saying 
     
-    > The Man (76:7)
-    > 
-    > 
-    > يُوفُونَ بِٱلنَّذْرِ وَيَخَافُونَ يَوْمًۭا كَانَ شَرُّهُۥ مُسْتَطِيرًۭا ٧
-    > 
-    > They [are those who] fulfill [their] vows and fear a Day whose evil will be widespread.
-    > — Saheeh International
-    > 
-    > https://quran.com/76/7
-    > 
-
+     The Man (76:7)
+     
+     
+     يُوفُونَ بِٱلنَّذْرِ وَيَخَافُونَ يَوْمًۭا كَانَ شَرُّهُۥ مُسْتَطِيرًۭا ٧
+     
+     They [are those who] fulfill [their] vows and fear a Day whose evil will be widespread.
+     — Saheeh International
+     
+     https://quran.com/76/7
+     
 ** And all the other types of worship that Allah commanded - all of these belong to Allah, alone. 
-
+- when Allah commands us with something
+  - He commands us with something He loves
+    - He tells us the reward
+      - He tells us that He is pleased with it
+        - or explicitly calls it an act of worship
+  - He hates certain acts, and He loves their avoidance – the avoiding of them becomes ʿibādah.
+- we are the servants of Allah
+  - our servitude to Allah is of two types
+    - the general type
+      - includes all of the creation, everything in the heavens and the earth
+    - the specific type
+      - the worshippers or slaves of the Most Merciful
+        - the ones who choose to worship Allah
+          
 The proof of this is Allah’s saying: 
-
-> [[id:d3a58b0a-7ac7-4d5f-a4dc-1c4b801756e8][The Jinn (72:18)]]
-> 
-> 
-> وَأَنَّ ٱلْمَسَـٰجِدَ لِلَّهِ فَلَا تَدْعُوا۟ مَعَ ٱللَّهِ أَحَدًۭا ١٨
-> 
-> And [He revealed] that the [[id:b5dbcceb-32e6-4c2b-bd0f-730176a6e136][masjids]] are for Allāh, so do not invoke with Allāh anyone.
-> — Saheeh International
-> 
-> https://quran.com/72/18
-> 
-
+ #+begin_quote
+  [[id:d3a58b0a-7ac7-4d5f-a4dc-1c4b801756e8][The Jinn (72:18)]]
+  And [He revealed] that the [[id:b5dbcceb-32e6-4c2b-bd0f-730176a6e136][masjids]] are for Allāh, so do not invoke with Allāh anyone.
+  — Saheeh International
+  
+  https://quran.com/72/18
+ #+end_quote
+ 
 ** So whoever direct any part of these (act of worship) to other than Allah, then he is a polytheist, disbeliever. 
 
 The proof of this is Allah’s saying:
 
-> The Believers (23:117)
-> 
-> 
-> وَمَن يَدْعُ مَعَ ٱللَّهِ إِلَـٰهًا ءَاخَرَ لَا بُرْهَـٰنَ لَهُۥ بِهِۦ فَإِنَّمَا حِسَابُهُۥ عِندَ رَبِّهِۦٓ ۚ إِنَّهُۥ لَا يُفْلِحُ ٱلْكَـٰفِرُونَ ١١٧
-> 
-> And whoever invokes besides Allāh another deity for which he has no proof - then his account is only with his Lord. Indeed, the disbelievers will not succeed.
-> — Saheeh International
-> 
-> https://quran.com/23/117
-> 
+ The Believers (23:117)
+ 
+ 
+ وَمَن يَدْعُ مَعَ ٱللَّهِ إِلَـٰهًا ءَاخَرَ لَا بُرْهَـٰنَ لَهُۥ بِهِۦ فَإِنَّمَا حِسَابُهُۥ عِندَ رَبِّهِۦٓ ۚ إِنَّهُۥ لَا يُفْلِحُ ٱلْكَـٰفِرُونَ ١١٧
+ 
+ And whoever invokes besides Allāh another deity for which he has no proof - then his account is only with his Lord. Indeed, the disbelievers will not succeed.
+ — Saheeh International
+ 
+ https://quran.com/23/117
+ - on the Day of Judgement they will try to blame the leaders and say it was their fault (in the Qur’an)
+  - they thought they were doing something good, e.g. the people of Nūḥ
+    - even though they thought it was something good, it took them out of the fold of Islam
+      - this is the same as the people of [[id:7c9395e4-2d44-408a-bcd4-c525a56bb355][Quraysh]]
+- Hudhayfah used to asked about evil so he could stay away from it
+
+- hadith: du‘ā’ is the essence of worship  
+- another hadith: du‘ā’ is worship
+
+
+
 
 * The Second Fundamental Principle (Religion) 
 :PROPERTIES:
 :ID:       557a966f-2c8b-4aab-8aec-66e36cadb872
 :END:
-[[id:595e91a0-14f7-43a1-a646-4b0c5c8e1523][thalath lesson 5]]
+** Three levels: Islam, īmān, iḥsān
+:PROPERTIES:
+:ID:       c7331852-b78a-4e01-98ef-2229d55b9759
+:END:
+- Islam is of three stages:
+  1. Islam
+  2. Īmān
+  3. Iḥsān
+
+- they have a general meaning:
+  - which is the entire religion of Allah
+
+- there is a specific meaning:
+  - Islam will be the outer actions
+    - zakāt, etc.
+  - īmān will be the inner actions
+    - belief in the 6 pillars
+  - iḥsān: perfection in the religion of Allah
+    
+*** Relative levels
+:PROPERTIES:
+:ID:       27897375-037b-42b9-8264-c46be150729b
+:END:
+- Islam is the lowest level of belief and iḥsān is the highest level
+  - the muḥsin has perfected his religion
+  - the mu’min is the same (upon īmān) but:
+    - he does not spend as much time on voluntary acts
+    - and stays far from that which is ḥarām
+  - the Muslim:
+    - just does that which is obligated
+    - but also engages in sin
+      
+*** Two aspects of entering Islam
+:PROPERTIES:
+:ID:       2b2f92bf-61ad-4c1e-acaf-dc64c955027c
+:END:
+- how does a person enter into the fold of Islam?
+- there are two types in which a person enters into Islam:
+
+**** 1. In the eyes of the people (3 ways he enters)
+:PROPERTIES:
+:ID:       70b92f96-425f-4dbf-9cb0-b11e12b7ff1e
+:END:
+   1. to /testify/ (the shahādah) in front of people
+   2. any one of his two /parents/ is a Muslim
+   3. he does an /exclusive action/ that only the Muslims do
+
+   - if he does any of these it means that the ruling of Islam is established upon him
+
+   - a Jew said the testimony of faith, then said “I was joking”, and was punished for apostasy during the time of Imām Ahmad
+   - hadith: in a battle a person was fleeing and saying the shahādah; Usāmah ibn Zayd killed him
+     - the Prophet (ﷺ) said: “did you kill him after he said the shahādah?”
+       - then he (ﷺ) repeated: “did you cut his chest open to see what he believed?”
+       - Usāmah said: “I wished that I had not become Muslim before this day” (out of regret)
+     - so if someone has said the shahādah, it has made him a Muslim, until we have certainty he has left Islam
+
+**** 2. In the sight of Allah
+:PROPERTIES:
+:ID:       5a9f8526-c5b1-4bb5-a6bf-86b5b50685ea
+:END:
+   - only Allah knows
+     - e.g. the hypocrites among the Muslims
+       - their faith was only apparent to the people
+       - but amongst themselves it was different
+         
+*** Denying the pillars
+:PROPERTIES:
+:ID:       f7064ce7-f87c-4f99-83ae-77501ce83184
+:END:
+- agreed upon:
+  - if anyone denies the other four pillars (besides the shahādah)
+    - then he is a disbeliever
+- Abandoning the pillars in practice:
+**** Abandoning the ṣalāh
+:PROPERTIES:
+:ID:       ce2d581e-8be1-4089-ad3b-3bbdb8cc47b9
+:END:
+- the one who does not perform these pillars…
+
+- abandoning the ṣalāh:
+  - the Ṣaḥābah agreed that it takes a person out of the fold of Islam
+    - they differed when, and how many ṣalāh being left, leads to that ruling
+
+    - ‘Umar said:
+      - if it was once, intentionally
+        - he has left the fold of Islam
+        - this is the view of a number of Ṣaḥābah
+
+    - some said 2 prayers:
+      - ‘Abdullāh ibn Mas‘ūd
+        - he might leave the first to combine (etc.)
+
+    - some said more than this
+
+  - “between a man and polytheism is the ṣalāh”
+    - there are many narrations like this
+
+- “whoever repents and establishes the zakāt, then he is your brother in faith”
+- “what caused you to enter the Fire?”
+  - “we were from those who did not pray”
+
+- Imām Ahmad ibn Ḥanbal:
+  - Iblīs did not want to do a single sajdah and left the fold of Islam
+    - what about the people that leave more than this?
+
+**** Neglecting zakāt, fasting and ḥajj
+:PROPERTIES:
+:ID:       6c299406-6f3a-4746-a779-e9026f6fc74e
+:END:
+- missing the zakāt, fast and ḥajj:
+  - if you have a weak foundation it will weaken you and may lead you to commit an act of disbelief
+    - it is a major sin
+
+  - Abū Bakr fought those who refused to give zakāt
+    - to fight and not give it: this is disbelief
+
+  - likewise with fasting and ḥajj
+
+  - ‘Umar used to say to those who can afford to go to ḥajj:
+    - “it does not bother me if they die as a Jew or a Christian”
+    - he felt like inflicting the jizyah upon them
+      - i.e. severe statement regarding ḥajj
+
+- you will also find similar severe speech regarding the other pillars
+
 ** Knowing the Religion of Islam, based on evidences.
-
+:PROPERTIES:
+:ID:       421910a8-57df-49a3-8fdf-f636fe8dc970
+:END:
 This (i.e Islam) means submitting to Allah by way of Tawheed, surrendering one’s (full/complete) obedience to him, and absolving oneself from Shirk and it’s people.
-
 This can be divided into three levels: 
 
 *** 1. Islam
+:PROPERTIES:
+:ID:       5437cade-cbdd-4193-867b-40b4978798c6
+:END:
 The pillars of Islam are 5:
 **** 1. Shahada
+:PROPERTIES:
+:ID:       8e807ac1-0ad8-4b00-9774-8ad9de206b2a
+:END:
 The testimony that there is no deity that has the right to be worshipped except Allah, and that Muhammad is the Messenger of Allah
         
-       The proof of this is Allah’s statement 
+The proof of this is Allah’s statement 
         
-       > Family of Imran (3:18)
-       > 
-       > 
-       > شَهِدَ ٱللَّهُ أَنَّهُۥ لَآ إِلَـٰهَ إِلَّا هُوَ وَٱلْمَلَـٰٓئِكَةُ وَأُو۟لُوا۟ ٱلْعِلْمِ قَآئِمًۢا بِٱلْقِسْطِ ۚ لَآ إِلَـٰهَ إِلَّا هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ ١٨
-       > 
-       > Allāh witnesses that there is no deity except Him, and [so do] the angels and those of knowledge - [that He is] maintaining [creation] in justice. There is no deity except Him, the Exalted in Might, the Wise.
-       > — Saheeh International
-       > 
-       > https://quran.com/3/18
-       > 
+        Family of Imran (3:18)
         
-       This means that: there is no one that has the right to be worshipped except Allah, alone. All ilaaha negates everything that is worshiped besides Allah, while IllaaAllah affirms the worship of only Allah, free from any partners being mixed in with his worship, just as there is no partners mixed in with his dominion.  
         
-       > The Ornaments of Gold
-       > 
-       > 
-       > وَإِذْ قَالَ إِبْرَٰهِيمُ لِأَبِيهِ وَقَوْمِهِۦٓ إِنَّنِى بَرَآءٌۭ مِّمَّا تَعْبُدُونَ ٢٦
-       > 
-       > And [mention, O Muḥammad], when Abraham said to his father and his people, "Indeed, I am disassociated from that which you worship
-       > — Saheeh International
-       > 
-       > إِلَّا ٱلَّذِى فَطَرَنِى فَإِنَّهُۥ سَيَهْدِينِ ٢٧
-       > 
-       > Except for He who created me; and indeed, He will guide me."
-       > — Saheeh International
-       > 
-       > وَجَعَلَهَا كَلِمَةًۢ بَاقِيَةًۭ فِى عَقِبِهِۦ لَعَلَّهُمْ يَرْجِعُونَ ٢٨
-       > 
-       > And he made it a word remaining among his descendants that they might return [to it].
-       > — Saheeh International
-       > 
-       > https://quran.com/43/28
-       > 
+        شَهِدَ ٱللَّهُ أَنَّهُۥ لَآ إِلَـٰهَ إِلَّا هُوَ وَٱلْمَلَـٰٓئِكَةُ وَأُو۟لُوا۟ ٱلْعِلْمِ قَآئِمًۢا بِٱلْقِسْطِ ۚ لَآ إِلَـٰهَ إِلَّا هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ ١٨
         
-       And Allah saying
+        Allāh witnesses that there is no deity except Him, and [so do] the angels and those of knowledge - [that He is] maintaining [creation] in justice. There is no deity except Him, the Exalted in Might, the Wise.
+        — Saheeh International
         
-       > Family of Imran (3:64)
-       > 
-       > 
-       > قُلْ يَـٰٓأَهْلَ ٱلْكِتَـٰبِ تَعَالَوْا۟ إِلَىٰ كَلِمَةٍۢ سَوَآءٍۭ بَيْنَنَا وَبَيْنَكُمْ أَلَّا نَعْبُدَ إِلَّا ٱللَّهَ وَلَا نُشْرِكَ بِهِۦ شَيْـًۭٔا وَلَا يَتَّخِذَ بَعْضُنَا بَعْضًا أَرْبَابًۭا مِّن دُونِ ٱللَّهِ ۚ فَإِن تَوَلَّوْا۟ فَقُولُوا۟ ٱشْهَدُوا۟ بِأَنَّا مُسْلِمُونَ ٦٤
-       > 
-       > Say, "O People of the Scripture, come to a word that is equitable between us and you - that we will not worship except Allāh and not associate anything with Him and not take one another as lords instead of Allāh." But if they turn away, then say, "Bear witness that we are Muslims [submitting to Him]."
-       > — Saheeh International
-       > 
-       > https://quran.com/3/64
-       > 
+        https://quran.com/3/18
         
-       The proof for testifying that Muhammad is the messenger of Allah is his saying.
         
-       > The Repentance (9:128)
-       > 
-       > 
-       > لَقَدْ جَآءَكُمْ رَسُولٌۭ مِّنْ أَنفُسِكُمْ عَزِيزٌ عَلَيْهِ مَا عَنِتُّمْ حَرِيصٌ عَلَيْكُم بِٱلْمُؤْمِنِينَ رَءُوفٌۭ رَّحِيمٌۭ ١٢٨
-       > 
-       > There has certainly come to you a Messenger from among yourselves. Grievous to him is what you suffer; [he is] concerned over you [i.e., your guidance] and to the believers is kind and merciful.
-       > — Saheeh International
-       > 
-       > https://quran.com/9/128
-       > 
+This means that: there is no one that has the right to be worshipped except Allah, alone. All ilaaha negates everything that is worshiped besides Allah, while IllaaAllah affirms the worship of only Allah, free from any partners being mixed in with his worship, just as there is no partners mixed in with his dominion.  
         
-       The meaning that Muhammed peace and blessing be upon him is the massager of Allah is: Obeying him in what he has commanded, believing him in what he has informed us of, avoiding what he forbade and warned against, and not worshipping Allah except by what he peace be blessing be upon him has prescribed us. 
+        The Ornaments of Gold
+        
+        
+        وَإِذْ قَالَ إِبْرَٰهِيمُ لِأَبِيهِ وَقَوْمِهِۦٓ إِنَّنِى بَرَآءٌۭ مِّمَّا تَعْبُدُونَ ٢٦
+        
+        And [mention, O Muḥammad], when Abraham said to his father and his people, "Indeed, I am disassociated from that which you worship
+        — Saheeh International
+        
+        إِلَّا ٱلَّذِى فَطَرَنِى فَإِنَّهُۥ سَيَهْدِينِ ٢٧
+        
+        Except for He who created me; and indeed, He will guide me."
+        — Saheeh International
+        
+        وَجَعَلَهَا كَلِمَةًۢ بَاقِيَةًۭ فِى عَقِبِهِۦ لَعَلَّهُمْ يَرْجِعُونَ ٢٨
+        
+        And he made it a word remaining among his descendants that they might return [to it].
+        — Saheeh International
+        
+        https://quran.com/43/28
+        
+        
+And Allah saying
+        
+        Family of Imran (3:64)
+        
+        
+        قُلْ يَـٰٓأَهْلَ ٱلْكِتَـٰبِ تَعَالَوْا۟ إِلَىٰ كَلِمَةٍۢ سَوَآءٍۭ بَيْنَنَا وَبَيْنَكُمْ أَلَّا نَعْبُدَ إِلَّا ٱللَّهَ وَلَا نُشْرِكَ بِهِۦ شَيْـًۭٔا وَلَا يَتَّخِذَ بَعْضُنَا بَعْضًا أَرْبَابًۭا مِّن دُونِ ٱللَّهِ ۚ فَإِن تَوَلَّوْا۟ فَقُولُوا۟ ٱشْهَدُوا۟ بِأَنَّا مُسْلِمُونَ ٦٤
+        
+        Say, "O People of the Scripture, come to a word that is equitable between us and you - that we will not worship except Allāh and not associate anything with Him and not take one another as lords instead of Allāh." But if they turn away, then say, "Bear witness that we are Muslims [submitting to Him]."
+        — Saheeh International
+        
+        https://quran.com/3/64
+        
+        
+The proof for testifying that Muhammad is the messenger of Allah is his saying.
+        
+        The Repentance (9:128)
+        
+        
+        لَقَدْ جَآءَكُمْ رَسُولٌۭ مِّنْ أَنفُسِكُمْ عَزِيزٌ عَلَيْهِ مَا عَنِتُّمْ حَرِيصٌ عَلَيْكُم بِٱلْمُؤْمِنِينَ رَءُوفٌۭ رَّحِيمٌۭ ١٢٨
+        
+        There has certainly come to you a Messenger from among yourselves. Grievous to him is what you suffer; [he is] concerned over you [i.e., your guidance] and to the believers is kind and merciful.
+        — Saheeh International
+        
+        https://quran.com/9/128
+        
+        
+The meaning that Muhammed peace and blessing be upon him is the massager of Allah is: Obeying him in what he has commanded, believing him in what he has informed us of, avoiding what he forbade and warned against, and not worshipping Allah except by what he peace be blessing be upon him has prescribed us.
+
+
+- the shahādah has two pillars:
+
+1. the first part of the shahādah  
+   (/lā ilāha illā Allāh/)
+
+2. the second part of the shahādah  
+   (that Muḥammad (ﷺ) is the Messenger of Allah)
+
+***** First part: Lā ilāha illā Allāh
+:PROPERTIES:
+:ID:       86a08b58-9169-4313-b6aa-647c572a0cb2
+:END:
+****** Negation and affirmation
+:PROPERTIES:
+:ID:       a53972bc-0bc9-4d88-bb5c-81266498217f
+:END:
+- the first part of the shahādah has two pillars itself:
+  1. you /negate/ worship for everything except Allah
+  2. you *affirm* complete worship only for Allah
+
+- e.g. the statement of Ibrāhīm (عليه السلام)
+
+****** Seven conditions (shurūṭ) of the shahādah
+:PROPERTIES:
+:ID:       b5bd505a-94c5-4d11-b85a-7868e85a8561
+:END:
+- there are /7 conditions/ (shurūṭ) to this
+  - the things that need to be established before the shahādah
+
+- Wahb ibn Munabbih:
+  - “if the key has teeth the door will open; if not, then it will not open”
+
+- Ḥasan al-Baṣrī:
+  - “whoever fulfils the right of the shahādah and its obligations will enter the doors of Paradise”
+
+******* Condition 1: ‘Ilm (knowledge)
+:PROPERTIES:
+:ID:       72d8d768-035d-4ba7-8b7e-9053fd4eeeed
+:END:
+- knowledge of the shahādah
+  - they testify with truth and know what they are saying
+    - the nullifier of this condition is /jahl/ (ignorance)
+
+******* Condition 2: Yaqīn (certainty)
+:PROPERTIES:
+:ID:       dc92d666-d9ec-46dd-ae74-b0931824d4f0
+:END:
+- indeed the believers believe in Allah and the Messenger (ﷺ) with no doubt
+  - the nullifier is doubt (/shakk/)
+
+******* Condition 3: Ṣidq (truthfulness)
+:PROPERTIES:
+:ID:       c0d7f538-0291-432b-a840-027acea27f58
+:END:
+- Allah knows those who are truthful and those who are lying
+- you accept it inwardly and outwardly
+  - the nullifier is hypocrisy (/nifāq/)
+
+******* Condition 4: Ikhlāṣ (sincerity)
+:PROPERTIES:
+:ID:       62078ea3-2816-4d39-84d3-7faf53e9ec43
+:END:
+- “you have not been commanded but to make your entire religion for the sake of Allah”
+  - the nullifier of this is shirk
+
+******* Condition 5: Maḥabbah (love)
+:PROPERTIES:
+:ID:       3c5c2141-5216-4110-a99a-0f29b95787ba
+:END:
+- to love
+- “and among mankind are those who have taken rivals (to Allah); they love them as they should love Allah, but those who believe love Allah more”
+- love the religion and the law and the legislation
+  - and do not hate a single thing from it
+    - the kāfir hates what Allah reveals
+    - we might find it difficult but we love it
+      - e.g. [[id:c6f923c6-6113-4201-8292-480714365ba1][Jihad is a hard but beloved ruling (loving Allah’s commands despite hardship)]]
+      - the nullifier is hatred
+
+******* Condition 6: Qabūl (acceptance)
+:PROPERTIES:
+:ID:       602c4ccc-46dd-4dde-8370-857cb9088d41
+:END:
+- to accept everything:
+  - Allah
+  - the Prophet (ﷺ)
+  - the rulings
+- the nullifier is to reject it
+
+******* Condition 7: Inqiyād (submission)
+:PROPERTIES:
+:ID:       61cefb1c-54c0-4cb6-96ec-eabedfaa058e
+:END:
+- to act upon that which the shahādah necessitates:
+  - to worship Allah alone
+  - and not commit shirk
+- the nullifier is turning away (/i‘rāḍ/)
+  - “who is more oppressive than the one who is reminded about Allah but he turns away?”
+
+***** Second part: Muḥammad Rasūlullāh (ﷺ)
+:PROPERTIES:
+:ID:       bc500d79-d318-412e-8c05-b421785b2d86
+:END:
+****** Belief in the Messenger (ﷺ)
+:PROPERTIES:
+:ID:       42323301-512b-4024-bb06-53a1cae27139
+:END:
+- to believe in the Prophet (ﷺ) and that he is the final Messenger
+  - a Messenger has come from among yourselves to address all of mankind
+
+****** Rights of the Messenger (ﷺ)
+:PROPERTIES:
+:ID:       f9d24615-8a7c-43f9-ae79-0cd903d4f83d
+:END:
+- to obey him in that which he has commanded
+- we do not say that he said other than the truth
+  - he is the one who only speaks the truth (hadith)
+    - the only one whose truth we accept absolutely
+
+- to stay away from that which he has prohibited us from
+- not to worship Allah except in the way that he (ﷺ) has taught and revealed
+  - he only showed that which Allah has ordained
+
+- to follow the correct way
+  - the statement of the believers is:
+    - “we hear and we obey”
+      - we don’t find any difficulty in our hearts
+
+- other scholars mention:
+  - we love him more than anyone else
+  - we put him before anyone else
+  - we believe everything that he said
+  - and we profess it
+  - you have certainty in that which he came with
+  - we implement that which he has taught us
+
+- these two parts (about Allah and His Messenger) are considered two pillars of the shahādah
+
+***** Reason
+:PROPERTIES:
+:ID:       7de04cb7-3621-4bea-afa7-ae1cb5502f25
+:END:
+- why are these two pillars part of the shahādah?
+  - because we cannot worship Allah except by what the Prophet (ﷺ) has taught us
+    - if it was not for Allah then the Prophet (ﷺ), we would not know how to worship Allah
+  - hence these are considered as one pillar of Islam together (the shahādah)
+
+- the same way that the Qur’an is preserved is the way the Sunnah has been preserved
+- whoever rejects the Sunnah has not fulfilled this condition
+  - his path is not the correct path
+
+- “whoever does an action that is not in accordance with our matter, it will be rejected” (hadith)
+
+- this can also be found in the hadith of Jibrīl
+  - and some of the other aḥādīth
+
 **** 2. Salah
 Establishing the Prayer
        The from is Allah’s saying 
         
-       > The Clear Proof (98:5)
-       > 
-       > 
-       > وَمَآ أُمِرُوٓا۟ إِلَّا لِيَعْبُدُوا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ حُنَفَآءَ وَيُقِيمُوا۟ ٱلصَّلَوٰةَ وَيُؤْتُوا۟ ٱلزَّكَوٰةَ ۚ وَذَٰلِكَ دِينُ ٱلْقَيِّمَةِ ٥
-       > 
-       > And they were not commanded except to worship Allāh, [being] sincere to Him in religion, inclining to truth, and to establish prayer and to give zakāh. And that is the correct religion.
-       > — Saheeh International
-       > 
-       > https://quran.com/98/5
-       > 
+        The Clear Proof (98:5)
+        
+        
+        وَمَآ أُمِرُوٓا۟ إِلَّا لِيَعْبُدُوا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ حُنَفَآءَ وَيُقِيمُوا۟ ٱلصَّلَوٰةَ وَيُؤْتُوا۟ ٱلزَّكَوٰةَ ۚ وَذَٰلِكَ دِينُ ٱلْقَيِّمَةِ ٥
+        
+        And they were not commanded except to worship Allāh, [being] sincere to Him in religion, inclining to truth, and to establish prayer and to give zakāh. And that is the correct religion.
+        — Saheeh International
+        
+        https://quran.com/98/5
+        
 **** 3. Zakat 
         Giving the Zakat
        The from is Allah’s saying 
         
-       > The Clear Proof (98:5)
-       > 
-       > 
-       > وَمَآ أُمِرُوٓا۟ إِلَّا لِيَعْبُدُوا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ حُنَفَآءَ وَيُقِيمُوا۟ ٱلصَّلَوٰةَ وَيُؤْتُوا۟ ٱلزَّكَوٰةَ ۚ وَذَٰلِكَ دِينُ ٱلْقَيِّمَةِ ٥
-       > 
-       > And they were not commanded except to worship Allāh, [being] sincere to Him in religion, inclining to truth, and to establish prayer and to give zakāh. And that is the correct religion.
-       > — Saheeh International
-       > 
-       > https://quran.com/98/5
-       > 
+        The Clear Proof (98:5)
+        
+        
+        وَمَآ أُمِرُوٓا۟ إِلَّا لِيَعْبُدُوا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ حُنَفَآءَ وَيُقِيمُوا۟ ٱلصَّلَوٰةَ وَيُؤْتُوا۟ ٱلزَّكَوٰةَ ۚ وَذَٰلِكَ دِينُ ٱلْقَيِّمَةِ ٥
+        
+        And they were not commanded except to worship Allāh, [being] sincere to Him in religion, inclining to truth, and to establish prayer and to give zakāh. And that is the correct religion.
+        — Saheeh International
+        
+        https://quran.com/98/5
+        
 **** 4. Fasting in Ramadan 
         
        The from is Allah’s saying 
         
-       > The Cow (2:183)
-       > 
-       > 
-       > يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُتِبَ عَلَيْكُمُ ٱلصِّيَامُ كَمَا كُتِبَ عَلَى ٱلَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ ١٨٣
-       > 
-       > O you who have believed, decreed upon you is fasting as it was decreed upon those before you that you may become righteous -
-       > — Saheeh International
-       > 
-       > https://quran.com/2/183
-       > 
+        The Cow (2:183)
+        
+        
+        يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُتِبَ عَلَيْكُمُ ٱلصِّيَامُ كَمَا كُتِبَ عَلَى ٱلَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ ١٨٣
+        
+        O you who have believed, decreed upon you is fasting as it was decreed upon those before you that you may become righteous -
+        — Saheeh International
+        
+        https://quran.com/2/183
+        
 **** 5. Haj 
         Performing Haj to the scared house of Allah
        The from is Allah’s saying 
         
-       > Family of Imran (3:97)
-       > 
-       > 
-       > فِيهِ ءَايَـٰتٌۢ بَيِّنَـٰتٌۭ مَّقَامُ إِبْرَٰهِيمَ ۖ وَمَن دَخَلَهُۥ كَانَ ءَامِنًۭا ۗ وَلِلَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَاعَ إِلَيْهِ سَبِيلًۭا ۚ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ عَنِ ٱلْعَـٰلَمِينَ ٩٧
-       > 
-       > In it are clear signs [such as] the standing place of Abraham. And whoever enters it [i.e., the Ḥaram] shall be safe. And [due] to Allāh from the people is a pilgrimage to the House - for whoever is able to find thereto a way. But whoever disbelieves [i.e., refuses] - then indeed, Allāh is free from need of the worlds.
-       > — Saheeh International
-       > 
-       > https://quran.com/3/97
-       >         
+        Family of Imran (3:97)
+        
+        
+        فِيهِ ءَايَـٰتٌۢ بَيِّنَـٰتٌۭ مَّقَامُ إِبْرَٰهِيمَ ۖ وَمَن دَخَلَهُۥ كَانَ ءَامِنًۭا ۗ وَلِلَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَاعَ إِلَيْهِ سَبِيلًۭا ۚ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ عَنِ ٱلْعَـٰلَمِينَ ٩٧
+        
+        In it are clear signs [such as] the standing place of Abraham. And whoever enters it [i.e., the Ḥaram] shall be safe. And [due] to Allāh from the people is a pilgrimage to the House - for whoever is able to find thereto a way. But whoever disbelieves [i.e., refuses] - then indeed, Allāh is free from need of the worlds.
+        — Saheeh International
+        
+        https://quran.com/3/97
+                
 *** 2. Eman 
     [[id:6fe4d2f5-79f3-4c0e-a633-93fb791e837c][thalatha lesson 6]] 
-    It consists of more than 70 branches. The heist of them is saying Laa ilaaaha IllaaAllah and the lowest of the is moving a harmful object from the road. Hayaa (modesty) is a branch of from Eman. 
+It consists of more than 70 branches. The heist of them is saying Laa ilaaaha IllaaAllah and the lowest of the is moving a harmful object from the road. Hayaa (modesty) is a branch of from Eman. 
     
-    it’s pillars are 6: 
+**** Components of Īmān
+:PROPERTIES:
+:ID:       d9b39f59-0026-48d9-a268-2bd804c2131c
+:END:
+- īmān is statement and action and belief, and it increases with obedience and decreases with disobedience
+- statement of the heart and the statement of the tongue
+- actions of the limbs
+- actions of the heart (e.g. hope)
+- actions of the limbs (e.g. ṣalāh)
+
+So it has 5 parts:
+- belief
+- statement
+- action
+- increase with obedience
+- decrease with disobedience
+
+***** Certainty and īmān
+:PROPERTIES:
+:ID:       34c3592f-a33d-4061-9206-42b36016e975
+:END:
+- certainty is of different levels
+  - [[id:f319dc15-6a70-4b12-b8bc-cbe26341d269][The certainty of being told vs witnessing]]
+- hence īmān increases with obedience and certainty increases with īmān
+- īmān can comprise the entire religion
+
+***** General īmān (second stage)
+:PROPERTIES:
+:ID:       e1f230df-5513-4871-b95d-ebd35d1189ab
+:END:
+- now general īmān, the second stage:
+  - it is something around 70 branches
+    - these are the wordings of a ḥadīth
+
+- īmān is of 3 types:
+  - statements of the tongue – the shahādah
+  - actions – removing something harmful from the street
+  - heart – shyness (ḥayā’)
+
+- it increases with obedience  
+  - and decreases with disobedience
+
+- any statement, action or belief in the heart that pleases Allah is īmān
+
+- it consists of more than 70 branches:
+  - the highest of them is saying “lā ilāha illā Allāh”
+  - the lowest of them is removing a harmful object from the road
+  - ḥayā’ (modesty) is a branch of īmān
+  - this is from a ḥadīth of Abū Hurayrah
+
+- Mūsā said: “teach me something”
+  - Allah said: “say the shahādah”
+    - he wanted something exclusive
+      - but Allah showed that this outweighs everything in the earth
+
+- the lowest part is to remove something harmful
+- shyness that is praiseworthy:
+  - not the shyness that stops you from seeking knowledge
+
+***** Specific īmān (inner actions)
+:PROPERTIES:
+:ID:       86532357-bc6f-40c3-924c-a84de707a833
+:END:
+- its pillars are 6
+  - these are all matters of the unseen
+    - they cannot be proven to us physically
+      - this is our belief
+    - if you deny them, then you are a disbeliever
+
+
+it’s pillars are 6: 
     
 **** 1. That you believe in Allah 
-        
+:PROPERTIES:
+:ID:       967accb6-3392-4ee9-8efe-abf1ea3e81dd
+:END:
+- must believe:
+  - that Allah exists
+  - He is the one true Lord
+  - He deserves to be worshipped
+  - and He is perfect
+
+    
        The proof of this is in Allah saying: 
         
-      > The Cow (2:177)
-      > 
-      > 
-      > ۞ لَّيْسَ ٱلْبِرَّ أَن تُوَلُّوا۟ وُجُوهَكُمْ قِبَلَ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَلَـٰكِنَّ ٱلْبِرَّ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَٱلْمَلَـٰٓئِكَةِ وَٱلْكِتَـٰبِ وَٱلنَّبِيِّـۧنَ وَءَاتَى ٱلْمَالَ عَلَىٰ حُبِّهِۦ ذَوِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينَ وَٱبْنَ ٱلسَّبِيلِ وَٱلسَّآئِلِينَ وَفِى ٱلرِّقَابِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَٱلْمُوفُونَ بِعَهْدِهِمْ إِذَا عَـٰهَدُوا۟ ۖ وَٱلصَّـٰبِرِينَ فِى ٱلْبَأْسَآءِ وَٱلضَّرَّآءِ وَحِينَ ٱلْبَأْسِ ۗ أُو۟لَـٰٓئِكَ ٱلَّذِينَ صَدَقُوا۟ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُتَّقُونَ ١٧٧
-      > 
-      > Righteousness is not that you turn your faces toward the east or the west, but [true] righteousness is [in] one who believes in Allāh, the Last Day, the angels, the Book, and the prophets and gives wealth, in spite of love for it, to relatives, orphans, the needy, the traveler, those who ask [for help], and for freeing slaves; [and who] establishes prayer and gives zakāh; [those who] fulfill their promise when they promise; and [those who] are patient in poverty and hardship and during battle. Those are the ones who have been true, and it is those who are the righteous.
-      > — Saheeh International
-      > 
-      > https://quran.com/2/177
-      >
-
+       The Cow (2:177)
+       
+       
+       ۞ لَّيْسَ ٱلْبِرَّ أَن تُوَلُّوا۟ وُجُوهَكُمْ قِبَلَ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَلَـٰكِنَّ ٱلْبِرَّ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَٱلْمَلَـٰٓئِكَةِ وَٱلْكِتَـٰبِ وَٱلنَّبِيِّـۧنَ وَءَاتَى ٱلْمَالَ عَلَىٰ حُبِّهِۦ ذَوِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينَ وَٱبْنَ ٱلسَّبِيلِ وَٱلسَّآئِلِينَ وَفِى ٱلرِّقَابِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَٱلْمُوفُونَ بِعَهْدِهِمْ إِذَا عَـٰهَدُوا۟ ۖ وَٱلصَّـٰبِرِينَ فِى ٱلْبَأْسَآءِ وَٱلضَّرَّآءِ وَحِينَ ٱلْبَأْسِ ۗ أُو۟لَـٰٓئِكَ ٱلَّذِينَ صَدَقُوا۟ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُتَّقُونَ ١٧٧
+       
+       Righteousness is not that you turn your faces toward the east or the west, but [true] righteousness is [in] one who believes in Allāh, the Last Day, the angels, the Book, and the prophets and gives wealth, in spite of love for it, to relatives, orphans, the needy, the traveler, those who ask [for help], and for freeing slaves; [and who] establishes prayer and gives zakāh; [those who] fulfill their promise when they promise; and [those who] are patient in poverty and hardship and during battle. Those are the ones who have been true, and it is those who are the righteous.
+       — Saheeh International
+       
+       https://quran.com/2/177
+      
 **** 2. His Angles 
+:PROPERTIES:
+:ID:       c5caf1dd-aa0c-4ab9-8edb-74f1b14a498a
+:END:
         
-        The proof of this is in Allah saying: 
+The proof of this is in Allah saying: 
         
-       > The Cow (2:177)
-       > 
-       > 
-       > ۞ لَّيْسَ ٱلْبِرَّ أَن تُوَلُّوا۟ وُجُوهَكُمْ قِبَلَ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَلَـٰكِنَّ ٱلْبِرَّ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَٱلْمَلَـٰٓئِكَةِ وَٱلْكِتَـٰبِ وَٱلنَّبِيِّـۧنَ وَءَاتَى ٱلْمَالَ عَلَىٰ حُبِّهِۦ ذَوِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينَ وَٱبْنَ ٱلسَّبِيلِ وَٱلسَّآئِلِينَ وَفِى ٱلرِّقَابِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَٱلْمُوفُونَ بِعَهْدِهِمْ إِذَا عَـٰهَدُوا۟ ۖ وَٱلصَّـٰبِرِينَ فِى ٱلْبَأْسَآءِ وَٱلضَّرَّآءِ وَحِينَ ٱلْبَأْسِ ۗ أُو۟لَـٰٓئِكَ ٱلَّذِينَ صَدَقُوا۟ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُتَّقُونَ ١٧٧
-       > 
-       > Righteousness is not that you turn your faces toward the east or the west, but [true] righteousness is [in] one who believes in Allāh, the Last Day, the angels, the Book, and the prophets and gives wealth, in spite of love for it, to relatives, orphans, the needy, the traveler, those who ask [for help], and for freeing slaves; [and who] establishes prayer and gives zakāh; [those who] fulfill their promise when they promise; and [those who] are patient in poverty and hardship and during battle. Those are the ones who have been true, and it is those who are the righteous.
-       > — Saheeh International
-       > 
-       > https://quran.com/2/177
-       > 
+        The Cow (2:177)
+        
+        
+        ۞ لَّيْسَ ٱلْبِرَّ أَن تُوَلُّوا۟ وُجُوهَكُمْ قِبَلَ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَلَـٰكِنَّ ٱلْبِرَّ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَٱلْمَلَـٰٓئِكَةِ وَٱلْكِتَـٰبِ وَٱلنَّبِيِّـۧنَ وَءَاتَى ٱلْمَالَ عَلَىٰ حُبِّهِۦ ذَوِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينَ وَٱبْنَ ٱلسَّبِيلِ وَٱلسَّآئِلِينَ وَفِى ٱلرِّقَابِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَٱلْمُوفُونَ بِعَهْدِهِمْ إِذَا عَـٰهَدُوا۟ ۖ وَٱلصَّـٰبِرِينَ فِى ٱلْبَأْسَآءِ وَٱلضَّرَّآءِ وَحِينَ ٱلْبَأْسِ ۗ أُو۟لَـٰٓئِكَ ٱلَّذِينَ صَدَقُوا۟ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُتَّقُونَ ١٧٧
+        
+        Righteousness is not that you turn your faces toward the east or the west, but [true] righteousness is [in] one who believes in Allāh, the Last Day, the angels, the Book, and the prophets and gives wealth, in spite of love for it, to relatives, orphans, the needy, the traveler, those who ask [for help], and for freeing slaves; [and who] establishes prayer and gives zakāh; [those who] fulfill their promise when they promise; and [those who] are patient in poverty and hardship and during battle. Those are the ones who have been true, and it is those who are the righteous.
+        — Saheeh International
+        
+        https://quran.com/2/177
+        
+ - they are a creation of Allah that are hidden from us and they are worshippers of Allah
+  - they do not possess anything from His Lordship
+  - Allah created them from light
+    - He has gifted them to worship Allah constantly without disobedience
+      - they glorify Allah night and day
+        - they are a large number that we cannot count
+
+- example: al-Bayt al-Ma‘mūr
+  - 70,000 angels pray there; when they leave, they never get the chance to come back
+
+***** four key points:
+:PROPERTIES:
+:ID:       a67f5d29-d342-40ce-8701-e09b743b4807
+:END:
+****** 1. they exist
+:PROPERTIES:
+:ID:       01eab23d-b59e-456d-af94-ae6b7dc5946b
+:END:
+****** 2. we believe in their names that have been taught, e.g. Jibrīl; we must believe in them from an authentic source
+:PROPERTIES:
+:ID:       2760e9bf-5ac1-4d3f-a147-26969f7af982
+:END:
+****** 3. believe in their attributes
+:PROPERTIES:
+:ID:       4160c8e5-bbb0-4a8e-b2b8-60df80dcc2b0
+:END:
+- believe in their specific descriptions
+  - e.g. many wings (ḥadīth)
+  - coming in the form of a man (ḥadīth)
+  - believe in the specific roles that they perform:
+    - Jibrīl – responsible for revelation
+    - Mīkā’īl – distribution of rain
+    - Isrāfīl – to blow the trumpet
+    - Malak al-Mawt – the angel of death
+    - the angels writing good deeds
+    - the angels of the grave: Munkar and Nakīr
+    - the angels that protect us
+****** 4. we learn this to strengthen our īmān
+:PROPERTIES:
+:ID:       464b1e23-34aa-4f9a-8703-70509ed5b240
+:END:
+ - it shows the greatness of Allah
+   - they are so great, but Allah is greater
+   - we should thank Allah that He has taken care of us by sending us the angels
+     - taking care of our deeds, having them written down
+   - to love the malā’ikah as they worship Allah
+     - they have a high station and we would like for them to love us
+       - e.g. the ḥadīth of those who are close to Allah
+
 **** 3. His books 
+:PROPERTIES:
+:ID:       92602b9d-9a65-493c-8d2b-c2c9fa09a8a2
+:END:
         
-        The proof of this is in Allah saying: 
+The proof of this is in Allah saying: 
         
-       > The Cow (2:177)
-       > 
-       > 
-       > ۞ لَّيْسَ ٱلْبِرَّ أَن تُوَلُّوا۟ وُجُوهَكُمْ قِبَلَ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَلَـٰكِنَّ ٱلْبِرَّ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَٱلْمَلَـٰٓئِكَةِ وَٱلْكِتَـٰبِ وَٱلنَّبِيِّـۧنَ وَءَاتَى ٱلْمَالَ عَلَىٰ حُبِّهِۦ ذَوِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينَ وَٱبْنَ ٱلسَّبِيلِ وَٱلسَّآئِلِينَ وَفِى ٱلرِّقَابِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَٱلْمُوفُونَ بِعَهْدِهِمْ إِذَا عَـٰهَدُوا۟ ۖ وَٱلصَّـٰبِرِينَ فِى ٱلْبَأْسَآءِ وَٱلضَّرَّآءِ وَحِينَ ٱلْبَأْسِ ۗ أُو۟لَـٰٓئِكَ ٱلَّذِينَ صَدَقُوا۟ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُتَّقُونَ ١٧٧
-       > 
-       > Righteousness is not that you turn your faces toward the east or the west, but [true] righteousness is [in] one who believes in Allāh, the Last Day, the angels, the Book, and the prophets and gives wealth, in spite of love for it, to relatives, orphans, the needy, the traveler, those who ask [for help], and for freeing slaves; [and who] establishes prayer and gives zakāh; [those who] fulfill their promise when they promise; and [those who] are patient in poverty and hardship and during battle. Those are the ones who have been true, and it is those who are the righteous.
-       > — Saheeh International
-       > 
-       > https://quran.com/2/177
-       > 
+        The Cow (2:177)
+        
+        
+        ۞ لَّيْسَ ٱلْبِرَّ أَن تُوَلُّوا۟ وُجُوهَكُمْ قِبَلَ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَلَـٰكِنَّ ٱلْبِرَّ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَٱلْمَلَـٰٓئِكَةِ وَٱلْكِتَـٰبِ وَٱلنَّبِيِّـۧنَ وَءَاتَى ٱلْمَالَ عَلَىٰ حُبِّهِۦ ذَوِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينَ وَٱبْنَ ٱلسَّبِيلِ وَٱلسَّآئِلِينَ وَفِى ٱلرِّقَابِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَٱلْمُوفُونَ بِعَهْدِهِمْ إِذَا عَـٰهَدُوا۟ ۖ وَٱلصَّـٰبِرِينَ فِى ٱلْبَأْسَآءِ وَٱلضَّرَّآءِ وَحِينَ ٱلْبَأْسِ ۗ أُو۟لَـٰٓئِكَ ٱلَّذِينَ صَدَقُوا۟ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُتَّقُونَ ١٧٧
+        
+        Righteousness is not that you turn your faces toward the east or the west, but [true] righteousness is [in] one who believes in Allāh, the Last Day, the angels, the Book, and the prophets and gives wealth, in spite of love for it, to relatives, orphans, the needy, the traveler, those who ask [for help], and for freeing slaves; [and who] establishes prayer and gives zakāh; [those who] fulfill their promise when they promise; and [those who] are patient in poverty and hardship and during battle. Those are the ones who have been true, and it is those who are the righteous.
+        — Saheeh International
+        
+        https://quran.com/2/177
+
+- the books that have been revealed
+- as a mercy and means of guidance for the creation
+  - so that they could be saved in this life and the next
+  - sent different books to guide them to the light
+    - to take care of the creation
+      - and it is from His Lordship to take care of His creation
+
+***** Four points:
+:PROPERTIES:
+:ID:       e1424b75-2af9-4a4e-9cc3-1a82a3dbccc5
+:END:
+****** 1. they were sent with truth
+:PROPERTIES:
+:ID:       90714d55-e8fd-4dd2-9026-e3b236301413
+:END:
+****** 2. we believe in the specific names of the books:
+:PROPERTIES:
+:ID:       405e97fb-ffe2-4933-8de9-7d502e9776b7
+:END:
+     - Qur’ān – given to Muḥammad (ﷺ)
+     - Tawrah – to Mūsā
+     - Injīl – to ‘Īsā
+     - Zabūr – to Dāwūd
+     - the scrolls of Ibrāhīm and Mūsā
+****** 3. believe that which has been mentioned in them:
+:PROPERTIES:
+:ID:       963dc5af-98d0-42b1-815a-e2b2167a5964
+:END:
+- believe everything that is in the Qur’ān
+     - and that which was in the previous scriptures before they were corrupted
+       - ḥadīth: “do not say it is true and do not say it is false” (about some of their reports)
+****** 4. we act upon our Book (the Qur’ān and Sunnah) from that which has not been abrogated
+:PROPERTIES:
+:ID:       815f19c8-452c-4774-80d6-c4771e3ceeba
+:END:
+- His revelation is based on His wisdom
+  - e.g. the abrogation of alcohol
+  - the authentic text will never conflict with a sound mind
+    - e.g. a fabricated narration, or someone understanding things according to his desires
+    - Allah keeps telling us to reflect and ponder
+      - how can He ask us to do this if we could not use a sound mind?
+    - to not know something does not mean that thing is not known
+      - there are many matters that many people do not know
+      - but it does not mean no-one will know; some people will know some of the wisdom
+    - the Sharī‘ah looks at what is beneficial and harmful
+      - these are all from the wisdom of Allah
+
+
 **** 4. His Messengers 
         
-        The proof of this is in Allah saying: 
+The proof of this is in Allah saying: 
         
-       > The Cow (2:177)
-       > 
-       > 
-       > ۞ لَّيْسَ ٱلْبِرَّ أَن تُوَلُّوا۟ وُجُوهَكُمْ قِبَلَ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَلَـٰكِنَّ ٱلْبِرَّ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَٱلْمَلَـٰٓئِكَةِ وَٱلْكِتَـٰبِ وَٱلنَّبِيِّـۧنَ وَءَاتَى ٱلْمَالَ عَلَىٰ حُبِّهِۦ ذَوِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينَ وَٱبْنَ ٱلسَّبِيلِ وَٱلسَّآئِلِينَ وَفِى ٱلرِّقَابِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَٱلْمُوفُونَ بِعَهْدِهِمْ إِذَا عَـٰهَدُوا۟ ۖ وَٱلصَّـٰبِرِينَ فِى ٱلْبَأْسَآءِ وَٱلضَّرَّآءِ وَحِينَ ٱلْبَأْسِ ۗ أُو۟لَـٰٓئِكَ ٱلَّذِينَ صَدَقُوا۟ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُتَّقُونَ ١٧٧
-       > 
-       > Righteousness is not that you turn your faces toward the east or the west, but [true] righteousness is [in] one who believes in Allāh, the Last Day, the angels, the Book, and the prophets and gives wealth, in spite of love for it, to relatives, orphans, the needy, the traveler, those who ask [for help], and for freeing slaves; [and who] establishes prayer and gives zakāh; [those who] fulfill their promise when they promise; and [those who] are patient in poverty and hardship and during battle. Those are the ones who have been true, and it is those who are the righteous.
-       > — Saheeh International
-       > 
-       > https://quran.com/2/177
-       > 
+        The Cow (2:177)
+        
+        
+        ۞ لَّيْسَ ٱلْبِرَّ أَن تُوَلُّوا۟ وُجُوهَكُمْ قِبَلَ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَلَـٰكِنَّ ٱلْبِرَّ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَٱلْمَلَـٰٓئِكَةِ وَٱلْكِتَـٰبِ وَٱلنَّبِيِّـۧنَ وَءَاتَى ٱلْمَالَ عَلَىٰ حُبِّهِۦ ذَوِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينَ وَٱبْنَ ٱلسَّبِيلِ وَٱلسَّآئِلِينَ وَفِى ٱلرِّقَابِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَٱلْمُوفُونَ بِعَهْدِهِمْ إِذَا عَـٰهَدُوا۟ ۖ وَٱلصَّـٰبِرِينَ فِى ٱلْبَأْسَآءِ وَٱلضَّرَّآءِ وَحِينَ ٱلْبَأْسِ ۗ أُو۟لَـٰٓئِكَ ٱلَّذِينَ صَدَقُوا۟ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُتَّقُونَ ١٧٧
+        
+        Righteousness is not that you turn your faces toward the east or the west, but [true] righteousness is [in] one who believes in Allāh, the Last Day, the angels, the Book, and the prophets and gives wealth, in spite of love for it, to relatives, orphans, the needy, the traveler, those who ask [for help], and for freeing slaves; [and who] establishes prayer and gives zakāh; [those who] fulfill their promise when they promise; and [those who] are patient in poverty and hardship and during battle. Those are the ones who have been true, and it is those who are the righteous.
+        — Saheeh International
+        
+        https://quran.com/2/177
+- they are men that Allah revealed revelation to and commanded them to convey it
+
+- sometimes a person will have an inspiration, like the mother of Mūsā
+  - but she is not a prophet or messenger
+  - if they must convey the message, then they are a messenger
+***** nabī vs rasūl
+:PROPERTIES:
+:ID:       1e78a03b-57c1-43a3-8a31-a4c6f862c7d4
+:END:
+  (Ibn Taymiyyah):
+  - a *nabī* is someone who was given revelation and told to convey it to a people who already believe
+  - a *rasūl* is sent to a disbelieving people
+  - every messenger is a prophet (every rasūl is a nabī)
+  - but not every prophet is a messenger (not every nabī is a rasūl)
+
+***** Nuḥ was the first person that was sent to the disbelieving people
+:PROPERTIES:
+:ID:       7707f5cb-b0f5-4033-b402-03ea153612d8
+:END:
+  - Ādam was for the first believing people
+    - up to 10 centuries
+
+- these messengers are human beings, but they are the best of human beings
+  - they would make mistakes like humans
+    - however, they are corrected by Allah immediately
+
+  - examples:
+    - Nūḥ when his son died; Allah said “he is not from your family; do not ask about something you have no knowledge of”
+    - Yūnus left his people upon disbelief, and then he repented
+    - Mūsā killed a man and repented
+    - the Prophet (ﷺ) turned away and frowned
+      - when ‘Abdullāh ibn Umm Maktūm (the blind man) came during the da‘wah to the leaders of Quraysh
+      - he immediately turned back to Allah
+      - Allah has forgiven the Prophet (ﷺ)
+
+- they are human beings
+  - ḥadīth: “indeed I am a human being and I forget; if I forget then remind me”
+    - the Prophet (ﷺ) was leading the people in ṣalāh
+      - he (ﷺ) was upset that nobody said anything
+      - the man with long arms said: “did you forget or has the ṣalāh become shortened?”
+      - the Prophet (ﷺ) thought he had prayed four rak‘āt; he affirmed that it had not become shorter
+        - he stood up to perform two rak‘āt and made the prostration of forgetfulness
+
+- however, the revelation will always be preserved
+  - the Prophet (ﷺ) can never do any sin that will bring doubt to the revelation
+  - what Ibrāhīm did was a “white lie”:
+    - he said, “the biggest of them did this”
+      - they thought it was the biggest statue, and he meant his thumb when he pushed the idol
+  - they made mistakes and sought forgiveness, and Allah forgave them
+
+***** five of them are the greatest
+:PROPERTIES:
+:ID:       3497ef99-eb77-4cf4-8160-c131967786bf
+:END:
+  1. Muḥammad (ﷺ), the master of the children of Ādam
+  2. Ibrāhīm (also the Khālīl of Allah)
+  3. Mūsā
+  4. ‘Īsā
+  5. Nūḥ
+
+- the last two (Mūsā and ‘Īsā) are different in rank, but these five are the greatest messengers
+
+- “we do not differentiate between them” – what does this verse mean?
+  - we do not differentiate in a way that disrespects any of them
+  - it is from īmān to love them all
+
+- every miracle that was given to a prophet, the Prophet (ﷺ) was also given it
+  - sometimes Allah allows him to show this to mankind
+  - but out of respect he did not over-show some things that were specific to other messengers
+
+***** Four points of īmān in the messengers
+:PROPERTIES:
+:ID:       a23e377e-342d-49f5-a3d4-0943de116757
+:END:
+****** 1. we believe their original message is the truth
+:PROPERTIES:
+:ID:       bbcb8699-e7f0-4cd1-a287-25ebaa84a41e
+:END:
+     - if you disbelieve in any one of the messengers, then you have disbelieved in all of them,
+       because they all came from Allah
+****** 2. we believe their names
+:PROPERTIES:
+:ID:       94bbdd3c-725f-4719-b7da-664756575e7b
+:END:
+     - 25 are mentioned in the Qur’ān:
+       - Ādam, Idrīs, Nūḥ, Hūd, Ṣāliḥ, Lūṭ, Ibrāhīm, Ismā‘īl, Isḥāq, Ya‘qūb, Yūsuf, Shu‘ayb, Ayyūb,
+         Dhul-Kifl, Mūsā, Hārūn, Dāwūd, Sulaymān, Ilyās, al-Yasa‘, Yūnus, Zakariyyā, Yaḥyā, ‘Īsā, and Muḥammad (ﷺ)
+       - there are other names (not prophets) such as:
+         - Luqmān
+         - Dhul-Qarnayn
+         - Jālūt (Goliath)
+         - Khidr
+****** 3. everything that is authentically reported from them we accept
+:PROPERTIES:
+:ID:       0c1222c7-515d-4e4e-ad3b-6b6048aadaef
+:END:
+     - news cannot be abrogated
+****** 4. we act according to our Sharī‘ah, the one that the Prophet (ﷺ) was sent with
+:PROPERTIES:
+:ID:       d6880e3d-7ee0-4267-8fd2-62dcc44ed04f
+:END:
+- none of the Ṣaḥābah are better than the messengers
+  - after them is Abū Bakr al-Ṣiddīq
+
 **** 5. The last day 
+:PROPERTIES:
+:ID:       65db1bca-3a53-481e-932e-0d034d21cc9c
+:END:
         
-        The proof of this is in Allah saying: 
+The proof of this is in Allah saying: 
         
-       > The Cow (2:177)
-       > 
-       > 
-       > ۞ لَّيْسَ ٱلْبِرَّ أَن تُوَلُّوا۟ وُجُوهَكُمْ قِبَلَ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَلَـٰكِنَّ ٱلْبِرَّ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَٱلْمَلَـٰٓئِكَةِ وَٱلْكِتَـٰبِ وَٱلنَّبِيِّـۧنَ وَءَاتَى ٱلْمَالَ عَلَىٰ حُبِّهِۦ ذَوِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينَ وَٱبْنَ ٱلسَّبِيلِ وَٱلسَّآئِلِينَ وَفِى ٱلرِّقَابِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَٱلْمُوفُونَ بِعَهْدِهِمْ إِذَا عَـٰهَدُوا۟ ۖ وَٱلصَّـٰبِرِينَ فِى ٱلْبَأْسَآءِ وَٱلضَّرَّآءِ وَحِينَ ٱلْبَأْسِ ۗ أُو۟لَـٰٓئِكَ ٱلَّذِينَ صَدَقُوا۟ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُتَّقُونَ ١٧٧
-       > 
-       > Righteousness is not that you turn your faces toward the east or the west, but [true] righteousness is [in] one who believes in Allāh, the Last Day, the angels, the Book, and the prophets and gives wealth, in spite of love for it, to relatives, orphans, the needy, the traveler, those who ask [for help], and for freeing slaves; [and who] establishes prayer and gives zakāh; [those who] fulfill their promise when they promise; and [those who] are patient in poverty and hardship and during battle. Those are the ones who have been true, and it is those who are the righteous.
-       > — Saheeh International
-       > 
-       > https://quran.com/2/177
-       > 
+        The Cow (2:177)
+        
+        
+        ۞ لَّيْسَ ٱلْبِرَّ أَن تُوَلُّوا۟ وُجُوهَكُمْ قِبَلَ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَلَـٰكِنَّ ٱلْبِرَّ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَٱلْمَلَـٰٓئِكَةِ وَٱلْكِتَـٰبِ وَٱلنَّبِيِّـۧنَ وَءَاتَى ٱلْمَالَ عَلَىٰ حُبِّهِۦ ذَوِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينَ وَٱبْنَ ٱلسَّبِيلِ وَٱلسَّآئِلِينَ وَفِى ٱلرِّقَابِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَٱلْمُوفُونَ بِعَهْدِهِمْ إِذَا عَـٰهَدُوا۟ ۖ وَٱلصَّـٰبِرِينَ فِى ٱلْبَأْسَآءِ وَٱلضَّرَّآءِ وَحِينَ ٱلْبَأْسِ ۗ أُو۟لَـٰٓئِكَ ٱلَّذِينَ صَدَقُوا۟ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُتَّقُونَ ١٧٧
+        
+        Righteousness is not that you turn your faces toward the east or the west, but [true] righteousness is [in] one who believes in Allāh, the Last Day, the angels, the Book, and the prophets and gives wealth, in spite of love for it, to relatives, orphans, the needy, the traveler, those who ask [for help], and for freeing slaves; [and who] establishes prayer and gives zakāh; [those who] fulfill their promise when they promise; and [those who] are patient in poverty and hardship and during battle. Those are the ones who have been true, and it is those who are the righteous.
+        — Saheeh International
+        
+        https://quran.com/2/177
+- a completely different life; the Last Day will not be repeated and it will be a new life
+- it has a name for every letter of the alphabet to show its importance
+  - e.g. the Day of Standing (Yawm al-Qiyāmah)
+    
+- it is everything from the moment the unseen begins until Jannah
+  - includes the reward/punishment of the grave
+
+***** Three points to believe in
+:PROPERTIES:
+:ID:       8f33876a-8bca-484a-8fad-e8bf16c01493
+:END:
+****** 1. life given to the dead – resurrection
+:PROPERTIES:
+:ID:       f4fbf832-775e-4380-a79d-4fdfb14b23cc
+:END:
+     - for the Last Day, people will be raised barefoot and naked
+       - ‘Ā’ishah wondered: “won’t people look at each other?”
+         - but we will be in greater fear and only worry about ourselves
+         - it will be too severe for us
+****** 2. the ḥisāb
+:PROPERTIES:
+:ID:       7f9d53a6-233f-4e05-b7dd-fdccbadcf474
+:END:
+     - everyone will be accountable
+****** 3. jazā’ (recompense)
+:PROPERTIES:
+:ID:       4f74de7c-d540-4915-a469-991c4796a314
+:END:
+     - the reward and punishment
+       - those who enter Paradise will never leave it
+       - these abodes have already been created and will remain in existence for eternity
+       - everyone has their place there
+       - the believers will inherit the place of the kāfir in Jannah
+       - the kāfir will inherit the place of the believers in the Hellfire
+
+***** benefits
+:PROPERTIES:
+:ID:       7dedbe88-8fdd-4521-88f7-f16516ce3416
+:END:
+  - prevents us from falling into sin
+  - encourages us to do good deeds
+  - prevents our hearts from being attached to the affairs of this world
+  - it can be proven with the mind logically:
+    - Allah showed us that He brought people back to life:
+      - like the man who passed by a town (story in the Qur’ān)
+        - Allah caused him to die for 100 years and then brought him back to life
+      - another example:
+        - you see the earth dead and it is brought back to life
+        - you take a seed and plant it after it has dried and it comes back again
+      - the One who brought you to life the first time, it is easier for Him to do it again
+
 **** 6. Al-Qadar - divine pre-decree, the good of it and the bad of it. 
+:PROPERTIES:
+:ID:       7cec2827-1f38-476f-b57b-8128732c9ecb
+:END:
         
         The proof of this is in Allah saying: 
         
-       > The Moon (54:49)
-       > 
-       > 
-       > إِنَّا كُلَّ شَىْءٍ خَلَقْنَـٰهُ بِقَدَرٍۢ ٤٩
-       > 
-       > Indeed, all things We created with predestination.
-       > — Saheeh International
-       > 
-       > https://quran.com/54/49
-       > 
+        The Moon (54:49)
+        
+        
+        إِنَّا كُلَّ شَىْءٍ خَلَقْنَـٰهُ بِقَدَرٍۢ ٤٩
+        
+        Indeed, all things We created with predestination.
+        — Saheeh International
+        
+        https://quran.com/54/49
+ - to believe in destiny, the good and the bad of it
+  - all of the actions of Allah are good
+  - evil is not attributed to Allah
+    - the ḥadīth “good and evil” is related to us
+      - for us, something might appear bad
+        - “perhaps you dislike something but it is better for you”
+  - Qadr is the concept that regulates tawḥīd
+
+***** There are 4 aspects of His knowledge regarding Qadr:
+:PROPERTIES:
+:ID:       b5d2674d-3df6-4dab-a1eb-8a68491a68b4
+:END:
+****** 1. Allah knows everything that has happened and its fine details
+:PROPERTIES:
+:ID:       89b88587-8cd5-4b6e-9313-b9deb8e68f55
+:END:
+     - “to Allah belong the keys of the unseen”
+       - He knows what is in the land and the sea
+       - He knows when a leaf falls
+       - He knows where the grains are placed
+****** 2. everything that is currently happening
+:PROPERTIES:
+:ID:       363de8ba-0b98-41d6-9d02-d568a7234582
+:END:
+     - nothing escapes His knowledge
+       - He knows the details
+****** 3. everything that will happen in the future
+:PROPERTIES:
+:ID:       a13b1dbf-0666-4af5-b6e2-b2c5fa83fd52
+:END:
+     - nothing will happen contrary to His knowledge
+****** 4. even if something were different or did not happen, Allah would still know
+:PROPERTIES:
+:ID:       622c9050-1f94-42a6-bb85-5008b9aa1281
+:END:
+     - the disbelievers asking to be returned (after death)
+       - they would do exactly what they should not do
+       - even if they were returned, Allah knows the outcome
+     - this shows perfection in His knowledge
+       - Allah has complete knowledge of everything
+       - even if something did not happen, Allah knows its outcome
+
+***** Everything is written
+- everything is written down
+  - Allah has written the decree 50,000 years before He created the heavens and the earth (ḥadīth)
+  - the Prophet (ﷺ) said: when He first created the pen He said “write”
+    - the pen spoke and said: “what should I write?”
+      - Allah said: “write everything until the Hour is established”
+- whoever dies and does not believe in this is not from the believers
+- this is beyond our own comprehension
+  - we will not be able to understand the magnitude of this book
+****** His will (mashī’ah)
+- nothing takes place in the creation except that He has willed it
+  - “and you do not will except that Allah wills”
+****** His creation
+- Allah has created everything
+  - “Allah has created you and your actions”
+****** Free will and Qadr
+- if Allah willed it and created it, are we forced or do we have free will?
+
+- “whoever wants to be upright, let him be upright”
+  - if you want to do something, then do it; this is free will
+    - no one can deny the fact that we have free will:
+      - if you want to raise your hand, you will raise your hand
+    - those who chose to do something chose it; no one forced them
+      - and Allah has willed that you raise your hand
+      - and those who did not, Allah did not will it for them
+
+- example:
+  - a person wants to take a train
+    - he gets to the platform
+    - but on that day Allah willed that the train leaves earlier
+      - the man willed to get on the train, but Allah willed that he did not
+      - the man chose to go at that time and he arrived at that time
+        - if he had come earlier he would have caught the train
+        - but Allah did not will this
+      - hence Allah’s will is dominant, while you still exercised your free will and were not forced to do any action
+
+- we will not know the Qadr until the action has been performed
+  - hence we cannot depend on His will alone
+    - we need to perform actions, make intention and strive, and then we will see what the will of Allah is
+  - Allah knows what we are going to do and choose
+    - even if you do not do the action, you may still be rewarded for the intention
+
+- some people will use this argument (Qadr) to commit sin
+  - Allah addresses them in the Qur’ān:
+    - they would not even be able to commit shirk if that were the case
+  - Allah still punished them because this is what they chose to do
+  - Allah sent messengers to warn them
+    - and they will have no excuse; the proof is established
+    - if they were forced then there would be no need for messengers
+
+- ḥadīth:
+  - “every person’s seat is written – in the Hellfire or in Paradise”
+    - someone said: “should we just rely on Qadr?”
+      - the Prophet (ﷺ) said: “no, perform deeds, and whatever deed you perform it will be made easy for you to follow that path”
+        - Allah will facilitate for him the path of goodness (Qur’ān āyah)
+        - “whatever someone was created for, that path will be made easy for him” (ḥadīth)
+          - He knows what this person will do and traverse, what ḥarām and ḥalāl he will do, what farḍ he will do
+          - when Allah sees that he wants goodness, He will make good easy for him
+          - and the person will take whichever path he wants; Allah facilitates it
+          - if he does not choose it, then Allah will not facilitate it
+
+- Allah does not hold anyone to account beyond the ability they can perform
+  - “fear Allah as much as you can”
+  - you will not be accountable for that which you cannot bear
+
+- Allah has created in every human being a desire and ability/strength
+  - for everyone this is different; people have different levels of each
+  - when desire is combined with ability, it forms an action that the person intended
+    - that is when accountability comes
+    - hence He said “He created you and your actions”
+      - because He created your desire and ability
+      - you can have both
+      - but you control that desire by not putting the ability together with the desire to carry it out
+        - because you did not carry it out, you will not be accountable, even if the desire is extreme
+
+- it is only when you use the ability with the desire to form the action that you are accountable
+
+- for example:
+  - some people have a desire for ḥarām and say: “I was created like this, how can I not carry this out?” and use it as a reason to leave the religion and practice their desire, such as being gay
+    - then what is the difference between this person and the one that wishes to commit zinā or any other crime?
+    - we say: you will not be accountable for having the desire, but you will be accountable for what you carry out
+      - protect yourself from this to seek the pleasure of Allah
+      - do not put the desire and ability together and you have passed the test
+
+- they look at Qadr to commit the sin, but here we look at it as a reason *not* to commit the sin
+  - whoever intends something good and is not able to do it, he will be rewarded for the good intention
+  - whoever intends something evil and does not do it, Allah will write for him a good deed
+    - this is a mercy from Allah
+
+- Qadr is from the unseen
+  - you only know it after it happens
+  - you have the choice before it
+  - you have to use your free will to find out what the Qadr of Allah is
+
+- when it comes to worldly matters:
+  - if you are given two paths:
+    - a good one (makes you rich, stronger)
+    - a bad one (you could die or become disabled and weak)
+  - “choose the path” – everyone will choose the good one, and no one will blame Qadr for which path he wants to traverse
+    - so why do we not use this reasoning for the dīn but only for the dunyā?
+
+- we know which path will take us to Jannah and which to Jahannam
+  - Allah has created the desire and ability for us
+    - the general desire we have:
+      - we will not be accountable for this
+      - this is why when a person carries something out without intention he is not accountable
+        - e.g. accidentally tripping and it looks like he bowed to an idol
+          - no, the ability is there but the intention is not there
+
+  - when ability is there alone or desire is there alone, you will not be accountable
+    - Allah created them both
+    - when you combine both, it becomes the action
+      - that is why Allah has created your action
+      - and now you will be accountable
+
+- Allah does not force the creation, but they choose what they want and they will be accountable
+
+- during ‘Umar’s time a man stole something and his hand was cut
+  - he tried to blame the Qadr of Allah
+    - so ‘Umar said: “we will cut your hand by the Qadr of Allah”
+
+***** Benefits of belief in Qadr
+- we rely on Allah; the means can either work or fail
+  - we know it was only due to Allah that He allowed it
+    - hence we ask Allah to assist us to remember and worship Him
+    - we do not over-praise ourselves; we attribute success to Allah
+
+- when a person is faced with a calamity:
+  - whatever was going to afflict him was never going to miss him
+  - whatever missed him was never going to hit him
+    - this is from Allah
+    - hence we can use Qadr as an excuse in calamity (not in sin)
+
+- e.g. Mūsā vs Ādam (ḥadīth and Qur’ān)
+- sometimes it is used to raise a person’s status:
+  - if Allah loves them, Allah tests them
+  - the test is used as expiation
+
+- all of the actions of Allah are good and we do not attribute evil to Allah
+  - what we see is limited and we can only see a little
+  - but the person who has faced it will want it again; he will be in the heart of a green bird roaming around the Throne of Allah (e.g. the martyrs)
+  - evil is not attributed to Allah, only goodness
+  - Allah does not decree anything except with His ultimate wisdom
+    - we know it is wise because Allah is the Most Wise
+
 *** 3. Ihasan 
+ - the muḥsinūn
+it is one pillar, which means to worship Allah as if you see Him, but even if don’t see him, he indeed sees you 
     
-    it is one pillar, which means to worship Allah as if you see Him, but even if don’t see him, he indeed sees you 
+The proof for this is Allah’s saying 
     
-    The proof for this is Allah’s saying 
+     The Bee (16:128)
+     
+     
+     إِنَّ ٱللَّهَ مَعَ ٱلَّذِينَ ٱتَّقَوا۟ وَّٱلَّذِينَ هُم مُّحْسِنُونَ ١٢٨
+     
+     Indeed, Allāh is with those who fear Him and those who are doers of good.
+     — Saheeh International
+     
+     https://quran.com/16/128
+     
     
-    > The Bee (16:128)
-    > 
-    > 
-    > إِنَّ ٱللَّهَ مَعَ ٱلَّذِينَ ٱتَّقَوا۟ وَّٱلَّذِينَ هُم مُّحْسِنُونَ ١٢٨
-    > 
-    > Indeed, Allāh is with those who fear Him and those who are doers of good.
-    > — Saheeh International
-    > 
-    > https://quran.com/16/128
-    > 
+and his saying 
     
-    and his saying 
+     The Poets (26:217-220)
+     
+     
+     وَتَوَكَّلْ عَلَى ٱلْعَزِيزِ ٱلرَّحِيمِ ٢١٧
+     
+     And rely upon the Exalted in Might, the Merciful,
+     — Saheeh International
+     
+     ٱلَّذِى يَرَىٰكَ حِينَ تَقُومُ ٢١٨
+     
+     Who sees you when you arise
+     — Saheeh International
+     
+     وَتَقَلُّبَكَ فِى ٱلسَّـٰجِدِينَ ٢١٩
+     
+     And your movement among those who prostrate.
+     — Saheeh International
+     
+     إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ ٢٢٠
+     
+     Indeed, He is the Hearing, the Knowing.
+     — Saheeh International
+     
+     https://quran.com/26/220
+     
     
-    > The Poets (26:217-220)
-    > 
-    > 
-    > وَتَوَكَّلْ عَلَى ٱلْعَزِيزِ ٱلرَّحِيمِ ٢١٧
-    > 
-    > And rely upon the Exalted in Might, the Merciful,
-    > — Saheeh International
-    > 
-    > ٱلَّذِى يَرَىٰكَ حِينَ تَقُومُ ٢١٨
-    > 
-    > Who sees you when you arise
-    > — Saheeh International
-    > 
-    > وَتَقَلُّبَكَ فِى ٱلسَّـٰجِدِينَ ٢١٩
-    > 
-    > And your movement among those who prostrate.
-    > — Saheeh International
-    > 
-    > إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ ٢٢٠
-    > 
-    > Indeed, He is the Hearing, the Knowing.
-    > — Saheeh International
-    > 
-    > https://quran.com/26/220
-    > 
+and his saying
     
-    and his saying
+     Jonah (10:61)
+     
+     
+     وَمَا تَكُونُ فِى شَأْنٍۢ وَمَا تَتْلُوا۟ مِنْهُ مِن قُرْءَانٍۢ وَلَا تَعْمَلُونَ مِنْ عَمَلٍ إِلَّا كُنَّا عَلَيْكُمْ شُهُودًا إِذْ تُفِيضُونَ فِيهِ ۚ وَمَا يَعْزُبُ عَن رَّبِّكَ مِن مِّثْقَالِ ذَرَّةٍۢ فِى ٱلْأَرْضِ وَلَا فِى ٱلسَّمَآءِ وَلَآ أَصْغَرَ مِن ذَٰلِكَ وَلَآ أَكْبَرَ إِلَّا فِى كِتَـٰبٍۢ مُّبِينٍ ٦١
+     
+     And, [O Muḥammad], you are not [engaged] in any matter and do not recite any of the Qur’ān and you [people] do not do any deed except that We are witness over you when you are involved in it. And not absent from your Lord is any [part] of an atom's weight within the earth or within the heaven or [anything] smaller than that or greater but that it is in a clear register.
+     — Saheeh International
+     
+     https://quran.com/10/61
+     
     
-    > Jonah (10:61)
-    > 
-    > 
-    > وَمَا تَكُونُ فِى شَأْنٍۢ وَمَا تَتْلُوا۟ مِنْهُ مِن قُرْءَانٍۢ وَلَا تَعْمَلُونَ مِنْ عَمَلٍ إِلَّا كُنَّا عَلَيْكُمْ شُهُودًا إِذْ تُفِيضُونَ فِيهِ ۚ وَمَا يَعْزُبُ عَن رَّبِّكَ مِن مِّثْقَالِ ذَرَّةٍۢ فِى ٱلْأَرْضِ وَلَا فِى ٱلسَّمَآءِ وَلَآ أَصْغَرَ مِن ذَٰلِكَ وَلَآ أَكْبَرَ إِلَّا فِى كِتَـٰبٍۢ مُّبِينٍ ٦١
-    > 
-    > And, [O Muḥammad], you are not [engaged] in any matter and do not recite any of the Qur’ān and you [people] do not do any deed except that We are witness over you when you are involved in it. And not absent from your Lord is any [part] of an atom's weight within the earth or within the heaven or [anything] smaller than that or greater but that it is in a clear register.
-    > — Saheeh International
-    > 
-    > https://quran.com/10/61
-    > 
+The proof from the sunnah is hadeeth Jibreel
     
-    The proof from the sunnah is hadeeth Jibreel
-    
-    > وأما الأحاديث ؛ فالأول‏: ‏ عن عمر بن الخطاب، رضي الله عنه ، قال ‏ "‏ بينما نحن جلوس عند رسول الله، صلى الله عليه وسلم ذات يوم إذ طلع عينا رجل شديد بياض الثياب ، شديد سواد الشعر، لا يرى عليه أثر السفر، ولا يعرفه منا أحد، حتى جلس إلى النبي ،صلى الله عليه وسلم ، فأسند ركبتيه إلى ركبتيه، ووضع كفيه على فخذيه وقال‏: ‏ يا محمد أخبرني عن الإسلام، فقال‏: ‏ رسول الله صلى الله عليه وسلم‏: ‏ الإسلام أن تشهد أن لا إله إلا الله ، وأن محمداً رسول الله وتقيم الصلاة، وتؤتي الزكاة ، وتصوم رمضان ، وتحج البيت إن استطعت إليه سبيلاً‏.‏ قال صدقت‏.‏ فعجبنا له يسأله ويصدقه‏!‏ قال ‏: ‏ فأخبرني عن الإيمان‏.‏ قال أن تؤمن بالله، وملائكته، وكتبه ورسله، واليوم الآخر، وتؤمن بالقدر خيره وشره‏.‏ قال صدقت‏.‏ قال فأخبرني عن الإحسان ‏.‏ قال أن تعبد الله كأنك تراه؛ فإن لم تكن تراه فإنه يراك‏.‏ قال‏: ‏ فأخبرني عن الساعة‏.‏ قال‏: ‏ ما المسؤول عنها بأعلم من السائل‏.‏ قال ‏: ‏ فأخبرني عن أماراتها قال‏: ‏ أن تلد الأمة ربتها، وأن ترى الحفاة العراة العالة رعاء الشاء يتطالون في البنيان‏.‏ ثم انطلق، فلبثت ملياً، ثم قال‏: ‏ يا عمر أتدري من السائل‏؟‏ قلت‏: ‏ الله ورسوله أعلم‏.‏ قال‏: ‏ فإنه جبريل أتاكم يعلمكم أمر دينكم‏"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏ ‏.‏
-    > 
-    > 
-    > 
-    > 'Umar bin Al-Khattab (May Allah be pleased with them) said: Once we were sitting in the company of Messenger of Allah (ﷺ) when there appeared a man dressed in very white clothes and having extraordinary black hair. No signs of fatigue of journey appeared on him and he was known to none of us. He sat down facing the Prophet (ﷺ) leaning his knees against the knees of the Prophet (ﷺ) and placing both of his palms over his two thighs and said, 
-    > 
-    > "O Muhammad (ﷺ)! Tell me about Islam". He (ﷺ) replied, "Islam is to testify that none has the right to be worshipped but Allah, and that Muhammad (ﷺ) is the Messenger of Allah; that you observe Salat (prayers), pay Zakat, observe Saum (fasting) of Ramadan and perform Hajj (pilgrimage) of the House, provided you have resources of making journey to it." 
-    > 
-    > He replied: "You have spoken the truth." We were surprised to see that he had asked him and confirmed the correctness of the answers. He then enquired: "Tell me about Iman." He (ﷺ) said: "It is to believe in Allah, His angels, His Books, His Messengers and the Last Day and that you believe in preordainment (destiny), its bad and good consequences." 
-    > 
-    > He said, "You have spoken the truth." He then enquired: "Tell me about Ihsan." He (ﷺ) said, "It is to worship Allah as if you are seeing Him; and although you do not see Him, He sees you."
-    > 
-    > He enquired: "Inform me about the Hour (i.e., the Day of Resurrection)." He (ﷺ) replied, "I have no more knowledge thereof than you". 
-    > 
-    > He said, "Inform me about some of its signs." He (ﷺ) said, "They are - that a bondswoman gives birth to her own master, and that you will find the barefooted, naked, poor shepherds competing one another in the construction of higher buildings." Then he departed.
-    > 
-    >  The Messenger of Allah kept silent for a while then he said to me, "O 'Umar! Do you know who the questioner was?" I replied, "Allah and His Messenger know better." The Prophet (ﷺ) said, "He was Jibril (Gabriel); he came to you to teach you your religion." [Muslim]
-    > 
-    > Riyad as-Salihin 60
-    > https://sunnah.com/riyadussalihin:60
-    > 
+     وأما الأحاديث ؛ فالأول‏: ‏ عن عمر بن الخطاب، رضي الله عنه ، قال ‏ "‏ بينما نحن جلوس عند رسول الله، صلى الله عليه وسلم ذات يوم إذ طلع عينا رجل شديد بياض الثياب ، شديد سواد الشعر، لا يرى عليه أثر السفر، ولا يعرفه منا أحد، حتى جلس إلى النبي ،صلى الله عليه وسلم ، فأسند ركبتيه إلى ركبتيه، ووضع كفيه على فخذيه وقال‏: ‏ يا محمد أخبرني عن الإسلام، فقال‏: ‏ رسول الله صلى الله عليه وسلم‏: ‏ الإسلام أن تشهد أن لا إله إلا الله ، وأن محمداً رسول الله وتقيم الصلاة، وتؤتي الزكاة ، وتصوم رمضان ، وتحج البيت إن استطعت إليه سبيلاً‏.‏ قال صدقت‏.‏ فعجبنا له يسأله ويصدقه‏!‏ قال ‏: ‏ فأخبرني عن الإيمان‏.‏ قال أن تؤمن بالله، وملائكته، وكتبه ورسله، واليوم الآخر، وتؤمن بالقدر خيره وشره‏.‏ قال صدقت‏.‏ قال فأخبرني عن الإحسان ‏.‏ قال أن تعبد الله كأنك تراه؛ فإن لم تكن تراه فإنه يراك‏.‏ قال‏: ‏ فأخبرني عن الساعة‏.‏ قال‏: ‏ ما المسؤول عنها بأعلم من السائل‏.‏ قال ‏: ‏ فأخبرني عن أماراتها قال‏: ‏ أن تلد الأمة ربتها، وأن ترى الحفاة العراة العالة رعاء الشاء يتطالون في البنيان‏.‏ ثم انطلق، فلبثت ملياً، ثم قال‏: ‏ يا عمر أتدري من السائل‏؟‏ قلت‏: ‏ الله ورسوله أعلم‏.‏ قال‏: ‏ فإنه جبريل أتاكم يعلمكم أمر دينكم‏"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏ ‏.‏
+     
+     
+     
+     'Umar bin Al-Khattab (May Allah be pleased with them) said: Once we were sitting in the company of Messenger of Allah (ﷺ) when there appeared a man dressed in very white clothes and having extraordinary black hair. No signs of fatigue of journey appeared on him and he was known to none of us. He sat down facing the Prophet (ﷺ) leaning his knees against the knees of the Prophet (ﷺ) and placing both of his palms over his two thighs and said, 
+     
+     "O Muhammad (ﷺ)! Tell me about Islam". He (ﷺ) replied, "Islam is to testify that none has the right to be worshipped but Allah, and that Muhammad (ﷺ) is the Messenger of Allah; that you observe Salat (prayers), pay Zakat, observe Saum (fasting) of Ramadan and perform Hajj (pilgrimage) of the House, provided you have resources of making journey to it." 
+     
+     He replied: "You have spoken the truth." We were surprised to see that he had asked him and confirmed the correctness of the answers. He then enquired: "Tell me about Iman." He (ﷺ) said: "It is to believe in Allah, His angels, His Books, His Messengers and the Last Day and that you believe in preordainment (destiny), its bad and good consequences." 
+     
+     He said, "You have spoken the truth." He then enquired: "Tell me about Ihsan." He (ﷺ) said, "It is to worship Allah as if you are seeing Him; and although you do not see Him, He sees you."
+     
+     He enquired: "Inform me about the Hour (i.e., the Day of Resurrection)." He (ﷺ) replied, "I have no more knowledge thereof than you". 
+     
+     He said, "Inform me about some of its signs." He (ﷺ) said, "They are - that a bondswoman gives birth to her own master, and that you will find the barefooted, naked, poor shepherds competing one another in the construction of higher buildings." Then he departed.
+     
+      The Messenger of Allah kept silent for a while then he said to me, "O 'Umar! Do you know who the questioner was?" I replied, "Allah and His Messenger know better." The Prophet (ﷺ) said, "He was Jibril (Gabriel); he came to you to teach you your religion." [Muslim]
+     
+     Riyad as-Salihin 60
+     https://sunnah.com/riyadussalihin:60
+     
+**** Al-Mushāhada
+:PROPERTIES:
+:ID:       92220dbd-ac5f-4468-b701-e68301304c15
+:END:
+- to worship Allah as if you could see Him, though you cannot see Him
+
+#+begin_quote
+“None of you will see Allah until you pass away.”
+#+end_quote
+
+- a Ṣaḥābī narrated: [[id:61aec9e5-5314-4fa6-bd4b-2c7372ca17dd][there are many voluntary acts, so which act can someone do that will encompass all of them? That is to constantly remember Allah.]]
+- Ibn al-Qayyim said: no one will reach the level of iḥsān except those who frequently move their tongue (with dhikr)
+
+- if you are in constant remembrance of Allah, then how hard will it be to even come close to sin?
+  - how can a person sin while remembering his Lord?
+  - how can you fall into evil deeds when you are doing good deeds knowing that Allah is watching you?
+
+- when you are saying “Allāhu akbar” you remember how weak and deficient you are:
+  - as Allah [[id:076b0d9a-dc90-40e4-8f60-5752c8678003][says: you will not pierce through the earth and you are not going to reach the mountains in height]]
+
+- where does arrogance come from?
+  - how can you be proud when:
+    - your beginning was a droplet of fluid
+    - while you are alive you hold impurities in your stomach
+    - when you die you will turn into a rotten corpse that people will despise because of the pungent foul smell
+
+- your beginning, middle and end are despised, so where has this arrogance come from?
+
+- so the slave of Allah will say “Allāhu akbar”:
+  - recognizing that Allah is the Greatest
+  - recognizing how weak we are and how much we need Allah constantly
+  - it makes him repent to Allah and leads him to more good deeds
+
+- so he keeps his tongue moist with the remembrance of Allah; what does it do?
+  - it encompasses the entire Sharī‘ah of Allah
+  - it leads us to every path of goodness and away from harm and evil
+
+- so this is the religion of Allah: learn about it and perfect it (statement, actions, beliefs) to become like the Prophet (ﷺ)
+
+#+begin_quote
+[[id:b2fef51c-93a4-4141-91d2-36c84cb1828b][‘Ā’ishah (may Allah be pleased with her) said: his character was the Qur’ān.]]
+#+end_quote
+
+- every good quality you will find, you will find it in him
+- every evil quality, he is free from it (peace and blessings of Allah be upon him)
+- every act of worship you will find him doing it
+- every act of sin, you will find him free from it
+
+**** Al-Murāqaba
+:PROPERTIES:
+:ID:       2d01ee3d-4624-49dd-8453-a5adeadf247f
+:END:
+- to worship Allah knowing you are being watched, but not at the level of al-mushāhada
+
+- from the examples of the creation:
+  - when a person is being watched, he performs the task at hand better than if he was not being watched
+  - working when someone is in person vs using a camera is not the same
+    - the task will be performed differently and not at the same quality
+
+- with iḥsān:
+  - you know that Allah is always watching and always aware of what you do
+  - the Ever-Living, the Self-Sustaining, free from any deficiency
+  - the One and Only who is possessed of ultimate greatness
+  - the One who is exalted in His Essence and His attributes
+
+- with that knowledge you:
+  - act according to it
+  - think according to it
+  - behave according to it
+  - everything you do is according to this awareness, knowing that your Lord is always watching
+
+- this is to be conscious of Allah (taqwā)
+  - then the task you perform will be to the best of your ability
+
+**** The certainty of being told vs witnessing
+:PROPERTIES:
+:ID:       f319dc15-6a70-4b12-b8bc-cbe26341d269
+:END:
+
+- we will study about Allah, His greatness, His rights and His Messenger
+  - we will build certainty to the highest degree
+
+#+begin_quote
+*The Rivalry in world increase* (Sūrah al-Takāthur 102:5–8)  
+[[id:30547bd0-fe40-4dee-af9e-ed8192c1bdf3][“No! If you only knew with knowledge of certainty…”]]  
+[[id:344da55d-db52-42fb-9cd9-d3cb4bed0f03][“You will surely see the Hellfire.”]]  
+[[id:2e1d4e80-c58a-420f-8e34-843f8fc33a3b][“Then you will surely see it with the eye of certainty.”]]  
+[[id:cc85cc64-3a53-4680-ac18-9cdfd086d872][“Then you will surely be asked that Day about pleasure.”]]
+#+end_quote
+
+- you see the difference between the knowledge of certainty and the eye of certainty
+  - hence our aim is to *increase our certainty*
+
+***** Īmān as certainty
+- [[id:198c8513-15df-4e42-8f8a-dfe675a3a6f7][‘Abdullāh ibn Mas‘ūd]] was asked: “what is īmān?”
+  - he said: “īmān is certainty.”
+
+- when a person is certain:
+  - he will not leave the obligations
+  - he will stay away from ḥarām
+  - he will do the voluntary acts
+  - and stay away from that which is disliked
 
 * The Third Fundamental Principle (Prophet Muhammed peace and blessing of Allah be on him ) 
 :PROPERTIES:
@@ -776,296 +1889,385 @@ Establishing the Prayer
 
 Knowledge of you Prophet Muhammed peace and blessing be upon him: Hi is Muhammad, the son of ‘Abdullah, the son of ‘Abdul-mutallib bin Haashim. Haashim was from the tribe of Quraysh and Quraysh was from the Arabs. And the Arabs are from the offspring of Prophet Isma’eel, the son of Prophet Ibraaheem. May Allah send the best of his peace and blissing on him and our prophet Muhammed (peace and blessing be upon him)
 
+- between the Prophet (ﷺ) and ‘Adnān are 21 people
+- from the mother’s side it meets at Kilāb
+  - so Āminah bint Wahb ibn ‘Abd Manāf ibn Zuhrah ibn Kilāb
+
+- from the creation he is the one deserving of the ṣalāt ([[id:57a6968f-c3f5-401f-a9ec-36e89cf264ad][ﷺ]])
+  - he warned people of shirk and eradicated it
+  - he called people to tawḥīd
+
+
 He lived for 63 years, 40 of which was prior to his prophethood and 23 of which he spent as a prophet, messenger. 
 
 He became a prophet due to Allah’s saying 
 
-> The Clot (96:1)
-> 
-> 
-> ٱقْرَأْ بِٱسْمِ رَبِّكَ ٱلَّذِى خَلَقَ ١
-> 
-> Recite in the name of your Lord who created –
-> — Saheeh International
-> 
-> https://quran.com/96/1
-> 
+ The Clot (96:1)
+ 
+ 
+ ٱقْرَأْ بِٱسْمِ رَبِّكَ ٱلَّذِى خَلَقَ ١
+ 
+ Recite in the name of your Lord who created –
+ — Saheeh International
+ 
+ https://quran.com/96/1
+ 
 
 and a messenger due to 
 
-> The Cloaked One (74:1)
-> 
-> 
-> يَـٰٓأَيُّهَا ٱلْمُدَّثِّرُ ١
-> 
-> O you who covers himself [with a garment],
-> — Saheeh International
-> 
-> https://quran.com/74/1
-> 
+ The Cloaked One (74:1)
+ 
+ 
+ يَـٰٓأَيُّهَا ٱلْمُدَّثِّرُ ١
+ 
+ O you who covers himself [with a garment],
+ — Saheeh International
+ 
+ https://quran.com/74/1
+ 
 
 His homeland was Makkah, and he later migrated to madeenah. Allah sent him to warn against Shirk (polytheism) and to call to Tawheed (pure monotheism)
 
 The proof for this is Allah’s saying 
 
-> The Cloaked One (74:1-7)
-> 
-> 
-> يَـٰٓأَيُّهَا ٱلْمُدَّثِّرُ ١
-> 
-> O you who covers himself [with a garment],
-> 
+ The Cloaked One (74:1-7)
+ 
+ 
+ يَـٰٓأَيُّهَا ٱلْمُدَّثِّرُ ١
+ 
+ O you who covers himself [with a garment],
+ 
 
-> قُمْ فَأَنذِرْ ٢
+ قُمْ فَأَنذِرْ ٢
 Arise and warn
-> 
+ 
 
 The meaning of rise and warn, is warn against Shirk and call to Tawheed 
 
-> وَرَبَّكَ فَكَبِّرْ ٣
+ وَرَبَّكَ فَكَبِّرْ ٣
 And your Lord glorify
-> 
+ 
 
 means glorify Allah in the way of tawheed 
 
-> وَثِيَابَكَ فَطَهِّرْ ٤
+ وَثِيَابَكَ فَطَهِّرْ ٤
 And your clothing purify
-> 
+ 
 
 means cleanse your actions from shirk
 
-> وَٱلرُّجْزَ فَٱهْجُرْ ٥
+ وَٱلرُّجْزَ فَٱهْجُرْ ٥
 And uncleanliness avoid
 - uncleanliness = Specifically, idols or generally, bad conduct and morals.
-> 
+ 
 
 “ar-rujz”, means statues, and “abandon”, means leave them and free yourself from them and those who worship them. 
 
-> وَلَا تَمْنُن تَسْتَكْثِرُ ٦
+ وَلَا تَمْنُن تَسْتَكْثِرُ ٦
 And do not confer favor to acquire more
 But for your Lord be patient.
 — Saheeh International
-> 
-> 
-> https://quran.com/74/7
-> 
+ 
+ 
+ https://quran.com/74/7
+ 
 
 He remained doing this for 10 years, calling to people to Tawheed, And after 10 years, he ascended to the heavens, where the five daily prayer were made obligatory on him (peace and blessing be upon him). So he prayed in Makkah for 3 years and thereafter, he was ordered to make the Hijrah to madeenah 
-
+** Hijrah and the verse about those who did not migrate
 Hijrah means moving from a land of shirk to a land of Islam. It is obligatory upon this ummah to migrate from a land of Shirk to a land of Islam , and this is everlasting until the final hour is established. 
+
+
+- Qur’ān āyah (about those who did not make hijrah):
+  - the reason for this verse is for the Muslims who did not migrate
+  - Allah did not call them “O disbelievers” or “people who have left the religion”
+    - they are still called Muslims
+
+- hijrah means migrating to a better land:
+  - not just a Muslim land, but a better land that will make it easier to practice your dīn
+    - e.g. the land of Abyssinia
+
+*** ruling of hijrah:
+  1. if they are unable to show their identity/Islam:
+     - and they are able to migrate
+       - hijrah is obligatory upon this person
+  2. if he is able to establish his religion:
+     - and he is able to migrate
+       - for him it is recommended
+  3. if he is unable to make hijrah:
+     - Allah will forgive him
+
+- hijrah will continue until repentance ends
+  - and repentance will end when the sun rises from the west (ḥadīth)
+    - no one can say it has been abrogated
+
+- “there is no hijrah after the conquest” (ḥadīth):
+  - because Makkah had become the land of Islam
+  - “hijrah will remain until the enemy are fought” (ḥadīth)
+
 
 The proof of this is Allah’s saying 
 
-> The Women (4:97-99)
-> 
-> 
-> إِنَّ ٱلَّذِينَ تَوَفَّىٰهُمُ ٱلْمَلَـٰٓئِكَةُ ظَالِمِىٓ أَنفُسِهِمْ قَالُوا۟ فِيمَ كُنتُمْ ۖ قَالُوا۟ كُنَّا مُسْتَضْعَفِينَ فِى ٱلْأَرْضِ ۚ قَالُوٓا۟ أَلَمْ تَكُنْ أَرْضُ ٱللَّهِ وَٰسِعَةًۭ فَتُهَاجِرُوا۟ فِيهَا ۚ فَأُو۟لَـٰٓئِكَ مَأْوَىٰهُمْ جَهَنَّمُ ۖ وَسَآءَتْ مَصِيرًا ٩٧
-> 
-> Indeed, those whom the angels take [in death] while wronging themselves - [the angels] will say, "In what [condition] were you?" They will say, "We were oppressed in the land." They [the angels] will say, "Was not the earth of Allāh spacious [enough] for you to emigrate therein?" For those, their refuge is Hell - and evil it is as a destination.
-> — Saheeh International
-> 
-> إِلَّا ٱلْمُسْتَضْعَفِينَ مِنَ ٱلرِّجَالِ وَٱلنِّسَآءِ وَٱلْوِلْدَٰنِ لَا يَسْتَطِيعُونَ حِيلَةًۭ وَلَا يَهْتَدُونَ سَبِيلًۭا ٩٨
-> 
-> Except for the oppressed among men, women and children who cannot devise a plan nor are they directed to a way -
-> — Saheeh International
-> 
-> فَأُو۟لَـٰٓئِكَ عَسَى ٱللَّهُ أَن يَعْفُوَ عَنْهُمْ ۚ وَكَانَ ٱللَّهُ عَفُوًّا غَفُورًۭا ٩٩
-> 
-> For those it is expected that Allāh will pardon them, and Allāh is ever Pardoning and Forgiving.
-> — Saheeh International
-> 
+ The Women (4:97-99)
+ 
+ 
+ إِنَّ ٱلَّذِينَ تَوَفَّىٰهُمُ ٱلْمَلَـٰٓئِكَةُ ظَالِمِىٓ أَنفُسِهِمْ قَالُوا۟ فِيمَ كُنتُمْ ۖ قَالُوا۟ كُنَّا مُسْتَضْعَفِينَ فِى ٱلْأَرْضِ ۚ قَالُوٓا۟ أَلَمْ تَكُنْ أَرْضُ ٱللَّهِ وَٰسِعَةًۭ فَتُهَاجِرُوا۟ فِيهَا ۚ فَأُو۟لَـٰٓئِكَ مَأْوَىٰهُمْ جَهَنَّمُ ۖ وَسَآءَتْ مَصِيرًا ٩٧
+ 
+ Indeed, those whom the angels take [in death] while wronging themselves - [the angels] will say, "In what [condition] were you?" They will say, "We were oppressed in the land." They [the angels] will say, "Was not the earth of Allāh spacious [enough] for you to emigrate therein?" For those, their refuge is Hell - and evil it is as a destination.
+ — Saheeh International
+ 
+ إِلَّا ٱلْمُسْتَضْعَفِينَ مِنَ ٱلرِّجَالِ وَٱلنِّسَآءِ وَٱلْوِلْدَٰنِ لَا يَسْتَطِيعُونَ حِيلَةًۭ وَلَا يَهْتَدُونَ سَبِيلًۭا ٩٨
+ 
+ Except for the oppressed among men, women and children who cannot devise a plan nor are they directed to a way -
+ — Saheeh International
+ 
+ فَأُو۟لَـٰٓئِكَ عَسَى ٱللَّهُ أَن يَعْفُوَ عَنْهُمْ ۚ وَكَانَ ٱللَّهُ عَفُوًّا غَفُورًۭا ٩٩
+ 
+ For those it is expected that Allāh will pardon them, and Allāh is ever Pardoning and Forgiving.
+ — Saheeh International
+ 
 
 and Allah’s saying 
 
-> The Spider (29:56)
-> 
-> 
-> يَـٰعِبَادِىَ ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّ أَرْضِى وَٰسِعَةٌۭ فَإِيَّـٰىَ فَٱعْبُدُونِ ٥٦
-> 
-> O My servants who have believed, indeed My earth is spacious, so worship only Me.
-> — Saheeh International
-> 
-> https://quran.com/29/56
-> 
+ The Spider (29:56)
+ 
+ 
+ يَـٰعِبَادِىَ ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّ أَرْضِى وَٰسِعَةٌۭ فَإِيَّـٰىَ فَٱعْبُدُونِ ٥٦
+ 
+ O My servants who have believed, indeed My earth is spacious, so worship only Me.
+ — Saheeh International
+ 
+ https://quran.com/29/56
+ 
 
 Al-Baghawi, may Allah have mercy on him, said 
 
-> The reason for the revelation of this ayah was due to some Muslims who had reside in Makkah and did not migrate (to madeenah). Allah called out to them using the title of Eman for them
-> 
+ The reason for the revelation of this ayah was due to some Muslims who had reside in Makkah and did not migrate (to madeenah). Allah called out to them using the title of Eman for them
+ 
 
 The proof for hijrah from the Sunnah in his peace and blessing be upon him saying 
 
-> Hijrah will not cease until repentance ceases. And repentance will not cease until the sun rises from where it sets (Abu Dawud)
-> 
+Hijrah will not cease until repentance ceases. And repentance will not cease until the sun rises from where it sets (Abu Dawud)
+ 
+** Makkan vs Madīnan revelation
+- when in Makkah:
+  - revelation related to inner belief
+    - tawḥīd
+
+- when in Madīnah:
+  - revelation related to the legislation of Islam
+    - e.g. zakāt, jihād
+
 
 So, when he settled in madeenah he peace and blessing be upon him, commanded all for the remaining laws of Islam, such  Zakat, Fasting, Hajj, Adhan, Jihad, commanding good and forbidding evil, as well as, the other laws. He peace and blessing be upon him remained doing this for 10 years, and then passed away, peace and blessing of Allah be on him, while his Religion remained  
 
-This was his Religion - there was no good except that he directed his ummah towards it, and there was no evil except that he warned them against it. The good that he directed his ummah to was: Tawheed and everything that Allah loves and is pleased with. the evil that he warned his ummah about was: Shrik and everything that Allah hates and reject. 
+This was his Religion - there was no good except that he directed his ummah towards it, and there was no evil except that he warned them against it. The good that he directed his ummah to was: Tawheed and everything that Allah loves and is pleased with. the evil that he warned his ummah about was: Shrik and everything that Allah hates and reject.
+
+** Finality and completion of the religion
+- the Prophet (ﷺ) was sent to all of mankind and to the jinn
+- Allah has completed the religion
+  - the general Islam and the specific Islam
+- no prophet has come after him
+- “this day I have perfected your religion for you…” – this verse was revealed on the day of Ḥajj during the day of ‘Arafah
+  - the aim of a Muslim is to give people the evidence to bring them to Jannah
+    - not to prove the evidence *against* them
+
+
 
 Allah sent him to all of mankind, and he made it an obligation upon everyone from the two species of Jinn and mankind to obey him. 
 
 The proof of this is Allah’s saying
 
-> The Heights (7:158)
-> 
-> 
-> قُلْ يَـٰٓأَيُّهَا ٱلنَّاسُ إِنِّى رَسُولُ ٱللَّهِ إِلَيْكُمْ جَمِيعًا ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ لَآ إِلَـٰهَ إِلَّا هُوَ يُحْىِۦ وَيُمِيتُ ۖ فَـَٔامِنُوا۟ بِٱللَّهِ وَرَسُولِهِ ٱلنَّبِىِّ ٱلْأُمِّىِّ ٱلَّذِى يُؤْمِنُ بِٱللَّهِ وَكَلِمَـٰتِهِۦ وَٱتَّبِعُوهُ لَعَلَّكُمْ تَهْتَدُونَ ١٥٨
-> 
-> Say, [O Muḥammad], "O mankind, indeed I am the Messenger of Allāh to you all, [from Him] to whom belongs the dominion of the heavens and the earth. There is no deity except Him; He gives life and causes death." So believe in Allāh and His Messenger, the unlettered prophet, who believes in Allāh and His words, and follow him that you may be guided.
-> — Saheeh International
-> 
-> https://quran.com/7/158
-> 
+ The Heights (7:158)
+ 
+ 
+ قُلْ يَـٰٓأَيُّهَا ٱلنَّاسُ إِنِّى رَسُولُ ٱللَّهِ إِلَيْكُمْ جَمِيعًا ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ لَآ إِلَـٰهَ إِلَّا هُوَ يُحْىِۦ وَيُمِيتُ ۖ فَـَٔامِنُوا۟ بِٱللَّهِ وَرَسُولِهِ ٱلنَّبِىِّ ٱلْأُمِّىِّ ٱلَّذِى يُؤْمِنُ بِٱللَّهِ وَكَلِمَـٰتِهِۦ وَٱتَّبِعُوهُ لَعَلَّكُمْ تَهْتَدُونَ ١٥٨
+ 
+ Say, [O Muḥammad], "O mankind, indeed I am the Messenger of Allāh to you all, [from Him] to whom belongs the dominion of the heavens and the earth. There is no deity except Him; He gives life and causes death." So believe in Allāh and His Messenger, the unlettered prophet, who believes in Allāh and His words, and follow him that you may be guided.
+ — Saheeh International
+ 
+ https://quran.com/7/158
+ 
 
 Allah perfected and completed his Religion through him peace and blessing of Allah be on him
 
 The poof of this is Allah’s saying 
 
-> The Table Spread (5:3)
-> 
-> 
-> حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلدَّمُ وَلَحْمُ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ وَٱلْمُنْخَنِقَةُ وَٱلْمَوْقُوذَةُ وَٱلْمُتَرَدِّيَةُ وَٱلنَّطِيحَةُ وَمَآ أَكَلَ ٱلسَّبُعُ إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى ٱلنُّصُبِ وَأَن تَسْتَقْسِمُوا۟ بِٱلْأَزْلَـٰمِ ۚ ذَٰلِكُمْ فِسْقٌ ۗ ٱلْيَوْمَ يَئِسَ ٱلَّذِينَ كَفَرُوا۟ مِن دِينِكُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِ ۚ ٱلْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَـٰمَ دِينًۭا ۚ فَمَنِ ٱضْطُرَّ فِى مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍۢ لِّإِثْمٍۢ ۙ فَإِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ ٣
-> 
-> Prohibited to you are dead animals, blood, the flesh of swine, and that which has been dedicated to other than Allāh, and [those animals] killed by strangling or by a violent blow or by a head-long fall or by the goring of horns, and those from which a wild animal has eaten, except what you [are able to] slaughter [before its death], and those which are sacrificed on stone altars, and [prohibited is] that you seek decision through divining arrows. That is grave disobedience. This day those who disbelieve have despaired of [defeating] your religion; so fear them not, but fear Me. This day I have perfected for you your religion and completed My favor upon you and have approved for you Islām as religion. But whoever is forced by severe hunger with no inclination to sin - then indeed, Allāh is Forgiving and Merciful.
-> — Saheeh International
-> 
-> https://quran.com/5/3
-> 
+ The Table Spread (5:3)
+ 
+ 
+ حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلدَّمُ وَلَحْمُ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ وَٱلْمُنْخَنِقَةُ وَٱلْمَوْقُوذَةُ وَٱلْمُتَرَدِّيَةُ وَٱلنَّطِيحَةُ وَمَآ أَكَلَ ٱلسَّبُعُ إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى ٱلنُّصُبِ وَأَن تَسْتَقْسِمُوا۟ بِٱلْأَزْلَـٰمِ ۚ ذَٰلِكُمْ فِسْقٌ ۗ ٱلْيَوْمَ يَئِسَ ٱلَّذِينَ كَفَرُوا۟ مِن دِينِكُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِ ۚ ٱلْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَـٰمَ دِينًۭا ۚ فَمَنِ ٱضْطُرَّ فِى مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍۢ لِّإِثْمٍۢ ۙ فَإِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ ٣
+ 
+ Prohibited to you are dead animals, blood, the flesh of swine, and that which has been dedicated to other than Allāh, and [those animals] killed by strangling or by a violent blow or by a head-long fall or by the goring of horns, and those from which a wild animal has eaten, except what you [are able to] slaughter [before its death], and those which are sacrificed on stone altars, and [prohibited is] that you seek decision through divining arrows. That is grave disobedience. This day those who disbelieve have despaired of [defeating] your religion; so fear them not, but fear Me. This day I have perfected for you your religion and completed My favor upon you and have approved for you Islām as religion. But whoever is forced by severe hunger with no inclination to sin - then indeed, Allāh is Forgiving and Merciful.
+ — Saheeh International
+ 
+ https://quran.com/5/3
+ 
 
 The proof that he peace and blessing of Allah be on him died, is Allah’s saying 
 
-> The Troops (39:30-31)
-> 
-> 
-> إِنَّكَ مَيِّتٌۭ وَإِنَّهُم مَّيِّتُونَ ٣٠
-> 
-> Indeed, you are to die, and indeed, they are to die.
-> — Saheeh International
-> 
-> ثُمَّ إِنَّكُمْ يَوْمَ ٱلْقِيَـٰمَةِ عِندَ رَبِّكُمْ تَخْتَصِمُونَ ٣١
-> 
-> Then indeed you, on the Day of Resurrection, before your Lord, will dispute.
-> — Saheeh International
-> 
-> https://quran.com/39/31
-> 
+ The Troops (39:30-31)
+ 
+ 
+ إِنَّكَ مَيِّتٌۭ وَإِنَّهُم مَّيِّتُونَ ٣٠
+ 
+ Indeed, you are to die, and indeed, they are to die.
+ — Saheeh International
+ 
+ ثُمَّ إِنَّكُمْ يَوْمَ ٱلْقِيَـٰمَةِ عِندَ رَبِّكُمْ تَخْتَصِمُونَ ٣١
+ 
+ Then indeed you, on the Day of Resurrection, before your Lord, will dispute.
+ — Saheeh International
+ 
+ https://quran.com/39/31
+ 
 
 When people die they will be resurrected. 
 
 The proof of this is in Allah’s saying
 
-> Ta-Ha (20:55)
-> 
-> 
-> ۞ مِنْهَا خَلَقْنَـٰكُمْ وَفِيهَا نُعِيدُكُمْ وَمِنْهَا نُخْرِجُكُمْ تَارَةً أُخْرَىٰ ٥٥
-> 
-> From it [i.e., the earth] We created you, and into it We will return you, and from it We will extract you another time.
-> — Saheeh International
-> 
-> https://quran.com/20/55
-> 
+ Ta-Ha (20:55)
+ 
+ 
+ ۞ مِنْهَا خَلَقْنَـٰكُمْ وَفِيهَا نُعِيدُكُمْ وَمِنْهَا نُخْرِجُكُمْ تَارَةً أُخْرَىٰ ٥٥
+ 
+ From it [i.e., the earth] We created you, and into it We will return you, and from it We will extract you another time.
+ — Saheeh International
+ 
+ https://quran.com/20/55
+ 
 
 and Allah’s saying 
 
-> Noah (71:17-18)
-> 
-> 
-> وَٱللَّهُ أَنۢبَتَكُم مِّنَ ٱلْأَرْضِ نَبَاتًۭا ١٧
-> 
-> And Allāh has caused you to grow from the earth a [progressive] growth.
-> — Saheeh International
-> 
-> ثُمَّ يُعِيدُكُمْ فِيهَا وَيُخْرِجُكُمْ إِخْرَاجًۭا ١٨
-> 
-> Then He will return you into it and extract you [another] extraction.
-> — Saheeh International
-> 
-> https://quran.com/71/18
-> 
+ Noah (71:17-18)
+ 
+ 
+ وَٱللَّهُ أَنۢبَتَكُم مِّنَ ٱلْأَرْضِ نَبَاتًۭا ١٧
+ 
+ And Allāh has caused you to grow from the earth a [progressive] growth.
+ — Saheeh International
+ 
+ ثُمَّ يُعِيدُكُمْ فِيهَا وَيُخْرِجُكُمْ إِخْرَاجًۭا ١٨
+ 
+ Then He will return you into it and extract you [another] extraction.
+ — Saheeh International
+ 
+ https://quran.com/71/18
+ 
 
 After being resurrected, they will be judge and recompensed for their action. 
 
 The proof of this is in Allah’s saying 
-
-> The Star (53:31)
-> 
-> 
-> وَلِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ لِيَجْزِىَ ٱلَّذِينَ أَسَـٰٓـُٔوا۟ بِمَا عَمِلُوا۟ وَيَجْزِىَ ٱلَّذِينَ أَحْسَنُوا۟ بِٱلْحُسْنَى ٣١
-> 
-> And to Allāh belongs whatever is in the heavens and whatever is in the earth - that He may recompense those who do evil with [the penalty of] what they have done and recompense those who do good with the best [reward] -
-> — Saheeh International
-> 
-> https://quran.com/53/31
-> 
+ The Star (53:31)
+ 
+ 
+ وَلِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ لِيَجْزِىَ ٱلَّذِينَ أَسَـٰٓـُٔوا۟ بِمَا عَمِلُوا۟ وَيَجْزِىَ ٱلَّذِينَ أَحْسَنُوا۟ بِٱلْحُسْنَى ٣١
+ 
+ And to Allāh belongs whatever is in the heavens and whatever is in the earth - that He may recompense those who do evil with [the penalty of] what they have done and recompense those who do good with the best [reward] -
+ — Saheeh International
+ 
+ https://quran.com/53/31
+ 
 
 whoever rejects the resurrection, disbelieves. 
 
 The proof of this is in Allah’s saying 
 
-> The Mutual Disillusion (64:7)
-> 
-> 
-> زَعَمَ ٱلَّذِينَ كَفَرُوٓا۟ أَن لَّن يُبْعَثُوا۟ ۚ قُلْ بَلَىٰ وَرَبِّى لَتُبْعَثُنَّ ثُمَّ لَتُنَبَّؤُنَّ بِمَا عَمِلْتُمْ ۚ وَذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٌۭ ٧
-> 
-> Those who disbelieve have claimed that they will never be resurrected. Say, "Yes, by my Lord, you will surely be resurrected; then you will surely be informed of what you did. And that, for Allāh, is easy."
-> — Saheeh International
-> 
-> https://quran.com/64/7
-> 
+ The Mutual Disillusion (64:7)
+ 
+ 
+ زَعَمَ ٱلَّذِينَ كَفَرُوٓا۟ أَن لَّن يُبْعَثُوا۟ ۚ قُلْ بَلَىٰ وَرَبِّى لَتُبْعَثُنَّ ثُمَّ لَتُنَبَّؤُنَّ بِمَا عَمِلْتُمْ ۚ وَذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٌۭ ٧
+ 
+ Those who disbelieve have claimed that they will never be resurrected. Say, "Yes, by my Lord, you will surely be resurrected; then you will surely be informed of what you did. And that, for Allāh, is easy."
+ — Saheeh International
+ 
+ https://quran.com/64/7
+ 
+** Messengers and taghūt
+- Allah sent down the messengers as warners and bringers of glad-tidings
+  - to give glad tidings and warnings for the people
+- Nūḥ being the first messenger and the last being the Prophet (ﷺ)
+  - and the creation will come to Nūḥ seeking intercession (on the Day of Judgement)
+
+- every nation was sent a messenger
+  - to worship Allah alone and stay away from the ṭāghūt
+  - to disbelieve in the ṭāghūt and to believe in Allah
+
+- definition of ṭāghūt (Ibn al-Qayyim):
+  - that which a person has transgressed the limits with, in terms of what he worships, follows or obeys
+    - that thing becomes a ṭāghūt when it is worshipped besides Allah
+    - the thing itself may not inherently be a ṭāghūt (e.g. ‘Īsā)
+      - but when people worship him and take him as a god, that is ṭāghūt
+
+  - to follow other than the guidance of Islam and make it the path
+  - to give someone else the right of legislation
+    - the right to legislate belongs only to Allah
+
+- as for those who are worshipped and are pleased with it:
+  - they are *ṭawāghīt* (pl. of ṭāghūt)
+
+- the reason why Allah sent the messengers:
+  - to eradicate their evil and foolishness
+
+- the unseen (ghayb) is in two categories:
+  1. things known to some but not everyone
+     - e.g. hiding a treasure
+  2. the unseen of the future
+     - whether a person is pious or not, whether he will go to Jannah or not
+
 
 Allah sent all of the messengers, giving good tiding an warning. 
 
 The proof of this is Allah’s Saying 
 
-> The Women (4:165)
-> 
-> 
-> رُّسُلًۭا مُّبَشِّرِينَ وَمُنذِرِينَ لِئَلَّا يَكُونَ لِلنَّاسِ عَلَى ٱللَّهِ حُجَّةٌۢ بَعْدَ ٱلرُّسُلِ ۚ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمًۭا ١٦٥
-> 
-> [We sent] messengers as bringers of good tidings and warners so that mankind will have no argument against Allāh after the messengers. And ever is Allāh Exalted in Might and Wise.
-> — Saheeh International
-> 
-> https://quran.com/4/165
-> 
+ The Women (4:165)
+ 
+ 
+ رُّسُلًۭا مُّبَشِّرِينَ وَمُنذِرِينَ لِئَلَّا يَكُونَ لِلنَّاسِ عَلَى ٱللَّهِ حُجَّةٌۢ بَعْدَ ٱلرُّسُلِ ۚ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمًۭا ١٦٥
+ 
+ [We sent] messengers as bringers of good tidings and warners so that mankind will have no argument against Allāh after the messengers. And ever is Allāh Exalted in Might and Wise.
+ — Saheeh International
+ 
+ https://quran.com/4/165
+ 
 
 The first of them was Nuh and the last of them was Muhammad peace and blessing of Allah be on him, who was the deal of Prophets. 
 
 The proof that Nuh was the first of them is in Allah’s saying
 
-> The Women (4:163)
-> 
-> 
-> ۞ إِنَّآ أَوْحَيْنَآ إِلَيْكَ كَمَآ أَوْحَيْنَآ إِلَىٰ نُوحٍۢ وَٱلنَّبِيِّـۧنَ مِنۢ بَعْدِهِۦ ۚ وَأَوْحَيْنَآ إِلَىٰٓ إِبْرَٰهِيمَ وَإِسْمَـٰعِيلَ وَإِسْحَـٰقَ وَيَعْقُوبَ وَٱلْأَسْبَاطِ وَعِيسَىٰ وَأَيُّوبَ وَيُونُسَ وَهَـٰرُونَ وَسُلَيْمَـٰنَ ۚ وَءَاتَيْنَا دَاوُۥدَ زَبُورًۭا ١٦٣
-> 
-> Indeed, We have revealed to you, [O Muḥammad], as We revealed to Noah and the prophets after him. And We revealed to Abraham, Ishmael, Isaac, Jacob, the Descendants, Jesus, Job, Jonah, Aaron, and Solomon; and to David We gave the book [of Psalms].
-> — Saheeh International
-> 
-> https://quran.com/4/163
-> 
+ The Women (4:163)
+ 
+ 
+ ۞ إِنَّآ أَوْحَيْنَآ إِلَيْكَ كَمَآ أَوْحَيْنَآ إِلَىٰ نُوحٍۢ وَٱلنَّبِيِّـۧنَ مِنۢ بَعْدِهِۦ ۚ وَأَوْحَيْنَآ إِلَىٰٓ إِبْرَٰهِيمَ وَإِسْمَـٰعِيلَ وَإِسْحَـٰقَ وَيَعْقُوبَ وَٱلْأَسْبَاطِ وَعِيسَىٰ وَأَيُّوبَ وَيُونُسَ وَهَـٰرُونَ وَسُلَيْمَـٰنَ ۚ وَءَاتَيْنَا دَاوُۥدَ زَبُورًۭا ١٦٣
+ 
+ Indeed, We have revealed to you, [O Muḥammad], as We revealed to Noah and the prophets after him. And We revealed to Abraham, Ishmael, Isaac, Jacob, the Descendants, Jesus, Job, Jonah, Aaron, and Solomon; and to David We gave the book [of Psalms].
+ — Saheeh International
+ 
+ https://quran.com/4/163
+ 
 
 Every nations that Allah sent a messenger to, from Nuh up to Muhammed peace and blessing of Allah be on him, (i.e the messengers) would command them to worship Allah alone and forbid them from worshipping the Taaghoot 
 
 The proof for this Allah’s saying 
 
-> The Bee (16:36)
-> 
-> 
-> وَلَقَدْ بَعَثْنَا فِى كُلِّ أُمَّةٍۢ رَّسُولًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ وَٱجْتَنِبُوا۟ ٱلطَّـٰغُوتَ ۖ فَمِنْهُم مَّنْ هَدَى ٱللَّهُ وَمِنْهُم مَّنْ حَقَّتْ عَلَيْهِ ٱلضَّلَـٰلَةُ ۚ فَسِيرُوا۟ فِى ٱلْأَرْضِ فَٱنظُرُوا۟ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُكَذِّبِينَ ٣٦
-> 
-> And We certainly sent into every nation a messenger, [saying], "Worship Allāh and avoid ṭāghūt." And among them were those whom Allāh guided, and among them were those upon whom error was [deservedly] decreed. So proceed [i.e., travel] through the earth and observe how was the end of the deniers.
-> — Saheeh International
-> 
-> https://quran.com/16/36
-> 
+ The Bee (16:36)
+ 
+ 
+ وَلَقَدْ بَعَثْنَا فِى كُلِّ أُمَّةٍۢ رَّسُولًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ وَٱجْتَنِبُوا۟ ٱلطَّـٰغُوتَ ۖ فَمِنْهُم مَّنْ هَدَى ٱللَّهُ وَمِنْهُم مَّنْ حَقَّتْ عَلَيْهِ ٱلضَّلَـٰلَةُ ۚ فَسِيرُوا۟ فِى ٱلْأَرْضِ فَٱنظُرُوا۟ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُكَذِّبِينَ ٣٦
+ 
+ And We certainly sent into every nation a messenger, [saying], "Worship Allāh and avoid ṭāghūt." And among them were those whom Allāh guided, and among them were those upon whom error was [deservedly] decreed. So proceed [i.e., travel] through the earth and observe how was the end of the deniers.
+ — Saheeh International
+ 
+ https://quran.com/16/36
+ 
 
 Allah obligated all of his servants to disbelieve in the Taaghoot and believe in Allah 
 
 Ibn Al-Qayyim, may Allah have mercy on him said
 
-> The meaning of taaghoot is someone or something for whose sake a worshipper transgresses limits, such as those who are worshipped, followed or obeyed
-> 
+ The meaning of taaghoot is someone or something for whose sake a worshipper transgresses limits, such as those who are worshipped, followed or obeyed
+ 
 
-The Tawaagheet (people of Taaghoot) are many, but their heads are 5: 
+*** The Tawaagheet (people of Taaghoot) are many, but their heads are 5: 
 
 1. Ibless (the Devil), may Allah curse him 
 2. whoever is worshipped while being please with that 
@@ -1075,22 +2277,30 @@ The Tawaagheet (people of Taaghoot) are many, but their heads are 5:
 
 The proof of this is in Allah’s saying 
 
-> The Cow (2:256)
-> 
-> 
-> لَآ إِكْرَاهَ فِى ٱلدِّينِ ۖ قَد تَّبَيَّنَ ٱلرُّشْدُ مِنَ ٱلْغَىِّ ۚ فَمَن يَكْفُرْ بِٱلطَّـٰغُوتِ وَيُؤْمِنۢ بِٱللَّهِ فَقَدِ ٱسْتَمْسَكَ بِٱلْعُرْوَةِ ٱلْوُثْقَىٰ لَا ٱنفِصَامَ لَهَا ۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ ٢٥٦
-> 
-> There shall be no compulsion in [acceptance of] the religion. The right course has become distinct from the wrong. So whoever disbelieves in ṭāghūt and believes in Allāh has grasped the most trustworthy handhold with no break in it. And Allāh is Hearing and Knowing.
-> — Saheeh International
-> 
-> https://quran.com/2/256
-> 
+ The Cow (2:256)
+ 
+ 
+ لَآ إِكْرَاهَ فِى ٱلدِّينِ ۖ قَد تَّبَيَّنَ ٱلرُّشْدُ مِنَ ٱلْغَىِّ ۚ فَمَن يَكْفُرْ بِٱلطَّـٰغُوتِ وَيُؤْمِنۢ بِٱللَّهِ فَقَدِ ٱسْتَمْسَكَ بِٱلْعُرْوَةِ ٱلْوُثْقَىٰ لَا ٱنفِصَامَ لَهَا ۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ ٢٥٦
+ 
+ There shall be no compulsion in [acceptance of] the religion. The right course has become distinct from the wrong. So whoever disbelieves in ṭāghūt and believes in Allāh has grasped the most trustworthy handhold with no break in it. And Allāh is Hearing and Knowing.
+ — Saheeh International
+ 
+ https://quran.com/2/256
+
+ - you cannot force anyone to enter into Islam
+  - ḥadīth: “whoever changes his religion, kill him”
+    - if there is no compulsion, then he could leave when he wants – but this is *not* the meaning of the verse
+    - it means you cannot force someone to *enter* into the religion
+
+  - if you disbelieve in the ṭāghūt:
+    - then you have entered into Islam
+
 
 This is what is meant by the statement laa ilaaha Illaaalllah
 
 and in the Hadeeth 
 
-> The head of the matter is Islam and it’s main pillar is the Prayer. And it’s height part is Jihad in the cause of Allah.
-> 
+ The head of the matter is Islam and it’s main pillar is the Prayer. And it’s height part is Jihad in the cause of Allah.
+ 
 
 And Allah knows best. May Allah send his peace and blessing on Muhammed, his family, and his Companions.

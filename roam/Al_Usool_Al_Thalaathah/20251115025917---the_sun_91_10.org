@@ -2,6 +2,7 @@
 :ID:       4735ff6b-d9d0-42e0-880f-392c81c5d974
 :END:
 #+title: The Sun (91:10)
+#+filetags: :quran:
 The Sun (91:10) 
 
 وَقَدْ خَابَ مَن دَسَّىٰهَا ١٠

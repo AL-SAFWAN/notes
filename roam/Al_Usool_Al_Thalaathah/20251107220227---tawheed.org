@@ -10,6 +10,9 @@ is to Singling Allah out in worship. And the Greatest thing that Allah warned ag
 - Whatever rights Allah (ﷻ) has, it is only is exclusive to Allah (ﷻ), that which he deserves.
   
 * There are 3 types of rights
+:PROPERTIES:
+:ID:       618885c8-6ca6-433e-bd16-c1dd16f8aea5
+:END:
 - There are the general categories of the rights of Allah based on the Qur'an and Sunnah.
   Tawheed ar-Ruboobiyyah is the action that comes done to the creation, Tawheed al-Uloohiyyah is the action that goes to Allah alone. 
 ** 1. Tawheed ar-Ruboobiyyah
@@ -73,7 +76,7 @@ We have not seen Allah, nor is there something like Allah and Allah has not desc
 
 We say about Allah’s attributes what Imām [[id:548d27b9-95e7-45d5-9684-fd68f2e9b526][malik]] said about al-istiwā’:
  #+begin_quote
-  The meaning is known, the ‘how’ is unknown, believing in it is obligatory, and asking about the ‘how’ is an innovation.”
+  The meaning is known, the ‘how’ is unknown, believing in it is obligatory, and asking about the ‘how’ is an innovation. (bid'ah)”
  #+end_quote
 
 *** Tamthīl
@@ -82,7 +85,6 @@ We say about Allah’s attributes what Imām [[id:548d27b9-95e7-45d5-9684-fd68f2
 :END:
 Likeness/equating Allah with creation.
 
-  
 * Ar-Ruboobiyyah -> ul-Uloohiyyah
 :PROPERTIES:
 :ID:       f7472ed1-4eff-4053-b3dd-ce81b6fa2533
@@ -116,7 +118,6 @@ So why did they worship them?
   https://quran.com/39/3
  #+end_quote
 They likened Allah to the kings and leaders of this world, if you want to a speak to a leader of the world, you ask someone that knows him to ask him, and hoping by this you assume you'll come close to the leader, they said how can we go to Allah directly when we are so sinful, let us as someone that he like and that thing will ask Allah. They know what worship is. Hence by this, we understand to single out our actions in terms of worship. we don't ask, status, angels, people, trees, saints or the dead
-
 
 * Every creation believe in the [[1. Tawheed ar-Ruboobiyyah]]
 :PROPERTIES:
@@ -158,3 +159,23 @@ When you know something is in existence, who bought it to existence?
  
 When the human needs to create, he manipulates something from the creation of Allah to produce something, but he can never make something from absolute nothings, even if they all got together. 
 
+* Tawheed as the greatest command and right
+:PROPERTIES:
+:ID:       c2ec6e81-002e-41ed-b83f-67d9e03b86cc
+:END:
+- the greatest thing that Allah has commanded is tawheed
+  - there is no greater command than this
+    - this is the greatest right: tawheed
+
+** The word /tawheed/ and its usage
+:PROPERTIES:
+:ID:       2dd29b19-c16c-4a98-a46a-8d57877276b4
+:END:
+- the word /tawheed/
+  - was used, e.g. he began with tawheed and then said “labbayka Allahumma labbayk”
+  - e.g. if your father affirmed tawheed
+    - e.g. recited from “tawheed”
+      - it is not an invented word and was used by the scholars of the past
+        - statement of Imam Abu Hanifah
+          - famous statement: we call upon Allah who is above
+            - being low has no description of worship and lordship
