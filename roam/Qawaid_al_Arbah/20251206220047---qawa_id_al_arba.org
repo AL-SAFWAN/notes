@@ -1,0 +1,397 @@
+:PROPERTIES:
+:ID:       b1a902a9-c6dd-4325-8ec2-eab8d08afbad
+:END:
+#+title: Al-Qawāʿid al-Arbaʿ (The Four Principles)
+#+author: Muḥammad ibn ʿAbd al-Wahhāb
+
+[[id:9606a017-6c87-43d3-bb25-d20449aa09b8][arba lesson 1]]
+
+4 fundamental condition that speech about the condition of the [[id:7c9395e4-2d44-408a-bcd4-c525a56bb355][example of Quraish]], what were they upon and how did the prophet treat them.
+- to understand what they're worship and believed
+- to understand they're shirk of the Quraish
+- how did they worship Allah
+  
+* Introduction
+
+In the name of Allah, the Most Merciful, the Bestower of Mercy.
+
+I ask Allah, the Most Generous, Lord of the Mighty [[id:536206be-e193-4181-a938-66f13aedfe7d][Throne]], to take charge of you in this world and the Hereafter, to make you blessed wherever you may be, and to make you among those who,
+ - when given, are grateful,
+ - when tested, are patient, and
+ - when they sin, seek forgiveness.
+- Indeed, these three are the markers of happiness.
+
+** Know – may Allah guide you to obey Him – that al-Hanifiyyah, the way of Ibrahim, is that you worship Allah alone, making the religion purely for Him.
+:PROPERTIES:
+:ID:       d3242361-5fbe-4c5f-8eab-06d476741910
+:END:
+
+Allah, the Most High, says:
+
+ #+begin_quote
+ “I have not created the jinn and humankind except that they worship Me.” [adh-Dhariyat 51:56]
+ #+end_quote
+
+So when you know that Allah created you for His worship, then know that worship is not truly called worship except together with tawhid,
+- just as the prayer is not called prayer except along with purification. If shirk enters into worship, it spoils it, just as a state of impurity, when it enters into purification, ruins it.
+  - e.g the person still want to pray while into the state of hadith
+
+When you know that
+**  shirk, if it mixes with worship,
+:PROPERTIES:
+:ID:       7b69396a-c0e0-4fab-8667-85d25eac34ab
+:END:
+*** 1. corrupts it,
+:PROPERTIES:
+:ID:       7a2cfe14-c613-474f-84ee-399f01193c8f
+:END:
+*** 2. destroys the deeds, and
+:PROPERTIES:
+:ID:       d2bad1e5-b2f6-4043-9cf0-dd3514c58ebc
+:END:
+*** 3. makes its doer from those who remain forever in the Fire,
+:PROPERTIES:
+:ID:       247de780-6245-4e34-ab6f-9b5241465473
+:END:
+     - never enter Paradise
+       - they have no helpers
+         - no ones intercession will help
+            
+** then you know that the most important thing upon you is to know this matter,
+- so that Allah may rescue you from this net (the shrik) – the net of associating partners with Allah – about which Allah, the Exalted, said:
+     #+begin_quote
+      “Indeed, Allah does not forgive that partners be associated with Him, but He forgives whatever is less than that for whom He wills.” [an-Nisa 4:48]
+     #+end_quote
+    - is this minor or major shirk
+      - the majority say is the is major shirk and not the minor shirk
+      - the minority say it's both, he will be punished for the minor shirk and then enter into jannah
+        - e.g ibn taymiyaah
+
+This is by knowing four rules which Allah, the Most High, has mentioned in His Book.
+
+* The First Rule
+:PROPERTIES:
+:ID:       b7ac6335-3b1f-4c14-ae10-96b766eaee7a
+:END:
+
+** Know that the disbelievers whom the Prophet (ﷺ) fought
+:PROPERTIES:
+:ID:       7fb80de9-49f6-4172-af7e-b68674f1007d
+:END:
+*** believe that Allah,
+:PROPERTIES:
+:ID:       a8d76cb3-0ac6-4c6d-bb40-38dd4eb226bb
+:END:
+the Exalted, is the Creator, the Provider, and the One who manages all affairs. Yet that did not enter them into Islam.
+**** the disbeliever believed into tawheed rubobiyaah
+:PROPERTIES:
+:ID:       a1ab9674-015c-4a8c-91c1-a241bfceb6c7
+:END:
+**** but it was not sufficient for them to enter into Islam
+:PROPERTIES:
+:ID:       bbbbd2e1-3fba-48a5-a58e-9093eafd3887
+:END:
+
+The proof is His saying, the Most High:
+
+ #+begin_quote
+  “Say: Who provides for you from the heaven and the earth? Or who owns hearing and sight? And who brings forth the living from the dead, and brings forth the dead from the living? And who directs the affair? They will surely say: ‘Allah.’ So say: Will you not then be mindful (and fear Him)?” [Yunus 10:31]
+ #+end_quote
+
+- it shows they believed in the lordship of Allah
+  - they didn't believe they're idols didn't create the heavens and earth
+    - and they know Allah created them
+- what made them disbeliever
+  - Allah did not send the Prophet (ﷺ) to teach the Lordship
+    - but used it as the proof to affirm the worship of Allah alone (ulohiyah)
+      - the knew the la ilaha illallah, don't mean that there is no god except Allah, but - there is no deity that has the right to be worshipped except Allah, and that Muhammad is the Messenger of Allah
+        - hence they refused and said have you made everything we worship into one.
+
+** Iblīs
+:PROPERTIES:
+:ID:       e3905a09-d85a-4bc2-ba49-23721aec539a
+:END:
+- Iblīs *believed* in Allah’s existence and Lordship.
+- He *spoke* to Allah and *asked* Him for respite.
+- He still became a disbeliever because he **refused to obey** a clear command (prostrating to Ādam).
+- His kufr = **arrogant refusal after knowing** (kufr al-ʿinād / al-istikbār).
+- ➜ *Lesson*: Knowledge without submission and obedience ≠ īmān.
+** Why their action is shirk (even though they “believe in Allah”)
+:PROPERTIES:
+:ID:       3bd3082c-8e84-4e7a-8ccd-9d5acb556101
+:END:
+- They *know* Allah is the only Lord (like Quraysh knew, like Iblīs knew).
+- They still **refuse** to restrict worship/duʿāʾ to Allah alone.
+- They hand over duʿāʾ, hope, fear, and vows to:
+  - a saint,
+  - a dead person,
+  - an unseen figure.
+- This is:
+  - **disobedience after knowledge**,
+  - plus **directing worship to other than Allah**.
+- ➜ That is exactly what makes it shirk, even while they verbally say “lā ilāha illā Allāh”.
+** Why they don’t *call* it shirk 
+:PROPERTIES:
+:ID:       ff91df25-03ad-4ded-87a3-789734d1a55a
+:END:
+- hence from this we understand what the Shirk of Quraish is in worship
+  - This is my the deviant group fell into shirk
+    - i.e asking the dead
+  - they would also believe there is no god except Allah
+    - but that would make Quriash Muslim as well, hence this is incorrect
+      - they would say as long as Allah is the one true lord then it is not shirk
+        - such as make a dua to the saint, they said it's not shirk until he is likened to Allah in his lordship.
+          - however dua is ibadah, which is an exclusive right to Allah, and it was given to someone who can't even hear.
+            
+- They redefine their act:
+  - “This is tawassul, not worship.”
+  - “We only honour/love him, we don’t worship.”
+- They redefine shirk:
+  - “It is only shirk if we believe he creates/provides.”
+- They confuse:
+  - asking a *living* person next to you to *make duʿāʾ for you* (permissible),
+  - with *calling directly* upon the unseen or the dead (duʿāʾ *to them*).
+They change the **labels**, but the **reality** of the act is duʿāʾ to other than Allah.
+     
+* The Second Rule
+:PROPERTIES:
+:ID:       163848b1-f74a-4eed-baea-7bf4346faf21
+:END:
+
+That they say: “We do not call upon them, nor turn towards them, except to seek nearness and /intercession/.”
+- these are the two reason for their kufr
+  - hence this shows that the believe in Allah
+    - they linked Allah to the kings of the Earth
+      - hence if you don't know the king in the earth you can't go to him directly because he doesn't know you, so you need to go to someone who knows the king that can act as an intermediaries.
+        - there end goal was to become closer
+          - hence this shows that it's not only about the intention, but there actions as well, which was kufr and the wrong means
+          
+
+The proof for seeking nearness is His saying, the Most High:
+
+ #+begin_quote
+  “And those who take protectors besides Him say: ‘We only worship them so that they may bring us closer to Allah.’ Surely, Allah will judge between them concerning that wherein they differ. Indeed, Allah does not guide one who is a liar, a stubborn disbeliever.” [az-Zumar 39:3]
+ #+end_quote
+
+And the proof for (their claim of) /intercession/ is His saying, the Most High:
+
+ #+begin_quote
+  “And they worship, besides Allah, that which can neither harm them nor benefit them, and they say: ‘These are our intercessors with Allah.’ Say: ‘Do you inform Allah of something He does not know in the heavens or in the earth?’ Glorified and exalted is He above what they associate (with Him).” [Yunus 10:18]
+ #+end_quote
+
+** shafaa' intercession mean to gain a benefit or repell a harm from other than Allah
+:PROPERTIES:
+:ID:       ad468156-eaa1-411f-9e98-7b8ab9f66056
+:END:
+ 
+Intercession is of two types: a /negated/ intercession and an /affirmed/ intercession.
+
+*** The negated intercession
+:PROPERTIES:
+:ID:       0f3b5c69-13dd-4ee5-bcbd-b903fb924161
+:END:
+- is that which is sought from other than Allah in matters that none but Allah is able to carry out.
+
+The proof is His saying, the Most High:
+
+ #+begin_quote
+  “O you who believe! Spend from that which We have provided you before there comes a Day in which there is neither bargaining, nor friendship, nor intercession. And the disbelievers – they are the wrongdoers.” [al-Baqarah 2:254]
+ #+end_quote
+- every intercession belongs to Allah
+  - this is a right from Allah
+    - no one can do it without the permission of Allah and ask someone else other than Allah
+    - he negates anyone try to be a parnet of the incestion
+      - so who seeks intercession other from Allah has making rivals to Allah.
+    - No one can intercede for you and Allah grants his permission to whoever he want
+
+
+
+*** The affirmed intercession
+:PROPERTIES:
+:ID:       57e223f7-a149-42c8-8b94-3d86aee44a44
+:END:
+- is that which is sought from Allah. The intercessor is one whom Allah honours with intercession, and the one for whom intercession is made is he whose speech and actions Allah is pleased with, after He gives permission
+
+as He, the Most High, says:
+
+ #+begin_quote
+  “Who is it that can intercede with Him except by His permission?” [al-Baqarah 2:255]
+ #+end_quote
+
+- this is the intercession which the prophet (ﷺ) give by Allah permission by who Allah decides who they be
+  - the one who intercede is honour by the interstion
+    - Allah can just forgive them and put them into Jannah
+      - but Allah does this to raise the certain person to honour the person
+        - the greatest shafaa' is the prophet (ﷺ) compare to any other prophet or man 
+          - so as he intercede more they're rank will also increase
+            - as these people will taken out of the fire through these people, such as the prophet (ﷺ) and the rightous
+              
+  - what is the condition for the person to be taken out, the intercedee
+    - 1. he is a Muslim
+      - the ones that All is please with them
+        - to raise their ranks intercesor 
+    - 2. Allah grant the permission
+      - e.g the prophet (ﷺ) will wait till the permission of Allah
+        
+  - the itersion of those who intercede will not profit them except for abu talib, who punishesment was lessed by the prophet (ﷺ) intercession.
+- hence if they ask the prophet (ﷺ) for intercession then this is shirk
+  - but if they ask Allah to give the prophet (ﷺ) permission to intercede for you then there is permissible
+    
+other means of asking Allah
+- call Allah by his names
+- ask by your righteous action e.g the three men stuck in the grave and making dua for the rock to move
+  - you can only ask by the you're own good deeds and not of other, e.g by the station of the prophet (ﷺ) 
+- the someone is able, present and alive to make dua for you
+  - e.g uwais making dua
+    - when abu bakr ask to make dua for him
+      - then he left and died anonomly out of fear that people will keep asking him and he would think that he is somone to intercede
+  
+* The Third Rule
+:PROPERTIES:
+:ID:       8d8f6889-79c0-46a1-8ef4-0d434e757027
+:END:
+
+That the Prophet (may Allah’s peace and blessings be upon him) appeared among a people who were diverse in what they worshipped.
+- Among them was one who worshipped the angels, and
+- among them one who worshipped the prophets and the righteous.
+- Among them was one who worshipped trees and stones, and
+- among them one who worshipped the sun and the moon.
+  
+Yet the Messenger of Allah (may Allah’s peace and blessings be upon him) fought them and did not distinguish between them.
+
+The proof is His saying, the Most High:
+
+ #+begin_quote
+  “And fight them until there is no more fitnah (i.e. shirk), and the religion is entirely for Allah.” [al-Anfal 8:39]
+ #+end_quote
+- fitnah is shirk/polytheism
+  - the point of disbelief is to worship other than Allah, iresceptive of what they are calling upon
+    - there is no differecation between them, it is all shirk.
+  
+The proof regarding the sun and the moon is His saying, the Most High:
+
+ #+begin_quote
+  “And from His signs are the night and the day, and the sun and the moon. Do not prostrate to the sun nor to the moon, but prostrate to Allah, who created them, if it is Him that you worship.” [Fussilat 41:37]
+ #+end_quote
+
+The proof regarding the angels is His saying, the Most High:
+
+“And he (any prophet) would never command you to take the angels and the prophets as lords. Would he command you to disbelief after you have submitted?” [Ali ‘Imran 3:80]
+
+The proof regarding the prophets is His saying, the Most High:
+
+ #+begin_quote
+  “And when Allah will say: ‘O Jesus, son of Mary! Did you say to the people: Take me and my mother as two gods besides Allah?’ He will say: ‘Glory be to You! It is not for me to say what I have no right to say. If I had said it, You would indeed have known it. You know what is within myself, and I do not know what is within Yourself. Truly, You alone are the Knower of the unseen.’” [al-Ma’idah 5:116]
+ #+end_quote
+
+The proof regarding the righteous is His saying, the Most High:
+
+ #+begin_quote
+  “Those whom they call upon themselves seek a means of nearness to their Lord – which of them will be nearest – and they hope for His mercy and fear His punishment. Indeed, the punishment of your Lord is something to be feared.” [al-Isra 17:57]
+ #+end_quote
+
+The proof regarding trees and stones is His saying, the Most High:
+
+ #+begin_quote
+  “Have you considered al-Lat and al-‘Uzza, and Manat, the third, the other?” [an-Najm 53:19–20]
+ #+end_quote
+- there is two types of al-lat
+  - a scultured rock and created it like the kaba with curtains and guards
+    - the dervied this name from Allah
+      - they disorted the name of Allah
+  - with a shada with a taa
+    - then he was a pious man who used to give flour to the people who was doing hajj
+      - a house was build over his grave and people tried to seek closness from Allah with him
+  - abu sufain and mugari ibn su'bah distroyed this idol
+- al uza
+  - a patch of trees between macca and taif
+  - a sourding the tree was curtains, the shayteens would talk and hide in there
+    - the people would think that the tree are talking
+    - and the direvidec from the name al-aziz
+      - khalid ibn waleed distroy this ido
+
+al manat
+- ali distoryed this idol
+- white rock
+  - was also like a house like the kaba, with curtains
+  - in taif
+  - based on the name al-manan 
+
+And the proof from the Sunnah is the hadith of Abu Waqid al-Laythi (may Allah be pleased with him), who said:
+
+ #+begin_quote
+  “We went out with the Messenger of Allah (may Allah’s peace and blessings be upon him) to (the battle of) Hunayn while we were newly removed from disbelief. The polytheists had a lote-tree at which they used to stay and on which they would hang their weapons; it was called Dhat Anwat. We passed by a lote-tree and said: ‘O Messenger of Allah, assign for us a Dhat Anwat just as they have a Dhat Anwat.’” (and so on, the hadith).
+ #+end_quote
+- they just left disbelief
+  - the musrikeen who have a tree (and do itikaf there and glorify the tree) and hang there wepon there thinking that it would strengten it
+    - they walked past the tree
+    - they ask the messenger of Allah to make a tree like this
+- The prophet (ﷺ) Allah hu akbar, you said something like the banu israeal to musa,
+  - make us an diety like they have an diety
+  - this is the path, you'll treverse the same path as them
+    - even if they enter the hole of the lizard you'll enter the whole of the lizard
+      - the lizard enters into different place and they're hard to find
+        - the did not leave the fold of Islam nor worshipped the tree, but they're just inquiring about it 
+  
+* The Fourth Rule
+
+That the polytheists of our time are more severe in their shirk than the earlier ones.
+- For the people of old used to associate partners (with Allah) in times of ease and make their worship purely for Allah in times of hardship.
+- But the polytheists of our time, their shirk is constant
+  – in times of ease and in times of hardship.
+
+The proof is His saying, the Most High:
+
+ #+begin_quote
+  “So when they board the ship, they call upon Allah, making the religion sincerely His; but when He brings them safely to land, behold, they associate partners (with Him).” [al-‘Ankabut 29:65]
+ #+end_quote
+- If the prophet (ﷺ) classed the musrikeen at his (ﷺ) time as kafir, then surely the people who are commit greater shirk today, have more right to be excommunicated.
+  
+**  Ten Differences Between the Mushrikīn of Old and the Later Mushrikīn
+:PROPERTIES:
+:ID:       3234fbed-ef59-4914-91ae-ff0ea9d230a1
+:END:
+
+*** 1. Shirk in ease vs. shirk all the time
+- The mushrikīn of old made their worship purely for Allah in times of hardship.
+- The mushrikīn of later times commit shirk continuously — in ease and hardship.
+
+*** 2. Who they called upon
+- The earlier mushrikīn called upon those they believed were close to Allah (angels, prophets, righteous men).
+- The later mushrikīn call upon open sinners, corrupt individuals, or anyone buried in a grave.
+
+*** 3. Their stance toward the prophets
+- The mushrikīn of old knew their religion opposed the message of the prophets.
+- The mushrikīn of later times claim their acts of shirk are from the religion of the Prophet ﷺ.
+
+*** 4. Belief in rubūbiyyah (control over creation)
+- The mushrikīn of old did not believe their idols independently controlled creation.
+- Later mushrikīn believe saints control the universe, give provision, cure illness, and manage affairs.
+
+*** 5. Intercessors vs. independent “powers”
+- The mushrikīn of old used their idols only as intercessors to Allah.
+- The later mushrikīn treat their saints and awliyā’ as independent sources of benefit and harm.
+
+*** 6. Scope of the shirk
+- Shirk of the mushrikīn of old was mostly in ulūhiyyah (acts of worship).
+- Shirk of later mushrikīn occurs in ulūhiyyah, rubūbiyyah, and even in the Names and Attributes of Allah.
+
+*** 7. Calling it “respect” and “rights”
+- The mushrikīn of old never claimed idols had “rights” like vows or sacrifices.
+- Many later mushrikīn claim grave-rituals are from the rights of the saints and part of “respect.”
+
+*** 8. Admitting shirk vs. renaming it
+- The mushrikīn of old admitted openly that their actions were worship.
+- The mushrikīn of later times deny that their acts are worship, renaming them as “love,” “tawassul,” “honouring,” etc.
+
+*** 9. What they asked for
+- The mushrikīn of old asked idols for worldly needs (rain, victory, crops).
+- The later mushrikīn ask saints for dunya and ākhirah (forgiveness, Paradise, rescue from Hell).
+
+*** 10. What they glorified more
+- The mushrikīn of old still magnified the House of Allah and His symbols above idols.
+- The mushrikīn of later times glorify shrines and graves more than the masājid and the symbols of Allah.
+
+* Conclusion
+
+It is finished. And may Allah send prayers upon Muhammad, his family and his companions, and grant them peace.

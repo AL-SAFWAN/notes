@@ -1082,6 +1082,9 @@ Establishing the Prayer
         https://quran.com/3/97
                 
 *** 2. Eman 
+:PROPERTIES:
+:ID:       9fd2e136-9c84-4a0f-9611-665f7cf7b016
+:END:
     [[id:6fe4d2f5-79f3-4c0e-a633-93fb791e837c][thalatha lesson 6]] 
 It consists of more than 70 branches. The heist of them is saying Laa ilaaaha IllaaAllah and the lowest of the is moving a harmful object from the road. Hayaa (modesty) is a branch of from Eman. 
     
@@ -1099,9 +1102,11 @@ So it has 5 parts:
 - belief
 - statement
 - action
+  - action are apart of imaan
+    - only imaan abu hanifa said it's not, but still affirmed the action
+      - he said emaan is belief and the action are from the sharia
 - increase with obedience
 - decrease with disobedience
-
 ***** Certainty and īmān
 :PROPERTIES:
 :ID:       34c3592f-a33d-4061-9206-42b36016e975
@@ -1699,6 +1704,9 @@ The proof of this is in Allah saying:
     - we know it is wise because Allah is the Most Wise
 
 *** 3. Ihasan 
+:PROPERTIES:
+:ID:       73412185-c968-48d6-ae47-f0f7b75b61d2
+:END:
  - the muḥsinūn
 it is one pillar, which means to worship Allah as if you see Him, but even if don’t see him, he indeed sees you 
     
