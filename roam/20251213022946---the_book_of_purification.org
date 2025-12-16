@@ -1,0 +1,1176 @@
+:PROPERTIES:
+:ID:       6b694234-f720-42cc-9c01-9d78855e3419
+:END:
+#+title: The Book of Purification
+
+* intro
+3. [@3] The Prophet ﷺ said, “Islam is built upon five; to bear witness that there is none worthy of worship except Allah ﷻ and that Muhammad ﷺ is the messenger of Allah ﷻ, establishment of the prayer, giving zakah, making pilgrimage to the house and fasting Ramadan.” (Agreed upon)
+   
+4. As for the declaration of faith, i.e. to say la ilaha illallah, then this is the knowledge of the servant of Allah ﷻ and his firm belief and commitment to the fact that no one has the right to be worshipped except Allah ﷻ.
+   
+This necessitates upon the servant: sincere devotion to the religion of Allah ﷻ; that his worship, inner and outer, are all for Allah and that he does not associate with Allah ﷻ anyone or anything regarding any aspect of the religion. This is the foundation of the religion of all the messengers and their followers, as Allah ﷻ says:
+
+“And We have not sent before you any messenger except that we revealed to him that there is no one worthy of worship except I, so worship me.” (al Anbiya’: 25)
+
+5. The declaration that Muhammad ﷺ is the Messenger of Allah ﷻ necessitates that the servant of Allah ﷻ firmly believes that Allah ﷻ sent Muhammad ﷺ to the thaqalayn (jinn and mankind) as a giver of glad tidings and as a warner, calling them to single out Allah ﷻ in worship and to obey Him.
+   - It also means to believe in his (i.e. the Prophet’s ﷺ) message and applying his commands and keeping away from his prohibitions.
+   - Moreover, it necessitates that one believes that there is no happiness and goodness in this world or the hereafter unless one has faith in him and follows him and that it is an obligation to put the love of him above the love of oneself, children and all of mankind.
+
+It also implies that one believes that Allah ﷻ provided the Prophet ﷺ with miracles to prove his message; that Allah ﷻ endowed him with knowledge and a noble character; that his religion is one of guidance, mercy and truth; and that it entails both religious and worldly benefit.
+
+The greatest sign of Allah ﷻ is the Qur’an. It embodies the truth in what it relates as well as its commandments and prohibitions.
+
+And Allah ﷻ knows best.
+[[id:eaed4268-062a-4706-bace-8112822f96d4][manhaj lesson 1]]
+
+* Chapter: Water
+
+** Conditions of ṣalāh: purification
+
+6. [@6] The _prayer_ has /conditions/ (shurūṭ, pl. of shart) that precede it, amongst them:
+   - The most detailed condition of ṣalāh is purification.
+   - There are 6 conditions related to purification.
+
+7. Ritual purification (tahārah).
+   - The Prophet ﷺ said: “Allah ﷻ does not accept a prayer without purification.” (Agreed upon)
+     - Thus, the one who does not purify himself from:
+       - ritual impurity (ḥadath), minor and major, and
+       - physical impurities (najasah),
+       renders his /prayer invalid/.
+
+*** Tahārah
+
+- *Tahārah*:
+  - Linguistically:
+    - purification/cleanliness.
+  - Technically:
+    - to remove the state of *ḥadath* (and what is similar to it), and
+    - to remove *najasah* (physical impurity).
+
+*** Ḥadath
+
+- *Ḥadath*:
+  - a *state* that a person enters into that prevents him from ṣalāh.
+  - It is lifted by:
+    - wuḍū’ (or tayammum when needed) for minor ḥadath,
+    - ghusl (or tayammum when needed) for major ḥadath.
+  - Example:
+    - relieving oneself enters a person into ḥadath.
+
+- Types of ḥadath:
+  - Minor ḥadath:
+    - lifted by wuḍū’.
+  - Major ḥadath:
+    - lifted by ghusl.
+
+*** Najasah
+
+- *Najasah*:
+  - a *physical impurity* that must be removed.
+  - Example:
+    - human urine: it must be washed off.
+
+*** Ḥadath vs najasah (important distinction)
+
+- If a person relieves himself and does not wash the impurity:
+  - then he performs wuḍū’:
+    - his *ḥadath* is lifted,
+    - but he still cannot pray because he still has *najasah* on him.
+  - If he removes that *old* najasah (by washing it):
+    - it does not break his wuḍū’,
+    - because removing old najasah is not the same as entering a *new* state of ḥadath.
+
+** Methods of purification (tahārah)
+
+8. There are two methods of purification (tahārah):
+
+9. The /first/ is purification by _water_, and this is the primary method of purification.
+   - This is the default method.
+
+** Water: what is purifying and what becomes impure
+
+10. _All water_ that descends from the _sky_ or comes out from the _ground_ is purifying (tahūr).
+    - Such water purifies:
+      - from ritual impurity (ḥadath), and
+      - from physical impurity (khabath/najasah),
+      even if its /colour, taste, or smell/ changes due to something *pure*.
+
+*** Proof (general principle)
+- The Prophet ﷺ said:
+  #+begin_quote
+  “Verily water is pure, and nothing makes it impure.” (Abū Dāwūd & Tirmidhī)
+  #+end_quote
+
+*** Notes
+- The default ruling of water is that it is *pure* and can be used for wuḍū’ and ghusl,
+  until it is proven to be impure.
+- If something pure changes the properties of the water, it still remains *tahūr* and can be used.
+- However, if the change is so strong that it overcomes its name and properties (so it is no longer called “water”),
+  then it cannot be used for wuḍū’.
+  - Example: tea.
+
+11. If one of its /three characteristics/ changes due to something /impure/, then it is considered /najis/ (impure).
+    - Thus:
+      - it is compulsory to keep away from it, and
+      - one cannot use it for purification.
+    - Example:
+      - a dog urinating in a small amount of water (so the water’s properties are overcome),
+        as opposed to a large body like the ocean where the properties are not overcome.
+
+** Principles: default purity and certainty vs doubt
+
+12. The _original ruling_ of things is that they are _pure_ and _permissible_ to use.
+
+13. Thus, if one /doubts/ the purity of water, clothes, a surface, or anything else, it is considered _ṭāhir_ (pure).
+
+*** Example (the opposite case—certainty of ḥadath)
+- If a person is certain he entered ḥadath (e.g. he went to the toilet),
+  but he doubts whether he made wuḍū’,
+  then the certainty is that he *does not* have wuḍū’.
+
+*** Remaining upon purity when doubting a nullifier
+- Likewise, if one was sure that he was initially in a state of purification
+  and then /doubted/ whether he broke his purification,
+  he remains _ṭāhir_ due to the statement of the Prophet ﷺ
+  to the person who imagined he had passed wind during prayer:
+
+  #+begin_quote
+  “One should not leave (his ṣalāh) until he hears a sound or finds a smell.” (Agreed upon)
+  #+end_quote
+
+*** Principle
+- certainty is not removed by doubt.
+- you ignore the doubt and stick with what is certain.
+
+* Chapter: Utensils
+** General Principles
+
+14. [@14] All utensils are _permissible_.
+    - this also includes containers, since we store water in containers.
+
+** Exception: gold and silver
+
+15. Except /gold and silver/ utensils, and that which contains them,
+    - _except_ for a small amount of silver due to a pressing need (ḥājah),
+      - with the condition that you cannot repair it with anything else.
+
+- This is due to the statement of the Prophet ﷺ:
+
+#+begin_quote
+“Do not drink from containers made of gold and silver and do not eat from its (gold and silver) bowls, for verily it is for them in this world and for us in the Afterlife.” (Agreed upon)
+#+end_quote
+
+*** Warnings and explanation
+- whoever drinks from a silver vessel, the Fire of Jahannam boils in his stomach.
+- the reason is that it is for us in the Hereafter and not the dunyā,
+  - and the reason is not due to its price.
+    - hence it would be permissible for a wealthy person to have an expensive container,
+      - however, for someone who does not have wealth, then it will still be prohibited.
+
+*** Scope of the prohibition
+- the main use of containers is for eating and drinking,
+  - so lesser uses (like making wuḍū’ from them) are also prohibited.
+         
+* Chapter: Istinjā’ and the Etiquettes of Relieving Oneself
+
+** Definition
+- istinjā’ is purifying yourself after relieving oneself
+  - it can be with water or a solid material
+    - or just water
+
+** Entering the place of relieving oneself
+
+16. It is recommended that if one enters an area to relieve oneself, that one enters with the left foot (before the right) and says:
+
+*** Entering with the left foot
+- scholars have derived that:
+  - if you are going from a better place to a worse place, you enter with your left foot
+  - if you are going from a worse place to a better place, you enter with your right foot
+
+*** Duʿā’ when entering
+#+begin_quote
+Bismillah, Allahumma inni a‘udhu bika minal khubthi/khubuthi wal khaba’ith
+#+end_quote
+
+- khubthi:
+  - all evil and evil spirits
+- khubuthi:
+  - male and female shayāṭīn
+- Bismillah:
+  - not authentically established
+
+#+begin_quote
+“In the name of Allah, O Allah! I seek refuge in You from male & female devils.”
+#+end_quote
+
+** Leaving the place of relieving oneself
+
+17. And when one leaves, one should:
+
+   1. leave with the right foot
+   2. say:
+
+#+begin_quote
+Ghufranaka
+“O Allah, I seek Your forgiveness.”
+#+end_quote
+
+#+begin_quote
+al hamdulillahil-ladhi adh-haba ‘annil atha wa ‘afani
+“Praise is to Allah ﷻ Who has relieved me of impurity and given me good health.”
+#+end_quote
+
+- this is not authentically established
+
+** Etiquettes while relieving oneself
+
+18. One should support themselves by putting more weight on their left leg and erecting their right.
+- if it is medically proven to be beneficial, then it will be recommended; otherwise it is mubāḥ
+
+19. One should conceal themselves with a barrier or by something else.
+
+20. One should distance themselves from people if one is in an open area.
+- you should not relieve yourself in front of people
+
+21. It is not permissible to answer the call of nature in:
+- pathways,
+- places where people sit,
+- underneath trees that give fruit,
+- or in an area that will harm other people.
+
+22. It is not permitted to face the qiblah or turn one’s back to it while relieving oneself, due to the saying of the Prophet ﷺ:
+
+#+begin_quote
+“If any one of you goes to an open space for answering the call of nature, he should neither face nor turn his back towards the qiblah while urinating or defecating. Instead, he should face the east or west.” (Agreed upon)
+#+end_quote
+
+** Cleaning after relieving oneself
+
+23. After relieving oneself, one should:
+
+   1. Do _Istijmār_ (cleaning the private parts using a solid material) with _three stones_ or something similar that cleans the required area.
+      - if you use tissue first, you will not touch the najāsah directly
+
+   2. Then one should do _istinjā’_ (cleaning the private parts with water until the impurity is washed away)
+
+24. It is sufficient to restrict oneself to _one of the two_ (i.e. istijmār or istinjā’).
+
+** Conditions and restrictions of istijmār
+
+25. One /cannot/ perform _istijmār_ with the following:
+
+*** Conditions of istijmār
+- use something that is pure, and that the thing you are using cleans with
+  - impurity does not cling to it
+- wipe a minimum of 3 times
+  - there are no traces of impurity on the final wipe
+
+*** What cannot be used
+1. /Dung or bones/, as that was prohibited by the Prophet ﷺ.
+2. Anything of sanctity,
+   - or great value.
+
+* Chapter: The Removal of Impurities and an Account of Impure Substances
+** General rule: removing impurities
+
+26. [@26] It is sufficient to _wash_ all impurities—whether they are on the body, clothes, the area (one prays in), or any other area—by removing the impurity itself from the area.
+    - This is because the *Legislator did not stipulate* for the washing of all impurities a specific number of washes,
+    - /except/ in the case of the impurity of a dog, since the Legislator stipulated washing the impurity of the dog seven washes, *one with earth*, as in the ḥadīth which is agreed upon.
+
+** Impure substances (najāsāt)
+
+27. The following things are impure:
+
+*** 1. Human urine
+- Human urine.
+
+*** 2. Human faeces
+- Human faeces.
+
+*** 3. Blood
+- Blood,
+  - /except/ for a small amount, as that is excused.
+  - An example (of impure blood) is blood that has been spilt from slaughtering animals that are permissible to eat,
+    - /except/ for the blood that remains in the meat and veins, for that is pure.
+  - this is according to the vast majority, and consensus is also quoted.
+    - however, the evidence does not have a clear-cut backing to this,
+      - as we find evidence for the opposing view.
+      - so on the side of caution, and not going against the majority,
+        - it is safer to wash the blood away.
+    - some say that the consensus was based on menstruation blood.
+
+*** 4. Urine and faeces of animals that are impermissible to eat
+- The urine and faeces of every animal that is impermissible to eat,
+  - e.g. dogs, donkeys, lions, cats.
+
+*** 5. Predators
+- All predators.
+
+*** 6. Dead animals not slaughtered correctly
+- Likewise, /all dead/ animals that were not slaughtered according to ritual requirements,
+  - /except/ for:
+    - dead humans, and
+    - that which does not have flowing blood (e.g. flies, mosquitoes), and
+    - fish and locust, since they are pure.
+
+- Impurity transfers through things that are moist, or when you can visibly see it,
+  - but not when it is dry.
+
+Allah ﷻ says in the Qur’an:
+
+#+begin_quote
+“You are forbidden to eat carrion; blood; pig’s meat; any animal over which any name other than God's has been invoked; any animal strangled, or victim of a violent blow or a fall, or gored or savaged by a beast of prey, unless you still slaughter it [in the correct manner]; or anything sacrificed on idolatrous altars...” (5:3)
+#+end_quote
+
+The Prophet ﷺ said:
+
+#+begin_quote
+“The believer does not become impure while alive or dead.” (Agreed upon)
+#+end_quote
+
+He ﷺ also said:
+
+#+begin_quote
+“Two types of carrion and blood have been made permissible. As for the two types of carrion, (they are) fish and locust. As for the two types of blood, (they are blood from) the liver and spleen.” (Ahmad and Ibn Mājah)
+#+end_quote
+
+** Pure substances and special rulings
+
+*** Urine and faeces of edible animals
+28. The /faeces and urine/ of animals that are _permissible_ to eat are _pure_.
+    - e.g. sheep, camels, cows, and goats.
+    - e.g. if bird droppings land on your garment and you pray in it, your prayer is still valid.
+
+*** Maniyy (semen)
+29. Maniyy (semen) of a human is pure.
+    - The Prophet ﷺ used to wash it from his clothes when it was moist,
+      - and would scrape it off his clothes when it was dry.
+
+*** Urine of a baby boy
+30. It is sufficient to _sprinkle water_ on the urine of a *baby boy* that does not eat solid food out of desire for it, since the Prophet ﷺ said:
+
+#+begin_quote
+“The urine of a baby girl is to be washed and the urine of a baby boy is to be sprinkled over.” (Abū Dāwūd and Nasā’ī)
+#+end_quote
+
+- the urine is a lighter form of impurity,
+  - it is between purity and impurity,
+    - based on the texture of urine due to solid food.
+
+** Removing an impure substance
+31. If the /impure/ substance is _removed_ from the affected area, then the area is _pure_.
+    - Any residual colour or smell does not affect the ruling.
+      - This is due to the statement of the Prophet ﷺ to Khawlah رضي الله عنها regarding the blood of menstruation:
+
+#+begin_quote
+“Water suffices you and its effects (from the blood) will not harm you.” (Abū Dāwūd & Ahmad)
+#+end_quote
+
+- these are things that must be removed in order for our prayer to be valid.
+
+* Chapter: The Description of Ablution
+** Definition of wuḍū’
+- linguistically:
+  - that which shines
+- technically:
+  - to wash and wipe certain limbs in a certain manner as an act of worship
+
+** The most complete description of wuḍū’
+
+32. [@32] The ablution is performed by:
+
+*** 1. Intention (niyyah)
+1. Intending the removal of /ḥadath/ (ritual impurity), or intending ablution for prayer, etc.
+   - or any intention related to an act of ʿibādah
+
+- the intention is a /sharṭ/ (condition) for all actions of purification and other than it.
+  - every act of worship requires intention
+    - every deed requires intention, and there are two intentions for it:
+      1. the deed itself
+      2. for the sake of Allah
+    - if you know what you are doing, then that means you have intended it
+      - as long as you know what you are doing, you do not need to pronounce it
+        - intention is in the mind and the heart
+
+*** 2. Saying “Bismillāh”
+2. Then to say: Bismillāh
+   - all the narrations about this are weak and not authentically attributed
+     - hence it is not masnūn to say this
+       - we have ḥadīth related to other companions describing the wuḍū’,
+         - but they did not start with “Bismillāh”
+   - the ruling for men and women is the same, unless it is specified
+
+*** 3. Washing the hands
+3. Then to wash the hands until the wrists three times.
+   - from the tips of the fingers to the wrists
+     - this is sunnah
+       - this is recommended
+
+*** 4. Madmaḍah and istinshāq
+4. Then to do madmaḍah (taking water into the mouth and then expelling it) and istinshāq (taking water into the nose and then expelling it) three times with three handfuls of water.
+   - put water into your hand, then with that same handful:
+     - put water in the mouth, then in the nose
+       - circulate the water in the mouth to the back of the molars
+       - in the nose: inhale, then blow it out, removing any mucus
+   - this is doing it once
+     - found in the ḥadīth of ‘Abdullāh ibn Zayd
+   - as for doing it six times (handfuls)…
+
+- the majority say:
+  - this is a sunnah act of wuḍū’ and not wājib
+    - what Allah has commanded is in the āyah, and other than that is recommended
+
+*** 5. Washing the face
+5. Then to wash the face three times.
+   - the boundaries of the face are:
+     - from the original hairline to the bottom of the chin
+     - and from ear to ear (but does not include the ears)
+       - e.g. the boundary between the ear and the beard
+   - if you have a thin beard (so the skin can be seen):
+     - you should put your fingers through it so the water reaches the skin
+   - if you have a thick beard (so the skin cannot be seen):
+     - it is sufficient to wash over it
+
+- what is obligatory is to wash the face once
+  - the sunnah is to wash it three times
+  - and some scholars say it is prohibited to wash more than this
+
+*** 6. Washing the arms
+6. Then to wash the arms until the elbows.
+   - from the tips of the fingers
+     - to the end of the elbows, including the elbows
+   - wash the right side first, then the left side
+   - washing means the water trickles over the limbs
+     - not wiping the limbs with water
+
+*** 7. Wiping the head
+7. Then, to wipe the entire head with both hands once:
+   - starting from the beginning of the head up until the nape,
+     - and then returning back to the beginning of the head
+   - this is to be done one time
+   - from wet hands (wiping, not washing)
+   - wipe from the front to the back (to the nape, not the neck) and then back to the front
+   - if you have long hair:
+     - you do not need to wipe what extends beyond the head
+     - if you wipe the hair in any direction, it is sufficient
+   - there is nothing authentic about wiping the neck
+
+*** 8. Wiping the ears
+8. Then to insert one’s index fingers into the ears and to wipe the outer part of the ear with the thumb.
+   - the index finger goes into the ear
+   - the thumb is used for the back of the ear
+
+*** 9. Washing the feet
+9. Then to wash the feet (including the ankles) three times each.
+   - from the tips of the toes to the ankles, including the heels
+
+- This is the most complete way of performing the ablution.
+
+** Other sunnah acts after wuḍū’
+
+*** Dhikr after wuḍū’
+- say:
+
+#+begin_quote
+Muslim (234) narrated from ‘Umar ibn al-Khaṭṭāb (may Allah be pleased with him) that the Messenger of Allah (peace and blessings of Allah be upon him) said:
+
+“There is no one among you who does wuḍū’ and does it well, then says,
+
+Ashhadu an lā ilāha ill-Allāh waḥdahu lā sharīka lah, wa ashhadu anna Muḥammadan ‘abduhu wa rasūluh
+
+(I bear witness that there is no god except Allah alone, with no partner or associate, and I bear witness that Muhammad is His slave and Messenger)
+
+but the eight gates of Paradise will be opened for him and he will enter through whichever one he wants.”
+
+Narrated by Muslim, 234.
+#+end_quote
+
+#+begin_quote
+The phrase “subḥānaka allāhumma wa bi ḥamdika, ashhadu an lā ilāha illā anta, astaghfiruka wa atūbu ilayka (Glory and praise be to You, O Allah, I bear witness that there is no god but You, I seek Your forgiveness and I repent to You),”
+
+was narrated by al-Nasā’ī in ‘Amal al-Yawm wal-Laylah, and by al-Ḥākim in al-Mustadrak, from Abū Sa‘īd al-Khudrī (may Allah be pleased with him). The narrators differed as to whether the ḥadīth could be attributed to the Prophet (peace and blessings of Allah be upon him) or whether these were the words of Abū Sa‘īd (may Allah be pleased with him).
+#+end_quote
+
+*** Two rakʿahs after wuḍū’
+- perform 2 rakʿahs (sunnah) of wuḍū’ with complete concentration
+  - it is better to keep the ṣalāh short
+    - so we can completely focus on the ṣalāh
+
+** Obligatory parts of wuḍū’ (farā’iḍ)
+
+33. The obligatory parts of the ablution are:
+
+*** 1. Washing/wiping each limb once
+1. To wash (each limb) once.
+   - there are 4:
+     - face — wash
+     - arms — wash
+     - head — wipe
+     - feet — wash
+
+*** 2. Order (tartīb)
+2. To perform the actions of ablution in the order (tartīb) described in the verse:
+
+#+begin_quote
+“O you who believe! When you rise to perform prayer, wash your faces and your forearms to the elbows and wipe over your heads and wash your feet to the ankles...” (5:6)
+#+end_quote
+
+- this is only for the farḍ once, not the sunnah repetitions
+
+*** 3. Succession (muwālāt)
+3. To wash each limb in succession, such that there isn’t a customary long gap between the washing of different limbs.
+   - the “long gap” is according to the custom of the people
+   - this holds true for everything that stipulates muwālāt (matters to be done consecutively without a long gap)
+
+* Chapter: Wiping of Footwear and Bandages
+** 34. Wiping over khuffs and what resembles them
+
+*** Scope: not limited to leather
+34. If one is wearing two khuffs or something similar to them, he can wipe over them if he wishes:
+- wiping over socks is not limited to leather socks
+  - it includes anything similar to them,
+    - i.e. similar in a way that is known by the people
+      - Imām al-Nawawī said it is what is known to keep the feet warm
+
+*** Conditions related to socks
+- the socks:
+  - must be made from something pure
+  - the original socks must cover the place of obligation (what is obligatory to wash)
+    - the sock may be worn out with holes
+      - you can still wipe over them
+        - if they cling to the feet and are still known as “socks” by the people
+    - ankle socks cannot be used, since they do not cover what is obligatory to wash from the feet
+      - they can only be used in wuḍū’ that includes washing the feet
+
+*** Taking socks off and putting them back on
+- taking the socks off does not invalidate the wuḍū’
+  - e.g. Ibn Ḥazm said it is like a person who does wuḍū’ and then shaves off his head
+- but putting them back on:
+  - you cannot wipe over them again,
+    - since it came from a wuḍū’ based on wiping, not washing
+      - and the time of wiping is defined by the first wipe after washing the feet
+
+*** Wearing socks on top of socks
+- wearing socks on top of socks:
+
+  1. you wear the socks on before you break the wuḍū’
+     - you can choose either pair, and the wuḍū’ is valid
+
+  2. you wear the second pair after breaking wuḍū’, when you did not wipe over the first pair (before wiping the first pair)
+     - you cannot wipe over the second pair, as it was not worn with ṭahārah
+       - you have to wipe over the first pair
+
+  3. you wear the second pair after breaking wuḍū’, when you wiped over the first pair
+     - there is khilāf on this
+       - if you put it on when you are pure:
+         - the condition of wiping is based on timing,
+           - so the timing is according to the first pair
+       - if you put on two pairs and wipe over the top pair, then break wuḍū’:
+         - can you wipe over the top pair?
+           - yes, since the bottom pair was always there from the beginning
+       - if you wear socks, then take them off and wear another pair:
+         - you can wipe over them,
+           - since it is a wuḍū’ that is based on having washed your feet
+
+*** Is it better to wash the feet or wipe?
+- is it better to wash the feet or wipe over the socks?
+  - it is better to wipe, since you are taking the easier of the two
+
+*** How to wipe over them
+- how do we wipe over them?
+  - wet the hand and wipe from the tips up to the shin above the ankle level at the same time (more preferred)
+    - wipe the right foot once and the left foot once
+
+*** Duration and conditions
+1. For one day and night if one is a muqīm (resident), and for three days and three nights if one is a musāfir (traveller).
+   - it begins from when he wipes for the first time
+     - the 24-hour limit is the limit of wiping, not of wuḍū’
+       - so the limit can end, but your wuḍū’ is still valid
+
+2. With the condition that he wore the footwear while in a state of ṭahārah (purification).
+
+3. One can only wipe over them if in a state of minor ritual impurity (al-ḥadath al-aṣghar).
+   - not for major impurity
+
+#+begin_quote
+It was reported on the authority of Anas رضي الله عنه that the Prophet ﷺ said:
+“If one of you performs ablution and puts on his footwear, let him wipe over them and pray in them, and he doesn’t have to remove them except due to janābah (i.e. sexual impurity).”
+(al-Ḥākim)
+#+end_quote
+
+** 35. Wiping over a bandage or medicine
+
+35. If one has a bandage or medicine on a limb that is usually washed during ablution, and washing it would be harmful, then one can wipe over it for both minor and major ritual impurity until the wound has healed.
+
+*** Conditions and related notes
+- with the condition that the cast covers that which is required
+  - e.g. putting a cast on the arm only at the wrist, which would not cover what is required
+
+- what to do when it comes to the point where you cannot even wash or wipe:
+  - some say to do tayammum
+  - others say to do wuḍū’ and skip that part
+    - however, you should do tayammum for that part, since you could not do wuḍū’ for it
+      - and the replacement of wuḍū’ is tayammum, not abandonment
+
+** 36. Method of wiping over footwear
+
+36. The method of wiping over footwear is to wipe most of its upper part.
+
+** 37. Wiping over the jabīrah (bandage/cast)
+
+37. As for the jabīrah (bandage/cast), then one should wipe over all of it.
+
+*** Time limit and scope
+- wiping over the bandage has no time limit
+  - you can wipe over it for major and minor ḥadath
+- wuḍū’ is not a condition to wipe over it
+  - the bandage can be on any body part
+    - so during ghusl you would wipe over it
+
+*** Turban/khimār
+- the turban/khimār:
+  - you can wipe over the turban
+    - it does not take the ruling of the socks
+      - wiping is the obligation for the head
+        - for the feet you need to wash, not wipe
+      - it is permissible for a woman to wipe over the khimār
+        - wiping is the act of wuḍū’ for the head
+          - so you do not need to wash before
+      - the default ruling for men and women is the same, unless there is evidence to differentiate it
+
+* Chapter: Nullifiers of Ablution
+- that which puts someone in minor ḥadath
+** 38. [@38] The nullifiers of ablution are:
+*** agreed upon
+**** 1. Anything that leaves the body via the private parts
+- such as:
+  - urine
+  - stool
+  - wind from the back passage
+  - preseminal fluid
+
+**** Things that come out, but do not break wuḍū’
+- natural discharge of a woman
+- wind from the front passage (i.e. from the front)
+
+- some scholars say it breaks wuḍū’
+  - however, it is said that the default position regarding wuḍū’ is that you have it unless there is evidence otherwise
+
+- we have no narration that clearly states that it does not break wuḍū’
+  - also, Shaykh Ibn ‘Uthaymīn:
+    - initially said it breaks wuḍū’
+    - but after seeing that it is not based on the substance itself (i.e. it is used to kill bacteria),
+      - he changed his view and said it does not break wuḍū’
+
+- something that comes out due to illness:
+  - e.g. stones and insects
+    - it does not break wuḍū’ as there is no evidence for it
+
+**** Note: chronic excuses (ahl al-aʿdhār)
+2. this is related to those who are healthy, not like those who are ill or have medical problems,
+   such as someone who continuously cannot hold wind, or urine always coming out in small amounts
+
+**** 3. Loss of consciousness (or sanity)
+4. the loss of consciousness (or sanity) by sleep or any other cause
+
+**** Which sleep breaks wuḍū’?
+- the sleep that breaks wuḍū’ is:
+  - the sleep where you are unaware of your surroundings
+    - i.e. you have lost your sense
+
+- as for snoring:
+  - it is not a sign that someone broke their wuḍū’
+
+**** 4. Eating camel meat
+5. eating camel meat
+
+- this is from a ḥadīth
+- why?
+  - Ibn Taymiyyah:
+    - the camel is a hard and angry animal
+      - so, to remove these characteristics, you perform wuḍū’
+
+**** 6. Touching the private parts
+7. touching the private parts
+
+- directly touching the private part
+  - not the area where semen is stored
+- the back passage is the area where a person goes to the toilet
+- touching is with the inside of the hand (i.e. the palm)
+  - this includes touching one’s own or someone else’s private parts
+
+*** with second views or itliaf
+**** 2. A large amount of blood (and similar impurities)
+3. a large amount of blood (exiting the body) and the like (i.e. other impurities)
+
+- second view: blood does not break wuḍū’ (Shāfiʿī + Mālikī)
+  - since there is no evidence for it
+
+- for ghusl:
+  - this is related to menstruation blood
+
+**** 5. Touching the opposite gender with desire
+6. touching the opposite gender with desire
+
+- there is ikhtilāf
+  - when the Prophet (ﷺ) prayed, he would sometimes come into contact with his wife during prayer
+  - also, when he (ﷺ) went for ṣalāh, he could kiss them before leaving
+
+- however, if it leads to the release of preseminal fluid, then it would break wuḍū’
+
+**** 7. Washing a dead person
+8. washing a dead person
+
+- there is nothing authentic about this
+  - the washing itself does not nullify wuḍū’
+
+**** 8. Apostasy
+9. apostasy, which also nullifies all of one’s good deeds
+
+- this is due to the saying of Allah ﷻ:
+
+#+begin_quote
+“...or one of you comes from the place of relieving oneself or you have touched women.” (5:5)
+#+end_quote
+
+**** Second view
+- it does not break wuḍū’ or destroy deeds, but only if he dies upon it
+  - this seems more correct
+    - Ḥanafī + Shāfiʿī
+        
+** Evidence (aḥādīth)
+*** Eating camel meat
+The Prophet ﷺ was asked:
+
+#+begin_quote
+“Should we do ablution after eating camel meat?” So he said, “Yes.” (Muslim)
+#+end_quote
+
+*** Sleep and minor ḥadath during travel (khuffs)
+He ﷺ also said regarding the two khuffs:
+
+#+begin_quote
+“The Messenger of Allah ﷺ would not command us to take off our leather socks for three days except in the case of sexual impurity, but not in the case of defecation, urine or sleep.” (i.e. during travel) (Tirmidhī and Nasā’ī)
+#+end_quote
+
+* Chapter: That which Obligates Ghusl and the Manner of Performing It
+- ghusl is a bath: washing the entire body.
+
+** 39. [@39] Matters that obligate ghusl
+Ghusl becomes obligatory from the following matters:
+
+*** 1. Janābah (sexual defilement)
+Janābah results from:
+
+**** A. Ejaculation of maniyy (semen)
+- the ejaculation of maniyy (semen) due to intercourse or any other means
+  - this includes masturbation
+    - Imām al-Shāfiʿī said: if it were permissible to masturbate,
+      - then Allah would have added a third category for what is permissible for a man to do regarding guarding the private parts (i.e. the spouse and the slave).
+
+**** B. When the two circumcised parts meet
+- when the head of the private part of a man disappears in the woman
+  - ghusl is obligatory upon both parties
+  - anything less than this does not require ghusl, regardless of whether there is ejaculation or not
+
+*** 2. Menstruation or post-natal bleeding
+
+*** 3. Death (excluding a martyr)
+- excluding the shahīd of the battlefield
+  - not the one who has the ruling of shahīd (like the one who drowned)
+- the shahīd:
+  - is not washed, shrouded, or prayed over
+
+*** 4. When a disbeliever embraces Islam
+- a second view is that it is recommended for them to perform ghusl
+
+** Proofs from the Qur’an
+
+Allah ﷻ says in the Qur’an:
+
+#+begin_quote
+“...and if you are in the state of janābah, then purify yourselves.” (Mā’idah: 6)
+#+end_quote
+
+Allah ﷻ says in the Qur’an:
+
+#+begin_quote
+“...and do not approach them until they purify themselves. And if they purified themselves, then approach them from where Allah has ordained for you.” (Baqarah: 222)
+#+end_quote
+
+- i.e. if they performed ghusl
+
+** Related narrations (notes)
+- The Prophet ﷺ ordered the one who washed the dead to do ghusl himself.
+  - the ḥadīth regarding this is weak, and even if it were authentic, it would be abrogated because of what came after
+- He ﷺ also ordered the one who embraced Islam to perform ghusl.
+
+** 40. [@40] The manner of ghusl from janābah
+As for the method by which the Prophet ﷺ performed ghusl from janābah:
+
+*** 1. Washing the private parts first
+1. He would wash his private part first.
+   - making sure nothing from intimacy remains there
+     - so he (ﷺ) would pour water onto his hand and wash
+       - and then strike the floor or the wall
+
+*** 2. Performing a complete wuḍū’
+2. Then he would perform a complete ablution.
+
+*** 3. Pouring water over the head three times
+3. Then he would pour water on his head three times, making sure that the water reached his scalp.
+   - he (ﷺ) would run his fingers into his hair to make sure it reached the scalp
+
+*** 4. Pouring water over the rest of the body
+4. Then he would pour water over the rest of his body.
+
+*** 5. Washing the feet in another area
+5. Then he would wash his feet in another area.
+
+**** Combining the narrations
+- the ḥadīth of Maymūnah shows that he (ﷺ) washed his feet in a different place
+- the ḥadīth of ʿĀ’ishah shows that he did wuḍū’ and did not wash his feet (at that moment)
+  - the context is that if there is dirt on the floor, it would get on the feet, hence he (ﷺ) would wash them after
+  - combining them:
+    - if there is no water (collecting) from the bath, then we can wash the feet during wuḍū’
+    - and if there is water there, then we can wash them at the end
+
+** 41. Obligatory parts of ghusl
+- the obligatory parts of ghusl are:
+  - to wash the entire body, and
+  - the roots of one’s hair, whether the hair is thick or not.
+- this includes the mouth and nose.
+
+- and Allah ﷻ knows best.
+
+** Masā’il (additional notes)
+
+*** Braids
+- if you have braids, then you do not need to undo them
+  - you can pour water over them and use your fingers to make sure that it reaches the scalp
+
+*** Does ghusl include wuḍū’?
+- when a person does ghusl, does it include wuḍū’?
+  - if it was for major ḥadath, then yes, because it includes minor ḥadath
+  - if it was for something other than major ḥadath, then he would need to do wuḍū’ after or during it
+    - e.g. ghusl of Jumuʿah
+
+* Chapter: Tayammum
+ Linguistic meaning
+- to intend
+ Technical meaning
+- to worship Allah by intending pure earth, then wiping the face and hands with the intention (of purification)
+
+** 42. [@42] Tayammum is the second method of purification
+42. [@42] It is the second method of purification.
+
+** 43. When tayammum is used
+43. It is used as a substitute for water if using water (that is required to wash the required areas in ablution, or some of the areas) becomes unfeasible due to:
+- its unavailability, or
+- fear of harm due to its usage.
+
+- it is used for both minor and major ḥadath
+- if a person is unable to use water for some limbs or all of them:
+  - due to water not being available,
+    - or not being sufficient for wuḍū’ or ghusl,
+  - or due to harm from using it:
+    - e.g. certain skin conditions
+
+- some people abuse this principle when it is cold
+  - however, this is a means for sins to be forgiven,
+    - hence it is not a valid excuse
+
+** 44. Turāb (earth) takes the place of water
+44. Turāb (earth) takes the place of water by:
+- taking the ruling of water in terms of lifting ḥadath
+  - e.g. ‘Ammār ibn Yāsir rolling around in the earth
+
+** 45–48. Method of tayammum
+
+*** 45. Intention
+45. Intending to remove the ritual state of impurity (aḥdāth, pl. of ḥadath),
+- just like wuḍū’ (to be in a state to perform ṣalāh).
+
+*** 46. Saying “Bismillāh”
+ 1. Then saying, “Bismillāh.”
+ 2. there is no clear evidence, and it is not a sunnah to say this
+
+*** 47. Striking the earth
+47. Then striking the earth with one’s hands one time.
+- only once
+
+*** 48. Wiping the face and hands
+48. Then wiping the face with both hands, and then wiping the hands.
+
+*** 49. Striking the earth twice
+49. There is no harm in striking the earth twice.
+- there is no authentic evidence for this
+- and wiping up to the wrists is what is established
+  - wiping up to the elbows is based on weak aḥādīth
+
+*** Proofs
+
+Allah ﷻ says:
+
+#+begin_quote
+“...and do not find water, then seek clean earth and wipe over your faces and hands with it. Allah does not intend to make difficulty for you, but He intends to purify you and complete His favour upon you that you may be grateful.” (5:6)
+#+end_quote
+
+It was reported on the authority of Jābir رضي الله عنه that the Prophet ﷺ said:
+
+#+begin_quote
+“I have been given five things no other prophet before me was given: Allah ﷻ made me victorious by awe (of frightening my enemies) for a distance of one month’s journey. The earth has been made for me a place of praying and purification. Therefore, one should pray whenever the time of prayer comes. War booty has been made ḥalāl for me, which was not allowed for anyone before me. I have been given the shafā‘ah (intercession). Each prophet was sent to his nation specifically whereas I have been sent to the whole of mankind.” (Agreed upon)
+#+end_quote
+
+** What kind of “earth” can be used?
+- anything from the natural earth and not changed:
+  - sand, soil, stone, rock, clay
+- not leaves, grass, or flowers
+
+** If someone is in the hospital and cannot do wuḍū’
+- the person does wuḍū’
+  - if unable:
+    - someone assists him in doing it
+      - if not possible:
+        - wuḍū’ is performed on him (by assistance)
+          - if not possible:
+            - perform tayammum
+              - if not possible:
+                - someone performs tayammum on him
+                  - if not possible:
+                    - he prays in the state he is in
+                      - the person is excused from wuḍū’ or ghusl
+                        - e.g. someone who is in prison or paralysed
+
+- assisting is when you wash and wipe for them
+
+** Nullifiers of tayammum
+- everything that nullifies wuḍū’ or ghusl nullifies tayammum
+- also, when water becomes available for wuḍū’ or ghusl
+
+** Rulings related to minor ḥadath (al-ḥadath al-aṣghar)
+
+*** 46. What is not allowed in a state of minor ḥadath
+46. The following are not allowed for someone in a state of ḥadath aṣghar (minor state of ritual impurity):
+
+**** 1. Ṣalāh
+1. To pray.
+   - to intentionally pray without wuḍū’:
+     - this is a major sin
+     - Imām Abū Ḥanīfah said this is kufr, as you are mocking the dīn
+
+**** 2. Ṭawāf
+2. Circumambulation (ṭawāf) of the Ka‘bah.
+   - this does not include saʿy
+   - view of the four madhāhib:
+     - even though there is no clear evidence for it
+
+**** 3. Touching the Qur’ān
+3. To touch the Qur’ān.
+   - view of the four madhāhib:
+     - even though there is no clear evidence for it
+   - a device does not take the ruling of the Qur’ān
+   - nor does an Islamic book,
+     - based on the majority of its content
+
+** Rulings related to major ḥadath (al-ḥadath al-akbar)
+
+*** What is not allowed in a state of major ḥadath
+The following are also not allowed if one is in a state of ḥadath akbar (major state of ritual impurity):
+
+**** 1. Reciting Qur’ān
+1. To recite anything from the Qur’ān.
+   - not for the woman in her menses or postnatal bleeding
+     - or using gloves to hold the Qur’ān
+
+**** 2. Staying in a mosque
+2. To stay in a mosque without being in a state of wuḍū’.
+   - wuḍū’ lessens the state of janābah
+     - companions did this
+   - it should be avoided since there is no clear evidence unless there is a need
+     - the same applies for a woman in her menses
+
+** Rulings related to menstruation and post-natal bleeding
+
+*** What is not allowed for a menstruating woman / post-natal bleeding
+The following are also not allowed for the woman who is menstruating or has post-natal bleeding:
+
+**** 1. Fasting
+1. To fast.
+   - if she fasts, she is sinful
+
+**** 2. Sexual intercourse
+2. To have sexual intercourse with her.
+   - that which breaks the ghusl:
+     - actual intercourse
+     - everything else is permissible
+
+**** 3. Divorce
+3. To divorce her.
+
+*** Masā’il (additional notes)
+- she cannot pray ṣalāh
+  - the obligation has been lifted
+    - she does not have to make up the ṣalāh
+- fasting:
+  - prohibited for her
+    - but she needs to make it up
+- ṭawāf of the Ka‘bah:
+  - prohibited
+- saʿy:
+  - allowed by consensus
+    - the area of Ṣafā and Marwah is not part of the masjid
+- she is prevented from touching the Qur’ān:
+  - but not from being near it without touching it
+- she cannot stay inside the mosque
+- it is prohibited for a man to have intercourse with his wife during her menses
+- it is prohibited to divorce a woman in her menses
+
+*** Signs of puberty (bulūgh)
+
+**** For men and women
+- a wet dream
+- pubic hair
+- reaching the age of 15
+
+**** For women
+- menstrual cycle or pregnancy
+
+* Chapter: Menstruation
+Linguistically
+- to flow
+Technically
+- blood that flows from the womb of a woman at a specific time or for a specific duration
+
+** difficulties on this chapter
+- this is classed as one of the most difficult chapters of fiqh
+  - Ibn Qudāmah rejected many of the views attributed to Imām Aḥmad
+- this is because every woman is different:
+  - different days of menstruation
+  - and some women never stop bleeding
+    - there are many narrations related to it
+- the author here is in line with Ibn ʿUthaymīn’s opinion
+
+** Rulings related to bleeding
+
+*** 49. Default ruling: treat the blood as menstruation
+49. [@49] Blood that is discharged from a woman's private part should at first be considered to be menstrual blood, regardless of:
+- age,
+- amount of blood, or
+- repetition.
+
+**** Distinguishing between two types of blood
+- menstrual blood has its characteristics
+- there are two types of blood:
+  - menstrual blood, or
+  - blood from a vein
+
+- how to differentiate:
+  - by colour:
+    - menstrual blood is darker
+    - vein blood is lighter
+  - by thickness:
+    - menstrual blood is thicker
+    - vein blood is thinner
+  - by smell:
+    - menstrual blood has a smell
+    - vein blood does not
+  - by clotting:
+    - menstrual blood does not clot (as it has already occurred)
+    - vein blood clots after it leaves
+
+**** the reason behind the ruling
+- the blood of menstruation is harmful
+  - hence, if this blood is present, then it is harmful
+    - the ruling revolves around its reason
+
+*** 50. Continuous bleeding: mustaḥāḍah
+50. [@50] Except if the blood continuously flows and does not stop except for a short while.
+- in that case she will be considered to be *mustaḥāḍah* (i.e. suffering from defective bleeding)
+
+**** Why this is a problematic ruling
+- who defines what “a short while” is?
+  - some say 10 days
+  - some say one-third of a month
+    - not half a month
+      - there is no clear text for this
+        - but it requires a boundary so that we can say this is no longer menses
+
+- the reason it becomes a problem:
+  - if a woman is bleeding for 25 days,
+    - then it would mean she can only pray for 3–4 days
+      - and that would mean she would need to make up prayers (and this would continue throughout the year)
+
+- hence they exercise their ijtihād:
+  - e.g. one-third is mentioned in inheritance and the Prophet (ﷺ) said this is a lot
+  - others say a half
+  - others say the default ruling:
+    - she does not pray until it stops for a period
+
+*** 51. Returning to the usual cycle (‘ādah)
+51. [@51] The Prophet ﷺ commanded the mustaḥāḍah to observe the rulings of menstruation according to the duration of her usual cycle.
+
+*** 52. If she has no usual cycle: distinguish the blood
+52. [@52] If she doesn’t have a regular cycle (‘ādah), then she has to try and distinguish between:
+- the blood of menstruation, and
+- the blood that results from a defective condition.
+
+- e.g. if the same pattern occurs for 3–4 months, this becomes her ‘ādah
+  - this is what she returns to
+- if she does not have a pattern:
+  - she needs to try to differentiate the blood
+
+*** 53. If she cannot distinguish: six or seven days
+53. [@53] If she is unable to distinguish between the types of blood, she should then consider her menstruation to be six or seven days, as that is the average for women.
+- the general norm of her family first
+
+** How a woman knows her cycle has ended
+- some women know by a light discharge
+  - this signifies the end of her cycle
+- if they do not see this, what do they do?
+  - ʿĀ’ishah said: do not be hasty; wait for a day
+    - if she knows this is the end of her pattern, then she knows it has completed
+    - but for uncertainty:
+      - she should wait 24 hours,
+        - and if nothing is released, then her cycle has ended
+
+** Additional notes and principles
+
+*** Ibn Qudāmah on irregularity
+- Ibn Qudāmah mentioned:
+  - some women bleed one day and not the other day
+- it seems that more women are becoming irregular in their cycles
+
+*** Discharge after the cycle
+- another principle:
+  - any coloured discharge seen after the menstrual cycle is not treated as anything
+    - and it does not require ghusl
+
+*** Why some women continuously bleed
+- a stabbing from Shayṭān to destroy people’s worship
+
+** How the mustaḥāḍah prays
+- she prays according to:
+  - her ‘ādah (usual cycle), or
+  - the custom (ʿurf) of the people, or
+  - what is mentioned above (distinguishing, or six/seven days)
+
+- then she performs a bath (ghusl),
+  - and the blood no longer takes the ruling of menstruation
+
+- she should place a barrier so the blood does not spread or affect other areas
+
+- when the time of ṣalāh comes:
+  - change the barrier
+  - perform a fresh wuḍū’ for every ṣalāh
+    - if it becomes continuous, that does not mean the ṣalāh is invalid
+
+- this is similar for any impurities coming out of the private parts:
+  - e.g. urine coming out throughout the day
+    - however, with urine you need to change the barrier since it is considered najāsah
+  - as for wind:
+    - they do not need to change a barrier
+    - and (as mentioned) they do not need to do wuḍū’ for every instance,
+      - but it is better for them to do wuḍū’ before the obligatory ṣalāh
+
+- and Allah ﷻ knows best
