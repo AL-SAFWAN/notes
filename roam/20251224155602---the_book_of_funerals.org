@@ -1,0 +1,216 @@
+:PROPERTIES:
+:ID:       7fdfaaa3-bac2-44ae-9177-fc4eb51a2165
+:END:
+#+title: The book of Funerals
+
+The greatest matter in funerals is the salah itself; hence it is usually mentioned as part of the chapter of salah, and some put it in a separate chapter.
+
+192. The Prophet ﷺ said:
+    #+begin_quote
+    “Instruct those who are about to pass away to say lā ilāha illā Allāh.” (Muslim)
+    #+end_quote
+
+193. The Prophet ﷺ said:
+    #+begin_quote
+    “Recite Sūrah Yā Sīn upon the dead (i.e. those about to die).” (Nasā’ī and Abū Dāwūd)
+    #+end_quote
+    - This ḥadīth is ḍa‘īf in its isnād and matn.
+      - There is nothing authentic about this.
+        - There are no specific authentic narrations about it.
+          - It is still permissible to recite it.
+
+    The wealth of a person goes through 4 stages:
+    - his wealth is used to prepare him and bury him
+      - it is permissible for others to pay for him
+    - the debts must be paid off
+      - the person will not find coolness in their grave
+    - the waṣiyyah
+      - wealth can be given to those other than the inheritors, capped at 1/3
+        - e.g. “I want to give it for the sake of the masjid”
+    - the final inheritance
+
+194. The preparation for the deceased—washing him, shrouding him, praying for him, carrying him, and burying him—are all a communal obligation (farḍ kifāyah).
+     - if no one does it, then everyone is sinful
+
+195. The Prophet ﷺ said:
+     #+begin_quote
+     “Hasten with the Janāzah, for if it was righteous then you are taking it toward something good, and if it was otherwise, then it is an evil of which you are relieving yourselves from.” (Agreed upon)
+     #+end_quote
+
+196. The Prophet ﷺ also said:
+     #+begin_quote
+     “The believer’s soul is suspended by his debt until it is settled for him.” (Ahmad and Tirmidhī)
+     #+end_quote
+     - he ﷺ would not pray over a body that had a debt
+
+     How to perform ghusl on the body
+     - men wash men, and women wash women
+       - the exception is spouses
+     - when being washed, the private parts must be covered, and it is not permissible to look at them
+       - if the person washing sees a deficiency, it is not permissible for him to mention it to anyone
+       - you should hold something to wash with (like a sponge and/or a sheet) so that you are not able to feel the shape of the private parts
+     - you should squeeze the stomach so anything remaining will be removed, so it does not come out later
+     - then you wash the body with sidr leaves or camphor
+     - you should not expose the body in front of people
+       - to honour the dead and reduce the chance of the private parts being exposed to people
+     - then you dry the body and put the kafan on
+
+197. The obligation of the kafan (shroud) is that it should cover the whole body, apart from:
+     - the head of the muḥrim (one who is in a state of iḥrām)
+     - the face of the muḥrimah (female in the state of iḥrām)
+     - it must cover the entire body
+       - the exception is the one who died in the state of iḥrām
+         - you should not cover the head of the man
+         - for the female, what seems more correct is to cover her face; however, it cannot be covered with a niqāb
+     - men should be shrouded with 3 pieces of white cloth, and each piece should cover the entire body
+       - the women should be done in the same way
+         - there is another narration mentioning 5 pieces
+           - the main thing is to cover the entire body
+
+198. The description of the prayer is as follows:
+
+     1. One should say the takbīr and then recite al-Fātiḥah.
+     2. Then make takbīr again and send salutations upon the Prophet ﷺ.
+     3. Then make takbīr again and pray for the deceased by saying:
+
+        Allāhumma-ghfir li ḥayyinā wa mayyitinā wa ṣaghīrinā wa
+        kabīrinā wa shāhidinā wa ghā’ibinā wa dhakarinā wa
+        unthāna. Allāhumma man aḥyaytahu minnā fa-aḥyihi ‘alal
+        Islām, wa man tawaffaytahu minnā fa tawaffahu ‘alal imān.
+
+        O Allāh, forgive our living and our dead, our young and our old, our present and our absent, our males and our females. O Allāh, for the one You continue to give life amongst us, keep him alive upon Islām. And for the one that You grant death to amongst us, let him die upon faith.
+
+        Allāhumma-ghfir lahu war-ḥamhu, wa ‘āfihi wa‘fu ‘anhu, wa
+        akrim nuzulahu, wa wassi‘ mudkhalu wa-ghsilhu bil-mā’i
+        wath-thalji wal barad, wa naqqihi minal khaṭāya kamā
+        naqqayta-thawbal abyaḍa minad-danas. Allāhumma lā
+        taḥrimnā ajrahu wa lā taftinnā ba‘dah, wagh-fir lanā wa lahu.
+
+        O Allāh, forgive him, have mercy on him, pardon him and make him safe, and make his resting place an honourable one and make his entryway expansive. Clean him with water, snow and hail, and purify him from sins like a white garment is cleansed from dirt. O Allāh, do not deny us its reward and do not put us to test after it, and forgive us and him.
+
+        If the deceased was a minor, one should say after the general supplication:
+
+        Allāhumma-j‘alhu dhukhran li wālidayhi wa faraṭan wa
+        shafī‘an mujāban. Allāhumma thaqil bihi mawāzīnahumā wa
+        a‘aẓim bihi ujūrahumā waj‘alhu fī kafālati Ibrāhīm wa qihi
+        biraḥmatika ‘adhābal-jaḥīm.
+
+        O Allāh, make him a stored treasure for his parents and a predecessor and an accepted intercessor. O Allāh, make their scales heavy because of him and make their rewards greater. And place him under the care of Ibrāhīm, and save him by Your mercy from the punishment of the Fire.
+        - there is nothing authentic for this
+          - you can make du‘ā’ for his parents
+
+     - It is the only salah that is permissible to pray in the graveyard since there is no rukū‘ or sujūd.
+     - There are 4 takbīrs in total with no opening du‘ā’:
+       - 1st view: Ibn ‘Abbās — recite al-Fātiḥah
+       - 2nd view: Ibn ‘Umar — recite the opening du‘ā’ only, and not al-Fātiḥah
+       - with the “golden chain” by Mālik:
+         - what is preferred is Ibn ‘Abbās,
+           - he attributed it to the Prophet ﷺ, and we have the general narration for it
+           - Ibn ‘Umar did not attribute it to the Prophet ﷺ directly; it could be his ijtihād or not
+     - You can raise your hands and fold them:
+       - Ibn ‘Umar paid attention to this and raised his hands
+     - For the last du‘ā’ after takbīr:
+       - any du‘ā’ of forgiveness is sufficient
+         - e.g. Allāhumma-ghfir lahu
+
+199. Then one should do another takbīr and say the taslīm.
+     - you can give 1 taslīm
+     - but if the imām does 2 taslīms and you do 2, then it is permissible
+     - Ibn Qudāmah quotes the ijmā‘ of the ṣaḥābah for 1 taslīm
+       - both are permissible
+
+200. The Prophet ﷺ said:
+     #+begin_quote
+     “If any Muslim dies and forty men who associate nothing with Allāh ﷻ offer prayer on him, Allāh ﷻ will accept them as intercessors for him.” (Muslim)
+     #+end_quote
+     - hence it is very important that at least 40 people try to pray the janāzah
+
+201. He ﷺ also said:
+     #+begin_quote
+     “He who attends a funeral until the prayer is offered for the dead will have the reward of one qīrāṭ, and he who attends (and stays) until he is buried will have the reward of two qīrāṭ.” It was asked, “What are the two qīrāṭ?” He ﷺ said, “Like two huge mountains.” (Agreed upon)
+     #+end_quote
+
+202. The Prophet ﷺ prohibited:
+     1. plastering/whitewashing the grave
+        - to stop any shirk
+     2. sitting upon it
+        - to respect it
+     3. building a structure upon it (Muslim)
+
+203. When the Prophet ﷺ finished burying the deceased, he would stand next to the grave and say:
+     #+begin_quote
+     “Seek forgiveness for your brother and ask that he is kept firm, for verily he is being questioned now (by the Angels).” (Abū Dāwūd and authenticated by al-Ḥākim.)
+     #+end_quote
+     - it is better for one to stand, and there is no problem with making congregational du‘ā’
+
+204. It is recommended to offer condolences (ta‘ziyah) to those grieving due to the loss of a person.
+     - give food for them so they do not need to worry about cooking
+
+205. The Prophet ﷺ cried over a deceased person and said:
+     #+begin_quote
+     “Indeed, this is mercy.”
+     #+end_quote
+     - it is permissible to cry
+
+206. However, he ﷺ cursed the nā’iḥah (the one who wails) and the mustami‘ah (the one who intentionally and attentively listens to the wailing).
+     - the women who would scream so other people can hear it
+
+207. The Prophet ﷺ said:
+     #+begin_quote
+     “Visit the graves, for it will remind you of the afterlife.” (Muslim)
+     #+end_quote
+     - visiting the grave is for men
+       - to remind ourselves of the Hereafter
+
+208. The one who visits the graves should say:
+
+     As-Salāmu ‘alaykum ahla dāri qawmin mu’minīn, wa innā in
+     shā’Allāhu bikum lāḥiqūn. Wa yarḥamullāhu al mustaqdimīn
+     minkum wal musta’khirīn. Nas’alullāha lanā wa lakum al ‘āfiyah.
+     Allāhumma lā taḥrimnā ajrahum wa lā taftinnā ba‘dahum
+     waghfir lanā wa lahum, nas’alullāha lanā wa lakum al ‘āfiyah.
+
+     “Peace be upon you, inhabitants of the dwellings who are of the believing community. If Allāh wills, we shall join you. May Allāh have mercy upon those who have gone on ahead of us and those who come later on. We ask Allāh for well-being for us and for you. O Allāh, do not deprive us of their reward and do not put us to trial after them. Forgive us and them, and we ask Allāh for well-being for us and for you.”
+
+     - if you are going past the graveyard and entering it, you can say this
+     - and for the graves of the kuffār, you can give them glad tidings of the Fire
+
+209. Any pious deed can be performed with the intention to pass on the reward to the deceased or a living Muslim.
+     - there is khilāf on this
+
+     - View 1: permissible and prescribed (Hanafī, Mālikī, Hanbalī)
+       - and Ibn Taymiyyah
+       - the scholars agree you can:
+         - give ṣadaqah on behalf of the deceased
+         - make du‘ā’ for them
+         - perform ḥajj and ‘umrah for them
+         - make up the fast of the person who had not fasted
+       - these acts of worship show that we can do an act for them, and it is not limited
+         - these are indications for all types of actions
+
+     - View 2: Shāfi‘ī
+       - only the things that are mentioned in the text can be performed; other than that we are not allowed
+         - “no one has anything except that which he has done for himself,” and this is the default from this verse
+           - what comes out of the default position is the exception
+             - there is no evidence that one who does the action will (necessarily) transfer the reward
+               - there is no evidence for both: for himself or others
+                 - so why not just make the intention for the whole ummah?
+                   - if the ṣaḥābah did this, then they would have done it for the whole ummah
+                     - but they did not
+         - giving ṣadaqah on behalf of the dead and the other exceptions were not something encouraged generally
+           - but something allowed when he ﷺ was questioned about it
+
+       - this seems the correct position
+
+People recite the khatm in groups:
+- they should not read it like this, but they can do it by themselves
+- there is no evidence for something like this
+
+All actions are ended except for the 3:
+- ongoing charity
+- leaving knowledge
+- the du‘ā’ of the child
+
+Hence this does not show that reading the Qur’ān for them will help them, according to the view of Shāfi‘ī.
+
+Allāh ﷻ knows best.

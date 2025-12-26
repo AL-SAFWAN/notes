@@ -1,0 +1,1741 @@
+:PROPERTIES:
+:ID:       3f836fcd-d137-4f25-a221-c06daccc0e0e
+:END:
+#+title: The Book of Salah.
+
+* Salah
+- Linguistically: means du‘ā’ (supplication).
+- Technically: specific statements and actions that begin with the takbīr and end with the taslīm.
+  - Anything before the takbīr or after the taslīm is not from the salah.
+  - Such a great act that it was given in the highest place; the only act of ‘ibādah that was given in the heavens.
+- An act of ‘ibādah removes minor sins (e.g. salah); the exception is Hajj, which includes major sins.
+- Distinguishes the person from being a Muslim and a kāfir.
+- Not praying will put you into Saqar (a type of Fire).
+  - And these people denied the Final Day.
+  - Iblīs missed one prostration, which made him a kāfir.
+    - Whoever leaves one salah leaves the fold of Islam.
+    - Whoever leaves two salah, maybe he had the intention of combining.
+  - Focus on the obligatory prayers.
+    - Do not burn out, and perfect the salah.
+      - Our role model is the Prophet ﷺ.
+- This is farḍ ‘ayn.
+
+* Chapter: Conditions of Prayer
+It has already preceded that purification is from the conditions of prayer.
+- Tahārah from hadath and from najāsah.
+  - They must purify three things before they enter into salah:
+    - their body
+    - their clothes
+    - the place of prayer
+
+** Entering the time of prayer
+54. Another condition is that the _time_ for prayer must have entered.
+    - It cannot be prayed before its time.
+      - Not praying in its fixed time:
+        The Small Kindnesses (107:4): “So woe to those ˹hypocrites˺ who pray...”
+
+*** Evidence: the narration of Jibrīl
+55. This condition is based on the narration of Jibrīl:
+    #+begin_quote
+    “...that he led the Prophet ﷺ (in prayer) at the earliest and latest time (of the prayer) and said, ‘O Muhammad ﷺ, the prayer is to be performed between these two times.’” (Ahmad, Nasā’i and Tirmidhī)
+    #+end_quote
+
+*** Evidence: the ḥadīth of ‘Abdullāh ibn ‘Amr ؓ
+56. It was reported on the authority of ‘Abdullāh ibn ‘Amr ؓ that the Prophet ﷺ said,
+
+#+begin_quote
+“The time of Ẓuhr is when the sun passes the meridian (until) a man’s shadow is the same length as his height. It lasts until the time of ‘Aṣr.
+
+The time of ‘Aṣr is as long as the sun has not become yellow (during its setting).
+
+The time of Maghrib is as long as the twilight has not disappeared.
+
+The time of ‘Ishā’ is up to midnight.
+
+And the time of Fajr is from the appearance of dawn as long as the sun has not risen.” (Muslim)
+#+end_quote
+
+The beginning time of Zuhr
+- When the time of zawāl takes place.
+- When the shadow begins to increase after it has decreased:
+  - the sun has been at the highest point,
+    - this is when the shadow will be the shortest,
+      - this is the time of zawāl,
+        - then it will look like it is going to the west,
+          - the shadow will increase in the east,
+            - this increase tells us that it is Zuhr.
+              - In different times of the year, the length of the shadow differs.
+- The sun starts to lean towards the west.
+
+The time of ‘Asr
+- When the shadow is the same length as the object.
+  - If the shadow does not decrease completely:
+    - then it is the length of the object + the remaining shadow that did not disappear (from zawāl).
+  - The difference:
+    - The majority:
+      - ‘Asr begins when the same-time-length shadow = length of object + remaining amount of zawāl.
+        - Mālikī, Shāfi‘ī, and Hanafī (the senior scholars Abū Yūsuf and Shaybānī), and Hanbalī.
+    - The minority:
+      - shadow = 2x length of the object,
+      - the Hanafī.
+        - They are not extremely strict on holding to their view:
+          - if they are in a land that prays at an earlier time, then they pray at that time.
+  - The ḥadīth of Jibrīl mentions the time that favours the majority.
+    - The evidence the Hanafī use is related to the reward: the time that has the greatest reward, but the two senior students did not agree with this.
+
+- There are two times of ‘Asr:
+  - When the sun has not become red/yellow or visible on buildings or pathways:
+    - it must be performed in that time,
+      - only by those who face a necessity,
+        - but it will be as if he prayed on time.
+  - Complete end time: when the sun disappears beneath the horizon,
+    - the entire sun, not just part of it,
+      - this is when Maghrib begins.
+      - If you are in a building and can still see the sun, then for you it is not Maghrib yet, and you must wait.
+
+The time of Maghrib
+- It does not end until the twilight disappears.
+  - Which twilight?
+    - the white or red twilight:
+      - the red first, then the white follows.
+      - Shāfi‘ī, Mālikī, and Hanbalī:
+        - when the red twilight finishes.
+      - Hanafī:
+        - the white twilight.
+      - The language shows that it is the red twilight.
+
+After this is the time of ‘Ishā’
+- Up until the middle of the night.
+  - The second time (based on necessity) is the time of Fajr.
+
+Middle of night = (start time of Maghrib + start time of Fajr) / 2
+- This can be used to calculate the third of the night.
+  - The salah of Dāwūd:
+    - split it into 6 parts:
+      - sleep the first 3 parts,
+      - pray 2 parts,
+      - sleep 1 part again.
+    - ḥadīth: the best prayer is the prayer of Dāwūd.
+
+- The time of ‘Ishā’ is the middle of the night.
+
+The time for Fajr (beginning)
+- This is in discussion:
+  - There are two types:
+    - The false (lying) fajr:
+      - vertical light,
+      - appears and then darkens,
+      - there is a gap between the horizon and the false fajr.
+    - The true fajr:
+      - horizontal light,
+      - appears and then only keeps getting lighter,
+      - the light begins from the horizon.
+    - The false appears before the true.
+
+- When the tip of the sun can be seen, this is the end time of Fajr.
+
+*** Catching the prayer within its time
+57. The prayer is caught within the time of prayer if one rak‘ah (unit) was performed, due to the statement of the Prophet ﷺ:
+    “Whoever caught one rak‘ah from the prayer has caught the whole prayer.” (Agreed upon)
+    - If you only catch the prayer by completing a rak‘ah right at the end of its time:
+      - this is the salah of the munāfiq.
+
+*** Delaying the prayer beyond its time
+58. It is not permissible to delay it, or to delay part of it, beyond its stated time for any reason.
+   - wājib al-fawr:
+     - e.g. you must start the fast at Fajr, not within a “window”.
+   - wājib al-muwassa‘:
+     - it is allowed to pray at any time within its window,
+       - but it is more preferred to pray at the earliest time.
+     - However, it is not permissible to catch it during its transition (i.e. right as it exits),
+       - even if you have an excuse.
+     - If the time of salah comes, he must pray.
+
+*** Combining prayers
+59. Except if one delayed it in order to combine it with another prayer, which is allowed due to travelling, rain, illness, or something similar to it.
+    - This is the same for the majority,
+      - but not the Hanafī:
+        - you can only combine for Hajj.
+          - They say the other aḥādīth about combining appear to combine, but are not actual combining.
+    - Travelling is a reason:
+      - if you do not need to combine, then it is better not to combine.
+        - shortening can only happen for a traveller and not for a resident.
+    - Example: combining for great difficulties,
+      - such as exams during the winter.
+
+*** Virtue of praying at the earliest time (with exceptions)
+60. It is more virtuous to perform the prayer at its earliest time except for:
+
+    1. ‘Ishā’, if it is not too difficult upon the worshippers.
+       - it should be delayed as much as possible if it does not harm the worshippers.
+
+    2. Ẓuhr, when the weather is extremely hot.
+       - it must still be within the time of Ẓuhr.
+       - The Prophet ﷺ said:
+         “When it is very hot, delay the prayer (Ẓuhr) until it cools down, for the intensity of the heat is from the exhalation of Hell.” (Agreed upon)
+
+*** Making up missed prayers
+61. If one missed a prayer, it is obligatory to make it up immediately and in order.
+    - Shāfi‘ī: as soon as you think you would have khushū‘ for salah.
+
+62. If one forgot the order, was ignorant of it, or feared the exiting of the time for the current prayer, then the (obligation of) order falls between the missed prayer and the current prayer.
+
+** Covering the ‘awrah
+63. From the conditions of the prayer: covering the ‘awrah (nakedness) with permissible, non-transparent clothing.
+
+*** Types of ‘awrah
+64. There are three types of ‘awrah:
+
+    1. Mughallazah (major): this is the ‘awrah of an adult free female. All of her body is ‘awrah apart from her face.
+
+    2. Mukhaffafah (light): this is the ‘awrah of a child between the ages of seven up to ten. The ‘awrah for them is to cover the two private parts.
+
+    3. Mutawassitah (medium): this is the ‘awrah of everyone else not mentioned above. The ‘awrah for them is from the navel to the knees.
+
+Some confuse the ‘awrah of salah vs. the ‘awrah of looking.
+
+*** For women
+Agreed upon:
+- the hair is ‘awrah and must be covered in front of men.
+- the body is ‘awrah:
+  - she must conceal any adornment:
+    - e.g. rings, make-up.
+  - If a woman goes to a place of fitnah and she will become a temptation:
+    - she should not go there.
+    - If there is fitnah for the woman to go out:
+      - her entire body must be covered.
+        - Fitnah is defined as:
+          - she is young (where she will be desired), e.g. less than 70–50,
+          - someone who is beautiful to look at,
+          - evil men who have evil intentions for women.
+        - Ruling:
+          - if they are present, she should cover everything: hands, face, and entire body.
+
+Other than the time of fitnah, they differ
+- on the face, hands, and feet:
+  - Hanbalī:
+    - everything is ‘awrah including her hands and her feet,
+      - even the fingernails.
+    - she should lower her garments so as not to expose the shape of her feet.
+  - Other 3 imāms:
+    - all in agreement that the woman is ‘awrah and her face must be covered.
+    - the 3 madhāhib have 2 views of the face:
+      - face should be covered if there is fitnah,
+      - not ‘awrah (this is the main position).
+
+The covering of ‘awrah
+- is not transparent.
+- does not reveal the shape of the limb.
+
+The scholars mention:
+- before the colonial period, it was unknown that Muslim women would uncover their faces.
+- you find writings of the objectives of some generals to remove the hijab.
+
+Women should not wear adornment on the ground that would make noise for her,
+- as this will lead to fitnah.
+  - What will lead to more fitnah:
+    - the sound, or her face, beautified voice, and body.
+      - If it has been prohibited to make sounds from the feet, then what about the others?
+- A woman should not wear perfume.
+
+“Everything related to covering the body except the face and hands”:
+- this is weak.
+
+For another narration (a woman with golden cheeks giving charity):
+- there is no specific context to this narration:
+  - is she old vs. young, free vs. slave, before or after the obligation?
+- hence this cannot be used as evidence for something more grounded.
+  - it cannot be used to lessen the obligation.
+
+‘Ā’ishah used to stand outside the masjid to prohibit women from coming to the mosque due to the cause of fitnah.
+- At the time of ‘Ā’ishah, everyone had their face and body covered and she still found it a fitnah.
+  - This is the reason why the Hanafī madhhab was for women not to go to the masjid,
+  - but there is another narration to show that they can go.
+
+If a woman does not wear niqāb, it does not mean she is an evil person,
+- she may have other things that Allāh loves.
+
+Agreed upon:
+- if a woman is praying, she should not cover her face.
+  - What is “the face” here?
+    - what is washed in wudu.
+    - hence the neck is ‘awrah, as it is not part of the face.
+
+The feet
+- the feet should be covered:
+  - majority: Shāfi‘ī, Hanbalī, Mālikī,
+  - not the Hanafī (favoured by Ibn Taymiyyah):
+    - the default position is that at home she does not cover the face, feet, etc.
+      - the default prayer for the woman is the home.
+      - In a ḥadīth, Allāh does not accept the prayer of a woman except with a head-covering:
+        - this is the only statement to restrict it.
+  - the feet showing will not affect the salah.
+
+The hands
+- not to be covered: Shāfi‘ī, Hanafī, Mālikī (more correct),
+  - as used by Ibn Taymiyyah:
+    - with the reason of ihrām,
+      - she should uncover her face and hands if no men are present,
+        - and there is nothing to say to cover her face and hands.
+- to cover: Hanbalī,
+  - hands must also be covered,
+    - the only exception is the ijmā‘ of the face.
+
+These are the differences between the ‘awrah of salah vs. outside of salah.
+
+*** For men
+Outside salah
+- navel to the knee,
+  - does not include the navel or the knees.
+  - the thigh is ‘awrah.
+  - the knees are not ‘awrah, according to when ‘Uthmān visited the Prophet ﷺ.
+- The report of Abū Hurayrah with al-Ḥasan:
+  - he asked: “Show me where the Prophet ﷺ used to kiss you so I can kiss you there,”
+    - then he kissed him on the belly button.
+  - If that was ‘awrah, then this would not be permissible.
+
+This does not mean everyone should walk out with shorts and be a fitnah for people.
+- You must protect your own dignity and honour.
+  - Chewing in public used to be seen as bad,
+    - so they would not narrate from this person.
+  - The Prophet ﷺ prohibited us from standing out.
+
+Inside the salah
+- you must cover from the ‘awrah to the knee.
+  - you should wear good clothing when you perform salah.
+
+The majority (Shāfi‘ī, Hanafī, Mālikī):
+- navel to the knee.
+
+The minority (Hanbalī):
+- the shoulders should be covered,
+  - some say one or both:
+    - “None of you should pray with the shoulder exposed.”
+      - e.g. wearing a vest:
+        - the salah is valid, but not preferred.
+
+For a boy:
+- from the navel to the knees.
+
+For girls:
+- what she usually wears.
+
+Allāh ﷻ says in the Qur’ān:
+“O Children of Ādam, take your adornment at every place of prayer...” (7:31)
+
+** Facing the qiblah
+65. From the conditions: facing the qiblah.
+    - If you can see it, it is farḍ to face it.
+      - If you cannot see it, then that direction is sufficient and the salah is still valid.
+
+Allāh ﷻ says in the Qur’ān:
+“So from wherever you go out, turn your face toward al Masjid al Ḥarām...” (2:149)
+
+*** Excuse for not facing the qiblah
+66. If one was unable to face the qiblah due to illness or any other (valid) reason, the condition to face the qiblah will be dropped. Similarly, all obligations drop when one is incapable of doing them.
+
+#+begin_quote
+Allāh ﷻ says: “And fear Allāh as much as you all can...” (64:16)
+#+end_quote
+
+The 3 exceptions
+- Unable to face the qiblah:
+  - e.g. someone who is tied as a prisoner,
+    - cannot work out where the qiblah is,
+    - a person who is ill.
+- Unable to stand and pray in jihād:
+  - e.g. pursuing the enemy; if you stop you might lose them,
+    - even if you are fleeing.
+  - you will say the words of salah,
+    - even while operating on someone.
+- To ride on your mount for a voluntary prayer as a traveller:
+  - nod for rukū‘ and nod more for sujūd.
+    - if it becomes dangerous, then you can just intend for it.
+
+67. The Prophet ﷺ used to pray nāfilah (recommended) prayers on his riding animal in whatever direction it turned. (Agreed upon) Moreover, in another narration it states that he did not pray the obligatory prayers on it.
+
+** Intention
+68. From the conditions (of prayer): the intention.
+
+** Places where prayer is not permissible
+69. It is permissible to perform the prayer in every location apart from:
+
+1. An impure place.
+2. On usurped land.
+   - a stolen house:
+     - the 2nd view is that the salah is valid, but the person is sinful.
+3. A graveyard.
+   - a view of the Hanābilah:
+     - also includes the roof of the graveyard if it is covered.
+4. A ḥammām (public bath),
+   - includes the toilet as well.
+5. A camel’s stable,
+   - why: because it is the area of the shayāṭīn.
+
+The Prophet ﷺ said in an authentic narration found in Tirmidhī:
+“All of the earth is a masjid except the graveyard and ḥammām.”
+
+* Chapter: The Description of Prayer
+
+** Approaching the prayer
+70. It is recommended to approach the prayer with tranquillity and dignity.
+    - What does this mean?
+      - some say they both mean the same: you walk to the masjid in a respectful way and not in a foolish manner.
+      - others say:
+        - sakīnah (tranquillity):
+          - actions that are not foolish; going in a peaceful manner to the masjid.
+        - waqār (dignity):
+          - lower your gaze and voice;
+          - not looking everywhere;
+          - not looking into people’s eyes;
+          - not looking at things that are a fitnah for you, which can harm you.
+    - Going to the masjid is an act of worship.
+    - Do not come to the salah rushing:
+      - whatever you catch, you pray.
+
+** Entering and leaving the mosque
+71. When one enters the mosque they should say:
+
+#+begin_quote
+Bismillāh was-ṣalātu was-salāmu ‘alā Rasūlillāh. Allāhummaghfirli dhunūbi waf-taḥ li abwāba raḥmatik
+#+end_quote
+
+“In the name of Allah and may the peace and blessings be upon the Messenger of Allah, O Allah forgive my sins and open for me your doors of mercy.” (Ibn Mājah)
+
+72. One should enter the mosque with the right foot.
+
+73. And leave the mosque with the left foot.
+
+74. One should mention the same du‘ā’ when leaving but replace the ending with:
+
+#+begin_quote
+Waf-taḥ li abwāba faḍlik
+#+end_quote
+
+“...and open for me your doors of graciousness.” (Aḥmad and Ibn Mājah)
+
+These aḥādīth are ḍa‘īf. The authentic is:
+
+#+begin_quote
+It was narrated that Abu Humaid As-Sa'idi said: "The Messenger of Allah said: 'When anyone of you enters the mosque, let him send peace upon the prophet, then let him say: "*Allahummaftah li abwaba rahmatika* (O Allah, open to me the gates of Your mercy)." And when he leaves, let him say: "*Allahumma inni as'aluka min fadlika*. (O Allah, I ask of you from Your bounty)."
+
+Sunan Ibn Majah 772
+Chapter 13: Supplication When Entering The Mosque, Book 4: The Book On The Mosques And The Congregations
+Grade: Sahih (Darussalam)
+https://sunnah.com/ibnmajah:772
+#+end_quote
+
+** Conditions of salah
+- purification from hadath,
+- removing najāsah,
+- covering the ‘awrah,
+- facing the qiblah,
+- the time of salah has entered,
+- the intention has been made in the heart and mind.
+
+What is required for salah and during the salah
+- There are times when he ﷺ did multiple things in certain positions,
+  - hence different views.
+- They agree upon the main aspects of salah.
+  - Most of what they differ in:
+    - if you leave it, it does not nullify the salah.
+
+** Beginning the prayer
+75. One begins the prayer by saying: “Allāhu Akbar”.
+    - you cannot enter the salah except by this.
+      - said once in the standing position.
+
+** Raising the hands
+76. One should raise their hands parallel to their shoulders or their earlobes (either the top part or bottom).
+    - There is nothing authentic to say to touch the ear.
+    - It is sunnah to alternate the different sunnan only for the opening takbīr.
+      - Other ways to do the sunnah:
+        1. takbīr and raising the hands at the same time,
+        2. takbīr first, then raise the hands,
+        3. raise the hands first, then takbīr.
+      - all 3 have been reported from the Prophet ﷺ.
+    - If you do not raise the hands in the opening takbīr:
+      - the salah is still valid.
+    - In the other takbīrs, you say the takbīr while you are moving at the same time.
+      - some say if you say it at a different time then your salah is invalid.
+
+Four places:
+1. With the opening takbīr.
+2. When descending into rukū‘.
+3. When rising from it.
+4. When one stands up from the first tashahhud.
+   - the hands are raised when you stand up.
+
+For 2 and 3: view of the majority from the majority of the ṣaḥābah and the view of the 10 promised Jannah.
+- Why the Hanafī and some Mālikī do not accept:
+  - due to a different narration that said he did not raise it again.
+    - the major muḥaddithīn said it is weak and opposes the vast majority.
+
+** Placing the hands
+77. One should place the right hand upon the left hand.
+    - 3 sunnah regarding this:
+      - right on top of the left,
+        - past the wrist,
+          - on the forearm.
+
+78. Above the navel, below it, or upon the chest.
+    - Nothing is authentic about where he ﷺ put them.
+      - below the navel is ḍa‘īf,
+      - above the navel is ḍa‘īf,
+      - and on the side is against wrapping.
+
+** Opening supplication (istiftāḥ)
+79. Then one should say:
+
+#+begin_quote
+Subḥānaka Allāhumma wa bi-ḥamdika wa tabārakas-muka wa ta‘āla jadduka wa lā ilāha ghayruka
+#+end_quote
+
+“Glory and praise be to You, O Allāh. Blessed be Your name and exalted be Your majesty, there is none worthy of worship except You.”
+
+One can say any other opening supplication that has been reported from the Prophet.
+- Established by ‘Umar رضي الله عنه, and consensus by the ṣaḥābah.
+- Begin with different du‘ā’ so it does not become robotic.
+  - There are also different du‘ā’ to open up.
+
+** Seeking refuge and basmalah
+80. Then one should seek refuge in Allāh ﷻ.
+
+81. Then say the basmalah.
+
+** Recitation
+82. Then read the opening chapter of the Qur’ān, al-Fātiḥah.
+    - The imām must recite al-Fātiḥah, and the one who prays by himself.
+    - Differences behind the imām:
+      - some say it is farḍ: Imām al-Shāfi‘ī.
+      - some say it is ḥarām: Hanafī, and one view of Hanbalī:
+        - “the salah of the imām is the salah of the one praying behind”:
+          - this is weak.
+        - “when it is being recited, listen attentively”:
+          - Imām Aḥmad quoted ijmā‘ that this is for the salah.
+      - you recite behind the imām in quiet prayers, but not in the loud prayers:
+        - Mālikī and Hanbalī:
+          - this seems strong, and is the view of Ibn Taymiyyah.
+      - “when the imām recites al-Fātiḥah he should be silent so you can read al-Fātiḥah”:
+        - this is ḍa‘īf.
+        - the imām is silent at 2 times:
+          - before reciting,
+          - and before rukū‘ (so he can breathe).
+        - if we are silent at that time, then what are we supposed to be doing?
+          - if we are doing something, there is no evidence for it,
+          - and it goes against the general ḥadīth that you should recite al-Fātiḥah.
+      - So:
+        - if the imām is quiet, you read al-Fātiḥah;
+        - if he is loud, then do not recite al-Fātiḥah.
+        - if there is time to read, then read;
+        - if there is no time to read, then do not read, as you should not recite over the imām.
+          - by this you will either read or hear al-Fātiḥah.
+
+83. One should read after al-Fātiḥah another chapter in the first two units of a three- and four-unit prayer. These chapters being:
+    - it is permissible to read a sūrah after the 2 rak‘ahs (where you usually only recite al-Fātiḥah).
+
+    1. From the long mufassal chapters for Fajr.
+       - from Sūrah Qāf (some say Sūrah al-Ḥujurāt),
+         - until al-Nās,
+           - this is per rak‘ah.
+    2. From the short mufassal chapters for Maghrib.
+       - e.g. from Sūrah al-Ḍuḥā to Sūrah al-Nās.
+    3. From average-length mufassal chapters for the rest of the prayers.
+       - from the middle until Sūrah al-Ḍuḥā.
+
+This is the general norm:
+- try to recite a whole sūrah in a single rak‘ah.
+  - some scholars were strict on this.
+  - it is also proven that the Prophet ﷺ completed a chapter in 2 rak‘ahs.
+
+Saying آمين (āmīn)
+- you should raise your voice for this after al-Fātiḥah.
+  - saying it will get your sins forgiven.
+  - how will you know if the imām said āmīn? because he raised his voice.
+  - you should raise your voice to say āmīn:
+    - extend your voice: “āāāmīīīn”.
+      - Ibn ‘Umar used to raise his voice for āmīn with or without the imām.
+      - āmīn is a supplication:
+        - it means: “O Allāh, accept it.”
+      - raise, extend, and prolong the voice:
+        - say “āāāmīīn”, not “āāmmmeeenn”.
+  - the madhāhib agree it should be said, but the Hanafī said it should not be loud.
+- Reciting al-Fātiḥah is a pillar of the salah:
+  - the salah is not valid for the one who can recite it and leaves it.
+  - it is only valid for those who do not know, compared to those who know.
+
+The imām does not say the basmalah out loud:
+- Hanafī and Hanābilah.
+- Shāfi‘ī: read out loud.
+- Mālikī: do not read it at all.
+
+84. One should recite aloud in the prayers that occur after sunset.
+    - for the first 2 rak‘ahs.
+    - the Qur’ān breaks the silence of the night:
+      - the daytime is busy and loud.
+    - If he is praying qiyām:
+      - there is no harm to read it out loud as long as no one is being disturbed.
+    - General principle:
+      - night: aloud,
+      - day: quiet.
+    - If they recite out loud in the day:
+      - the salah is still valid,
+      - and reading out loud is sunnah.
+    - When you are reading quietly, you should raise the voice slightly sometimes.
+    - Reciting a sūrah after al-Fātiḥah is mandūb, not wājib:
+      - you do not need to do sujūd al-sahw for leaving it,
+      - but you should not do it intentionally.
+
+85. Whereas one should recite quietly in the daytime prayers, except for Jumu‘ah, ‘Īd, kusūf (eclipse), and istisqā’ (prayer asking for rain) prayers, since they are to be prayed aloud.
+    - the khuṭbah is done before the salah.
+    - ‘Īd is done in the daytime:
+      - Fiṭr: 1st of Shawwāl,
+      - Aḍḥā: 10th of Dhul-Ḥijjah,
+    - Kusūf: solar eclipse prayer.
+
+** Rukū‘ (bowing)
+86. Then one should say the takbīr for rukū‘.
+
+87. Then place one’s hands upon their knees.
+    - this is the only place where the fingers are separated.
+
+88. One’s head should be parallel to their back.
+
+89. One should then say:
+
+#+begin_quote
+Subḥāna Rabbil ‘Aẓīm
+#+end_quote
+
+“Glory be to my Lord, the All-Great (the Most Mighty).”
+- In salah, the imām should not extend this more than 10 times.
+  - by yourself you can say it 3 times.
+  - when leading, you should think about those around you.
+
+And repeat it.
+
+Looking in salah
+- there is nothing authentic about where a person should look.
+- There is a prohibition on looking up.
+- Shāfi‘ī, Hanbalī, and Hanafī:
+  - look at the place of sujūd.
+- Mālikī:
+  - look ahead.
+- without bending the head or the neck.
+- you can close the eyes, but you should sometimes open them,
+  - as the Jews pray with their eyes closed.
+
+90. One can also say in their rukū‘ or sujūd:
+
+#+begin_quote
+Subḥānaka Allāhumma Rabbanā wa biḥamdika Allāhumma ighfir lī
+#+end_quote
+
+“Glory be to You O Allāh, Our Lord, and praise. O Allāh, forgive me.”
+
+You can mention more than one du‘ā’ here:
+- rukū‘: generally to glorify Allāh,
+- sujūd: generally to ask Allāh.
+
+** Rising from rukū‘
+91. Then one should raise their head,
+
+92. saying,
+
+#+begin_quote
+Sami‘allāhu liman ḥamidah
+#+end_quote
+
+“Allāh hears those who praise Him.”
+
+Whether one is an imām or munfarid (someone who prays alone).
+
+93. Then everyone should say:
+
+#+begin_quote
+Rabbanā wa lakal ḥamd, ḥamdan kathīran ṭayyiban mubārakan fīh, mil’as-samā’ wa mil’al arḍi wa mil’a mā shi’ta min shay’in ba‘d
+#+end_quote
+
+“Our Lord, and to You be all praise, so much pure praise, inherently blessed, filling the sky, the earth, and filling whatever else you wish.”
+- you can repeat this as well if you do not know any addition.
+
+Minimum requirement for each position
+- you must remain still in each position when you recite a form of remembrance.
+  - when saying “Rabbanā wa lakal ḥamd”, it should be done standing still,
+    - not during the transition (standing and going down immediately).
+  - tranquillity is a pillar of the prayer:
+    - remain still so you can say the remembrance at least once.
+
+Where to put the hands during this
+- 2 views:
+  - if there is nothing specific, you go back to the original understanding:
+    - the majority: the arms should be at the sides (all madhāhib).
+      - every bone goes back to where it is.
+  - 2nd view: every bone goes back to where it was originally:
+    - view of Ibn Ḥazm and Shaybānī.
+
+** Sujūd (prostration)
+When making takbīr to move into these positions, you should say it during the movement, not only at the start or the end.
+
+How to go down
+- knees first or hands first:
+  - nothing is authentic to specify this.
+  - what is authentic is the actions of the ṣaḥābah:
+    - hands first then knees (Ibn ‘Umar),
+    - knees first then hands (from ‘Umar ibn al-Khaṭṭāb).
+  - since there is nothing to specify:
+    - both are permissible.
+
+94. Then one should prostrate on their “seven limbs” as the Prophet ﷺ said:
+    “I have been ordered to prostrate upon seven bones; the forehead – He then pointed to his nose – and the hands, the knees and the toes.” (Agreed upon)
+    - the forehead is more emphasised than the nose.
+    - it does not need to be directly pressed on the floor, but it allows you to put pressure on it.
+    - the elbows should be raised (not laid down).
+      - the forearms should not be on the ground like a dog.
+    - the thighs and knees should be away from the stomach.
+    - the feet should be together.
+
+95. One should then say:
+
+#+begin_quote
+Subḥāna Rabbi al-A‘lā
+#+end_quote
+
+“Glory be to my Lord, the All-High.”
+
+96. Then pronounce the takbīr.
+
+** Sitting between the two prostrations
+97. Then one should sit on their left foot and erect their right foot. This position is called /iftirāsh/.
+
+98. One should sit in that position in all his sittings except in the last tashahhud whereby he should sit in the /tawarruk/ position, which is to sit on the floor (i.e. to have the buttocks on the floor) and to put the left foot under his right thigh and shin.
+    - there are 3 ways to do this.
+
+99. Then one should say (after rising from the first prostration):
+
+#+begin_quote
+Rabbighfir lī war-ḥamni, wah-dini, war-zuqni wajburni wa ‘āfinī
+#+end_quote
+
+“O my Lord! Forgive me, have mercy on me, guide me, sustain me, strengthen me and protect me.”
+
+100. Then one should prostrate like they did for the first prostration.
+
+** Standing for the next rak‘ah
+101. Then one should rise whilst saying the takbīr, relying on the soles of their feet.
+     - Using hands vs. feet to stand up:
+       - the sitting of rest came during the later time of the Prophet ﷺ when he was ill, and he ﷺ used his hands to stand up.
+       - use your feet to stand up directly.
+       - use your hands to stand up if you need.
+
+102. Then one should pray the next rak‘ah (unit) as they prayed the first one.
+     - the second standing should be shorter than the first rak‘ah.
+
+** First tashahhud
+103. Then one should sit for the first tashahhud.
+
+104. The following is the supplication for the tashahhud:
+
+#+begin_quote
+At-Taḥiyyātu lillāhi waṣ-ṣalawātu wat-ṭayyibāt, as-Salāmu ‘alayka ayyuhan-Nabiyyu wa raḥmatullāhi wa barakātuh, as-Salāmu ‘alaynā wa ‘alā ‘ibādillāhiṣ-ṣāliḥīn, ash-hadu an lā ilāha illallāhu wa ash-hadu anna Muḥammadan ‘abduhu wa Rasūluh
+#+end_quote
+
+“All compliments, prayers and pure words are due to Allah, Peace be upon you, O Prophet, and also the mercy of Allah and His blessings. Peace be upon us, and on the righteous slaves of Allah. I bear witness that none has the right to be worshipped except Allah, and I bear witness that Muhammad is His slave and messenger.”
+- this shows the order we make du‘ā’ in as well.
+
+105. Then one should say the takbīr (and rise).
+
+106. One should then pray the rest of the prayer, reciting only al-Fātiḥah for each rak‘ah.
+
+** Last tashahhud and additions
+107. Then he should say the last tashahhud (whilst seated), as stated above.
+
+108. However, one should add the following:
+
+#+begin_quote
+Allāhumma ṣalli ‘alā Muḥammadin wa ‘alā āli Muḥammadin kamā ṣallayta ‘alā āli Ibrāhīma innaka Ḥamīdun Majīd wa bārik ‘alā Muḥammadin wa ‘alā āli Muḥammadin kamā bārakta ‘alā āli Ibrāhīma, innaka Ḥamīdun Majīd
+#+end_quote
+
+“O Allāh! Send prayers upon Muhammad, and on the family of Muhammad, as you sent prayers on the family Ibrāhīm; you are indeed worthy of praise, full of glory. And send blessings upon Muhammad, and on the family of Muhammad, as you sent blessings on the family of Ibrāhīm; you are indeed worthy of praise, full of glory.”
+
+#+begin_quote
+A‘ūdhu billāhi min ‘athābi Jahannam wa min ‘athābil qabri wa min fitnatil maḥyā wal mamāt wa min fitnatil masīḥid-dajjāl
+#+end_quote
+
+“O Allāh! I seek refuge in you from the punishment of the fire, from the punishment of the grave, from the trial of life and death, and from the trial of the anti-Christ.”
+
+Dajjāl
+- the greatest fitnah:
+  - one eye like a protruding grape.
+
+One may also make other supplications.
+- ask Allāh whatever you want before the taslīm.
+
+** Taslīm (salutations)
+109. Then one should do the taslīm (salutations) to their right and (then) their left, according to the narration of Wā’il ibn Ḥujr which was reported by Abū Dāwūd:
+
+#+begin_quote
+As-Salāmu ‘alaykum wa raḥmatullāh
+#+end_quote
+
+“May the peace and mercy of Allāh be upon you.”
+- everything else has problems with its authenticity.
+- the cheek should be seen by those behind you.
+
+Looking during taslīm and pointing the finger
+- We look at the point of prostration all the time except in the tashahhud:
+  - we look at the finger,
+  - keep the finger pointed.
+- Pointing the finger:
+  - make a circle with the middle finger and thumb.
+
+General principle
+- du‘ā’ before the taslīm,
+- glorification and remembrance after the taslīm.
+
+Saying takbīr vs. istighfār after salah
+- Ibn Taymiyyah:
+  - doing the istighfār is explicitly stated,
+  - and what is understood by takbīr is that this is what is used in general to glorify Allāh,
+  - also the practice seen with the companions.
+
+** Pillars, obligations, and recommended actions
+A rukn is something that must be performed in the salah:
+1. If you miss it intentionally, your salah is broken/voided.
+2. If you miss it accidentally, your salah is not complete until you have performed it:
+   1. If you are in the same rak‘ah, you go back to it, perform it, continue, then perform 2 sujūd.
+   2. If you are in the next rak‘ah:
+      - the previous rak‘ah is cancelled,
+      - and the current rak‘ah becomes the replacement.
+
+The arkān
+1. Standing with the ability to do so (sitting if you cannot).
+   - If you can hold something and stand, then this is good.
+   - If you can stand, then stand; and for what you cannot do, use a chair.
+2. Saying the opening takbīr.
+   - but not raising the hands.
+3. Reciting Sūrah al-Fātiḥah:
+   - the imām and the one who prays by himself,
+   - as well as behind the imām for the quiet prayers/units.
+4. The rukū‘:
+   - if you are closer to rukū‘ than standing, and you touch your knees,
+     - this is the minimum for it to be valid.
+5. Rising from rukū‘.
+6. Standing upright after rukū‘.
+7. Prostrating on the seven bones.
+8. Rising from sujūd.
+9. Sitting between the two sujūd.
+10. Tranquillity in every position:
+    - to stay still at least once when saying the words of remembrance.
+11. Final tashahhud.
+12. Sitting in the final tashahhud.
+13. The taslīm:
+    - it is not authentically reported directly from the Prophet ﷺ, but by the companions.
+14. To do this in the correct order.
+
+Mas’alah (Ibn Qudāmah example in ‘Umdat al-Fiqh)
+- A person remembers they did only 1 sajdah for every rak‘ah and now they are on their final sitting: what should he do, and why?
+  - go back to the last point that was valid and do two sujūd.
+
+The wājibāt
+1. All other takbīrs other than the opening takbīr.
+2. Saying subḥāna rabbi al-‘aẓīm in rukū‘ once.
+3. Saying subḥāna rabbi al-a‘lā in sujūd once.
+4. Saying sami‘allāhu liman ḥamidah for the imām and munfarid (not the ma’mūm).
+5. Saying rabbanā lakal ḥamd for everyone.
+6. The first tashahhud (it is from the wājibāt),
+   - the second is the pillar.
+7. Sitting for the tashahhud.
+
+Pillars vs. wājibāt
+- You cannot intentionally leave either.
+- If you accidentally miss them:
+  - for the pillar: you need to go back and complete it,
+  - for the wājib: you continue and do not need to go back, but you do sujūd al-sahw.
+
+110. [@110] The verbal pillars (arkān qawliyyah) for the prayer are:
+    1. The opening takbīr.
+    2. The recitation of the Fātiḥah other than the ma’mūm (follower).
+    3. The last tashahhud.
+    4. The taslīm.
+
+111. The rest of the actions in prayer are from the physical pillars (arkān fi‘liyyah) except for:
+
+    1. The first tashahhud, since it is from the wājibāt (obligations) of the prayer.
+    2. The takbīrs apart from the opening takbīr.
+    3. Saying subḥāna rabbi al-‘aẓīm in rukū‘.
+    4. Saying subḥāna rabbi al-a‘lā in sujūd.
+    5. Saying rabbigh-firli between the two prostrations at least once. To increase the times one says it is recommended.
+    6. Saying sami‘allāhu liman ḥamidah for the imām and munfarid.
+    7. Saying rabbanā lakal ḥamd for everyone.
+
+112. These (aforementioned) obligations (wājibāt) do not have to be made up if one forgot to do them. However, one has to perform the Prostration of Forgetfulness (sujūd al-sahw) to make up for the missed obligations.
+
+113. The pillars (arkān) cannot be dropped due to forgetfulness, ignorance, or if missed intentionally.
+     - if someone has missed a pillar and never knew, then someone has informed him about this:
+       - then he has to repeat it,
+       - the salah of the current time.
+
+114. The rest of the actions and statements in the prayer are recommended and perfect the prayer.
+
+The sunan / mustaḥabbāt
+- everything other than the wājibāt and arkān.
+- e.g. raising the hands.
+- Saying rabbigh-firli between the two prostrations more than once:
+  - it is recommended.
+
+** Ṭuma’nīnah
+115. Having ṭuma’nīnah (to have peace/tranquillity [i.e. for the bones to be at ease]) is from the pillars (arkān) of the prayer.
+
+Abū Hurayrah ؓ narrated that the Prophet ﷺ said,
+“If you are ready for prayer, perform your ablution well, then face the qiblah and say the takbīr. Then read from what you know from the Qur’ān, then bow until you are at ease while bowing, then rise until you are upright, then prostrate until you are at ease while prostrating, then rise until you are at ease while sitting, then prostrate again until you are at ease while prostrating. Do that for the rest of your prayer.” (Agreed upon)
+
+The Prophet ﷺ also said:
+“Pray as you see me praying.” (Agreed upon).
+- According to al-Nawawī, this is meant by the arkān and the wājibāt.
+
+** Adhkār after prayer
+When you finish and sit (after salah), it is as if you are still in salah.
+
+116. When one has finished the prayer they should:
+
+1. Seek Allāh’s ﷻ forgiveness three times.
+
+2. Say,
+
+#+begin_quote
+Allāhumma anta as-Salām wa minkas-Salām, tabārakta yā dhal Jalāli wal Ikrām.
+#+end_quote
+
+“O Allāh, You are the source of peace (or the One free from all faults) and from You comes peace, blessed are You, O Possessor of Majesty and Honour.”
+
+3.
+
+#+begin_quote
+Lā ilāha illal-lāh waḥdahu lā sharīka lah, lahul Mulk, wa lahul ḥamd, wa huwa ‘ala kulli shay’in Qadīr. Lā ilāha illal-lāh, wa lā na‘budu illā iyyāh, lahun ni‘mah, wa lahul faḍl, wa lahuth-thanā’ al ḥasan, lā ilāha illal-lāh, mukhliṣīna lahud-dīna wa law karihal kāfirūn.
+#+end_quote
+
+“There is no one worthy of worship except Allāh. He is alone. There is no partner with Him. Sovereignty belongs to Him and He is Potent over everything. There is no one worthy of worship except Allāh and we do not worship but Him alone. To Him belong all bounties, to Him belongs all Grace, and to Him is worthy praise accorded. There is no one worthy of worship except Allāh, to Whom we are sincere in devotion, even though the unbelievers disapprove of it.”
+
+4.
+
+#+begin_quote
+Subḥānallāh, al ḥamdulillāh, Allāhu akbar
+#+end_quote
+
+“Glory be to Allāh, all praise be to Allāh, Allāh is the Greatest.”
+
+This should be said 33 times.
+
+Then one should say:
+
+#+begin_quote
+Lā ilāha illallāhu waḥdahu lā sharīka lahu, lahul mulk, wa lahul ḥamd wa huwa ‘alā kulli shay’in qadīr,
+#+end_quote
+
+“None has the right to be worshipped except Allāh, Alone, without partner; to Him belongs all that exists, and to Him belongs the praise; and He has power over all things.”
+
+Which will complete the hundred.
+
+There are 4 different ways we can do the sunnah:
+- 33x each, then 1.
+- 33x each, and 34x takbīr.
+- 10x, 10x, 10x.
+- 25x, 25x, 25x, 25x (lā ilāha illā Allāh).
+
+You can read Āyat al-Kursī.
+
+As for making du‘ā’ (after salah):
+- there is no basis for this, and this is not sunnah according to the 4 madhāhib.
+
+Wiping the face is not sunnah after making du‘ā’.
+- the only time is when you recite the qul.
+
+Counting with fingers vs. beads
+- fingers are better; beads are permissible.
+- Abū Hurayrah used to have beads.
+
+** Regular supererogatory prayers
+117. The regular supererogatory prayers are ten rak‘ah (units) which have been mentioned in the narration of Ibn ‘Umar ؓ:
+“I memorised from the Prophet ﷺ 10 units of prayer:”
+
+The view of Aḥmad (10) — Ibn ‘Umar
+- Two before Ẓuhr and two after it.
+- Two after Maghrib in his house.
+- Two after ‘Ishā’ in his house.
+- And two before Fajr. (Agreed upon).
+  - sunnah to recite Sūrah al-Kāfirūn and al-Ikhlāṣ.
+  - these are very short:
+    - some ẓāhirī do not read al-Fātiḥah,
+      - but this is meant by its shortening.
+
+The majority view is 12 units — Umm Ḥabībah
+- the 4 before Ẓuhr.
+  - the sunnah are prayed in 2s,
+    - and there is a weak narration for praying it in 4.
+
+There is no harm in making it up.
+- if there is no valid excuse, then you must pray it in its time.
+
+Voluntary salah is encouraged except for 3 times:
+- after praying the farḍ of Fajr, until about 15–20 minutes after sunrise (the sun rises above the horizon by the length of a spear),
+- about 10 minutes before Ẓuhr (just before its peak),
+- between ‘Asr and Maghrib.
+
+You are allowed to pray prayers that have a reason at these times:
+- e.g.
+  - Maqām Ibrāhīm,
+  - Taḥiyyat al-Masjid.
+- If there is no reason:
+  - e.g. Ṣalāt al-Tawbah.
+
+Ibn ‘Umar may not have known that the other 2 rak‘ahs were part of it.
+- Not knowing a particular evidence does not mean it is unknown.
+  - the one who says it did not happen may not know that it happened.
+
+* Chapter: Prostration of Forgetfulness, Recitation and Gratitude
+
+** Prostration of forgetfulness (sujūd al-sahw)
+118. The prostration of forgetfulness (sahw) is performed if:
+
+1. A person added (ziyādah) a bowing, prostration, standing, or sitting out of forgetfulness.
+   - addition of actions, not statements.
+
+2. Or omitted (naqṣ) any of the things mentioned above. In this situation a person must make up what was omitted and prostrate for forgetfulness.
+
+3. Or left out an obligation of the prayer out of forgetfulness.
+
+4. Or doubted (shakk) in whether something was added or omitted.
+
+It was reported that the Prophet ﷺ stood when he was meant to sit for the first tashahhud and prostrated (for it).
+
+Likewise, he ﷺ “finished the Ẓuhr or ‘Asr prayer after only completing two rak‘ahs, then the ṣaḥābah reminded him ﷺ. He ﷺ then made up for the rest of the prayer and prostrated for forgetfulness.”
+
+He ﷺ also once prayed 5 rak‘ahs for Ẓuhr after which it was said to him ﷺ, “Has the prayer increased (in the amount of raka‘ahs)?” So, he ﷺ replied, “And what are you referring to?” They said, “You prayed 5 rak‘ahs.” So, he ﷺ prostrated twice after he ﷺ did the taslīm.” (Agreed Upon)
+
+The Prophet ﷺ said,
+“If one of you had doubts in your prayer and does not know how much he has prayed, whether 3 or 4, let him dispel this doubt and build upon certainty, then let him prostrate twice before he does the taslīm. If it was the case that he prayed 5, they (the two prostrations) will make his prayer even-numbered, and if he prayed the exact amount (i.e. four) then they will be a humiliation for the devil.” (Muslim)
+
+119. One can either prostrate before or after the taslīm.
+
+Before:
+- if you have missed something.
+- if you doubted and built upon certainty.
+- do not need to do tashahhud again.
+
+After:
+- only if you added something.
+- if you have a doubt and build upon certainty:
+  - you do the prostration and the taslīm again.
+
+Mas’alah
+- If you follow the imām and he makes the sujūd before the taslīm:
+  - then you follow him.
+- If he makes it after the taslīm and you caught the mistake with him:
+  - then you follow him.
+- If you joined after the mistake:
+  - if he does it before the taslīm, then follow him.
+  - if he does it after, then continue and there is no need for you to do it, as you did not follow him in his mistake.
+    - however, if you caught the mistake:
+      - then do the sujūd.
+
+For 2 sujūd it is sufficient for multiple mistakes.
+
+If you make a mistake behind the imām, you do not need to make sujūd al-sahw:
+- you just catch up with the position.
+
+If you missed a pillar with the imām:
+- you can catch up with him with the condition that he has not overlapped you (i.e. gone into the next rak‘ah).
+  - if it has overlapped into the next rak‘ah, then the first one becomes null.
+
+** Prostration of tilāwah (recitation)
+120. The prostration of tilāwah (recitation) is recommended for the reciter and listener of the Qur’ān whether in prayer or not.
+     - should not be done in a silent prayer.
+     - should follow the imām.
+     - outside salah you do not need to say the takbīr, have wudu, or face the qiblah since it is not salah.
+
+** Prostration of gratitude (shukr)
+121. Likewise, if a person received a blessing or was averted from a trial, then he should prostrate to Allāh ﷻ out of gratitude.
+
+122. The ruling of the prostration of gratitude takes the same ruling as the prostration of recitation.
+     - there is no specific sajdah to make du‘ā’:
+       - you should pray and then make du‘ā’ in that position.
+
+* Chapter: The Nullifiers of Prayer and the Disliked Actions Therein
+
+** Nullifiers of prayer
+123. The prayer becomes nullified by the following:
+
+1. Missing a pillar or condition whether accidentally, forgetfully, or otherwise, unless he makes it up. Moreover, the prayer becomes nullified by intentionally leaving out an obligation.
+
+2. Speaking intentionally.
+   - this is not the accidental type.
+   - you cannot address someone else in salah, but you can praise Allāh and say words of remembrance.
+
+3. Laughing.
+   - audible laughing (where you can hear it).
+     - does not break wudu.
+     - it is in the madhhab of Imām Abū Ḥanīfah, but there is nothing authentic for this (that laughing breaks wudu).
+
+4. Moving excessively and consecutively, without necessity. The standard for excessive movement is the custom (‘urf).
+   - when an outside person looks at him, it appears he is not praying salah.
+
+These actions invalidate the prayer because:
+- in point 1: the act of worship is incomplete,
+- and in points 2–4: he committed a prohibited action.
+
+** Disliked actions in prayer
+124. It is disliked doing the following:
+- this lessens the reward of the salah.
+- general principle: everything that turns a person away from the salah (distraction) is makrūh.
+
+1. Turning around in prayer:
+   - turning the face, not the body.
+   - the Prophet ﷺ was asked and said:
+     “Turning around during prayer is something that the Devil snatches from one’s prayer.” (Bukhārī)
+
+2. Playing frivolously (‘abath),
+   - fidgeting.
+
+3. Placing one’s hands upon the hip/waist.
+
+4. Interlocking one’s fingers.
+
+5. Clicking one’s fingers.
+
+6. Sitting in the iq‘ā’ position like the iq‘ā’ of a dog.
+
+7. Paying attention to something that distracts one from prayer,
+   - e.g. mirrors, windows, patterns, or anything like it.
+
+8. Beginning the prayer whilst one’s mind is focused on:
+   - holding back urine or faeces,
+   - the presence of food which one desires.
+     - this is not talking about food that is being prepared, or if there is 5 minutes left of the time of salah.
+     - this does not include Jumu‘ah.
+
+   This is due to the saying of the Prophet ﷺ:
+   #+begin_quote
+   “There is no prayer when food is present nor when one is holding back their urine or faeces.” (Agreed upon)
+   #+end_quote
+
+9. The Prophet ﷺ forbade that a person should lay down both of his forearms while prostrating. (Agreed upon)
+
+* Chapter: Supererogatory Prayers
+
+** Eclipse prayer
+125. The most recommended supererogatory prayer is the eclipse prayer because the Prophet ﷺ performed it and ordered it to be performed.
+
+126. It is prayed in accordance with the description found in the ḥadīth of ‘Ā’ishah ؓ:
+“that the Prophet ﷺ recited aloud for the eclipse prayer and did four bowings in two raka‘ahs and four prostrations.” (Agreed Upon)
+- two types of eclipses: the sun and the moon.
+  - it shows that if Allāh wants to stop the sunlight, we would not find a way to see.
+- the duration of the salah should match the duration of the eclipse:
+  - recite, then go into rukū‘, then rise, then perform another rukū‘,
+    - then perform 2 sujūd.
+  - the 2nd rak‘ah is like the 1st.
+- the adhān and iqāmah are for the 5 obligatory prayers and no other prayer.
+  - for other prayers, you can call out to people.
+- extra rukū‘ increases tasbīḥ:
+  - it removes calamities, like the story of Yūnus in the belly of the whale.
+
+** The witr prayer
+127. The witr prayer is a highly emphasised prayer (sunnah mu’akkadah). The Prophet ﷺ always performed it whether he was a resident or traveller. He also emphatically encouraged others to perform it.
+
+128. Its minimum is one rak‘ah.
+     - Imām Aḥmad said the one who leaves witr is an evil person and his testimony should not be taken.
+     - it can be prayed as 1 rak‘ah.
+
+129. Its maximum is eleven rak‘ahs.
+
+Ways
+- 3 rak‘ahs (the minimum preferred way):
+  - ḥadīth of ‘Ā’ishah: pray continuously without any tashahhud in the middle.
+  - ḥadīth of Ibn ‘Umar: perform 2 rak‘ahs then 1.
+  - Hanafī: some pray witr like Maghrib:
+    - they try to make it different by reciting a sūrah in the third + du‘ā’ in the third.
+      - response: the Prophet ﷺ did this anyway, so it does not show it is different from Maghrib.
+        - the only difference left is the first tashahhud.
+- 5 rak‘ahs:
+  - ḥadīth of ‘Ā’ishah: do not sit until the last.
+- 7 rak‘ahs:
+  - ḥadīth of Umm Salamah.
+- 9 rak‘ahs:
+  - sit in the 8th and the 9th.
+- 11 rak‘ahs:
+  - complete the salah in 2s until 10, then 1.
+
+There is nothing authentic regarding saying the du‘ā’, however it is encouraged.
+- it is better to leave it and to do it.
+  - more emphasised in Ramaḍān.
+  - it should not be extremely long:
+    - not more than 7–8 minutes.
+
+130. Its time is from the ‘Ishā’ prayer until dawn (beginning time of Fajr).
+     - if you combine with Maghrib, then you can pray witr at that time.
+     - if you oversleep for witr:
+       - it can be made up at the time of ḍuḥā (after sunrise).
+         - there are 3 differences:
+           - you pray it as an even number of rak‘ahs,
+           - recite quietly,
+           - there is no du‘ā’.
+           - this is authentically reported directly from the Prophet ﷺ.
+       - before Fajr:
+         - pray the witr first, then the sunnah.
+           - done by the ṣaḥābah:
+             - due to ijtihād or they heard it from the Prophet ﷺ.
+         - the first is more recommended.
+
+131. It is more virtuous for it to be performed as one’s last prayer of the night, since the Prophet ﷺ said:
+#+begin_quote
+“Make your last prayer at night witr (odd).” (Agreed upon)
+#+end_quote
+
+132. He ﷺ also said:
+#+begin_quote
+“Whoever amongst you is afraid that he may not be able to get up at the end of the night should observe Witr (in the first part) and then sleep, and he who is confident of getting up and praying at night (i.e Tahajjud prayer) should observe it at the end of it, for the recitation at the end of the night is witnessed and that is better.” (Muslim)
+#+end_quote
+
+There is also evidence that the Prophet ﷺ prayed 2 after witr:
+- this is to show it is permissible to pray more after witr (e.g. if you take a nap and wake up),
+  - but you do not pray witr again.
+
+With regard to qiyām al-layl:
+- some aḥādīth are mawqūf (said by the companions).
+  - “if anyone prays 4 rak‘ahs in the night, it is as if he prayed 4 rak‘ahs of Laylat al-Qadr.”
+  - some ‘ulamā’ weaken this due to the reward.
+
+** Prayer for rain (istisqā’)
+133. The istisqā’ prayer is recommended if people find themselves in difficult circumstances due to the loss of water.
+
+134. It is prayed like the ‘Īd prayer in an open area.
+     - or it can be done by the imām from the minbar and raise his hands:
+       - everyone should raise their hands with the imām.
+
+135. A person should depart to the prayer humbled and abased.
+
+136. The prayer consists of two rak‘ahs.
+
+137. Then a single sermon should be delivered:
+     - can be done before or after the salah:
+       - seeking forgiveness should be emphasised and verses that contain the command to seek forgiveness should be recited.
+       - Allāh should be implored and beseeched.
+       - one should not wait for a long time waiting for a sudden response.
+
+138. Before leaving for the prayer, one should carry out the actions that repel evil and cause Allāh’s ﷻ mercy to descend, such as:
+     - seeking forgiveness,
+     - repentance,
+     - rectifying one’s wrongdoing of others,
+     - showing beneficence to others,
+     - and other means that Allāh ﷻ has made reasons for His mercy to descend and repellents for punishment.
+
+And Allāh ﷻ knows best.
+
+** Prohibited times to pray
+139. The prohibited times to pray the unrestricted recommended prayers (al-nawāfil al-muṭlaqah) are:
+- any prayers that do not have a reason to be established.
+
+1. From Fajr until the sun rises above the horizon by the length of a spear.
+2. From the ‘Asr prayer until sunset.
+3. From the time the sun has reached the zenith until it begins to descend.
+
+And Allāh ﷻ knows best.
+
+* Chapter: The Congregational Prayer and the Imamate
+
+140. The congregational prayer is an individual obligation (farḍ ‘ayn) for all five prayers. It is an obligation upon all men whether they are residents or travellers.
+     - this is not farḍ al-kifāyah.
+       - it excludes women and children.
+
+This is due to the statement of the Prophet ﷺ:
+#+begin_quote
+“I have thought of giving the order for the prayer to be established, and then order a man to lead the people in prayer and then go with some men carrying a bundle of firewood to people who do not attend the prayer, then burn their homes with fire.” (Agreed upon)
+#+end_quote
+
+1st view — the view of Imām Aḥmad
+- if a man prays by himself without a valid reason then he is sinful.
+  - it does not have to be performed in the masjid.
+  - ṣalāt al-jamā‘ah is prescribed in times of fear:
+    - then what about the time when there is no fear?
+
+2nd view — the majority
+- emphasised recommendation, and some say farḍ al-kifāyah.
+  - if it was obligatory, he would have not said “I have thought...” regarding burning the houses.
+    - it is burning the houses of the munāfiqīn.
+  - the fear prayer shows the unity of the Muslims.
+  - when 2 men were sitting back in the masjid, they said they prayed in their houses:
+    - the Prophet ﷺ said pray with them as nafl and did not rebuke them for praying at home.
+  - there are times where the Prophet ﷺ did an action and never left it; this does not mean it is sinful to leave it.
+
+3rd view — Ibn Taymiyyah
+- a condition of salah.
+
+It is extremely emphasised that you should pray in jamā‘ah, as not praying is a sign of hypocrisy.
+
+For women jamā‘ah
+1st view — recommended (Shāfi‘ī and Hanbalī)
+- the woman who leads stands in the first row.
+  - the ḥadīth of 27 times is general.
+  - ‘Ā’ishah رضي الله عنها led women for Maghrib.
+  - there is no specific evidence that rebukes a woman from leading in salah.
+
+2nd view — prohibited but valid (Hanafī)
+- if they prayed, their salah would still be valid.
+  - the leadership row is for men:
+    - men do not stay in line but in front.
+  - the prayer for men and women is the same and there is nothing to show otherwise.
+
+3rd view — invalid (Mālikī)
+- “no group of people that allow a woman to lead them will be successful”:
+  - this is meant as a ruler of a nation.
+
+The first view seems more correct.
+- it cannot be more than recommended, and difficult to say makrūh.
+
+141. The minimum congregation consists of the imām and the ma’mūm (follower).
+     - imām is on the left and ma’mūm is on the right on the same line.
+       - nothing indicates behind the person.
+       - if the person stands on the left, it does not nullify the salah.
+
+142. The larger the congregation is, the more beloved it is to Allāh ﷻ.
+
+143. The Prophet ﷺ said:
+“A prayer offered in congregation is better than the prayer offered by a single person by 27 degrees.” (Agreed Upon)
+
+144. He ﷺ also said:
+“If you prayed in your homes and then came to a mosque that is praying in congregation, pray with them for verily that will be a voluntary prayer for you.” (Abū Dāwūd, Tirmidhī and others)
+     - the best place for a woman to pray is in the house.
+     - there is a ḥadīth: “do not prohibit the places of worship for women.”
+       - ‘Abdullāh ibn ‘Umar had a severe argument with his son over allowing women to go to the mosque at night:
+         - Ibn ‘Umar upheld the Prophet’s permission and the son refused due to fitnah,
+           - leading Ibn ‘Umar to say he would never speak to him again, in obeying the Sunnah over personal opinion.
+       - ‘Ā’ishah said: if the Prophet ﷺ knew what you are doing now, he would have prohibited it.
+     - however, Allāh knew the situation of all times and not just at the time of the Prophet ﷺ, and this is their opinion.
+
+145. Abū Hurayrah ؓ reported in a marfū‘ narration:
+- “The imām is appointed so that he should be followed.”
+  - you cannot precede him in actions, but in statements there is no harm.
+
+- If he says the takbīr, then say the takbīr, but do not say the takbīr until he has said the takbīr.
+  - the person should not move until the imām has completed moving.
+
+- If he bows, then bow, but do not bow until he has bowed.
+
+- If he says, “sami‘allāhu liman ḥamidah” then say, “Allāhumma rabbanā wa lakal ḥamd.”
+
+- If he prostrates then prostrate, but do not prostrate until he has prostrated.
+
+- If he prays sitting, then all of you must pray sitting as well.” (Abū Dāwūd. Its origin is found in the two ṣaḥīḥs)
+  - they differ whether this was abrogated or not.
+    - the Prophet ﷺ came and sat, but the people were standing.
+    - you can combine the narrations:
+      - if the imām starts standing, then you stand, even if he sits after.
+
+146. He ﷺ also said, “The following should lead the prayer:
+
+- The most proficient in the recitation of the Qur’ān.
+  - correct pronunciation and memorised the Qur’ān.
+  - pronunciation takes precedence.
+
+- If all of them are equal in recitation, then the most knowledgeable of the sunnah should lead.
+
+- If all of them are equal in knowledge of the sunnah, then the one who made hijrah first should lead.
+
+- If all of them made hijrah at the same time, then the more senior in Islam (i.e. in terms of when he became Muslim) or the more senior in age should lead.
+
+- No man must lead another in prayer where (the latter) has authority or sit in his place of honour in his house, without his permission.” (Muslim)
+  - do not lead in a person’s house unless he gives permission.
+
+147. And it is required that:
+
+1. The imām prays in front of the congregation.
+   - the general position.
+
+2. The followers pray in a straight line, leaving no gaps.
+   - if the rows are not straight, the hearts will differ.
+   - it has 4 parts:
+     - complete the closest row to the imām,
+     - stand close with your companions shoulder to shoulder,
+       - and feet to feet if you can,
+         - does this mean neck to neck? (no).
+     - the row should be straightened with the heels and not the toes.
+     - keep the gap between rows small (that which is required for sujūd).
+     - keep the left and right side the same.
+
+3. The followers complete the rows, starting with the first.
+
+148. Whoever prays a rak‘ah by himself behind a row (whilst in congregation) without a valid reason must repeat their prayer.
+     - Ibn Qudāmah stated:
+       - if you are praying with someone anywhere in the mosque, your salah is still valid even if there is a gap in front of you.
+       - it would mean you left the row of perfection.
+     - The Hanābilah say:
+       - if you pray by yourself in a row without a reason, then the salah is not valid.
+         - i.e. a person prays by himself in the Ḥaram.
+     - Others say:
+       - you have left the row of perfection.
+
+Should you pray by yourself or pull someone back if the first row is completed?
+- If you pull someone back:
+  - you are oppressing the person in the front and leaving the row of perfection.
+- The 2nd view:
+  - you wait until someone comes to join, or you do not pray.
+    - this was the view of Ibn Bāz.
+    - someone who prays at home should still join the jamā‘ah,
+      - but someone in the mosque with an empty line at the back: should he not pray as well?
+- The 3rd view:
+  - that you pray by yourself as this is a valid reason.
+
+149. Ibn ‘Abbās ؓ said:
+“One night I prayed with the Prophet ﷺ and I prayed on his left-hand side. Then the Prophet ﷺ grabbed my head from behind and made me stand on his right-hand side.” (Agreed upon)
+     - used as evidence against the Hanābilah that praying behind the imām behind the salah does not invalidate the salah.
+
+150. The Prophet ﷺ said:
+“If you heard the iqāmah then walk to the prayer calmly and with dignity and do not rush. Whatever you have caught of the prayer then pray it, and whatever you have missed of the prayer then complete it (fa atimmū).” (Agreed upon)
+
+151. The Prophet ﷺ also said:
+“If you enter the prayer and the imām is in a particular position, then do exactly what the imām is doing.” (Tirmidhī)
+     - do not wait for the imām to stand:
+       - catching the sajdah is better than missing it.
+     - the ḥadīth is ḍa‘īf, but the meaning is in line with the principle of following the imām.
+
+* Chapter: The Prayer of Those with Excuses
+Three people are excused in certain matters in salah: the ill, the traveller, and fear.
+- no one is excused from the obligation of salah itself, except the woman during menses.
+
+152. The ill are excused from attending the congregational prayer.
+     - still receive the reward of attending the jamā‘ah.
+
+153. If standing in prayer increases one’s illness, then one should pray sitting. And if one cannot manage sitting, then one should pray on their side due to the statement of the Prophet ﷺ:
+“Pray standing, but if you cannot then pray sitting and if you cannot do that, then pray on your side.” (Bukhārī)
+     - or if it takes away concentration completely:
+       - use a walking stick.
+       - pray on your side facing the qiblah.
+       - pray on your back, but face the qiblah.
+       - pray with the eyes:
+         - going to rukū‘: look down,
+         - sujūd: look more down.
+       - Ibn Taymiyyah: if he cannot do this,
+         - then pray with the heart.
+           - this shows no one is excused from not praying salah.
+
+154. If it becomes difficult upon him (i.e. the sick) to pray every prayer in its designated time, one can combine Ẓuhr with ‘Asr and Maghrib with ‘Ishā’ in either of the two prayer times.
+     - Imām Abū Ḥanīfah:
+       - you cannot combine except for Hajj.
+       - you do what looks like combining but it is not actual combining:
+         - praying at the end of Ẓuhr and at the start of ‘Asr.
+
+** The prayer of the traveller
+Is shortening farḍ or mandūb?
+
+1st view: farḍ — Mālikī and Hanafī
+- the view of ‘Umar and ‘Alī:
+  - the default was 2 rak‘ahs,
+  - then it was made into 4 rak‘ahs.
+
+2nd view: emphasised sunnah — Hanbalī and Shāfi‘ī
+- Ibn Taymiyyah:
+  - it is not reported that he ﷺ did not do it outside of Madīnah.
+
+155. It is also permissible for the traveller to combine their prayers.
+
+156. It is recommended to shorten the four-unit prayers to two units.
+     - Ibn Qudāmah:
+       - said without a reason a person can combine.
+       - however, if there is no specific need, then it is better not to combine.
+     - If you pray salah in jamā‘ah with a local, you must pray the full salah behind him, even if you are late.
+       - the resident can pray behind a traveller, but they must stand up after the 2.
+
+When can you shorten the salah?
+- there is no explicit evidence for a specific distance:
+  - we go back to custom (as per Ibn Qudāmah and Ibn Taymiyyah):
+    - what the custom defines as travelling is travelling in the sharī‘ah.
+    - generally: moving from one town to another.
+      - the ruling of travelling is established on this person.
+    - there are narrations mentioning 1 or 3 miles being considered travel:
+      - it also means a woman cannot travel beyond that distance without a maḥram.
+    - the fast can also be broken during Ramaḍān.
+
+How long can we shorten the salah?
+- there is nothing authentic stating a specific number of days.
+  - so we go back to custom.
+  - narrations:
+    - 17 days,
+    - 19 days,
+    - also a narration of 1 year and 6 months.
+  - Anas ibn Mālik was in Azerbaijan for 2 years and shortened his prayers.
+  - The reason why it is open:
+    - it would be difficult for people to judge and not play around.
+    - if we limit it, then how can a person limit something that the Prophet ﷺ did not?
+    - if you feel like you have become a resident of the area, then you are no longer a traveller.
+    - a person can have 2 homes (e.g. 6 months in each):
+      - they pray as residents in both.
+    - if they go for ‘Umrah:
+      - they pray as travellers,
+        - as you do not consider yourself a resident there.
+  - we do not find an indication that restricts it to 3 or 4 days, but we find indications of 17 and 19 days.
+
+When does travelling start?
+- as soon as you leave the last town:
+  - then you can begin to shorten.
+- Example: if you go to Heathrow:
+  - are the houses connected to the airport, or is it when you leave the houses?
+  - as soon as you leave the last house:
+    - even if you have not yet reached the “distance”, the ruling of travelling begins from there.
+
+A resident can combine if there is a need,
+- with the condition it does not become a regular practice.
+  - e.g. exams where you will miss both salah,
+  - or safety issues (e.g. a sister praying outside and there is danger).
+- the reason should be based on difficulty.
+
+A resident can combine without shortening if he fears he might miss the prayers:
+- for example, combine at home then travel by train.
+- only the traveller can shorten.
+
+If the person intends to combine the salah for the later time:
+- when the first time comes, he should intend that he will combine for the later salah,
+  - otherwise he has missed the salah and it becomes qaḍā’.
+
+You cannot combine Jumu‘ah with ‘Asr.
+
+If the person already prayed and then comes back and the prayer starts again:
+- he does not need to repeat it.
+- whoever does an action at its correct time does not need to repeat it.
+  - a person will not do an obligation more than once.
+  - e.g. if a person does tayammum and prays, then after the salah he finds water:
+    - he does not need to pray again, even though the tayammum is now invalid.
+
+157. One can also break their fast in Ramaḍān.
+     - if fasting causes harm, then it is ḥarām to fast.
+     - if it is easy to fast, then it is better to fast, but it is permissible to break.
+     - if it causes slight harm, then it is recommended not to fast, but it is permissible to fast.
+
+** The prayer of the one in the state of fear
+158. It is permissible to pray the prayer of fear in accordance with all the ways the Prophet ﷺ is reported to have prayed it.
+
+159. Amongst the ways that one can perform this prayer can be found in the narration of Ṣāliḥ bin Khawwāt ؓ regarding the one who prayed the prayer of fear with the Prophet ﷺ on the day of Dhāt Riqa‘:
+
+- “A group of people made a row behind the Prophet ﷺ whilst another group were facing the enemy.”
+  - when the enemy is not in the direction of the Prophet ﷺ.
+
+- “The Prophet ﷺ then prayed a rak‘ah with those behind him.”
+
+- “Then the Prophet ﷺ stood up whilst the group (the one originally facing the enemy) behind him completed their prayers on their own (whilst the Prophet ﷺ remained standing).”
+
+- “Then the group left to face the enemy.”
+
+- “Then the other group came and prayed the last rak‘ah of the Prophet ﷺ with him, and then he sat waiting whilst the row behind him completed their prayer. Then he made the taslīm with them.” (Agreed upon)
+
+160. If their fear becomes intensified then they should pray whilst on foot or while riding, facing the qiblah or other than it, making motions for bowing and prostration.
+
+161. This also applies to a person who fears for themselves; they should pray according to their circumstances. One should do that which the situation demands such as fleeing and the like.
+     - if the fear becomes severe (e.g. bombing overhead),
+       - if he stops the enemy will flee,
+       - or if he is operating,
+         - then he does what he can: nod for sujūd and rukū‘, and try as much as possible.
+
+The Prophet ﷺ said:
+“If I command you to do something then do it according to the best of your abilities.” (Agreed upon)
+
+* Chapter: Jumu‘ah Prayer
+
+162. Everyone who is required to attend the congregational prayer must also attend the Friday prayer if he is mustawṭin (i.e. lives in a residential area) surrounded by buildings.
+     - the best prayer of the week.
+     - you are not allowed to do transactions.
+       - transactions required to establish Jumu‘ah are permissible,
+         - e.g. taking a taxi.
+     - if you miss Jumu‘ah continuously, īmān will be removed from their heart and it will be sealed:
+       - great warning.
+     - it is the lesser ‘Īd.
+     - there should be 1 Jumu‘ah in the land / in the main masjid:
+       - the smaller ones should be closed,
+         - unless there is a need.
+
+It is farḍ on:
+- the man,
+- a Muslim,
+- a mukallaf,
+- with no excuse (e.g. illness),
+- a resident (not a traveller).
+  - travellers should not establish their own Jumu‘ah amongst themselves.
+
+If they pray Jumu‘ah, then it is permissible.
+If they do not pray Jumu‘ah, then they can pray Ẓuhr.
+
+163. From its conditions:
+
+1. It must be performed in its allocated time.
+   - Majority: Jumu‘ah has the same time as Ẓuhr.
+   - Hanbalī: from after Fajr to the end time of Ẓuhr.
+     - the ‘ulamā’ say stick with the majority so everyone can pray together.
+   - this is the time of Ẓuhr.
+
+2. It must be done in a populated area.
+   - the area should be a residence, not a temporary place with tents.
+
+3. It must be preceded by two khuṭbahs.
+
+164. Jābir ؓ reported that when the Prophet ﷺ performed the Friday sermon:
+
+- His eyes would become red, his voice would rise, and his anger would increase as if he was warning of an invading army, saying:
+  “The enemy has made a morning attack on you. The enemy has made an evening attack on you.”
+  - it must be passionate, like warning an army is coming from behind you.
+
+- He used to say:
+  - “Amma ba‘d, fa inna khayral ḥadīthi kitābullah, wa khayral hadyī hadyu Muḥammadin, wa sharral umūri muḥdathatuhā, wa kulla bid‘atin ḍalālah.”
+  - (To proceed, verily the best speech is the book of Allah, and the best guidance is the guidance of Muhammad, and the worst matters are the newly invented matters, and every innovation is a misguidance.) Reported by Muslim.
+  - not a condition to start like this.
+
+- In another narration it states:
+  - “In the sermon of the Prophet ﷺ he used to praise Allāh ﷻ and glorify Him and then used to say after that the aforementioned whilst his voice was raised.”
+
+- In another narration he used to say:
+  - “Man-yahdillāhu fa lā muḍilla lah, wa man-yuḍlil fa lā hādiya lah.”
+  - (Whomever Allāh guides no one can lead astray and whomever Allāh misguides no one can guide.)
+
+- He also said:
+  - “Verily, the length of the prayer of a person and the shortness of his sermon are a sign of his fiqh (understanding).” (Muslim)
+  - you should not make the khuṭbah so long that people lose concentration.
+  - the salah should be long enough to give people concentration.
+
+165. It is recommended that he gives his sermon on a pulpit (minbar).
+     - so he ﷺ can see the congregation and the people can see him.
+     - the Prophet ﷺ used to do it near a tree, and the tree wept when he ﷺ went to the minbar.
+       - then he ﷺ went to the tree to console it and went back to the pulpit.
+
+166. When he climbs the minbar, he should face the people and then greet them.
+     - he ﷺ would give salām to the people.
+
+167. Then he should sit and let the caller to prayer call the adhān.
+     - there was one adhān.
+     - then at the time of ‘Uthmān:
+       - those in the market could not hear,
+         - so the first one was to let the people know and the second was to start the khuṭbah.
+         - the ṣaḥābah united upon this.
+       - the ruling revolves around the reason:
+         - if you cannot even hear the adhān then there is no point in having 2 adhāns,
+           - but if they do it, there is no problem.
+         - in other countries where they can hear it, then it is more emphasised.
+
+168. Then he should stand and give the sermon.
+     - the early Hanafī permitted it in other languages and the other 3 prohibited.
+       - today it is often the other way around.
+     - the purpose of the khuṭbah is to benefit the people:
+       - some say do the minimum required in Arabic and then do the rest in English.
+     - many masājid will do a lecture before Jumu‘ah:
+       - this was not known.
+
+169. Then he should sit.
+
+170. Then he should give the second sermon.
+
+171. Then the prayer should be established.
+
+172. The prayer consists of two units.
+     - there is no khilāf in this.
+     - there is no sunnah before Jumu‘ah:
+       - after, he ﷺ used to pray 2 or 4.
+
+173. The imām should recite aloud.
+
+174. In the first unit, it is recommended to recite Sūrah al-A‘lā and in the second, Sūrah al-Ghāshiyah, or Sūrah al-Jumu‘ah in the first and Sūrah al-Munāfiqūn in the second.
+
+175. It is recommended for the one who attends the prayer to:
+1. Bathe,
+   - the ḥadīth mentions wording that it is wājib or extremely emphasised.
+2. Perfume himself.
+3. Wear his best clothes.
+4. Go to the masjid early.
+
+176. The Prophet ﷺ said:
+“When the imām is delivering the sermon on Friday and you say to your companion to keep quiet, then indeed you have spoken foolishly (i.e. committed a sin).” (Agreed Upon)
+     - no one should do something that will distract from the khuṭbah.
+
+177. It is also reported that a man entered the masjid when the Prophet ﷺ was delivering the sermon, so he ﷺ asked the man:
+“Have you prayed?” The man said, “No.” The Prophet ﷺ then said, “Stand and pray two units of prayer.” (Agreed upon)
+     - if the adhān is going on, it is better for you to pray during the adhān rather than during the khuṭbah.
+
+* Chapter: The ‘Īd Prayers
+Every festival has been abolished except the 2 ‘Īds:
+- ‘Īd al-Fiṭr (1st of Shawwāl),
+- ‘Īd al-Aḍḥā (Yawm al-Naḥr).
+  - to sacrifice the animal.
+  - they differ which is the greatest day of the year: Yawm al-Naḥr or ‘Arafah:
+    - both are virtuous.
+  - also the 3 days of Tashrīq:
+    - it is ḥarām to fast on these days and on the day of ‘Īd.
+- the only annual celebration is the ‘Īd:
+  - that which comes over and over again.
+  - as for milestones, this is not seen as ‘Īd.
+- celebrating ‘Īd is an act of ‘ibādah.
+
+178. The Prophet ﷺ commanded everyone to attend the prayer, even young girls (awātiq) and menstruating women so that they can witness the blessings and supplications of the Muslims. However, menstruating women should avoid the muṣallā (place of prayer). (Agreed upon)
+     - it should be performed in an open area, in every masjid in the world except Makkah.
+     - everyone should come out so they witness the blessings of that day.
+     - it is not farḍ for women to attend, but it is encouraged.
+     - for men:
+       - Hanafī: farḍ ‘ayn,
+       - Hanbalī: farḍ kifāyah,
+       - Mālikī and Shāfi‘ī: sunnah.
+
+179. The time of the prayer begins from when the sun is above the horizon by the length of a spear up until the zenith.
+
+180. The recommended actions are:
+
+1. For the prayer to be performed in an open area,
+   - so the symbols of Islam are apparent.
+
+2. To hasten the Aḍḥā prayer,
+   - to allow time to sacrifice the animal and eat from it.
+
+3. To delay the Fiṭr prayer,
+   - to give more time to increase the takbīr.
+
+4. To have an odd number of dates before the Fiṭr prayer,
+   - to show he is not fasting.
+   - eat before for Fiṭr and after for Aḍḥā.
+
+5. To wash and perfume oneself for the prayer.
+
+6. To wear one’s best clothes,
+   - wearing white is better:
+     - make the white garment be the best garment.
+
+7. To go to the place of prayer one way and to return home using another path,
+   - so the creation can see you and greet you more.
+
+181. The prayer consists of two units.
+
+182. It has no adhān and no iqāmah.
+
+183. There are seven takbīrs in the first rak‘ah, including the initial takbīr.
+
+184. In the second rak‘ah, there are five takbīrs, not including the takbīr said when rising from prostration.
+
+185. One should raise their hands with each takbīr.
+
+186. One should praise Allāh ﷻ and send salutations upon the Prophet ﷺ between each takbīr.
+
+187. Then recite al-Fātiḥah followed by another chapter.
+
+188. The prayer is recited aloud.
+
+189. As soon as the imām finishes, he should give two sermons like the two sermons for Jumu‘ah.
+
+190. However, in this khuṭbah the imām should mention rulings (aḥkām) that are suitable for the occasion,
+     - for example, how to make the sacrifice.
+
+191. It is recommended to:
+
+1. Make the unrestricted takbīr (takbīr muṭlaq):
+   - during the night before both ‘Īds,
+   - likewise, during the first ten days of Dhul Ḥijjah.
+     - more virtuous than Ramaḍān:
+       - actions in these days are better than any other days.
+
+2. The restricted takbīr (takbīr muqayyad) should be said after each obligatory prayer from the Fajr of the day of ‘Arafah until the ‘Asr prayer of the last day of Tashrīq.
+
+The format for the takbīr is:
+
+Allāhu Akbar, Allāhu Akbar lā ilāha illallāh wallāhu Akbar,
+Allāhu Akbar, wa lillāhil ḥamd.

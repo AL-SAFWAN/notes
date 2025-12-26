@@ -1,0 +1,211 @@
+:PROPERTIES:
+:ID:       a8967e72-7756-45a9-aee7-05d79419782c
+:END:
+#+title: The Book of Zakah
+linguistically
+- it mean to increase and to purify
+technically
+-  a specific right for a specific type of wealth at a specific time for a specific group of people
+  
+zakah is a proof of emaan
+- you're eyes see it decreasing
+  - you're emaan tell you it will increase
+    - purifies stinginess from a person
+      - zakat is a reason for you to be in the shade of the throne of Allah
+        - every believer will be under the shade of his sadaqah
+          - a reason for a person sins for to be forgiven
+            - sadaqah decreases the anger of Allah
+              - it removes illness
+                - removes calamities  
+  - the sadaqah will be a proof for you or against you
+    - the obligatory deed will be greater than the voluntary
+      
+210. Zakāh is obligatory upon:
+    the conditions 
+    1. A Muslim
+    2. Free person
+       - a slave doesn't own anything
+    3. Who possesses the niṣāb (the threshold that necessitates zakāh)
+    4. he has complete ownership of his wealth
+       - not pension or money that was stolen from you
+         - money that your able to deal with and have ownership with it 
+    5. the time has lapse for zakat for it to be due (1 lunar year)
+       
+there is no difference between man and child, between sane and insane or male and female
+- there is a khilaf for the child, but the general agreement is that they're still eligible as per condition's 
+
+211. Zakāh is due on any zakatable wealth only after the passing of a complete lunar year. With the exception of:
+
+    1. Agricultural produce
+       - only once the produce has become firm at it's time of harvest
+    2. An increase to something already above the threshold, like the growth of the niṣāb, or profit from trade. In such instances, the year for such growths commences from when the original amount reaches the threshold.
+       - Refers to new wealth that is generated from wealth that has already reached the niṣāb
+         - The zakāh year of the increase is tied to the zakāh year of the original wealth.
+           - if he had bought it separately then it would have been tied to the year of when he bought it e.g buying another camel vs a camel giving birth to another camel  
+        
+       
+
+212. Zakāh is only due from four types of wealth:
+
+    1. freegrazing Livestock (without the owners needed to spend on their food)
+       - the things that we consume
+         - sheep, goat, camel
+          - the animals that naturally feed on the land
+            - however if he has to speed money to look after the animal then there no zakat for that animals  
+    2. Agricultural produce
+       - the grains
+    3. Monetary assets
+       - gold and silver
+         - and that which take the ruling of gold and silver, e.g. currencies
+           - money is everything that has a value
+    4. Merchandise goods
+       - the goods that a person is selling for profit
+         - the thing that you're trading with
+
+* Chapter: Zakāh on Grazing Livestock (sā’imah)
+
+213. The basis for the zakāh of livestock can be found in the narration of Anas ؓ in which Abū Bakr ؓ wrote to him the following,
+
+“The following are the obligations of the alms that the Prophet ﷺ obligated upon the Muslims:
+ 
+    - For twenty-four camels or less, sheep are to be paid as zakāh; for every five camels one sheep (shāh) is to be paid.
+    - If there are between twenty-five to thirty-five camels, a bint makhāḍ (one-year old female camel) is to be given, and if one is not available then an ibn labūn (a male two-year-old camel) is to be given.
+    - If there are between thirty-six to forty-five (camels), a bint labūn (a female two-year-old camel) is to be given
+    - If there are between forty-six to sixty (camels), one hiqqah (a female three-year-old camel) is to be given
+    - If there are between sixty-one to seventy-five (camels), one jadha‘ah (a four-year-old camel) is to be given.
+    - If there are between seventy-six to ninety (camels), two bint labūn are to be given.
+    - If there are between ninety-one to one-hundred-and-twenty (camels), two hiqqah are to be given.
+    - If there are over one-hundred and-twenty (camels), for every forty (over one-hundred-and-twenty) one bint labūn is to be given, and for every fifty camels (over one-hundred-and-twenty) one hiqqah is to be given.
+    - There is no zakāh due from someone who possesses four camels. However, if the owner wants to give something, he can.
+the usul of zakat you always give female camels
+Table in summary:⁵
+
+|------------------+-------------------------------------------------------|
+| Number of camels | Zakāh                                                 |
+|------------------+-------------------------------------------------------|
+| 5 – 24           | 1 Sheep for every 5                                   |
+| 25 – 35          | 1 bint makhāḍ if unavailable then, 1 Ibn Labūn        |
+| 36 – 45          | 1 bint labūn                                          |
+| 46 – 60          | 1 hiqqah                                              |
+| 61 – 75          | 1 jadha‘ah                                            |
+| 76 – 90          | two bint labūn                                        |
+| 91 – 120         | 2 hiqqah                                              |
+| 121+             | 1 bint labūn for every 40 and one hiqqah for every 50 |
+|------------------+-------------------------------------------------------|
+
+⁵ This table and all forthcoming tables have been added by the translator.
+
+** Zakāh on Ghanam (sheep & goats)
+
+- If there are between forty and one-hundred-and-twenty sheep, one sheep (shāh) is to be given.
+- And if there are between one-hundred-and-twenty to two hundred (sheep), two sheep are to be given.
+- And if there are between two-hundred to three-hundred (sheep), three sheep are to be given.
+- And for over three-hundred sheep, for every extra hundred sheep, one sheep is to be given.
+- And if somebody possesses fewer than forty sheep, no zakāh is due, but if he wants to give it, he can.
+- It is not permissible for different owners of livestock to combine between their respective livestock out of fear of paying more zakāh. Likewise, it is not permissible to divide livestock that are already considered as one whole out of fear of paying zakāh.
+  - e.g 3 people those that have 50 camels each, trying to merge into one or 2 people with 50 camels trying to split to avoid paying the zakat or the greater amount 
+- Ghanam that are owned by different owners but graze together (and are looked after by one shepherd etc., only have to give the zakāh of one person). However, the value of what is given as zakāh has to be shared out amongst the owners.
+  - e.g 2 people own 100 sheep and they own 50%, they will give 1 sheep in zakat 50/50 is due on each side for that one sheep, if it was 80/20 share split, then one will by due 80 and the other will be 20 for that 1 sheep. 
+- It is not permissible to give as zakāh that which is a hareemah old in age, weak and has defects.
+  - you don't give the best or the worst of their wealth, but that which is in between, if all of them are bad then you can take one of them, it is better for the person to give the best and more, however it is not obligated. 
+
+Table in summary:
+
+|-----------------+-------------------------|
+| Number of sheep | Zakāh                   |
+|-----------------+-------------------------|
+| 40 – 120        | 1 Sheep                 |
+| 121 – 200       | 2 sheep                 |
+| 201 – 300       | 3 sheep                 |
+| 301+            | every hundred + 1 sheep |
+|-----------------+-------------------------|
+the ulema explaed from 201 - 399, there are 3 sheep given in zakat, then from 400 to 499 is 4 sheep and so on
+- based on the wording of the hadith
+  - after everything hundred there is a extra sheep
+    - there is a khalif in this mailah
+
+- For silver, the zakāh is one-fortieth of the total amount (i.e. 2.5%), and
+  - if its value is less than two-hundred dirhams (595 grams),
+    - zakāh is not required. However, if the owner wants to pay, he can.
+      todo 24.00
+- Whoever possesses the amount of camels which obligates the giving of a jadha‘ah, but does not have one, can give a hiqqah if he has one, and he should include with that two sheep if he can manage that, or give 20 dirham.
+- And whoever possesses the amount of camels which obligates the giving of a hiqqah, but does not have one, can give a jadha‘ah instead, and then take in return 20 dirham or two sheep from the collector.” (Bukhārī)
+
+- In the narration of Mu‘ādh ؓ it states that, “the Prophet ﷺ commanded him to take from every 30 cows a tabi‘ or a tabi‘ah (a one-year-old cow), and from every 40 cows a musinnah (a two-year-old cow)”. (Abū Dāwūd and Tirmidhi)
+
+- Zakāh of athmān (Monetary assets):
+
+It has preceded that there is no zakāh on monetary assets until it reaches 200 dirham, of which 2.5% has to be given as zakāh.
+
+216. Zakāh of agricultural produce of grains and fruits:
+
+The Prophet said ﷺ, “There is no ṣadaqah (i.e. zakāh) on dates if they are fewer than five awsuq.” (Agreed upon)
+
+A Wasq (pl = awsuq) is equivalent to 60 ṣā‘. Therefore, the niṣāb for grains and fruits is 300 ṣā‘, according to the ṣā‘ used at the time of the Prophet ﷺ.
+
+217. He ﷺ also said, “On a land irrigated by rainwater or by natural water channels or if the land is wet due to a nearby water channel, ‘ushr (i.e. one-tenth) is compulsory (as zakāh); and on land irrigated by a well, half of an ‘ushr (i.e. one-twentieth) is compulsory (as zakāh on the yield of the land).” (Bukhārī)
+
+218. Sahl bin Abī Ḥathmah said, “The Messenger of Allāh ﷺ commanded us that ‘when you make an assessment, then take it and leave a third; if you do not leave a third, then leave a quarter.’” (Abū Dāwūd & Tirmidhi)
+
+219. Zakāh on merchandise goods i.e. that which has been prepared for buying and selling in order to gain profit:
+
+220. It should be valued after a year according to what will benefit the Muslims the most, and then give what is due in gold or silver.
+
+221. 2.5% of the value should be given in zakāh.
+
+222. A creditor who does not expect to see his money repaid, either because the debtor is mumāṭil (keeps deferring the payment even though is capable of settling the debt) or is mu‘sir (a person who cannot afford to pay back the creditor) does not have to pay zakāh on the value of the debt.
+
+223. Otherwise, he has to pay zakāh on it.
+
+224. It is obligatory to give zakāh from the average quality of his wealth.
+
+225. It is not adequate enough to give it from the lowest quality of his wealth.
+
+226. It is not a must that a person gives it with the best quality of his wealth unless he chooses to do so.
+
+227. Abū Hurayrah ؓ narrated that the Prophet ﷺ said, “There is khumus (i.e. a fifth) due on Rikāz (buried treasure and precious minerals)” (Agreed upon)
+
+* Chapter: Zakāh al Fiṭr
+
+228. Ibn ‘Umar ؓ narrated that the Prophet ﷺ “obligated zakāh al fiṭr by giving a sā‘ in dates or a sā‘ in barley. It was obligated upon the slave, the free, men, women, young and old from the Muslims. He ﷺ ordered that it should be given before people leave for the prayer.” (Agreed upon)
+
+229. It is obligatory:
+
+    - For oneself, and for those whom he cares for.
+    - If one had more than a day and night’s worth of sustenance.
+    - To give a sā‘ of dates or barley or cottage cheese or sultanas or wheat.
+
+230. It is better to give (from the above) that which is more beneficial to the poor.
+
+231. It is not permissible to delay the giving of the zakāh after the day of ‘Īd.
+
+232. The Prophet ﷺ obligated it upon those who fasted to purify them from the foul speech and obscenity and also to feed the poor.
+
+    - Whoever gives the charity before the prayer will have it accepted from him (as zakāh al fiṭr).
+    - However, if one gives the charity after the prayer then it will be considered to be a normal act of charity (i.e. ṣadaqah, but not zakāh ul fiṭr). (Abū Dāwūd & Ibn Mājah).
+
+233. The Prophet ﷺ said, “Seven people will be shaded by Allāh ﷻ under His shade on the day when there will be no shade but His. They are: A just ruler, a young man who has been brought up worshipping Allāh (alone), sincerely, from childhood, a man whose heart is attached to the mosque, two people who love each other only for Allāh’s ﷻ sake and they meet and part in Allāh’s cause only, a man who refuses the call of a charming woman of beauty and position for illegal sexual intercourse with her, and says, “I fear Allāh”, a person who practises charity so secretly that his left hand does not know what his right hand has given and a man who remembered Allāh ﷻ in private and so his eyes shed tears.” (Agreed upon)
+
+* Chapter: The Recipients of Zakāh
+
+234. Zakāh is not given to anyone except the eight categories that Allāh ﷻ mentions in the Qur’an,
+
+“Alms are meant only for the poor, the needy, those who administer them, those whose hearts need winning over, to free slaves and help those in debt, for God’s cause, and for travellers in need. This is ordained by God; God is all knowing and wise.” (9:60)
+
+235. It is permissible to give one’s zakāh to only one of the categories, due to the statement of the Prophet ﷺ to Mu‘ādh ؓ, “And if they respond to you in that, then make them aware that Allāh ﷻ has obligated upon them a charity that is taken from their rich and given to their poor.” (Agreed upon)
+
+236. It is not permissible to give the zakāh to:
+
+    - A wealthy person.
+    - A person who is strong and able to earn his living.
+    - The family of the Prophet ﷺ i.e. Banū Hāshim and their freed slaves.
+    - A person who one is already responsible for providing for.
+    - A disbeliever.
+
+237. However, it is permissible to give supererogatory acts of charity to the above groups.
+
+238. Nonetheless, to give to a category that is in more need is more befitting.
+
+239. The Prophet ﷺ said, “Whoever asks the people for money in order to amass more wealth is asking for a burning coal, so let him ask for less or more.” (Muslim)
+
+240. The Prophet ﷺ said to ‘Umar ؓ once, “Whatever of this wealth comes to you when you were not wishing for it or asking for it, then take it, otherwise do not wish for it.” (Muslim)
