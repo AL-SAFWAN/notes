@@ -1,0 +1,940 @@
+:PROPERTIES:
+:ID:       2d1341a8-e13f-473f-8888-6cc0ade185aa
+:END:
+#+title: The Book of Transactions
+
+To exchange wealth for wealth.
+  - Wealth is everything that has value according to the Sharī‘ah.
+    - Wealth is not only money.
+    - A car and a house have value.
+      - E.g. exchanging a car for a car, or for a small house.
+
+There are certain words used for transactions:
+  - the seller: ījāb,
+  - the buyer: qabūl.
+    - However whatever people customarily regard as a valid transaction counts as a transaction.
+
+Three Different Types of Exchange
+- Money for money.
+- Items for items.
+- Money for items.
+
+The greatest prohibition in transactions is oppression,
+- whether the oppression is against:
+  - the buyer,
+  - the seller,
+  - or the community.
+
+- Types of oppression:
+  - interest,
+  - ambiguity/uncertainty,
+  - trickery and deception.
+
+
+
+* WAIT Conditions of transactions
+** General ruling: permissibility of trade
+311. The general ruling concerning transactions is that they are permissible. Allah ﷻ says:
+
+“Allah has permitted trade and forbidden usury.” (2: 275)
+
+312. Thus, all commodities, including property, animals, furniture, and so on are permissible to place in contracts for sale if the conditions for selling are met.
+- The default is that every transaction and deal is permissible until proven ḥarām.
+
+- Human beings are dependent, and wealth can be acquired either by force or by transactions.
+  - This is something that everyone engages in.
+    - It changes from time to time
+      - in its complete ruling,
+        - hence it requires investigation.
+          - E.g. a speeding ticket in the UK: the fine will double (if late).
+            - In Saudi: they give you the doubled price first, and if you pay within the time then you get a discount.
+              - So the UK one is ribā and the Saudi one is not, as the perspective on it changes.
+
+- Ibn Taymiyyah said:
+  - the uṣūl of Imām Mālik is the strongest in transactions, and Imām Aḥmad is not far off.
+    - E.g. the uṣūl of Mālik is lightest in foods, and the uṣūl of Imām Abū Ḥanīfah is harsher.
+
+** Conditions for a valid sale/transaction
+313. The most important conditions are:
+*** 1. Mutual consent (Riḍā)
+1. (1st condition) Riḍā (mutual consent), as per the saying of Allah ﷻ:
+
+ #+begin_quote
+  “O You who believe, do not wrongfully consume each other's wealth, but [rather] trade by mutual consent. (4:29)
+ #+end_quote
+
+- Anyone who is being forced means it is not valid,
+   - unless it is the person’s right (e.g. paying a debt).
+- Imām al-Shāfi‘ī said:
+     - if this is fulfilled, then all the other conditions would be fulfilled.
+*** 2. No gharar (risk/uncertainty) and 3. no jahālah (unknowns)
+314. (2nd condition) That there is no
+       - gharar (risk) nor
+       - jahālah (something that is not definitively known),
+          since the Prophet ﷺ “forbade the transaction which involves risk (or uncertainty).” (Muslim)
+**** jahālah: The item being sold is known to both parties.
+- A small amount is overlooked if it does not affect the main transaction,
+ - e.g. a small crack on the floor.
+**** Examples of forbidden transactions due to uncertainty
+315. The following examples are included in such types of [forbidden] transactions:
+
+     1. The selling of an ābiq (runaway slave) and a shārid (runaway camel).
+     2. If one were to say, “I will sell to you one of the following two items.”
+     3. Selling an area of land determined by a stone's throw.
+     4. Selling the unborn child of a slave, or to sell the fruit of a tree before it has grown.
+     5. Selling the unborn offspring of an animal.
+
+The ability to deliver the goods.
+   - Not transactions of uncertainty,
+     - as it is like a type of gambling.
+   - A discount on a runaway goat:
+     - “If you get it, you get it for cheap; otherwise nothing.”
+   - E.g. selling the offspring of the offspring of a pregnant camel:
+     - the outcome is not known, like gambling.
+       
+All of this applies to the above, whether the ambiguity involved was in the price of the item or the commodity itself.
+*** 4. Ownership/permission + 5 (maturity + financial competence)
+316. (3rd condition) The contracting party must own the asset or have permission to deal with it, be mature, and competent in financial matters.
+     
+   - Who represents him:
+     - wakīl: someone he appointed while the owner is alive,
+     - waṣī: someone he appointed for after his death,
+     - nāẓir: someone who looks after the waqf,
+     - walī: someone responsible by way of the Sharī‘ah (e.g. the Muslim leader).
+
+
+**** 4. The one dealing with the transaction is qualified to deal with it.
+   - The qualified person is:
+     1. A free person.
+        - A slave: requires the permission of the owner.
+     2. Bāligh.
+        - Under 7: no transaction for him.
+        - 7–10: in that which the custom allows.
+        - 10–14: test them with wealth to see if they are ready.
+     3. ‘Āqil.
+        - Someone intoxicated cannot deal with a transaction.
+     4. Ar-rushd (financial competence).
+        - Knows how to deal with the transaction.
+          - The person who does not is called a safīh,
+            - someone who is foolish.
+*** 6. No ribā (interest/usury)
+317. (4th condition) There should be no ribā (interest) in the transaction.
+
+On the authority of ‘Ubādah ؓ the Prophet ﷺ said, “Gold is to be paid for by gold, silver by silver, wheat by wheat, barley by barley, dates by dates, and salt by salt; like for like and equal for equal. If these classes differ, then sell as you wish if payment is made hand to hand. Whoever gives more or asks for more has engaged in ribā.” (Muslim)
+
+**** Ribā
+
+- Linguistically: to increase.
+- Technically: to increase in specific things.
+- Ḥarām and a major sin by ijmā‘.
+  - There is a curse for the one who gives it, witnesses it, and takes it.
+  - It destroys a person.
+- Ribā is oppression on the poor.
+
+***** Two Types of Ribā
+
+1. Debts (also known as ribā of Jāhiliyyah)
+
+   1. Late payment fees
+      - Increase in the duration along with what is owed.
+        - Remove the clause of late payment fees.
+          - What are we excused in when it comes to this type of ribā?
+            - Gas bills and house bills that cannot be avoided: you are not accountable.
+              - But if you can avoid it, then you must get the clause removed.
+                - If you do it, the condition is that you must have a guarantor who can lend you those funds so you do not fall into late payment fees.
+            - A person is excused in it:
+              - Principle: the trial has encompassed everyone and it cannot be avoided.
+                - When there is difficulty, it necessitates ease.
+                  - When something becomes constrained, it becomes broadened again.
+                    - This does not mean it is legalised; rather, it is excused.
+              - For things we do not need or require:
+                - 1st view: ḥarām,
+                  - since there is an alternative available.
+                - 2nd view: excused due to housing,
+                  - so we can be excused for it in general, and it cannot be avoided in general.
+
+      - If someone cannot pay you at a certain time,
+        - then you should extend his time and wait for him to pay.
+
+   2. Loans
+      - “I lend you something on the condition that you give me such-and-such.”
+      - A condition based on more leverage/benefits:
+        - any dunyā benefit based on lending money is ribā during the period of the loan.
+        - every loan that brings a benefit is ribā.
+
+2. Transactions
+
+   - ribā al-faḍl:
+     - to have an increase.
+   - ribā an-nasī’ah:
+     - to have a delay.
+
+***** Ribā Items
+
+- Gold and silver.
+- Wheat, barley, dates, and salt.
+
+***** The Reason (‘Illah) and Views on Ribā Items
+
+- 1st view (Ḥanbalī and Ḥanafī)
+  - the reason for ribā:
+    - in gold and silver: they are measured in weight,
+    - and the other four: they are measured in volume.
+
+- 2nd view (Shāfi‘ī and Mālikī)
+  - the reason for ribā:
+    - gold and silver are the essence of monetary value,
+      - they say coins that are not gold and silver do not take on ribā.
+    - the other four:
+      - Mālikī:
+        - any food from the main sustenance
+          - that can be dried or preserved,
+            - these are ribā items.
+      - Shāfi‘ī:
+        - any food is a ribā item.
+
+- 3rd view (current view)
+  - gold and silver: the predominant monetary value
+    - the currency of the people,
+      - so it includes cash, coins, and crypto.
+  - the other category:
+    - foods that are weighed or measured by volume.
+      - all grains are measured by volume,
+      - all liquids are measured by volume,
+      - all fruits are measured by volume,
+      - other than that is measured by weight.
+
+***** Understanding Ribā by Reason and Type
+
+- We understand based on the reason and the types:
+
+  1. The currencies of the people
+     - /types/
+       - gold,
+       - silver,
+       - pounds,
+       - dollars.
+
+  2. Food that is measured by weight or volume
+     - /types/
+       - dates,
+       - rice.
+
+***** Principles for Trading Based on Reason and Type
+
+1. If the reason (‘illah) and type are the *same* (e.g. dates for dates):
+   - There are two conditions for it to be ḥalāl:
+     1. Same amount.
+        - Being unaware of tamāthul (equivalence of two amounts) is equivalent to being certain of tafāḍul (where two amounts differ).
+     2. Exchanged hand-in-hand.
+   - If the conditions are missing, it is ribā.
+   - Bilāl exchanged 2 ṣā‘ of bad dates for 1 ṣā‘ of good dates (for the same value),
+     - however this is ribā because dates are measured by volume and not by value, and the volume has decreased.
+     - The solution is to sell the 2 ṣā‘ of dates and then buy the 1 ṣā‘ of dates.
+   - You cannot exchange jewellery that contains gold + an extra case for another,
+     - unless the weight of gold is the same,
+       - regardless of the stones.
+
+2. If the reason is the same, but the type is different:
+   - Condition:
+     1. Exchange hand-in-hand.
+        - You can make money from money in exchanging immediately,
+          - paying with a credit card.
+        - This does not include forex, as it includes it over time.
+        - Exchange rice for dates.
+
+3. If the reason is different:
+   - It is not a ribā-based transaction.
+     - E.g. I will pay for meat now, but I will pick it up later.
+
+4. If one item is a ribā-based product and the other item is not:
+   - There is no condition for it.
+
+5. If both items are not ribā-based items:
+   - Then there is no interest in the transaction.
+     - E.g. I will give two old cars for one new car.
+
+6. The *type* of the same item, or its *conditions/quality*, does not affect the item.
+   - All types of dates (sub-dates, good dates, etc.).
+     - If it comes under one name, then you can exchange them.
+
+7. Everything where different amounts are prohibited,
+   - delaying it is also prohibited,
+     - but not the other way around.
+***** Contemporary Transaction
+
+- A bank will buy a house for 500,000 and you will pay 600,000 as rent.
+  - The way it seems is that you are just buying the house for 600,000.
+    - But in reality, without the house you are buying 500,000 for 600,000.
+      - This is called ‘īnah.
+
+
+- purchasing things online is not carried out online
+  - everything that is hand in hand required is prohibited online  
+    - any currency change that is not done in hand in hand is not permissible
+      - e.g. buying gold online via delivery is haram since its not hand in hand
+                        
+**** Exchange rules: same kind (volume/weight) must meet conditions
+318. Thus, it is not permissible to exchange an item that is customarily sold by volume – from one of these categories – with another item of the same kind, unless these two conditions have been met. This also applies to goods that are customarily sold by weight.
+
+**** Exchange rules: different kinds require simultaneous exchange (taqābuḍ)
+319. The exchange of an item customarily sold by volume, for another of a different kind, or the exchange of an item that is customarily sold by weight, for another of a different kind, is permissible as long as the exchange is simultaneous (taqābuḍ) and before the buyer and seller part company.
+
+**** Volume-for-weight (or weight-for-volume)
+320. It is permissible for an item customarily sold by volume to be exchanged for one customarily sold by weight, or vice versa, even if the exchange takes place after they part company.
+
+**** Note on equivalence vs difference
+321. Being unaware of tamāthul (equivalence of two amounts) is equivalent to being certain of tafāḍul (where two amounts differ).
+
+**** Muzābanah and the ‘arāyā concession
+322. The Prophet ﷺ likewise prohibited muzābanah, which is the “selling fresh dates still on trees for dried dates.” (Agreed upon)
+
+323. “The Prophet ﷺ gave concession for ‘arāyā (selling unpicked dates) by their estimated weight when dried. This is on condition that they are less than five awsuq[fn:8] to the one in need of fresh dates (rutab) if the person does not have enough money to buy them.” (Muslim).
+    - baital muzhabana - you can't exchange a wet date/date on the tree/note ripe with a dry date, as we don't know if they're the same amount
+      - baital araya - exception to the prohibition of baital muzhabana
+        - a poor man doesn't have money but only old and dry date
+          - and he needs moist fresh dates to eat
+            - hence this is a consesstion
+              - when these date become dry i want to take from them
+                - so the date/tree needs to be estimated for someone qualified
+                  - only for 5 awsuq  
+                
+
+[fn:8] Pl. of wasq, which is equivalent to a camel load (approx 60 ṣāʿ or 165 litres).
+*** 7. Lawfulness of the item and the transaction (Sharʿī permissibility + avoiding harm)
+324. (5th condition): That the item for sale is not forbidden according to the Islamic law:
+
+**** Prohibited due to the item itself
+- Either due to the essence of the item itself, like intoxicants, carrion, and idols, which were all forbidden by the Prophet ﷺ. (Agreed upon)
+
+**** Prohibited due to consequences/harmful conduct
+- Or due to the sale resulting in the breaking of ties with a Muslim or causing animosity between two Muslims. Thus, the Prophet ﷺ forbade “undercutting someone in a sale, offering to pay more than someone in a given trade, and bidding up the price of some merchandise that one is not interested in (najash).” (Agreed upon)
+
+- Likewise, the Prophet ﷺ forbade the separation of slaves who are family members.
+
+- Likewise, a transaction where it is known that the buyer will perform a sin with the item he buys, such as walnuts and eggs for gambling or weapons to create fitnah (civil strife) or for highway robbers.
+
+- The Prophet ﷺ also forbade going to meet merchants before they reach the marketplace for sale. He ﷺ said, “Do not meet the merchant on the way to the market and enter into a business transaction with him. Whoever meets him and buys from him and then the owner [of the merchandise] comes into the market [and finds that he has been paid a lower price], he has the option [to declare the transaction null and void].” (Muslim).
+
+- The Prophet ﷺ also said, “Whoever cheats us is not from us”. (Muslim).
+  - the context of this is that a person was selling dates and it was raining then they put the wet dates below and the dry dates on top
+    - then the prophet (ﷺ) ask what is this, then after he said whoever cheats us is not form us
+      
+*** Examples of clear ribā and loopholes (ḥiyal)
+325. An example of clear usury is:
+
+1. Using a loophole by the way of ‘īnah,
+   - which is to sell a commodity on credit then buy the commodity from the buyer in cash for less, or the opposite.
+     - also to have 2 transaction in 1 to cover the riba
+       - selling something to someone where you'll purchase at a later date with a different price it is haram from him to exchange with him now
+         - the exception could be if the value of the item changes due to it's characteristics
+         
+- Example – Sell cash, then buy back on credit for more
+  - Phone original price: 500
+  - Person A owns the phone
+
+  - Person A sells the phone to Person B
+    - Sale price: 400
+    - Payment: cash now
+
+  - Person B sells the same phone back to Person A
+    - Sale price: 500
+    - Payment: after 1 year
+
+  - What happens in reality
+    - Person B receives 400 now
+    - Person B pays 500 after 1 year
+    - Person A gets extra amount: 100
+- Example – Sell on credit for more, then buy back in cash for less
+  - Phone original price: 500
+  - Person A owns the phone
+
+  - Person A sells the phone to Person B
+    - Sale price: 500
+    - Payment: after 1 year
+
+  - Person B sells the same phone back to Person A
+    - Sale price: 400
+    - Payment: cash now
+
+  - What happens in reality
+    - Person B receives 400 now
+    - Person B pays 500 after 1 year
+    - Person A gets extra amount: 100
+
+2. Subterfuge by way of issuing another loan.
+   - i.e. being covered by another beneifts 
+3. Using a loophole by
+   - lending someone money stipulating that the lender receives some sort of benefit
+     - from something the debtor owns, or for him to be paid in the form of a benefit.
+       - This is because every loan that leads to a type of benefit is considered usury.
+4. Likewise, to exchange silver jewellery along with something else for silver, or a handful of ‘ajwah dates and a dirham for two dirhams.
+   - only the hanafi says it's not riba, as they say it's clear that its not riba
+     - when the item is equivalent to the price
+       - however the majority agree that it is riba
+
+326. The Prophet ﷺ was once asked about selling dry dates (tamr) for fresh dates (rutab). He ﷺ replied, “Do they decrease [in volume] when they dry?” They said yes, so the Prophet ﷺ prohibited such a type of transaction. (Reported by Abū Dāwūd and others)
+     - dates are measure by volumes and not by weights
+     
+327. The Prophet ﷺ also forbade the selling of a pile of dates of an unknown quantity for dates which had a known quantity. (Muslim)
+     
+*** Selling a debt (selling what one is owed)
+328. It is permissible to
+     - sell something one that one is owed,only to a person who owes it,
+       - e.g I own you something I don't have pounds, but I have dollars
+       - on the condition
+         - that the one who is owed 
+           - takes possession of the /replacement item/ before they part company,
+             - e.g. the replacement item is in dollar of that day
+             - can only be with the person who is owned not the other person  
+         - and that there is nothing left between them.
+     This is as per the statement of the Prophet ﷺ, “There is nothing wrong if you take [the equivalent] as long as it is done according to the rate of the day, and you part with nothing left between you.” However, if it is sold to someone else, the transaction is invalid because it would involve gharar (risk/uncertainty).
+     
+* WAIT Selling Immovables and Produce
+- Immovables (usool) is are like tree
+- and produce (thimar) are things which is tree produce
+** Fruits/produce attached to trees or crops at time of sale
+329. The Prophet ﷺ said, “Whoever sells (_the seller_) a palm tree _after it has been pollinated_ will keep the fruits unless /the buyer/ stipulates them [for himself].” (Agreed upon) 
+
+330. This also applies to all other trees if their fruits are apparent and visible.
+
+331. This also applies to crops that appear which are usually harvested only once a year.
+
+332. If, however, the crops are usually harvested many times, then the plants will belong to /the buyer/, and the fruits at the time of the sale will belong to _the seller_.
+
+** Prohibition of selling fruits/grain before condition is known
+333. The Prophet ﷺ /forbade/ the sale of fruits until the condition of the fruits is known. He forbade it for /the buyer/ and _seller_. (Agreed upon)
+
+334. The Prophet ﷺ was asked about the phrase “until the condition of the fruits is known” to which he replied, “until they were safe from blight.” And in another narration, “Until they become reddish or yellowish.”
+     - however it is still permissible to buy the tree which contain the dates
+       - something is halal when it follows something even thought by itself it haram
+         - e.g. buying a pregnant camel but not a unborn camel itself   
+
+335. He ﷺ also forbade selling grain until they have hardened. (Abū Dāwūd and others)
+
+336. He ﷺ also said, “If you sell fruit to your brother and it was affected by blight (natural calamities), it is not permissible for you to take anything from him. How could you take your brother's wealth unjustly?” (Reported by Muslim)
+     - if the buyer is careless and kept delaying it (e.g. after week, the custom of the people), then he bares the lost
+       - however if its within the week, the seller bares the lost
+         - because you're the seller was not /able/ take it  
+
+* WAIT The Option to Revoke a Deal (Khiyār)
+
+** When a transaction becomes binding 
+337. Once a transaction _concludes_ it becomes binding upon both parties /except/ for a valid legal reason. From amongst the valid reasons are:
+khiyar (for transaction) is not applied on contracts such as 
+- waqf
+- gift
+- nikkah - the most severe
+- divorce    
+** 7 Types of khiyār (options)
+*** 1. Khiyār al-Majlis (option during the contracting session)
+338. Khiyār al Majlis:
+     - (The option to revoke the deal during the contracting session).
+     - The Prophet ﷺ said, “When two men enter into a transaction, each of them has the choice [of annulling it] so long as they have not yet parted and are still together, or one of them has given the option or choice to the other. Once he has accepted the terms of the other, then the transaction is binding.” (Agreed upon)
+     - majlis means the gathering
+     - e.g. Person A has sold the phone to person B in gathering Y, there the has been some duration of X that has taken place. Both person remain gathering Y, which could be due to a meal taken place for duration X.
+       - Person B still has the right of cancelling the transaction to person A
+         - the moment Person B has leave the transaction has become binding
+           - same hukm over a phone call
+
+*** 2. Khiyār ash-Sharṭ (option based on a stipulation)
+1. Khiyār ash-Sharṭ:
+   - (The option to revoke the deal based on a stipulation).
+   - This is where exercising the right to revoke is stipulated by both parties, or for one of the two for a certain fixed period.
+   - The Prophet ﷺ said, “Muslims must abide by the conditions they make unless the condition makes the impermissible permissible, or the permissible impermissible.” (Reported in the Sunan)
+     - e.g. you can stipulate Khiyār al Majlis for timeframe that is know (5min or even 1 month), then after this you can't ask for it, since it was a condition for concluding the contract
+       - the condition was for you to test it 
+         - this is not the same as using it to the fullest and then return it 
+          
+*** 3. Khiyar al ghabn (Option due to najash / meeting merchants early)
+340. If one were significantly duped either by najash (intentionally increasing the bidding price with no intent to purchase the item), or by going out to meet the merchant before they reached the marketplace,
+     - they have the right to revoke the deal.
+     they have 2 options
+     1. continue with transaction and ignore it
+     2. or revoke the transaction
+        - can be done by return it to the seller
+          - if they refuse they can go to the qadi
+            - the qadi can give them another option
+              - give the difference between the two price
+                - either you accept it at the new price
+                  - the original price
+                    - or give it back
+                      - the chose will be with the buyer as he has been tricked  
+    this can happen the other way round where the seller trick the buyer saying its not really worth that much and get tricket to sell it at a cheaper price
+*** 4. Khiyār al-Tadlīs (option in the case of fraud)
+341. Khiyār al Tadlīs
+     - (The option to revoke the deal in the case of fraud).
+       - This is where the seller cheats the buyer in order to raise the price of the commodity.
+         - An example of that would be leaving the milk in the udder of animals to accumulate.
+           - the person when buying will think that this cow can produce alot of milk, but it reality it doesn't as it could have been milk that could have been accumulated for 5 day
+             - if you have bought the cow 
+               - you can milk the cow and decide if you to keep it or not (as you'll see how much return back after a day) 
+                 - if you return it, return it with 1 sa of dates 
+                 - or revoke the deal if 3 days have not passed  
+           - The Prophet ﷺ said, “Do not keep camels and sheep without milking them for a long time. Whoever buys such an animal has the option to milk it and then decide whether to keep it or return it to the owner with one ṣāʿ of dates.” (Agreed upon) In another narration, it mentions that the buyer has the option of revoking the deal for up to three days.
+             - only 1 sa of dates even thought it goes against the general principle
+               - because what if the milk is worth more or less than 1 sa of dates
+                 - a qaidah
+                   - when ever took something from someone,
+                     - you bare the cost for taking care of it and
+                     - bare the risk of something happening to it and
+                     - you are the one who bare the profit from it   
+                 - imaan abu hanifa reject the haidth based on this principle
+                   - why should a person pay back the milk, because if the cow died then he would have to bare the lost of the cow
+                     - the principle is backed by multiple authentic narrations
+                       - so a ahad narration is going against the mutawattir narration
+                         - hence there must have been a hidden defect in this hadith 
+                  - what was the response of the other madhabs
+                    - we agree with you and the principle, but this case is the exception to the principle
+                      - as it authentic, and has no hidden defect in it
+                        
+*** 5. Khiyar al-'ayb (Option due to unintentionally defects)
+342. If one purchases a product with a defect not knowing the problem with it at the time of purchase,
+     - then he has the option to either return the product or keep it.
+       - If, however, he was unable to return the product due to a specific reason, he has a right to compensation.
+         - the compensation based on the percentage of the difference 
+*** 6. Khiyār al-Khulf fī qadr al-thaman (Option due to dispute over price)
+1. If both parties disagree over the price of the product
+   - then they are both to take an oath.
+     - Thereafter, they both have the right to revoke the deal.
+   e.g. someone says after a day you can pay me for 500
+   - then when coming back they differ on the price i.e 400
+     - if he returns the item as it was then no one has lost
+       - the price is binding for the one who make it and when the other refused it
+         - however if they both back the oath
+*** 7. Khiyār al-Khulf fī al-Ṣifah (Option due to disagreement over a description / attribute)
+- A disagreement between the contracting parties concerning a quality or description of the sold item that affects its value. 
+   - then they are both to take an oath.
+     - Thereafter, they both have the right to revoke the deal.
+
+** Virtue of cancelling a sale by mutual agreement
+344. The Prophet ﷺ said, “Whoever agrees with a Muslim to cancel a transaction, Allah ﷻ will forgive his sins on the Day of Resurrection.” (Reported by Abū Dāwūd and Ibn Mājah)
+
+* WAIT Chapter: Buying in Advance (al-salam)
+the default is you can't sell what you don't own, however salam is a exception
+
+Salam
+- to sell something that is absent for a price that is given there and then
+  - the condition of this type of transaction is the condition of transaction + 7 more condition
+    1. Able to describe the product in detail
+    2. Any characteristic's of the product that will change the value is mention
+    3. The amount of the product given is mentioned
+    4. The time when the product is delivered is mentioned
+    5. The product is most likely going to be available at the time of delivery
+    6. The money is exchange at the gathering of the contract
+    7. It isn't a specific item you're selling that you can point to
+       - this mean not someones specific items e.g. a Friends jacket,
+         - don't sell something you don't own 
+         - but it means the item that looks like it, that can be find elsewhere in the market  
+           - e.g. jacket that looks like this either  S, M, L, XL
+             
+Salam and dropshipping
+- If all Salam conditions are fulfilled:
+  - Salam is valid
+  - Dropshipping may be permissible
+    - Permissibility depends on the structure
+
+Dropshipping structures
+  - 1st way: Salam-style sale (problematic)
+    - Structure
+      - The customer pays you upfront
+      - You use the money to purchase the item
+      - The item is delivered later
+        - if not then you must return the money
+    - Issue
+      - Some platforms hold the payment until shipment or delivery
+      - This means:
+        - You have sold an item
+        - Without receiving usable payment
+    - Ruling
+      - This resembles selling a debt for a debt 
+      - This is invalid
+    - Permissibility
+      - Not permissible if:
+        - You cannot access or use the money
+      - Permissible only if:
+        - The item already exists and is available
+        - Or the payment is fully received and usable
+  - 2nd way: Acting as an agent (wakālah) – safest method
+    - Structure
+      - You act as an agent for the seller
+      - There must be permission or an agreement
+    - Compensation
+      - You may take:
+        - A commission
+        - Or an agreed profit margin
+    - Condition
+      - Agency must be explicit and authorized
+    - Common mistake
+      - Acting as an agent without the owner’s permission
+      - This invalidates the arrangement
+- Notes
+   - You do not need to advertise the original seller
+   - What matters is:
+     - Permission
+     - Clear agency agreement
+
+** Ruling and conditions (salam / advance payment)
+345. Advance payment is permissible for everything that can be described with definite properties on condition that:
+
+1. All characteristics that could vary the price are explicitly stated.
+2. There is a specified time for receiving [the item]
+3. The price of the item must be paid for entirely in advance before the two parties separate.
+
+** Evidence and ethical warning regarding debts
+It was reported on the authority of Ibn ‘Abbās ؓ that when the Prophet ﷺ came to Madīnah he found the people paying in advance for fruits which were to be given after one, two, or even 3 years after. He ﷺ then said, “Whoever pays in advance should pay for a specified measurement and a specified weight for a specific period.” (Agreed upon)
+
+The Prophet ﷺ also said, “Whoever takes the wealth of people intending to repay it, Allah ﷻ will pay it on his behalf, and whoever takes it in order to destroy it, then Allah will destroy him.” (Bukhārī)
+
+* Chapter: Collateral, Guaranteeing Payment & Appearance
+
+** Purpose: securing established rights
+347. These are methods of securing established financial rights.
+
+** Rahn (collateral)
+348. It is valid to give a rahn (collateral) in the form of an ‘ayn (commodity) that is allowed to sell.
+
+349. It will remain as an amānah (trust) with the murtahin (mortgagee) though he not liable for it unless he transgressed or was negligent, as is the case with all other trusts.
+
+350. If complete redemption is achieved, the collateral should be released.
+
+351. However, if full redemption is not achieved and the creditor seeks to sell the collateral, it is obligatory to sell it and use the money to pay back the creditor. Whatever remains from selling it belongs to the rightful owner. And anything that remains to be paid from the debt will remain a debt albeit unsecured.
+
+352. Whoever damages the collateral has to compensate for it and that will become the collateral itself
+
+353. The growth of the collateral is considered to be a part of it, and the expenses for its maintenance are upon the owner.
+
+354. It is not allowed for the one who gives the collateral (rāhin) to benefit from it without consent of the other party, or a provision given by Islamic law. The Prophet ﷺ said, “A riding animal can be ridden while it is mortgaged, and a milking animal can be milked while it is mortgaged, and it is upon the one riding and drinking [the milk] to maintain it.” (Bukhārī)
+
+** Ḍamān (guarantee) 
+355. Ḍamān is to guarantee the repayment of a debt by a third party.
+     
+**  Kafālah (surety/appearance)
+356. Kafālah is to commit to present the debtor in person to the creditor.
+
+357. The Prophet ﷺ said, “The guarantor is liable.” (Abū Dāwūd)
+
+358. Both are legally liable except if:
+
+     1. He carries out what he is obliged to do, or
+     2. The creditor acquits him, or
+     3. The creditor acquits the original debtor.
+
+And Allah ﷻ knows best.
+
+* Chapter: Interdiction due to bankruptcy
+
+** Conduct with debtors (easing and patience)
+359. A creditor should give respite to the one in financial difficulties (mu‘sir).
+
+360. He should also be easy on the one who is not facing such difficulties (mūsir).
+
+** Repayment duties and delaying payment
+361. Whoever is in debt must repay it completely in totality in amount and quality.
+
+362. The Prophet ﷺ said, “Procrastination in paying debts by a wealthy man is injustice. So, if your debt is transferred from your debtor to a wealthy debtor, you should agree.” (Agreed upon) This is considered to be a form of financial easing (muyāsarah)
+
+363. The māṭil is the one who is capable of paying back what is due and does not intentionally delay and can be brought to a court of law.
+
+** Interdiction (ḥajr) and liquidation when debts exceed wealth
+364. If a person's debts amount to more than his wealth, and the creditors - or some of them - request a judge to interdict him, he should be interdicted. He should also be prevented from administrating his assets which should be liquidated then distributed amongst the creditors in accordance with the ratio of their debts.
+
+** Priority among creditors
+365. None of the creditors should be given any preference over others except:
+
+1. The one who has collateral in his possession.
+2. The Prophet ﷺ said, “Whoever finds his wealth with an insolvent person, he will have more right to it than anybody else.” (Agreed upon)
+
+** Guardianship and protecting the wealth of the vulnerable
+*** Preventing harmful use of wealth
+366. It is obligatory upon the guardian of the minor, incompetent, or insane to prevent them from administrating their wealth in a manner that will harm them.
+
+Allah ﷻ says, “Do not hand over to the simple-minded any property of theirs for which Allah has made you responsible...” (Al Nisā’: 5)
+
+*** When they may approach/control wealth
+367. It is not allowed for them to control their wealth except if it is better than its retention, or if it leads to a beneficial outcome. Likewise, they will be allowed to approach it if they are in need of it.
+
+*** Who becomes guardian
+368. Their guardian is their father who is responsible and competent in financial matters. If they do not have a father, the judge should appoint someone from their relatives who is most aware of their circumstances and is the most caring for them and is trustworthy.
+
+*** Guardian compensation
+369. If the guardian is rich, he should take no wages, but if he is poor, he may take for himself what is just and reasonable. This amount should be the minimum amount someone would charge for such a service.
+
+And Allah ﷻ knows best.
+
+* Chapter: Conciliation
+
+** General ruling
+370. The Prophet ﷺ said, “Conciliation between Muslims is permissible, except for conciliation which makes the lawful unlawful and the unlawful lawful.” (Abū Dāwūd and Tirmidhī)
+
+** Forms of conciliation in debts and obligations
+371. It is permissible for the creditor to negotiate an agreement by the way of a corporeal item for another, or with a legal commitment.
+
+372. It is permissible for the debtor to negotiate an agreement by offering a corporeal item in its place or by a legal commitment as long as the commitment is fulfilled before they part company.
+
+373. It is also permissible to negotiate an agreement by allowing the creditor to benefit from his property or anything else as long as it is known. Moreover, it is permissible to settle a debt that is due in the future by repaying only part of it immediately. It is also permissible to negotiate an amount to settle a debt whose amount is unknown to both parties.
+
+** Neighbourly rights
+374. The Prophet ﷺ said, “None of you should refuse to let his neighbour fix a piece of wood to his wall.” (Bukhārī)
+
+* Chapter: Agency, Partnership & Crop Sharing
+
+** Agency (Wakālah)
+*** Legitimacy and nature of the contract
+375. The Prophet ﷺ used to appoint agents to deal with his private dealings and likewise public affairs that were related to him.
+
+376. It is a non-binding form of contract from both parties.
+
+*** What may be delegated (representation allowed)
+377. It is valid for all matters in which representation is allowed including:
+
+1. The rights of Allah ﷻ, such as the distribution of zakāh, expiations, and so on.
+2. The rights of other people, such as contracts and the termination of them, and so on.
+
+*** What may not be delegated
+378. Appointing an agent is not permitted for matters in which representation is not allowed, such as matters that are specifically connected to a particular individual, like prayer, purification, oaths, dividing time among one's wives, and so on.
+
+*** Limits of authority
+379. The agent is not allowed to administer that which he was not given permission for, either verbally or according to custom.
+
+*** Agency with ju‘l (performance-based wage)
+380. It is permissible to appoint an agent by ju‘l (A contract in which the entitlement to wages depends upon the completion of the task.)
+
+*** Liability and claims of return
+381. The agent is like all bearers of trusts; he is not legally liable except in the case of transgression or negligence.
+
+382. His statement in this regard is accepted with an oath.
+
+383. If a representative claims to have returned what he was entrusted with:
+
+1. If he was appointed by ju‘l, his statement will not be accepted unless he has clear proof (bayyinah).
+2. If he was a volunteer, his statement will be accepted with an oath.
+
+** Partnership (Sharikah)
+*** Divine warning against cheating
+384. The Prophet ﷺ said, “Allah ﷻ says, ‘I am the third [partner] of two partners as long as one of them does not cheat his companion; and if he cheats, I depart from both of them.” (Abū Dāwūd)
+
+*** Binding/non-binding nature
+385. All forms of partnership are non-binding.
+
+*** Profit and ownership allocation
+386. Ownership and profit is in accordance to what they agree upon as long as it is a known and specific percentage.
+
+*** Types of partnership
+387. The types of partnership are:
+
+1. Sharikah al ‘Inān (Cooperative Partnership). This is where both partners invest with capital and labour.
+2. Sharikah al Mudārabah (Silent Partnership). This is where one of the partners invests with capital and the other partner bears the labour.
+3. Sharikah al Wujūh (Reputable Partnership). This is where both partners purchase trade goods for a deferred payment based upon their repute.
+4. Sharikah al Abdān (Manual Partnership). This is where both partners share what they earn by their own work from permissible trade like cutting grass etc.
+5. Sharikah al Mufāwaḍah (Comprehensive Partnership). This is a comprehensive partnership that covers all types of partnerships mentioned.
+
+*** Validity, and what nullifies partnerships
+388. All forms of these aforementioned partnerships are permissible.
+
+389. However, they will become null and void if either of the partners were to be unjust or acted ambiguously, such as if one were to take profit for a specific time period and the other partner were to take the profit for another time period. Or if one were to take the profit for one commodity and the other take the profit from another commodity, or if one were to take the profit from one journey and the other take the profit from another journey, and so on.
+
+** Crop sharing and related arrangements
+*** Invalidity due to injustice/ambiguity; and permissibility of secure/known arrangements
+390. Crop sharing also becomes null and void if there were any injustice or ambiguity.
+
+Rāfi‘ bin Khadīj ؓ said, “People used to let out land in the time of the Messenger of Allah ﷺ for what grew by the current of water and at the banks of streamlets and at the places of cultivation. Sometimes this [portion] perished and that [portion] was saved, and sometimes this remained intact and that perished. There was no [form of] lease among the people except this. Therefore, he forbade it. But if there is something which is secure and known, then there is no harm in it. (Muslim)
+
+Moreover, the Prophet ﷺ made a contract with the people of Khaybar that they could utilise the land on condition that he would take half of the fruits or cultivation. (Agreed upon)
+
+*** Definitions: Musāqāh and Muzāra‘ah
+391. Al Musāqāh (watering) of trees is when one gives a labourer a tree to take care of in return for a specified share of the fruits of the tree.
+
+392. Al Muzāra‘ah (crop sharing) is when one gives a person a piece of land to cultivate and is then given a specific share of the produce.
+
+*** Condition: no ambiguity; follow sound custom
+393. Both types of crop sharing should be in accordance to what is customarily considered to be correct on condition that there is no ambiguity.
+
+*** Working animals for shared earnings
+394. If a person gives another his animal to work with, any agreement between the two (about the sharing of earnings) is permissible.
+
+* Chapter: Cultivation of Barren Lands
+
+** Definition
+395. Mawāt refers to uncultivated land which has no known owner.
+
+** Reviving dead land (iḥyā’ al-mawāt) and ownership
+396. Whoever brings life back to it, such as by building a wall around it, digging a well in it, supplying water to it, and removing that which makes land infertile, qualifies to own the land and that what is in it, with exception to metals that do not require to be excavated. This is based upon the hadith narrated by Ibn ‘Umar ؓ, “Whoever cultivates land that does not belong to anyone is more entitled to it.” (Bukhārī)
+
+** Partial claiming vs full ownership (must cultivate)
+397. If one were to surround barren land with stones or dig a well that did not reach water or is given land (from an official authority) is more entitled to it. However, he cannot own it until he cultivates it through the aforementioned means.
+
+* Chapter: Job Wages & Hiring
+
+** Definitions: ijārah and ja‘ālah
+398. Both [terms] refer to the remuneration given to a person in exchange for a known amount of work (ijārah), or an unknown amount of work in the case of ja‘ālah (wages). Or, for a manfa‘ah (service) while in possession of it and being responsible for it.
+
+** Entitlement to wages
+399. Whoever carries out what the remuneration is set for, in both cases, deserves to be paid. Whoever does not, does not deserve to be paid.
+
+** Exception: inability to complete work in ijārah
+400. The exception to this is if the person was unable to complete the work in the case of ijārah. In such a case, he is paid in ratio to what he has done.
+
+** Warning against withholding wages
+401. Abu Hurayrah ؓ narrated that the Prophet ﷺ said, “Allah ﷻ says, ‘I will be against three people on the Day of Resurrection: one who makes a covenant in my name, but he proves treacherous; one who sells a free person into slavery and profits from it; and one who employs a labourer and receives the requested work but does not pay him his wages.’” (Muslim)
+
+** Ja‘ālah vs ijārah
+402. Ja‘ālah is broader than ijārah, as it is permissible for charitable deeds. Furthermore, unlike ijārah, the type of work involved can be known or unknown and it is a non-binding type of transaction.
+
+** Subleasing
+403. It is permissible to sublease something already hired to one in similar circumstances but not to someone who would cause more harm if done so.
+
+** Liability
+404. Neither of the two will be liable unless there is negligence or transgression.
+
+** Paying workers promptly
+405. The Prophet ﷺ said, “Give the worker his earnings before his sweat dries.” (Ibn Mājah)
+
+* Chapter: Found Property & the Foundling
+
+** Categories of lost-and-found property (luqaṭah)
+406. There are three types of lost and found property:
+
+1. That which is insignificant in value, such as a whip or bread. These things can be claimed and owned without needing to announce it (ta‘rīf).
+
+2. Stray animals that can defend themselves against small predators such as camels. Such cannot be taken in any circumstance.
+
+3. Anything other than the above. It is allowed for one to pick up this type of item on condition that they announce it for a entire year, after which they can take ownership of it.
+
+** Prophetic guidance on announcements and stray animals
+On the authority of Zayd bin Khālid al-Juhani, “A man came to the Prophet ﷺ and asked him about a lost piece of property. He said, “Familiarise yourself with its container and tying material and then publicly announce it for a year. If its owner appears [then return it to him], otherwise use it as you like.” The man then said, “What about a lost sheep?” To which he ﷺ replied, “It is [either] for you, your brother, or a wolf.”
+
+The man then said, “What about a stray camel?” To which he ﷺ replied, “Why should you take it when it has its water container (i.e. its stomach) and its hooves and can reach water and eat plants until the owner finds it?” (Agreed upon)
+
+** The foundling (laqīṭ)
+407. Picking up the foundling (laqīt) and taking care of him/her is a communal obligation.
+
+408. If the Bayt al Māl (treasury) is unable to see to this, then it is incumbent upon the one who knows the circumstances of the foundling to see to him/her.
+
+* Chapter: Competition & Wrestling
+
+** Types of competition and prize rulings
+409. There are three types [of competition]:
+
+1. Permissible with a prize or reward. This applies to horse and camel racing, and archery.
+
+2. Permissible without a prize and prohibited with a prize. These are all competitions other than the above-mentioned three.
+
+3. Dice, chess, and the like. These are prohibited in all cases. This is as per the hadith, “There should be no prizes for competitions except for competitions for races with camels, arrows and horses.” (Aḥmad)
+
+** Gambling
+410. Anything other than the aforementioned falls under gambling.
+
+* Chapter: Usurpation
+
+** Definition and prohibition
+411. Ghaṣb is defined as seizing another person's property without any right.
+
+412. It is prohibited as per the hadith, “Whoever usurps a hand-span of land will bear seven earths on the Day of Resurrection.” (Agreed upon)
+
+** Returning what was taken + liability
+413. The usurper must return what was taken to its owner, even if it costs more than the value of what was usurped.
+
+414. He is also liable for any depreciation in its value as well as the cost of its hire while it was in his hands. He is also liable for any damage or destruction.
+
+** Growth belongs to the rightful owner
+415. Any growth from the usurped property belongs to its rightful owner.
+
+** Building/planting on usurped land
+416. If the usurped property was a piece of land and the usurper planted something in it or built something on it, then the rightful owner has a right to remove it as per the hadith, “The sweat of an unjust person has no right.” (Abū Dāwūd)
+
+** Ruling on knowingly taking from a usurper
+417. Whoever takes possession of an item from its usurper whilst knowing about its usurpation is subject to the same ruling as that of the usurper.
+
+* Chapter: Lending Items and Trusts
+
+** Lending items (Al ‘Āriyyah)
+418. Al ‘Āriyyah is defined as permitting someone to benefit from something.
+
+419. It is recommended since it is considered to be from iḥsān (beneficence) and ma‘rūf (kindness). The Prophet ﷺ said, “Every act of kindness is a form of charity.” (Agreed upon)
+
+420. If the lender stipulates compensation for its loss or damage, the borrower will be liable.
+
+421. If the borrower was to transgress or be negligent, then he will have to compensate, otherwise he does not have to.
+
+** Trusts (Amānah)
+422. Whoever was entrusted with a trust must safeguard it in a place that is adequately safe for it.
+
+423. The entrusted person is not allowed to benefit from the trust without permission from its rightful owner.
+
+* Chapter: Pre-emption
+
+** Definition and scope
+424. It is defined as: A person's right to take his partner’s share that was transferred to another person by a sale or other means.
+
+425. It applies to property that has not been divided as per the hadith of Jābir ؓ, “The Prophet ﷺ established the right of pre-emption [to the partner] in everything that cannot be divided, but if the boundaries of the property were demarcated or the ways and streets were fixed, then there is pre-emption.” (Agreed upon)
+
+** Prohibition of trickery to evade pre-emption
+426. The use of loopholes or trickery is not permitted to evade it.
+
+427. If someone employed trickery, the pre-emption will not be averted as per the hadith, “Actions are judged by their intentions.”
+
+* Chapter: Endowments
+
+** Definition and virtue
+428. It is defined as the retention of any property that can be benefited from and dedicating it to charitable purposes.
+
+429. It is considered to be from the best and most beneficial deeds to Allah ﷻ if done out of piety, free from injustice, as per the hadith, “When a servant dies, his actions discontinue except three things: recurring charity, knowledge by which benefit is acquired, or a pious child who prays for him.” (Muslim)
+
+** Example: ‘Umar’s endowment at Khaybar
+Ibn ‘Umar ؓ also narrated that, “‘Umar ؓ acquired a land at Khaybar. He came to the Prophet ﷺ and sought his advice in regard to it. He said, “Allah's Messenger, I have acquired land in Khaybar. I have never acquired property more valuable for me than this, so what do you command me to do with it?” Thereupon he ﷺ said, “If you like, you may keep the corpus intact and give its produce as ṣadaqah.” So ‘Umar ؓ gave it as ṣadaqah, declaring that the property must not be sold or inherited or given away as gift. ‘Umar ؓ devoted it to the poor, the nearest kin, the emancipation of slaves, those in the way of Allah ﷻ, and guests.
+
+There is no sin for one who administers it if he consumes something from it in a reasonable manner or if he feeds his friends and does not hoard up goods [for himself].” Agreed upon.
+
+** Best types, establishment, and conditions
+430. The best type of endowment is that which is more beneficial to the Muslims.
+
+431. It comes into effect by a meaningful statement expressing the wish to make the endowment.
+
+432. The conditions of the endowment and how it should be used should be in accordance with the conditions laid down by the endower as long as they confine to Islamic law.
+
+** Selling an endowment if benefit ceases
+433. It should not be sold unless it stops providing benefit, in which case it should be sold, and its returns should be used for something similar to it.
+
+* Chapter: Gifts, Bestowals & Bequests
+
+** Definitions (hibah, ‘aṭiyyah, waṣiyyah)
+434. These are considered to be contracts of gratuity.
+
+435. A hibah (gift) is wealth donated whilst one is alive and healthy.
+
+436. An ‘aṭiyyah (bestowal) is wealth donated when one is terminally ill or close to death.
+
+437. A waṣiyyah (bequest) is wealth donated after death.
+
+** General virtue
+438. All the aforementioned are acts of beneficence and piety.
+
+** Amounts and limits
+439. A hibah is taken from one's capital (with no limit).
+
+440. An ‘aṭiyyah and a waṣiyyah is taken from a third or less of one's capital for other than an heir.
+
+441. Anything more than a third, or that given to an heir, will be dependent upon the permission of the heirs that which are of sound mind.
+
+** Justice between children
+442. It is obligatory to be just with one's children when dealing with the above as per the hadith, “Be conscious of Allah ﷻ and be fair towards your children.” (Agreed upon)
+
+** Taking back gifts (and the exception)
+443. After a gift has been taken possession of and accepted, it is unlawful for the giver to take it back as per the hadith, “The one who takes back his gift, is like the dog which vomits then goes back to its vomit.” (Agreed upon)
+
+In another hadith it states, “It is not lawful for anyone that has given a gift to take it back, except for a father who gives something to his son.” (Abū Dāwūd)
+
+** The Prophet ﷺ and gifts; father’s rights
+444. The Prophet ﷺ used to accept gifts and reciprocate the giver.
+
+445. The father has the right to take ownership of his child’s wealth as long as it does not harm the child or gives it to another son or take it whilst one of them is about to die as per the hadith, “You and your wealth belong to your father.” (Abū Dāwūd)
+
+** Writing wills and bequest rules
+446. Ibn ‘Umar ؓ narrated in a marfū‘ hadith, “It is the duty of a Muslim man who has something which is to be given as bequest not to have it for two nights without having his will written regarding it.” (Agreed upon)
+
+447. In another hadith the Prophet ﷺ said, “Allah ﷻ has appointed for everyone who has a right what is due to him, so no bequest should be made to an heir.” (Abū Dāwūd and others) In a variant narration it says, “...unless the heirs consent.” (Dāraquṭnī)
+
+448. One who does not own enough to enrich his heirs should not bequest, rather he should leave all of his wealth to them, since the Prophet ﷺ said, “...It is better for you to leave your heirs wealthy than to leave them poor, begging others...” (Agreed upon)
+
+Seeking well for others is sought in all circumstances.

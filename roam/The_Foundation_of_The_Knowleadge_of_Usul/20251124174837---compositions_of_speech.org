@@ -17,7 +17,7 @@ Speech is control from the basic element of language, which include their compon
 - Nouns
 - Verbs
 - Particles
-** By its meaning ([[id:5496fa89-1a4b-4d3b-8b72-224954f7ee33][Parts of speech]])
+** By its meaning ([[id:5496fa89-1a4b-4d3b-8b72-224954f7ee33][Parts of speech]]) khabar/inshaa
 - Speech that can be described as truthful or false.
 - Speech that cannot be described as either truthful or untruthful.
 

@@ -57,7 +57,6 @@ The principle is part of a more genreal principle: the means follow the rulings 
 
 
   
-
 * Other meanings of final commandments (with contextual indicator)
 :PROPERTIES:
 :ID:       ef2f2521-a6c7-4e31-afbc-593bc8ec48b5
@@ -65,10 +64,7 @@ The principle is part of a more genreal principle: the means follow the rulings 
 
 There are instances where a command, although give, may not be obligatory or demand immediate execution due to the specific evidence.
 In such cases, the command's status shifts from being an obligation to signifying something else, such as. Requied to have with an external indicator (qarīnah) or contextual clue.
-
-
-
-   
+  
 ** 1. Recommendation (al-istihbāb).
 :PROPERTIES:
 :ID:       519487db-0c12-4275-8124-a7f73bfb523c

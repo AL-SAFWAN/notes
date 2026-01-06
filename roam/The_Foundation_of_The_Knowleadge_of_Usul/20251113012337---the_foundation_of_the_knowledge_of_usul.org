@@ -666,24 +666,7 @@ he meets any one of the sign below:
 ***** بلوغ سن خمس عشرة سنة قمرية :: Reaching the age of 15 lunar years
   
   eg 14 or 14/half, hadith of ibn umar participating in battle, in the battle of khadak he was 15 and not in the battle in badr
-  
-**** الاحتلام :: Release of seminal fluid (wet dream / ejaculation)
-except due to a medication reason
-- the pen has been lifted for a young child untill the seminal fluid
-**** الإنبات :: Growth of pubic hair
-- thick hair that is rquired to be shaved
-  - that which is require to be shaved
-    - prinson of bani qraibah, the book the treaties and show many sign of betrains, they we're then order to be killed, the shahabah look for the ones that had private part
-      - why is this an evidence, since you can't kill a child
-        
-****  الحيض :: Menstruation (for females)
-  - Allah don't accept the salah of mentrauting women exept she wear a khimar
-    - girls don't need to cover hari
-****  الحمل :: Pregnancy (for females)
-  e.g some scholars says it obvious
-  - it could positible that a women might not have mensense
-    - but with the relation of the husband, she becomes mature
-*****  العقل وفهم الخطاب :: *Sanity and the ability to understand speech*  
+ *****  العقل وفهم الخطاب :: *Sanity and the ability to understand speech*  
 - sanity is you understand speech 
   - the one who is insane is not accountable, even if he's mature
     - the pen has been lifted for him
@@ -736,7 +719,24 @@ except due to a medication reason
                 - e.g maiz, he said my people will kill me and went the to prohet pbuh but he was killed when he went to the prophet pbuh, this shows that you'll still be punished if you didn't know the conciqunce due to the punished of adultry
                 - so it punishment doen't drop even if they didn't know
 
-                  
+  
+**** الاحتلام :: Release of seminal fluid (wet dream / ejaculation)
+except due to a medication reason
+- the pen has been lifted for a young child untill the seminal fluid
+**** الإنبات :: Growth of pubic hair
+- thick hair that is rquired to be shaved
+  - that which is require to be shaved
+    - prinson of bani qraibah, the book the treaties and show many sign of betrains, they we're then order to be killed, the shahabah look for the ones that had private part
+      - why is this an evidence, since you can't kill a child
+        
+****  الحيض :: Menstruation (for females)
+  - Allah don't accept the salah of mentrauting women exept she wear a khimar
+    - girls don't need to cover hari
+****  الحمل :: Pregnancy (for females)
+  e.g some scholars says it obvious
+  - it could positible that a women might not have mensense
+    - but with the relation of the husband, she becomes mature
+                 
 **** This exemption does not apply to the obligation of zakat and financial rights of a child or insane person.
 - These obligation are contingent on  specific condition, and once those conditions are met, the ruling applies based on the *circumstance*,  *not the individual performing* it.
 
@@ -1223,7 +1223,7 @@ Allah lifts the rule of a general term for
 :ID:       aaca37db-9029-434d-adf0-625c72699a21
 :END:
 
-***** The term "Takhsis"
+**** The term "Takhsis"
 :PROPERTIES:
 :ID:       b082475a-1da4-46a2-a8ef-f69de06beba9
 :END:

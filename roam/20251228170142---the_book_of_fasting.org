@@ -1,0 +1,569 @@
+:PROPERTIES:
+:ID:       9af44c58-b496-4083-afb7-f4284c710059
+:END:
+#+title: The book of Fasting
+* Siyām
+** Definition and background
+- /Linguistically/: means to *withhold*.
+- /Technically/:
+  - To *withhold* with the *intention* to stay away from things that break the fast in the month of *Ramaḍān*, from *dawn* to *sunset*.
+    - It requires an *intention*.
+      - If he did not *intend* the fast, then his fast is *not valid*.
+- Made *farḍ* in the *2nd year of Hijrah*.
+  - He (ﷺ) fasted for *9 Ramaḍāns*.
+
+** Fasting was legislated in stages
+- =1= — only on the day of *‘Āshūrā’* (10th *Muḥarram*).
+- =2= — ‘Āshūrā’ became *sunnah*, and fasting of *Ramaḍān* was legislated but not *farḍ* for everyone, and people had a choice:
+  - You could feed *1 poor person* for each day or fast.
+- =3= — fasting became *farḍ* for everyone, and started at *dawn* (or after they fell asleep).
+  - The ruling was different:
+    - You could have marital relations and eat after *Maghrib*, but if you fell asleep after *Maghrib*, then you were not allowed to drink anymore.
+      - Story of *Qays ibn Sinma*:
+        - He waited for his wife for food, then fell asleep, and then he had to fast again.
+          - Then this ruling became *abrogated*.
+- =4= — the fast that we have today, regardless of whether we sleep or not.
+
+** The greatest reason to fast
+- The greatest reason to fast is to attain *taqwā*.
+  - *Taqwā*:
+    - To make a barrier between oneself and the punishment of Allāh, by doing that which Allāh has commanded and staying away from that which is prohibited.
+  - Fasting trains us, because we stay away from that which is normally *ḥalāl* and the things that we require; then surely after the month, the things we don’t require are easier to leave off.
+    - Hence it establishes the *taqwā*.
+      - And anything else is secondary.
+
+* 241. Command to fast (evidence)
+241. The command to fast is based upon the following verse,
+
+#+begin_quote
+“O You who believe! Fasting has been prescribed upon you like it
+was prescribed upon those who came before you so that you may be
+mindful of God.” (2:183)
+#+end_quote
+
+* 242. Who fasting is farḍ for
+242. Fasting in the month of Ramaḍān is obligatory upon every:
+
+** Who fasting is farḍ for
+1. A Muslim
+   - Islam is the first condition.
+2. Bāligh — mature person
+   - Someone who reaches the age of puberty.
+3. ‘Āqil — sane person
+4. Able to fast (person capable of fasting)
+   - Doesn’t have an illness or a condition that prevents him from fasting.
+     - If it would harm him, then it will be *ḥarām* for him.
+5. Resident
+   - The traveler has the option to fast.
+     - They should not look down on each other.
+6. There are no preventers of fasting
+   - e.g. menstrual cycle and post-natal bleeding
+     - It is *ḥarām* for her to fast.
+       - She would be sinful and it is not valid.
+
+* Establishing the start of Ramaḍān (crescent / completing Sha‘bān)
+It becomes obligatory to fast if the crescent is sighted or by completing Sha‘bān as 30 days.
+
+#+begin_quote
+The Prophet ﷺ said, “When you see the crescent (of Ramaḍān), start fasting, and when you see the crescent (of Shawwāl), stop fasting; and if the sky is overcast, calculate when it should appear.” (Agreed upon) In another narration it states, “...then count it as 30 days.” And in another narration, it states, “...complete Sha‘bān as thirty days.” (Bukhārī)
+#+end_quote
+
+** When it becomes farḍ to fast (notes)
+- If they see the presence of *Ramaḍān*:
+  - They complete *Sha‘bān* as *30 days*.
+- Before the 30th night, they look out and see it:
+  - If they see the moon crescent (even if it’s cloudy):
+    - Then they start.
+  - If they can’t see it:
+    - Then they start at *30*.
+      - In the lunar calendar the month can be only *30* or *29* days.
+      - Even if the crescent is there but they can’t see it due to clouds:
+        - It’s based on weather whether you can see it,
+          - Regardless if it is there or not.
+          - =Calculations can’t be used to determine the sighting of the moon.=
+            - Hence here is the difference between the start time of *ṣalāh* and fasting:
+              - *Ṣalāh* can be based on calculation,
+                - But the sighting of the moon is attached for *Ramaḍān*.
+                  - It is possible to see the moon on the *29th*,
+                    - So fast if you can see it.
+                      - If you made a mistake, there is no problem,
+                        - As *Ramaḍān* is when the people fast,
+                          - And *‘Arafah* is when the people do ‘Arafah.
+
+* 243. Testimony for the beginning of Ramaḍān
+243. The beginning of Ramaḍān can be determined by the testimony of a single and just individual. As for the remaining months of the year, two just witnesses are required to establish the beginning of the month.
+
+* The issue of moon sighting (differences of opinion)
+- Do we follow the country we’re in, or the first country that sees it, or do we have an *amīr* that sees it, or is it based on the points of the moon (longitude)?
+  - If one country is very large:
+    - Where the sighting appears in a certain part and not in another part:
+      - Does the whole country fast even if one end can’t see it and the other end has seen it?
+        - Or should they take an independent sighting?
+          - Hence these are where the differences of opinion arise from.
+            - We have a narration where Ibn ‘Abbās went to a group of people and said this is how the Prophet (ﷺ) told us to do it; hence people say this is why we should have our own moon sighting.
+              - But this did not mean what is meant.
+                - The news didn’t reach them, and then they followed the *30 days*.
+                  - The ‘ulamā differ on this, but we should generally follow the mass to keep united.
+
+** Conditions of the one who sighted the moon
+1. The person is a Muslim
+   - Don’t trust the astronomers of the kāfirs.
+2. ‘Āqil
+3. Bāligh
+4. Trustworthy
+5. Strong eyesight
+
+- If one person sees it, then *Ramaḍān* has begun.
+- As for the rest of the months of the year, we only require *two witnesses*.
+  - This is the default.
+    - For *‘Eid* we require *2 witnesses* since it is for the month of *Shawwāl*.
+
+** If a person saw the crescent of Ramaḍān by themselves and they’re a fāsiq
+- They can’t call people to fast, because their testimony is rejected.
+  - However, they should fast quietly.
+
+** Two countries with different ‘Eid dates
+- What does a person do if they’re in these countries?
+  - If they fast at least *29 days*, then their fast is completed.
+    - If they started in a country for *30 days*,
+      - And another country is *30 days*,
+        - Then it will be *31* for him.
+          - *Ramaḍān* is *29* or *30* days.
+            - The ‘ulamā state he should fast with the people and do ‘Eid with the people.
+              - If it’s the other way (from *29* to *29*),
+                - So he only fasts *28 days*,
+                  - He does ‘Eid with the people and makes up *one day*.
+
+* 244. Intention for the obligatory fast
+244. It is obligatory to make the intention for the obligatory fast the night before the fast begins.
+
+** Intention (niyyah) for the obligatory fast
+- A person must make the intention of the fast at night for the obligatory fast.
+- Does he have to do this every night or not?
+  - *Imām Mālik*:
+    - In the beginning of the month: “I will fast the whole month,”
+      - With the condition he doesn’t break the intention.
+        - i.e. if he falls ill or couldn’t fast during travelling,
+          - He needs to make a new intention to fast.
+            - However, it is better to make a new intention to fast every night.
+              - The ḥadīth to make it binding every night is not binding.
+                - It was a practice of the ṣaḥābah and they had a difference of opinion.
+
+** For voluntary fasting
+- There is no need to make the intention at night,
+  - Given he didn’t do anything to spoil the fast (i.e. eating).
+    - Even if it’s 1 minute before *Maghrib*,
+      - They differed in the amount of reward,
+        - Whether it is complete or partial,
+          - But he will still get the reward.
+- However, for specified days (e.g. *‘Āshūrā’*, *Shawwāl*):
+  - They require intention from the start,
+    - And if you don’t, it will count as voluntary.
+
+* 245. Intention for recommended fast
+245. As for the recommended fast, the intention can be made during the day of the fast itself.
+
+* 246. Sickness and travel
+246. The sick who will be harmed by fasting, in addition to the traveller, can opt to fast or not.
+
+** The one who is ill
+- If it causes great difficulty to fast, but not harm:
+  - It’s permissible for him to fast or break it.
+    - If you break it, then you must make it up.
+- However, if it causes harm to fast:
+  - Then it is *ḥarām* for him to fast,
+    - As you can’t harm yourself.
+
+** The one who is travelling
+- If fasting is going to be harmful:
+  - e.g. walking out in the heat,
+  - Then it is not permissible to fast.
+- If it causes difficulty:
+  - It is permissible to fast, but better not to fast.
+- If it’s not going to cause difficulty:
+  - It is better to fast, but permissible not to fast.
+
+** When you can break the fast while travelling
+- You can’t break your fast until you become a traveler.
+  - When you start shortening the *ṣalāh*, from that point onward you can break the fast.
+
+- So the fasting person doesn’t look down on the one who doesn’t fast.
+
+* 247. Menstruation and post-natal bleeding
+247. It is prohibited for the menstruating woman and a woman who has post-natal bleeding to fast. However, they have to make up the fasts they missed (qaḍā’).
+
+* 248. Pregnancy and breastfeeding
+248. If a pregnant woman or a woman who breastfeeds fears for their child, they should break their fast, make it up and feed a poor person for every day that they missed.
+
+** Menstruation and post-natal bleeding (notes)
+- Fasting is *ḥarām* for them,
+  - They must make it up.
+    - It is easy to make up fasting, but with *ṣalāh* you shouldn’t make it up.
+
+** General principle (making up missed fasts)
+- The general principle is that every fast must be made up before the new *Ramaḍān* starts.
+  - Whoever doesn’t make it up and is able to make it (i.e. not pregnant),
+    - Is sinful and requires *tawbah*, and still must make up the fast,
+      - And it is highly recommended to feed a poor person for each fast.
+
+** The woman who is pregnant and breastfeeding
+- They can break their fast:
+  - They must feed a poor person for each day and make it up.
+- Case 1 — they fear for themselves (not for their child):
+  - Only need to make up the fast, not feed.
+- Case 2 — they fear for themselves and their child (pregnancy or breastfeeding):
+  - They only need to make up the fast and not feed.
+- Case 3 — they don’t fear for themselves, only for their child (completely healthy):
+  - They must make up the fast and feed a poor person.
+    - Ibn ‘Abbās said this is for the one who is unwell, terminally ill, elderly, and for the woman who is pregnant and breastfeeding: they’re not able to fast due to themselves, but for someone else.
+      - The 2nd view:
+        - They only need to make up the fast, and it’s recommended to feed a poor person.
+          - They said it is recommended to feed as there is no clear evidence that it is obligatory,
+            - Favoured by Abū Ḥanīfah.
+
+* 249. Old age and permanent illness (fidya)
+249. As for the person who is unable to fast due to old age or has an illness that one does not expect to be cured from, they should feed a poor person (miskīn) for every day missed.
+
+** Notes
+- The one who is unable to fast due to old age or an illness that you can’t recover from:
+  - These people can’t fast again; once you’re old you won’t become young.
+  - For the old:
+    - Look at their condition.
+      - The fasting days of the year can be short or long.
+        - Are they able to make it up when it is short during the winter?
+          - If they can, then they should make the fast when it’s short.
+  - However, if they can never make up the fast:
+    - For every day, they feed one poor person.
+      - 2 ways to do this:
+        - 1) Wait for the end of *Ramaḍān* and then pay all together
+          - e.g. 28 days → feed 28 poor people.
+        - 2) Each day the fast has concluded, feed a poor person.
+    - What is not permissible is to pay before the fast, as the reason for the expiation has not taken place yet.
+      - The reason has to come first, then you can give the payment for it.
+- If they’re told they can never fast again:
+  - However, what if they can fast?
+    - The previous *Ramaḍān* they only paid because they thought they were never going to recover, so their fast has already been expiated and they don’t need to make it up,
+      - And they start fasting from there.
+
+* 250. Breaking the fast (qaḍā’) and invalidators
+250. Whoever intentionally
+- broke their fast unintentionally only has to make it up (qaḍā’) if it was due to eating, drinking, intentionally vomiting, cupping or ejaculation due to fondling.
+
+** Whoever breaks the fast (notes)
+- They only need to make up the fast.
+  - If he intentionally did it without a valid reason:
+    - He must repent first and then make it up,
+      - As he is sinful for breaking the fast.
+        - He must still continue to fast the rest of the day even though it’s not valid.
+  - If someone has been given the concession to break the fast, that concession remains with him throughout the day.
+    - So they’re allowed to eat throughout the day, even if the reason is no longer there.
+      - e.g. a woman on menses stops 5 minutes after *Fajr*: she can still eat throughout the day.
+        - The opposite: if it’s 1 minute before the *Fajr adhān*, there is no concession here.
+      - e.g. a person travels at the beginning of the day and then returns back home before *Maghrib*:
+        - He’s still allowed to eat.
+
+** When is it permissible for 2 people who are completely well/healthy to have relations during the day?
+- A woman who has finished her menses and a husband who came back from his travels during the day:
+  - The ‘ulamā say to avoid this, as it is the sacred day of *Ramaḍān*.
+    - If they do it, then there is no kaffārah or fast.
+
+** If a person is a traveller and he didn’t break the fast and returns back home
+- He can’t break his fast, as the concession was no longer taken.
+
+** Another example
+- If a person broke their fast and his wife has finished menses:
+  - He has marital relations,
+    - For him it is not permissible, and he didn’t break the fast due to the concession,
+      - So he has to give the major compensation.
+
+** Eating, drinking, and common questions
+- Eating and drinking breaks the fast by *ijmā‘*.
+  - This means something that reached the stomach,
+    - Or takes the ḥukm of eating and drinking — such as an IV that gives strength.
+- Asthma pump doesn’t break the fast.
+- Blood test doesn’t break the fast.
+- Injections don’t break the fast if they’re not food supplements.
+- Dental treatment doesn’t break the fast.
+
+** Principle: when the fast is broken (3 conditions)
+- The fast of a person is only broken if 3 conditions are fulfilled:
+  1. The person knows two things:
+     - The ruling that it breaks the fast,
+     - And he knows he is currently fasting.
+  2. He remembers that he is fasting.
+  3. He does it out of his own will, his own choice.
+- This is the same ḥukm as marital relations.
+
+** Vomiting
+- Intentionally vomiting breaks the fast.
+  - If he knows the action will make him vomit, then he broke the fast,
+    - e.g. a person intentionally going to a drain that will make him vomit.
+
+** Ḥijāmah (cupping)
+- Ḥijāmah breaks the fast.
+  - The one who is doing the cupping and receiving:
+    - Both have broken their fast,
+      - View of the Ḥanbila.
+        - Others say it doesn’t break the fast.
+  - The reason is because they used to suck the blood out,
+    - And the one who is getting it would become weak,
+      - Many say the ḥadīth has been abrogated.
+- Better to stay away from cupping.
+  - Anas ibn Mālik didn’t see cupping as a problem when fasting,
+    - And practiced it,
+      - This follows the majority.
+
+** Ejaculation
+- If a person ejaculates by touching with their spouse:
+  - They only need to make up one day, and not 2 consecutive months.
+  - If they were to masturbate:
+    - It would break the fast.
+      - They could make tawbah, continue to fast, and make it up.
+- If it was a wet dream:
+  - It doesn’t affect their fast.
+
+** Things entering the body
+- Case 1 — enters the stomach: breaks the fast,
+  - Even if it’s a stone,
+    - If it goes past the throat.
+- Case 2 — inserted into the private part (front or back):
+  - Doesn’t break the fast,
+    - Unless it gives the effect of food and drink.
+- Case 3 — enters through the skin:
+  - Doesn’t break the fast,
+    - As it doesn’t take the effect of food.
+      - The same is for insulin,
+        - As it doesn’t take the effect of food.
+
+* 251. Major kaffārah (sexual intercourse)
+251. However, if one broke their fast due to sexual intercourse, then they have to make up the fast and free a slave. If one cannot find a slave to free, they have to fast two consecutive months. If one cannot do that, they have to feed 60 poor people.
+
+** Notes
+- *Jima‘* (marital relations) breaks the fast,
+  - Whether from the front or back passage,
+    - Requires major compensation.
+    - The back passage is prohibited.
+      - There is a falsely attributed report of Ibn ‘Umar who permitted it.
+      - Some of the ‘ulamā saw it as an act of kufr akbar,
+        - However it is *ḥarām* by *ijmā‘*.
+- Both are required to make up the fast,
+  - Make repentance,
+    - Continue to fast the rest of the day even though it’s not valid.
+- 1st: must free a slave.
+  - 2nd: if they can’t, then they must fast for two consecutive months.
+    - 3rd: if they can’t, then they must feed 60 poor people.
+- You must implement them in order (not pick and choose),
+  - It’s according to the correct order.
+    - If you fast for 10 days and then take a break, then you need to start again.
+
+* 252. Eating/drinking out of forgetfulness
+252. The Prophet ﷺ said, “Whoever was fasting and ate or drank out of forgetfulness should complete his fast, for verily it was Allāh ﷻ who nourished him with the food and drink.” (Agreed upon)
+
+- A blessing of Allāh if he eats by accident.
+- If you see someone eating, should you prevent them or not?
+  - There is ikhtilāf in this matter,
+    - However, what seems correct is that you should remind them,
+      - To forbid the evil and enjoin the good,
+        - Because if you remind him, then he wouldn’t want to eat.
+
+* 253. Hastening to break the fast
+253. He ﷺ also said, “Mankind will remain to be in a good state on condition they hasten to break their fast.” (Agreed upon)
+
+- The people are upon goodness if they rush to break the fast.
+  - If there is certainty it is *Maghrib*, we should rush to break the fast.
+    - We shouldn’t wait 5 minutes “to be on the safe side”
+      - If we already have certainty,
+        - We are upon goodness because we are following the sunnah.
+
+* 254. Suḥūr
+254. He ﷺ also said, “Take the suḥūr, for verily there is blessing in it.” (Agreed upon)
+
+- Have *suḥūr* (eating before dawn).
+  - This is a command of recommendation, not obligation.
+    - This is to differentiate us from the Jews and Christians,
+      - Even if it is something small,
+        - There will be blessing in the fast.
+
+* 255. How to break the fast
+255. He ﷺ also said, “If one of you breaks his fast, then let him break it with a date. If he does not find one, then let him break it with water, for verily it is pure.” (Abū Dāwūd & Tirmidhi)
+
+- If you break the fast:
+  - Break it with dates,
+    - Or with water.
+  - Regarding the du‘ā’:
+    - There is nothing clear and authentic from the Prophet (ﷺ),
+      - But reports from the ṣaḥābah exist.
+        - You say it after a sip of water,
+          - And you break it with *bismillāh*.
+
+* 256. False speech and conduct
+256. He ﷺ also said, “Whoever does not give up false speech and acting according to it, and ignorant conduct, Allāh ﷻ has no need of him giving up his food and drink.” (Bukhārī)
+
+- Sins such as evil speech decrease the reward of the fast,
+  - But you don’t need to repeat the fast.
+
+* 257. Fasting on behalf of the deceased
+257. He ﷺ also said, “Whoever dies owing fasts, his heir should fast on his behalf.” (Agreed upon)
+
+* 258. Fasting on the day of ‘Arafah
+258. The Prophet ﷺ was asked about fasting on the day of ‘Arafah, to which he ﷺ replied, “It erases the sins of the past year and the remaining.”
+
+- Fasting of *‘Arafah*:
+  - It is recommended to fast (but not for the one who is doing ḥajj).
+    - It forgives the previous year’s sins and the next year’s sins,
+      - These are the minor sins, not the major sins.
+
+* 259. Fasting on the day of ‘Āshūrā’
+259. He ﷺ was also asked about fasting on the day of ‘Āshūrā’, to which he ﷺ replied, “It erases the sins of the past year.”
+
+- For *‘Āshūrā’* (10th *Muḥarram*):
+  - The sunnah is to fast the *9th* and *10th*.
+    - This is what is authentically established,
+      - To differentiate yourself from the Jews.
+      - We have more right to Mūsā than the Jews.
+        - However, this is not the reason why we fast those days,
+          - Since we have greater days we could fast for, like the battle of Badr or his birthday.
+            - So if the reason was present and he (ﷺ) was able to do it, but he didn’t do it, then it will be a bid‘ah.
+              - This is a qā‘idah.
+  - However, the *11th* is not authentically established,
+    - Or fasting from 9–11.
+  - *Muḥarram* is the greatest time to fast,
+    - But he (ﷺ) used to fast nearly the whole month of *Sha‘bān*,
+      - To prepare yourself for fasting.
+
+* 260. Fasting on Mondays (and Thursdays)
+260. He ﷺ was also asked about fasting on Mondays, to which he ﷺ replied, “That was the day in which I was born, the day I was sent as a messenger or the day revelation descended upon me.” (Muslim)
+
+- Fasting on Monday:
+  - He (ﷺ) was born on this day.
+    - This is one of the reasons,
+      - And a blessing of the day,
+        - Not the main reason or the only reason.
+          - The angels take the deeds on Monday.
+            - He (ﷺ) liked his deeds to be taken up when he (ﷺ) is fasting.
+              - So for those who really want to celebrate the birthday:
+                - Then why doesn’t he fast on Monday?
+- Fasting on Thursday:
+  - Not authentically established.
+    - The ‘ulamā acted on narrations in the past and recommended we should fast both days,
+      - And if only 1 day, then just do Monday.
+
+* 261. Six fasts of Shawwāl
+261. He ﷺ also said, “Whoever fasted in Ramaḍān and followed it up with six fasts in Shawwāl will be rewarded as if he fasted for the whole year.” (Muslim)
+
+- Whoever fasts *Ramaḍān* and follows it with *Shawwāl*:
+  - It is like he fasted the entire year.
+  - Any of the days of *Shawwāl*.
+  - Do we need to make up the fast before doing this?
+    - Ikhtilāf:
+      - 1st view — you must complete *Ramaḍān* first (meaning making it up), then *Shawwāl*.
+        - Make it up first.
+      - 2nd view — if you have a concession, then it is as if you fasted *Ramaḍān*,
+        - And you can make it up any time of the year.
+  - The one who fasts during *Ramaḍān* is like he fasts for 300 days,
+    - And *Shawwāl* is like 60 days.
+  - The ‘ulamā say you’re already fasting, so you’re going from one good deed to another good deed,
+    - Hence the multiplication of the good deed.
+      - But if you can’t do the *Shawwāl* fasts:
+        - You can do the *Shawwāl* first, then make up the rest during the year,
+          - Or make up during *Shawwāl*, and do the *Shawwāl* fasts during the rest of the year.
+
+* 262. Fasting 3 days each month
+262. Abu Dharr ؓ said, “The Prophet ﷺ commanded us to fast three days of each month; the 13th, 14th and 15th.” (Nasā’i and Tirmidhi)
+
+- Fast 3 days every month:
+  - These are the white nights (the moon is full).
+    - This has been encouraged.
+    - To pinpoint these particular dates is not authentic:
+      - 12–14–15.
+    - What is authentic is to fast 3 days every month.
+      - We find that ‘Ā’ishah (ra) said he (ﷺ) fasted 3 days every month and it didn’t bother him (ﷺ) which day it was.
+        - The ‘ulamā recommended it to be on those 3 days of the month,
+          - And this is better.
+            - If you can’t fast those specific 3 days, then you can do any other 3 days in the month,
+              - Because consecutive good deeds are rewarded, and fasting for those 3 days is like fasting for the whole month,
+                - And if you do this then it is as if you fasted the whole year.
+
+* 263. Days that are forbidden to fast
+263. The Prophet ﷺ forbade to fast on two days: ‘Īd al Fiṭr and ‘Īd al Aḍḥā. (Agreed upon)
+
+- ‘Eid al-Fiṭr and ‘Eid al-Aḍḥā are *ḥarām* to fast on those days,
+  - Without exception.
+- The days of Tashrīq are the 11th, 12th, and 13th of *Dhul-Ḥijjah*:
+  - It’s *ḥarām* to fast,
+    - Except for 1 type of person:
+      - For the one who can’t make the sacrifice for ḥajj,
+        - And can’t find an animal:
+          - So fast 3 days in ḥajj and 7 days when he returns to his house (before ‘Arafah).
+            - If you can’t fast them before ‘Arafah, then he can fast them in the 3 days of Tashrīq,
+              - These are the 3 days directly after ‘Eid al-Aḍḥā.
+
+* 264. Days of Tashrīq
+264. He ﷺ also said, “The days of Tashrīq are days of eating, drinking and remembering Allāh ﷻ.” (Muslim)
+
+* 265. Fasting on Jumu‘ah (Friday)
+265. He ﷺ also said, “Do not fast on Jumu‘ah, unless you fast the day before it or the day after it.” (Agreed upon)
+
+- If you fast on Friday:
+  - Fast the day before or after it.
+  - It is disliked to fast on Friday by itself,
+    - However, it’s not ḥarām.
+      - What is the external evidence to lessen this to dislike?
+        - It is the fast of Dāwūd, which is the best fast.
+          - It is ḥarām to fast Friday with the reason that it is virtuous.
+
+** The prohibition of fasting on Saturday
+- Is not established and not correct,
+  - It goes against the majority.
+    - The ḥadīth of Dāwūd is also a proof of this,
+      - And the ḥadīth against it is weak.
+
+* Laylat al-Qadr
+- Could be any of the last 10 nights,
+  - The 27th is emphasised,
+    - It is not on a fixed night of the year.
+
+* 266. Ramaḍān + Laylat al-Qadr forgiveness
+266. He ﷺ also said, “Whoever fasts in the month of Ramaḍān with Īmān and with hope of reward will be forgiven for their previous sins. And whoever stands in the Night of Decree in prayer with Īmān and hope of reward will be forgiven for their previous sins.” (Agreed upon)
+
+* 267. I‘tikāf
+267. The Prophet ﷺ used to practice I‘tikāf (spiritual retreat) during the last ten days of Ramaḍān until he passed away. His wives used to observe I‘tikāf after that. (Agreed upon)
+
+** Notes
+- I‘tikāf:
+  - To stay in the masjid to obey and worship Allāh in it.
+  - It can be performed any time of the year,
+    - There is no specific duration for it,
+      - It is more emphasised to do it in the last 10 days of *Ramaḍān*.
+        - Women can do i‘tikāf in the mosque.
+  - I‘tikāf can only be done in the mosque,
+    - Based on *waqf*, not a muṣallāh.
+- I‘tikāf is not abrogated.
+- You can’t leave the masjid unless there is a need.
+  - If you need to go to the toilet you can leave,
+    - You can leave for needs and necessities.
+- Unless he has an intention with an exception,
+  - Some held the view it won’t break the i‘tikāf.
+- The person doing i‘tikāf:
+  - Should spend time reciting and remembering Allāh, as opposed to attending lessons.
+
+** Entering/leaving (timing)
+- He should enter the masjid:
+  - Before the time of *Maghrib*,
+  - Before the 21st night,
+    - He should go to his sleeping place after *Fajr*,
+      - And leave at the night of ‘Eid (Maghrib).
+
+* 268. Travelling for worship (three masājid)
+268. He ﷺ also said, “Do not travel to a place for the purpose of worship except three places: al Masjid Al Harām, my mosque and al Masjid al Aqṣā.” (Agreed upon)
+
+** Notes
+- You should seek out places of worship except for the 3 mosques.
+  - The reward for it is not authentic.
+  - What is established is that it is virtuous to travel to them to pray and then come back.
+    - Every ṣalāh is multiplied and it’s not a specific ṣalāh.
+    - A person shouldn’t be a tourist in the masjid.
+      - No one should announce what they lost in the masjid.
+        - Even ‘Umar prohibited painting the masjid.
+          - It’s not about beautifying the masjid, but rather it’s about worshipping,
+            - And praying in it.

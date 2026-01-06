@@ -26,10 +26,14 @@ The definition of [[id:1316d477-4b3c-4b9b-9d0a-f9017c3f2521][Fiqh]] is: cognisan
 2. It is obligatory upon the [[id:ba93d19b-37c1-40d2-9613-a01ac674fa21][mukallaf]] to learn that which he *needs* for his acts of worship, transactions and other matters *(in order for them to be corrected)*
    
 The prophet peace and blessing of Allah be on him said, *if Allah wishes good for someone he give him fiqh (understanding) of the religion.*
+* Volume 1
+** TODO The book [[id:22bce97f-c977-4d80-8b5e-f71031f0c60c][purification]]
 
-* TODO The book [[id:22bce97f-c977-4d80-8b5e-f71031f0c60c][purification]]
-
-* [[id:6b694234-f720-42cc-9c01-9d78855e3419][The Book of Purification]]
-* [[id:3f836fcd-d137-4f25-a221-c06daccc0e0e][The Book of Salah]]
-* [[id:7fdfaaa3-bac2-44ae-9177-fc4eb51a2165][The book of Funerals]]
-* [[id:a8967e72-7756-45a9-aee7-05d79419782c][The Book of Zakah]]
+** [[id:6b694234-f720-42cc-9c01-9d78855e3419][The Book of Purification]]
+** [[id:3f836fcd-d137-4f25-a221-c06daccc0e0e][The Book of Salah]]
+** [[id:7fdfaaa3-bac2-44ae-9177-fc4eb51a2165][The book of Funerals]]
+** [[id:a8967e72-7756-45a9-aee7-05d79419782c][The Book of Zakah]]
+** [[id:9af44c58-b496-4083-afb7-f4284c710059][The book of Fasting]]
+** [[id:41dfa3e6-d034-44a9-9b1a-2a42dca8d29e][The book of Hajj]]
+* Volume 2
+** [[id:2d1341a8-e13f-473f-8888-6cc0ade185aa][The Book of Transactions]]
